@@ -1,0 +1,30 @@
+
+
+
+$SM : "(max-width: 560px)";
+$MD : "(max-width: 768px)";
+$LG: "(max-width: 992px)";
+$XL : "(max-width: 1200px)";
+ 
+
+@mixin responsive_sm() {
+    @media #{$SM} {
+        @content;
+    }
+}
+@mixin responsive_md() {
+    @media #{$MD} {
+        @content;
+    }
+}
+@mixin responsive_lg() {
+    @media #{$LG} {
+        @content;
+    }
+}
+
+@mixin responsive_xl() {
+    @media #{$XL} {
+        @content;
+    }
+}

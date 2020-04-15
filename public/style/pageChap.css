@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Mallanna&display=swap");.wapper_chap img{width:100%}.herder_img{max-width:250px;margin:auto;transition:0.2s;padding-left:20px;padding-right:20px}.herder_img .wapper_baner{width:100%;height:200px;background:#fff}.herder_img .wapper_baner .img_baner{background-image:url("https://cdn.glitch.com/bb34c2fb-ff89-4b9e-8b3f-34d4d2810d22%2FBangPhong.png?v=1586744256020");width:100%;height:200px;background-size:cover}.wapper_header{max-width:980px;margin:auto;transition:0.2s;padding-left:20px;padding-right:20px}.wapper_meau{text-align:center}.wapper_meau .meau_nav{display:inline-block}.wapper_meau .meau_nav ul li{list-style:none;float:left;padding:20px}.wapper_meau .meau_nav ul li a{text-decoration:none;color:#a2b8b1;font-weight:400}.meau_mobi{display:none}.show_meau{display:none}.custom_row{margin:0 !important}.custom_col{padding:0 !important}@media (max-width: 768px){.postMeau{margin:20px 0}.wapper_meau{display:none}.meau_mobi{padding:22px;position:absolute;display:block}.meau_mobi i{font-size:21px;color:#a2b8b1}.show_meau{display:block;padding:22px;width:80%;height:100vh;background:#a2b8b1;position:fixed;transition:0.5s;top:0;right:0;left:-310;z-index:1030;text-align:center;font-size:17px}.show_meau i{font-size:21px;color:#fff}.show_meau ul{padding:100px 0}.show_meau ul li{list-style:none;padding:18px}.show_meau ul li a{text-decoration:none;color:#fff}.of{position:fixed;opacity:0.5}}@media (max-width: 992px){.show_meau{left:-650px}}
+/*# sourceMappingURL=pageHome.css.map */
+.not{
+	display:none !important;
+}
+.loader {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 3em;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
+.loader,
+.loader:before,
+.loader:after {
+    animation: 1s infinite ease-in-out;
+}
+.loader:before,
+.loader:after {
+    width: 100%; 
+    height: 100%;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: $hover_;
+}
+
+.loader-black { background-color: #333; }
+
+.loader-1 { animation-name: loader1; top: 40%;
+    left: 31%;
+    position: absolute; }
+@keyframes loader1 {
+    from { transform: scale(0); opacity: 1; }
+    to   { transform: scale(1); opacity: 0; }
+}

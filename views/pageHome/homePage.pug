@@ -1,0 +1,74 @@
+extends ../layOut/homeComeon
+
+block conten
+	.meau_mobi(id="showMeau")
+		i.fas.fa-ellipsis-v
+	.show_meau(id="mobie_on")
+		i.fas.fa-times
+		ul
+			li 
+				a(href="") Home
+			li 
+				a(href="") Active
+			li 
+				a(href="") Help
+			li 
+				a(href="") Goo
+	.wapper_home(id="fixed")
+	
+		.herder_img
+			.wapper_baner
+				.img_baner
+		.wapper_meau
+			.meau_nav
+				ul
+					li 
+						a(href="") Home
+					li 
+						a(href="") Active
+					li 
+						a(href="") Help
+					li 
+						a(href="") Goo
+		.container-fluid(style="background:#f7f9fb")
+			.row
+				.col-12
+					
+					.wapper_header
+						.row
+							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
+								div.row
+								each post in db
+									div.col-xs-12.col-sm-12.col-md-6.col-lg-6.postCal
+										div.postMeau
+											img(src=post.imageHome)
+											
+											div.row.wapper_img_conten
+												div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
+													a(href=`/post/${post.id}`)
+														h4.display-14=post.nameHome
+													//p.p=post.theme
+											div.blogDatePost
+												div.blogDate1
+													//p=post.date.slice(7,10)
+												//h5=post.date.slice(11,15)
+												//h3=post.date.slice(16,24)
+		script(type='text/javascript').
+			function showMeau(){
+				var show = document.getElementById("showMeau")
+				var meauOn = document.getElementById("mobie_on")
+				var fixed = document.getElementById("fixed")
+				show.addEventListener("click", showMeaus)
+				meauOn.addEventListener("click", closeMeau)
+
+				function showMeaus(){
+					console.log("hh")
+					meauOn.style.left = "0"
+					fixed.classList.add('of')
+				}
+				function closeMeau(){
+					meauOn.style.left = "-310px"
+					fixed.classList.remove('of')
+				}
+			}
+			showMeau();
