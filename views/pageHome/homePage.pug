@@ -1,6 +1,7 @@
 extends ../layOut/homeComeon
 
 block conten
+	.loader.loader-black.loader-1(id="fixeds")
 	.meau_mobi(id="showMeau")
 		i.fas.fa-ellipsis-v
 	.show_meau(id="mobie_on")
@@ -14,7 +15,7 @@ block conten
 				a(href="") Help
 			li 
 				a(href="") Goo
-	.wapper_home(id="fixed")
+	.wapper_home.not(id="fixed")
 	
 		.herder_img
 			.wapper_baner
@@ -30,7 +31,7 @@ block conten
 						a(href="") Help
 					li 
 						a(href="") Goo
-		.container-fluid(style="background:#f7f9fb")
+		.container-fluid(style="background:#f7f9fb; padding-top:48px;")
 			.row
 				.col-12
 					
@@ -47,7 +48,8 @@ block conten
 												div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
 													a(href=`/post/${post.id}`)
 														h4.display-14=post.nameHome
-													//p.p=post.theme
+														p.p=post.chapHome
+														p.p.time=post.chapTime
 											div.blogDatePost
 												div.blogDate1
 													//p=post.date.slice(7,10)
@@ -58,8 +60,11 @@ block conten
 				var show = document.getElementById("showMeau")
 				var meauOn = document.getElementById("mobie_on")
 				var fixed = document.getElementById("fixed")
+				var fixeds = document.getElementById("fixeds")
 				show.addEventListener("click", showMeaus)
 				meauOn.addEventListener("click", closeMeau)
+				setTimeout(function(){ fixed.classList.remove('not') }, 1000);
+				setTimeout(function(){ fixeds.classList.add('not') }, 1000);
 
 				function showMeaus(){
 					console.log("hh")
@@ -72,3 +77,24 @@ block conten
 				}
 			}
 			showMeau();
+			function reload(){
+				if(
+					getStorage('loaded') == '' 
+					|| getStorage('loaded') == '0'
+				){
+					setStorage('loaded', '1');
+					window.location.reload();
+					return true;
+				}else{
+					setStorage('loaded', '0');
+					return true;
+				}
+			}
+			function setStorage(name, value){
+				return sessionStorage.setItem(name, value);
+			}
+			function getStorage(name){
+				return sessionStorage.getItem(name) || '';
+			}
+			showMeau();
+			setTimeout(reload, 500);

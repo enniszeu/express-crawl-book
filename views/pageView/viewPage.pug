@@ -72,7 +72,7 @@ block conten
 										.wapper_chap
 											each posts in viewsItems
 												a(href=`/post/chap/${posts._id}`)
-													p=posts.chapter
+													p(class=posts.chapter === "Chapter 369" || posts.chapter === "Chapter 517" || posts.chapter === "Chapter 229" || posts.chapter === "Chapter 499" || posts.chapter === "Chapter 453" ? "display" : "")=posts.chapter
 	//- title=posts.nameView
 	script.
 		function showMeau(){
@@ -82,8 +82,8 @@ block conten
 			var fixeds = document.getElementById("fixeds")
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
-			setTimeout(function(){ fixed.classList.remove('not') }, 2000);
-			setTimeout(function(){ fixeds.classList.add('not') }, 20000);
+			setTimeout(function(){ fixed.classList.remove('not') }, 1000);
+			setTimeout(function(){ fixeds.classList.add('not') }, 1000);
 			function showMeaus(){
 				console.log("hh")
 				meauOn.style.left = "0"
@@ -114,6 +114,6 @@ block conten
 			return sessionStorage.getItem(name) || '';
 		}
 		showMeau();
-		setTimeout(reload, 1000);
+		setTimeout(reload, 500);
 
 

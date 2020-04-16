@@ -37,25 +37,35 @@ app.get('/', (req, res)=>{
 		const $ = cheerio.load(html)
 		db.get('posts').remove().write()
 
-		$('.image a').each((i, el)=>{
+		$('figure').each((i, el)=>{
 			const imageHome = $(el)
-				.find('img')
+				.find('.image a img')
 				.attr('data-original')
 
 			const nameHome = $(el)
-				.find('img')
+				.find('.image a img')
 				.attr('alt')
 
 			const linkHome = $(el)
+				.find('.image a')
 				.attr('href')
-			
+
+			const chapHome = $(el)
+				.find('figcaption ul li a')
+				.attr('title')
+
+			const chapTime = $(el)
+				.find('figcaption ul li i')
+				.text()
 			
 			db.get('posts')
 			  .push({ 
 			  	id : i+1,
 				imageHome : imageHome,
-				nameHome : nameHome,
-				linkHome : linkHome
+				nameHome : nameHome.slice(13,500),
+				linkHome : linkHome,
+				chapHome : chapHome,
+				chapTime : chapTime.slice(0,11)
 			  })
 			  .write()
 
@@ -117,6 +127,7 @@ function requestss(url, id){
 			const noiDung = $('.detail-content')
 				.find('p')
 				.text()	
+
 			
 				db.get('views')
 				  .push({ 
@@ -136,12 +147,13 @@ function requestss(url, id){
 				const chapter = $(el)
 					.find('a')
 					.text()
+					.replace(":", "")
 
 				const chapterHref = $(el)
 					.find('a')
 					.attr('href')
 
-			
+
 				db.get('views')
 				  .push({ 
 				  	_id : chapter.slice(8,11),
@@ -162,6 +174,8 @@ app.get('/post/:id', function(req, res){
     const items = db.get('posts').find({ id: parseInt(id) }).value()
     const url = items.linkHome
 
+
+
     requestss(url,id)
     var viewsItems = db.get('views').value()
     // console.log(viewsItems)
@@ -179,6 +193,10 @@ app.get('/post/chap/:id', function(req, res){
 
     
     var chapsItems = db.get('chaps').value()
+
+
+    console.log(items)
+    console.log(_id)
 
     request({url}, (err,
 		res, html) =>{
