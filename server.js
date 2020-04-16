@@ -244,7 +244,8 @@ app.get('/post/chap/:id', function(req, res){
 
     // console.log(chapsItems)
     res.render('pageViewChap/viewPageChap',{
-    	chapsItems:chapsItems
+    	chapsItems:chapsItems,
+    	_id : _id
     })
     
 })

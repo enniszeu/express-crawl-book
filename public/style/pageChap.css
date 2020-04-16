@@ -30,6 +30,17 @@
 
 .loader-black { background-color: #333; }
 
+.rendChap{
+    justify-content: space-around;
+    padding: 1.801rem 9.004rem;
+    display: flex;
+    font-size: 1.321rem;
+    font-family: Segoe UI;
+    font-weight: 400;
+    color: #939393;
+    border-bottom: 1PX solid #f7f0f0;
+}
+
 .loader-1 { animation-name: loader1; top: 40%;
     left: 31%;
     position: absolute; }

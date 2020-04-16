@@ -50,6 +50,13 @@ block conten
 									div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12.custom_col
 										.conten_img_view
 											img(src=posts.imageChap style="width:100%")
+							.row
+								.col-12
+									.rendChap
+										a(href=`/post/chap/${_id -1 }`)
+											i.fas.fa-arrow-left &nbsp; Chap truoc
+										a(href=`/post/chap/${parseInt(_id) +1}`) Chap sau 
+											i.fas.fa-arrow-right
 								
 	//- title=posts.nameView
 	script.
