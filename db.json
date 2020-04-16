@@ -6,7 +6,7 @@
       "nameHome": "Bất Tử Thần Vương Tu Liên Tục",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/bat-tu-than-vuong-tu-lien-tuc-27381",
       "chapHome": "Chapter 4.2",
-      "chapTime": "13 phút trư"
+      "chapTime": "24 phút trư"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "nameHome": "Kiếm Đồ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/kiem-do-26046",
       "chapHome": "Chapter 14",
-      "chapTime": "15 phút trư"
+      "chapTime": "25 phút trư"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "nameHome": "Cẩm Tú Vị Ương",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/cam-tu-vi-uong-15033",
       "chapHome": "Chapter 83",
-      "chapTime": "31 phút trư"
+      "chapTime": "42 phút trư"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "nameHome": "Sắc đỏ, Lồng đèn và Yêu ma",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/sac-do-long-den-va-yeu-ma-21612",
       "chapHome": "Chapter 29",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "nameHome": "Trọng Sinh Chi Hao Môn Cường Thế Quy Lai",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-chi-hao-mon-cuong-the-quy-lai-15868",
       "chapHome": "Chapter 150",
-      "chapTime": "32 phút trư"
+      "chapTime": "43 phút trư"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "nameHome": "Ngày Nào Thiếu Soái Cũng Ghen",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen-23284",
       "chapHome": "Chapter 89",
-      "chapTime": "57 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "nameHome": "Đại Tượng Vô Hình",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-tuong-vo-hinh-25834",
       "chapHome": "Chapter 20",
-      "chapTime": "57 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
       "id": 8,
@@ -238,7 +238,7 @@
       "nameHome": "Nông Nữ Thù Sắc",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/nong-nu-thu-sac-22924",
       "chapHome": "Chapter 187",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 31,
@@ -291,65 +291,460 @@
   ],
   "views": [
     {
-      "id": "8",
-      "nameView": "Đích Nữ Kiều Phi",
-      "imgView": "http://st.truyenchon.com/data/comics/110/dich-nu-kieu-phi.jpg",
-      "dataView": "\n        [Cập nhật lúc: 22:03 16/04/2020]\n     ",
+      "id": "6",
+      "nameView": "Ngày Nào Thiếu Soái Cũng Ghen",
+      "imgView": "http://st.truyenchon.com/data/comics/244/ngay-nao-thieu-soai-cung-ghen.jpg",
+      "dataView": "\n        [Cập nhật lúc: 22:06 16/04/2020]\n     ",
       "tenKhac": "",
-      "tacGia": "Nettruyen - Sang Chảnh Team",
+      "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Chuyển Sinh - Cổ Đại - Manhua - Ngôn Tình - Xuyên Không",
-      "noiDung": "“Nữ chủ ngốc nghếch đáng yêu? Vở kịch trạch đấu cổ đại? Đây là đang đùa ta sao?” Hãy nói cho nàng biết, nữ chủ ngốc nghếch đáng yêu thì trạch đấu kiểu gì? Chỉ vì một câu oán trách mà Tiêu Đình vô tình xuyên qua kịch bản, sắm vai nhân vật Tô Hướng Vãn ngốc nghếch. Đã thế còn phải bước trên con đường đau khổ về tình ái nữa. Tiêu Đình là nhân vật máu mặt của Ngô Lạc, là người có kinh nghiệm trăm trận tinh trong tinh. Đừng nói là trạch đấu, kịch bản sau này của nữ chủ như thế nào, nàng sẽ tự mình quyết định. Ngốc nghếch? Đau khổ về tình ái? Những thứ này không tồn tại."
+      "theLoai": "Manhua - Ngôn Tình - Truyện Màu - Xuyên Không",
+      "noiDung": "Một đại tiểu thư kiêu ngạo ngang ngược chết đi, một thiên tài y học thế kỷ 21 xuyên việt đến. nàng y thuật cao siêu, tâm linh trong sáng, đối mặt với cha mẹ chồng không không thân, trượng phu không thương, còn có ánh mắt săm soi ghen tỵ của các cô vợ bé, chỉ dựa vào một con dao mổ nhỏ nhoi giẫm vợ bé, đạp tâm cơ, đánh đâu thắng đó. Thiếu soái trượng phu vốn coi nàng như cỏ rác nhưng bây giờ đêm đên trèo cửa sổ, bò lên giường của nàng, muốn trở thành một đôi uyên ương thiên trường địa cửu . . ."
+    },
+    {
+      "_id": "89",
+      "chapter": "Chapter 89",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-89/558783"
+    },
+    {
+      "_id": "88",
+      "chapter": "Chapter 88",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-88/557579"
+    },
+    {
+      "_id": "87",
+      "chapter": "Chapter 87",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-87/556259"
+    },
+    {
+      "_id": "86",
+      "chapter": "Chapter 86",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-86/555740"
+    },
+    {
+      "_id": "85",
+      "chapter": "Chapter 85",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-85/555353"
+    },
+    {
+      "_id": "84",
+      "chapter": "Chapter 84",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-84/554281"
+    },
+    {
+      "_id": "83",
+      "chapter": "Chapter 83",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-83/553675"
+    },
+    {
+      "_id": "82",
+      "chapter": "Chapter 82",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-82/553026"
+    },
+    {
+      "_id": "81",
+      "chapter": "Chapter 81",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-81/552561"
+    },
+    {
+      "_id": "80",
+      "chapter": "Chapter 80",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-80/552110"
+    },
+    {
+      "_id": "79",
+      "chapter": "Chapter 79",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-79/551397"
+    },
+    {
+      "_id": "78",
+      "chapter": "Chapter 78",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-78/550680"
+    },
+    {
+      "_id": "77",
+      "chapter": "Chapter 77",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-77/549844"
+    },
+    {
+      "_id": "76",
+      "chapter": "Chapter 76",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-76/548052"
+    },
+    {
+      "_id": "75",
+      "chapter": "Chapter 75",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-75/546286"
+    },
+    {
+      "_id": "74",
+      "chapter": "Chapter 74",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-74/543692"
+    },
+    {
+      "_id": "73",
+      "chapter": "Chapter 73",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-73/541591"
+    },
+    {
+      "_id": "72",
+      "chapter": "Chapter 72",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-72/540742"
+    },
+    {
+      "_id": "71",
+      "chapter": "Chapter 71",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-71/539313"
+    },
+    {
+      "_id": "70",
+      "chapter": "Chapter 70",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-70/538335"
+    },
+    {
+      "_id": "69",
+      "chapter": "Chapter 69",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-69/536428"
+    },
+    {
+      "_id": "68",
+      "chapter": "Chapter 68",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-68/533959"
+    },
+    {
+      "_id": "67",
+      "chapter": "Chapter 67",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-67/534703"
+    },
+    {
+      "_id": "66",
+      "chapter": "Chapter 66",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-66/534675"
+    },
+    {
+      "_id": "65",
+      "chapter": "Chapter 65",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-65/532534"
+    },
+    {
+      "_id": "64",
+      "chapter": "Chapter 64",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-64/530487"
+    },
+    {
+      "_id": "63",
+      "chapter": "Chapter 63",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-63/527579"
+    },
+    {
+      "_id": "62",
+      "chapter": "Chapter 62",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-62/526646"
+    },
+    {
+      "_id": "61",
+      "chapter": "Chapter 61",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-61/525324"
+    },
+    {
+      "_id": "60",
+      "chapter": "Chapter 60",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-60/523595"
+    },
+    {
+      "_id": "59",
+      "chapter": "Chapter 59",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-59/523011"
+    },
+    {
+      "_id": "58",
+      "chapter": "Chapter 58",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-58/522346"
+    },
+    {
+      "_id": "57",
+      "chapter": "Chapter 57",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-57/521416"
+    },
+    {
+      "_id": "56",
+      "chapter": "Chapter 56",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-56/520452"
+    },
+    {
+      "_id": "55",
+      "chapter": "Chapter 55",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-55/519136"
+    },
+    {
+      "_id": "54",
+      "chapter": "Chapter 54",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-54/517936"
+    },
+    {
+      "_id": "53",
+      "chapter": "Chapter 53",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-53/517280"
+    },
+    {
+      "_id": "52",
+      "chapter": "Chapter 52",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-52/516815"
+    },
+    {
+      "_id": "51",
+      "chapter": "Chapter 51",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-51/515592"
+    },
+    {
+      "_id": "50",
+      "chapter": "Chapter 50",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-50/515181"
+    },
+    {
+      "_id": "49",
+      "chapter": "Chapter 49",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-49/514968"
+    },
+    {
+      "_id": "48",
+      "chapter": "Chapter 48",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-48/513751"
+    },
+    {
+      "_id": "47",
+      "chapter": "Chapter 47",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-47/513421"
+    },
+    {
+      "_id": "46",
+      "chapter": "Chapter 46",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-46/511113"
+    },
+    {
+      "_id": "45",
+      "chapter": "Chapter 45",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-45/510941"
+    },
+    {
+      "_id": "44",
+      "chapter": "Chapter 44",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-44/510304"
+    },
+    {
+      "_id": "43",
+      "chapter": "Chapter 43",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-43/509689"
+    },
+    {
+      "_id": "42",
+      "chapter": "Chapter 42",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-42/509165"
+    },
+    {
+      "_id": "41",
+      "chapter": "Chapter 41",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-41/508787"
+    },
+    {
+      "_id": "40",
+      "chapter": "Chapter 40",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-40/508533"
+    },
+    {
+      "_id": "39",
+      "chapter": "Chapter 39",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-39/508112"
+    },
+    {
+      "_id": "38",
+      "chapter": "Chapter 38",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-38/507926"
+    },
+    {
+      "_id": "37",
+      "chapter": "Chapter 37",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-37/507225"
+    },
+    {
+      "_id": "36",
+      "chapter": "Chapter 36",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-36/506961"
+    },
+    {
+      "_id": "35",
+      "chapter": "Chapter 35",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-35/506608"
+    },
+    {
+      "_id": "34",
+      "chapter": "Chapter 34",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-34/506415"
+    },
+    {
+      "_id": "33",
+      "chapter": "Chapter 33",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-33/505890"
+    },
+    {
+      "_id": "32",
+      "chapter": "Chapter 32",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-32/505609"
+    },
+    {
+      "_id": "31",
+      "chapter": "Chapter 31",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-31/504950"
+    },
+    {
+      "_id": "30",
+      "chapter": "Chapter 30",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-30/504591"
+    },
+    {
+      "_id": "29",
+      "chapter": "Chapter 29",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-29/504350"
+    },
+    {
+      "_id": "28",
+      "chapter": "Chapter 28",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-28/504146"
+    },
+    {
+      "_id": "27",
+      "chapter": "Chapter 27",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-27/502998"
+    },
+    {
+      "_id": "26",
+      "chapter": "Chapter 26",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-26/502749"
+    },
+    {
+      "_id": "25",
+      "chapter": "Chapter 25",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-25/502372"
+    },
+    {
+      "_id": "24",
+      "chapter": "Chapter 24",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-24/500939"
+    },
+    {
+      "_id": "23",
+      "chapter": "Chapter 23",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-23/500623"
+    },
+    {
+      "_id": "22",
+      "chapter": "Chapter 22",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-22/500245"
+    },
+    {
+      "_id": "21",
+      "chapter": "Chapter 21",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-21/499627"
+    },
+    {
+      "_id": "20",
+      "chapter": "Chapter 20",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-20/499106"
+    },
+    {
+      "_id": "19",
+      "chapter": "Chapter 19",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-19/496711"
+    },
+    {
+      "_id": "18",
+      "chapter": "Chapter 18",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-18/495568"
+    },
+    {
+      "_id": "17",
+      "chapter": "Chapter 17",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-17/494458"
+    },
+    {
+      "_id": "16",
+      "chapter": "Chapter 16",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-16/493523"
+    },
+    {
+      "_id": "15",
+      "chapter": "Chapter 15",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-15/493232"
+    },
+    {
+      "_id": "14",
+      "chapter": "Chapter 14",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-14/492593"
+    },
+    {
+      "_id": "13",
+      "chapter": "Chapter 13",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-13/490235"
+    },
+    {
+      "_id": "12",
+      "chapter": "Chapter 12",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-12/489651"
+    },
+    {
+      "_id": "11",
+      "chapter": "Chapter 11",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-11/489310"
+    },
+    {
+      "_id": "10",
+      "chapter": "Chapter 10",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-10/488469"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-9/558781"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-9/487010"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-8/556237"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-8/484286"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-7/555736"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-7/484089"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-6/554926"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-6/482698"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-5/554704"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-5/482425"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-4/554703"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-4/480968"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-3/554702"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-3/480013"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-2/554687"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-2/479035"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-1/554685"
-    },
-    {
-      "_id": "0",
-      "chapter": "Chapter 0",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi/chap-0/554683"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen/chap-1/478833"
     },
     {
       "_id": "517",
@@ -379,71 +774,44 @@
   ],
   "chaps": [
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/001-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/001.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/002-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/002.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/003-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/003.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/004-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/004.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/005-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/005.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/006-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/006.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/007-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/007.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/008-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/008.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/009-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/009.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/010-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/010.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/011-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/011.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/012-fix.jpg"
+      "imageChap": "http://i2.imageinstant.com/data/images/23284/534703/012.jpg"
     },
     {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/013-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/014-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/015-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/016-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/017-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/018-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/019-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/020-fix.jpg"
-    },
-    {
-      "imageChap": "http://truyen.cloud/data/images/28526/554683/021-fix.jpg"
-    },
-    {
-      "nameChap": "Đích Nữ Kiều Phi - Chapter 0",
-      "dateChap": "[Cập nhật lúc: 22:07 03/04/2020]"
+      "nameChap": "Ngày Nào Thiếu Soái Cũng Ghen - Chapter 67",
+      "dateChap": "[Cập nhật lúc: 23:05 15/01/2020]"
     }
   ]
 }

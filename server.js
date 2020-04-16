@@ -178,10 +178,11 @@ app.get('/post/:id', function(req, res){
 
     requestss(url,id)
     var viewsItems = db.get('views').value()
-    // console.log(viewsItems)
+    console.log(items.id)
     res.render('pageView/viewPage',{
     	viewsItems:viewsItems,
-    	id:id
+    	id:id,
+    	_id:items.id
 	})
     
 })
