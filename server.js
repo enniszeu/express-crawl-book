@@ -21,7 +21,7 @@ app.set('views', './views');
 
 // const db = []
 
-db.defaults({ posts: [], views: [], chaps: [] })
+db.defaults({ posts: [], views: [], chaps: [], xephang: [] })
   .write()
 
 
@@ -31,6 +31,8 @@ db.defaults({ posts: [], views: [], chaps: [] })
 
 
 app.get('/', (req, res)=>{
+	db.get('xephang').remove().write()
+
 	request('http://www.nettruyen.com/', (err,
 	res, html) =>{
 	if(!err && res.statusCode == 200){
@@ -251,6 +253,79 @@ app.get('/post/chap/:id', function(req, res){
     })
     
 })
+
+
+
+app.get('/bangxephang', function(req, res){
+	var xephangItems = db.get('xephang').value()
+
+	for (i = 1; i <100; i++){
+			request(`http://truyenqq.com/top-thang/trang-${i}.html`, (err,
+				res, html) =>{
+				if(!err && res.statusCode == 200){
+					const $ = cheerio.load(html)
+
+					$('.list-stories li').each((i, el)=>{
+						const imageXephang = $(el)
+							.find('.story-item a img')
+							.attr('src')
+
+						const nameXephang = $(el)
+							.find('a img')
+							.attr('alt')
+
+						const linkXephang = $(el)
+							.find('a')
+							.attr('href')
+
+						db.get('xephang')
+						  .push({ 
+						  	id : i + 1,
+						  	imageXephang : imageXephang,
+						  	nameXephang : nameXephang,
+						  	linkXephang : linkXephang
+						  })
+						  .write()
+
+
+						
+					})
+
+				}
+			})
+    	}
+
+	console.log(xephangItems)
+	
+
+
+    res.render('pageXephang/XephangPage',{
+    	xephangItems:xephangItems
+    })
+    
+})
+
+app.post('/bangxephang', function(req, res){
+	db.get('xephang').remove().write()
+	const timName = req.body;
+	var xephangItems = db.get('xephang').value()
+
+	let bigCities = [];
+        for (let i = 0; i < xephangItems.length; i++) {
+            if (xephangItems[i].nameXephang === timName.timname) {
+                bigCities.push(xephangItems[i]);
+            }
+        }
+        console.log(bigCities)
+
+	console.log(timName)
+	res.render('tiemKim/pageTim',{
+    	bigCities:bigCities
+    })
+    db.get('xephang').remove().write()
+})
+
+
 
 
 
