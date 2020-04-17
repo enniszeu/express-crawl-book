@@ -156,7 +156,7 @@ function requestss(url, id){
 
 				db.get('views')
 				  .push({ 
-				  	_id : chapter.slice(8,11),
+				  	_id : chapter.slice(8,10),
 				  	chapter : chapter,
 				  	chapterHref : chapterHref
 				  })
@@ -178,7 +178,7 @@ app.get('/post/:id', function(req, res){
 
     requestss(url,id)
     var viewsItems = db.get('views').value()
-    console.log(items.id)
+    
     res.render('pageView/viewPage',{
     	viewsItems:viewsItems,
     	id:id,
@@ -194,9 +194,10 @@ app.get('/post/chap/:id', function(req, res){
 
     
     var chapsItems = db.get('chaps').value()
+    var ab = db.get('views').value()
 
 
-    console.log(items)
+    console.log(ab)
     console.log(_id)
 
     request({url}, (err,

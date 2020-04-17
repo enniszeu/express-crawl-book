@@ -19,7 +19,7 @@ block conten
 				a(href="") Goo
 	.wapper_home.not(id="fixed")
 	
-		.herder_img
+		.herder_img(id="ab")
 			.wapper_baner
 				.img_baner
 		.wapper_meau
@@ -42,6 +42,13 @@ block conten
 				.row
 					.col-12.custom_col
 						.wapper_conten
+							.homeTree
+								a(href="/")
+									.homeNow 
+										i.fas.fa-home
+								a(href="#ab")
+									.homeNow_go
+										i.fas.fa-arrow-up
 							each posts in chapsItems
 								p=posts.nameChap
 
@@ -55,7 +62,7 @@ block conten
 									.rendChap
 										a(href=`/post/chap/${_id -1 }`)
 											i.fas.fa-arrow-left &nbsp; Chap truoc
-										a(href=`/post/chap/${parseInt(_id) +1}`) Chap sau 
+										a.fas(href=`/post/chap/${parseInt(_id) +1}`) Chap sau 
 											i.fas.fa-arrow-right
 								
 	//- title=posts.nameView
@@ -100,5 +107,19 @@ block conten
 		}
 		showMeau();
 		setTimeout(reload, 1000);
+		var scroll1 = window.pageYOffset;
+		window.onscroll = function(){
+		var scroll2 = window.pageYOffset;
+		if (scroll1 > scroll2) {
+			document.querySelector('.homeNow').style.top = "86%";
+			document.querySelector('.homeNow_go').style.top = "86%";
+		}else{
+			document.querySelector('.homeNow').style.top = "100%";
+			document.querySelector('.homeNow_go').style.top = "100%";
+           
+
+		}
+		scroll1 = scroll2;
+		}
 
 
