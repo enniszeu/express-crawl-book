@@ -306,7 +306,6 @@ app.get('/bangxephang', function(req, res){
 })
 
 app.post('/bangxephang', function(req, res){
-	db.get('xephang').remove().write()
 	const timName = req.body;
 	var xephangItems = db.get('xephang').value()
 
