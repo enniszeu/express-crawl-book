@@ -271,6 +271,10 @@ body {
   display: block;
   z-index: 2; }
 
+.waper_xephang .go_logo {
+  padding: 35px 0;
+  width: 100%; }
+
 .wapper_conten_xephang {
   padding-bottom: 30px;
   position: relative; }
@@ -311,7 +315,7 @@ body {
     padding-left: 2px !important; }
 
   .wapper_conten_xephang img {
-    height: 103px; }
+    height: 127px; }
     .wapper_conten_xephang img:hover:before {
       content: "";
       background: rgba(0, 0, 0, 0.5);
@@ -320,7 +324,7 @@ body {
       width: 100%;
       z-index: 1; }
   .wapper_conten_xephang p {
-    top: 50%;
+    top: 56%;
     font-size: 7px; }
   .wapper_conten_xephang b {
     font-size: 10px;
