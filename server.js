@@ -21,69 +21,108 @@ app.set('views', './views');
 
 // const db = []
 
-db.defaults({ posts: [], views: [], chaps: [], xephang: [], viewsXep: [] })
+db.defaults({ posts: [], views: [], chaps: [], homeXephang: [], xephang: [], viewsXep: [] })
   .write()
 
 
+function requestsHome(){
+	request('http://www.nettruyen.com/', (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			db.get('posts').remove().write()
 
+			$('figure').each((i, el)=>{
+				const imageHome = $(el)
+					.find('.image a img')
+					.attr('data-original')
 
+				const nameHome = $(el)
+					.find('.image a img')
+					.attr('alt')
+
+				const linkHome = $(el)
+					.find('.image a')
+					.attr('href')
+
+				const chapHome = $(el)
+					.find('figcaption ul li a')
+					.attr('title')
+
+				const chapTime = $(el)
+					.find('figcaption ul li i')
+					.text()
+				
+				db.get('posts')
+				  .push({ 
+				  	id : i+1,
+					imageHome : imageHome,
+					nameHome : nameHome.slice(13,500),
+					linkHome : linkHome,
+					chapHome : chapHome,
+					chapTime : chapTime.slice(0,11)
+				  })
+				  .write()
+			})
+
+		}
+	})
+}
+
+function requestsXephang(){
+	request('http://www.nettruyen.com/tim-truyen?status=-1&sort=12', (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			db.get('homeXephang').remove().write()
+
+			$('figure').each((i, el)=>{
+				const imageHome = $(el)
+					.find('.image a img')
+					.attr('data-original')
+
+				const nameHome = $(el)
+					.find('.image a img')
+					.attr('alt')
+
+				const linkHome = $(el)
+					.find('.image a')
+					.attr('href')
+
+				const chapHome = $(el)
+					.find('figcaption ul li a')
+					.attr('title')
+
+				const chapTime = $(el)
+					.find('figcaption ul li i')
+					.text()
+				
+				db.get('homeXephang')
+				  .push({ 
+				  	id : i+1,
+					imageHome : imageHome,
+					nameHome : nameHome.slice(13,500),
+					linkHome : linkHome,
+					chapHome : chapHome,
+					chapTime : chapTime.slice(0,11)
+				  })
+				  .write()
+			})
+
+		}
+	})
+}
 
 
 
 app.get('/', (req, res)=>{
-	db.get('xephang').remove().write()
 
-	request('http://www.nettruyen.com/', (err,
-	res, html) =>{
-	if(!err && res.statusCode == 200){
-		const $ = cheerio.load(html)
-		db.get('posts').remove().write()
-
-		$('figure').each((i, el)=>{
-			const imageHome = $(el)
-				.find('.image a img')
-				.attr('data-original')
-
-			const nameHome = $(el)
-				.find('.image a img')
-				.attr('alt')
-
-			const linkHome = $(el)
-				.find('.image a')
-				.attr('href')
-
-			const chapHome = $(el)
-				.find('figcaption ul li a')
-				.attr('title')
-
-			const chapTime = $(el)
-				.find('figcaption ul li i')
-				.text()
-			
-			db.get('posts')
-			  .push({ 
-			  	id : i+1,
-				imageHome : imageHome,
-				nameHome : nameHome.slice(13,500),
-				linkHome : linkHome,
-				chapHome : chapHome,
-				chapTime : chapTime.slice(0,11)
-			  })
-			  .write()
-
-			// db.set({
-			// 	'posts.id' : i,
-			// 	'posts.imageHome' : imageHome,
-			// 	'posts.nameHome' : nameHome,
-			// 	'posts.linkHome' : linkHome,
-			// 	})
-			//   .write()
-		})
-
-	}
-})
+	console.log(db.get('homeXephang').value())
+	requestsHome();
+	requestsXephang();
     res.render('pageHome/homePage',{
-    	db:db.get('posts').value()
+    	db:db.get('posts').value(),
+    	homeXephang:db.get('homeXephang').value()
     })
 
 })

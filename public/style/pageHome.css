@@ -28,6 +28,16 @@ body {
   transition: 0.2s;
   padding-left: 20px;
   padding-right: 20px; }
+  .wapper_header .go_logo {
+    padding: 35px 0;
+    width: 100%; }
+    .wapper_header .go_logo i {
+      color: #a2b8b1;
+      font-size: 32px; }
+    .wapper_header .go_logo span {
+      font-size: 20px;
+      padding: 0 20px;
+      font-weight: 600; }
 
 .wapper_meau {
   text-align: center;
@@ -261,6 +271,22 @@ body {
   display: block;
   z-index: 2; }
 
+.wapper_conten_xephang {
+  padding-bottom: 30px;
+  position: relative; }
+  .wapper_conten_xephang img {
+    width: 100%;
+    height: 300px; }
+  .wapper_conten_xephang p {
+    top: 71%;
+    width: 100%;
+    position: absolute;
+    background: #2223235c;
+    color: #fff; }
+  .wapper_conten_xephang b {
+    top: 70%;
+    padding: 0 10px; }
+
 @media (max-width: 768px) {
   .owl-next {
     display: none; }
@@ -278,7 +304,27 @@ body {
     top: 90%; }
 
   .owl-item {
-    margin-right: 10px !important; } }
+    margin-right: 10px !important; }
+
+  .col-3 {
+    padding-right: 2px !important;
+    padding-left: 2px !important; }
+
+  .wapper_conten_xephang img {
+    height: 103px; }
+    .wapper_conten_xephang img:hover:before {
+      content: "";
+      background: rgba(0, 0, 0, 0.5);
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      z-index: 1; }
+  .wapper_conten_xephang p {
+    top: 50%;
+    font-size: 7px; }
+  .wapper_conten_xephang b {
+    font-size: 10px;
+    padding: 0; } }
 .loader {
   width: 50px;
   height: 50px;

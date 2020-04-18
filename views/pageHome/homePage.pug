@@ -38,7 +38,9 @@ block conten
 						.row
 							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
 								div.row
-									h3 Moi cap nhat
+									.go_logo
+										i.fab.fa-neos 
+										span Moi cap nhat
 									.owl-carousel
 										each posts in db
 											a(href=`/post/${posts.id}`)
@@ -47,6 +49,18 @@ block conten
 													p=posts.nameHome
 													b=posts.chapHome
 													i.fa.fa-play(aria-hidden='true')
+								.waper_xephang
+									.row.custom_row
+										.go_logo
+											i.fab.fa-neos 
+											span Bang xep hang
+										each posts in homeXephang.slice(0,8)
+											.col-3.col-12-custom
+												.wapper_conten_xephang
+													img(src=posts.imageHome)
+													p=posts.nameHome
+													b=posts.chapHome
+
 										
 
 		script(type='text/javascript').
