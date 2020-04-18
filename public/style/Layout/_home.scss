@@ -1,138 +1,361 @@
 @import "mixin";
-@import url('https://fonts.googleapis.com/css2?family=Mallanna&display=swap');
 
+@import url("https://fonts.googleapis.com/css2?family=Mallanna&display=swap");
+body {
+  background: #f7f9fb;
+  font-family: 'Mallanna', sans-serif;
+  letter-spacing: 1; }
 
-.wapper_chap{
-	img{
-		width: 100%;
-	}
-}
+.herder_img {
+  max-width: 250px;
+  margin: auto;
+  transition: 0.2s;
+  padding-left: 20px;
+  padding-right: 20px; }
 
-.herder_img{
-	max-width: 250px;
-    margin: auto;
-    transition: 0.2s;
+.herder_img .wapper_baner {
+  width: 100%;
+  height: 200px;
+  background: #fff; }
+
+.herder_img .wapper_baner .img_baner {
+  background-image: url("https://cdn.glitch.com/bb34c2fb-ff89-4b9e-8b3f-34d4d2810d22%2FBangPhong.png?v=1586744256020");
+  width: 100%;
+  height: 200px;
+  background-size: cover; }
+
+.wapper_header {
+  max-width: 980px;
+  margin: auto;
+  transition: 0.2s;
+  padding-left: 20px;
+  padding-right: 20px; }
+
+.wapper_meau {
+  text-align: center;
+  margin: 20px 0; }
+
+.wapper_meau .meau_nav {
+  display: inline-block; }
+
+.wapper_meau .meau_nav ul li {
+  list-style: none;
+  float: left;
+  padding: 20px; }
+
+.wapper_meau .meau_nav ul li a {
+  text-decoration: none;
+  color: #a2b8b1;
+  font-weight: 400; }
+
+.meau_mobi {
+  display: none; }
+
+.show_meau {
+  display: none; }
+
+@media (max-width: 560px) {
+  .postMeau {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 72px; }
+
+  .postMeau h4 {
     padding-left: 20px;
-    padding-right: 20px;
-	.wapper_baner{
-		width: 100%;
-		height: 200px;
-		background: #fff;
-		.img_baner{
-			background-image: url("https://cdn.glitch.com/bb34c2fb-ff89-4b9e-8b3f-34d4d2810d22%2FBangPhong.png?v=1586744256020");
-			width: 100%;
-			height: 200px;
-			background-size: cover;
-		}
-	}
+    padding-right: 20px; } }
+@media (max-width: 768px) {
+  .postMeau {
+    margin: 20px 0; }
+
+  .wapper_meau {
+    display: none; }
+
+  .meau_mobi {
+    padding: 22px;
+    position: absolute;
+    display: block; }
+
+  .meau_mobi i {
+    font-size: 21px;
+    color: #a2b8b1; }
+
+  .show_meau {
+    display: block;
+    padding: 22px;
+    width: 80%;
+    height: 100vh;
+    background: #a2b8b1;
+    position: fixed;
+    transition: 0.5s;
+    top: 0;
+    right: 0;
+    left: -310;
+    z-index: 1030;
+    text-align: center;
+    font-size: 17px; }
+
+  .show_meau i {
+    font-size: 21px;
+    color: #fff; }
+
+  .show_meau ul {
+    padding: 100px 0; }
+
+  .show_meau ul li {
+    list-style: none;
+    padding: 18px; }
+
+  .show_meau ul li a {
+    text-decoration: none;
+    color: #fff; }
+
+  .of {
+    position: fixed;
+    opacity: 0.5; }
+
+  .postMeau img {
+    height: 420px; }
+
+  .postMeau .wapper_img_conten {
+    height: 239px;
+    top: 274px;
+    width: 100%;
+    padding-top: 59px; }
+
+  .postMeau h4 {
+    margin: 0; }
+
+  .blogDatePost {
+    top: 228px;
+    left: 48px; } }
+.time {
+  color: silver;
+  font-size: 11px;
+  line-height: 20px;
+  font-style: italic;
+  overflow: hidden;
+  white-space: nowrap; }
+
+.not {
+  display: none !important; }
+
+
+/*# sourceMappingURL=pageHome.css.map */
+.custom_row {
+  margin: 0 !important; }
+
+.custom_col {
+  padding: 0 !important; }
+
+/*# sourceMappingURL=pageHome.css.map */
+
+//outline-width: 
+/* Click the image one by one to see the different layout */
+
+/* Owl Carousel */
+
+/* Click the image one by one to see the different layout */
+
+/* Owl Carousel */
+
+.owl-prev {
+  background: url("https://res.cloudinary.com/milairagny/image/upload/v1487938188/left-arrow_rlxamy.png")
+    left center no-repeat;
+  height: 54px;
+  position: absolute;
+  top: 50%;
+  width: 27px;
+  z-index: 1000;
+  left: -6%;
+  cursor: pointer;
+  color: transparent;
+  margin-top: -27px;
 }
 
-.wapper_header{
-    max-width: 980px;
-    margin: auto;
-    transition: 0.2s;
-    padding-left: 20px;
-    padding-right: 20px;
+.owl-next {
+  background: url("https://res.cloudinary.com/milairagny/image/upload/v1487938220/right-arrow_zwe9sf.png")
+    right center no-repeat;
+  height: 54px;
+  position: absolute;
+  top: 50%;
+  width: 27px;
+  z-index: 1000;
+  right: -6%;
+  cursor: pointer;
+  color: transparent;
+  margin-top: -27px;
 }
 
-//meau
-.wapper_meau{
-	text-align: center;
-	.meau_nav{
-		display: inline-block;
-		ul{
-			li{
-				list-style: none;
-				float: left;
-				padding: 20px;
-				a{
-					text-decoration: none;
-					color: #a2b8b1;
-					font-weight: 400;
-				}
-			}
-		}
-	}
+.owl-prev:hover,
+.owl-next:hover {
+  opacity: 0.5;
+}
 
+/* Owl Carousel */
+
+/* Popup Text */
+
+.white-popup-block {
+  background: #fff;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 650px;
+  margin: 40px auto;
+  position: relative;
 }
-.meau_mobi{
-	display: none;
+
+.popuptext {
+  display: table;
 }
-.show_meau{
-	display: none;
+.popuptext p {
+  margin-bottom: 10px;
 }
-.custom_row{
-	margin: 0 !important;
+.popuptext span {
+  font-weight: bold;
+  float: right;
 }
-.custom_col{
-	padding: 0 !important;
+/* Popup Text */
+
+/* Icon CSS */
+.item {
+  position: relative;
+  img{
+  	height: 318px;
+  }
 }
+.item i {
+  display: none;
+  font-size: 4rem;
+  color: #fff;
+  opacity: 1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+.item{
+  display: block;
+  width: 100%;
+  p{
+    top: 74%;
+    position: absolute;
+    color: #fff;
+    font-size: 18px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+    line-height: 1.3em;
+    max-height: 2.6em;
+    margin: 18px 0%;
+    background: #2223235c;
+    display: inline-block;
+    height: 45px;
+    width: 100%;
+    padding: 0 10px;
+  }
+  b{
+  	padding: 0 10px;
+  	position: absolute;
+    top: 94%;
+    font-size: 11px;
+    background: #2223235c;
+    width: 100%;
+    height: 31px;
+    color: aqua;
+  }
+}
+.item:hover:before {
+  content: "";
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+.item a:hover i {
+  display: block;
+  z-index: 2;
+}
+
+
+
 @include responsive_sm{
 
 }
 @include responsive_md{
-	.postMeau{
-        margin:20px 0;
-        h4{
-        }
-
-    }
-    .wapper_meau{
-    	display: none;
-    }
-    .meau_mobi{
-    	padding: 22px;
-    	position: absolute;
-    	display: block;
-    	i{
-    		font-size: 21px;
-    		color: #a2b8b1;
-    	}
-    }
-    .show_meau{
-    	display: block;
-    	padding: 22px;
-    	width: 80%;
-    	height: 100vh;
-    	background: #a2b8b1;
-    	position: fixed;
-    	transition: 0.5s;
-    	top: 0;
-	    right: 0;
-	    left: -310;
-	    z-index: 1030;
-	    text-align: center;
-	    font-size: 17px;
-	    i{
-	    	font-size: 21px;
-    		color: #fff;
-	    }
-	    ul{
-	    	padding: 100px 0;
-	    	li{
-	    		list-style: none;
-	    		padding: 18px;
-	    		a{
-	    			text-decoration: none;
-	    			color: #fff;
-	    		}
-	    	}
-	    }
-    }
-    .of{
-    	position: fixed;
-    	opacity:0.5;
-    }
+	.owl-next{
+		display: none;
+	}
+	.owl-prev{
+		display: none;
+	}
+	.item {
+	  img{
+	  	width: 94% !important;
+	  	height: 178px;
+	  }
+  	p{
+	  	top: 60%;
+	  	font-size: 14px;
+	  }
+	  b{
+	  	top: 90%;
+	  }
+	}
+	.owl-item{
+		margin-right: 10px !important;
+	}
 }
 
 @include responsive_lg{
-	.postMeau{
-		
-	}
-	.show_meau{
-		left: -650px;
-	}
-    
     
 }
 @include responsive_xl{}
+
+
+//loader
+.loader {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 3em;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle; }
+
+.loader,
+.loader:before,
+.loader:after {
+  animation: 1s infinite ease-in-out; }
+
+.loader:before,
+.loader:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0; }
+
+.loader-black {
+  background-color: #333; }
+
+.loader-1 {
+  animation-name: loader1;
+  top: 40%;
+  left: 31%;
+  position: absolute; }
+
+@keyframes loader1 {
+  from {
+    transform: scale(0);
+    opacity: 1; }
+  to {
+    transform: scale(1);
+    opacity: 0; } }

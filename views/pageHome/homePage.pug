@@ -34,27 +34,21 @@ block conten
 		.container-fluid(style="background:#f7f9fb; padding-top:48px;")
 			.row
 				.col-12
-					
 					.wapper_header
 						.row
 							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
 								div.row
-								each post in db
-									div.col-xs-12.col-sm-12.col-md-6.col-lg-6.postCal
-										div.postMeau
-											img(src=post.imageHome)
-											
-											div.row.wapper_img_conten
-												div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
-													a(href=`/post/${post.id}`)
-														h4.display-14=post.nameHome
-														p.p=post.chapHome
-														p.p.time=post.chapTime
-											div.blogDatePost
-												div.blogDate1
-													//p=post.date.slice(7,10)
-												//h5=post.date.slice(11,15)
-												//h3=post.date.slice(16,24)
+									h3 Moi cap nhat
+									.owl-carousel
+										each posts in db
+											a(href=`/post/${posts.id}`)
+												.item
+													img(src=posts.imageHome)
+													p=posts.nameHome
+													b=posts.chapHome
+													i.fa.fa-play(aria-hidden='true')
+										
+
 		script(type='text/javascript').
 			function showMeau(){
 				var show = document.getElementById("showMeau")
@@ -98,3 +92,41 @@ block conten
 			}
 			showMeau();
 			setTimeout(reload, 500);
+			$(".owl-carousel").owlCarousel({
+			  autoplay: true,
+			  autoplayTimeout: 5000,
+			  autoplayHoverPause: true,
+			  loop: true,
+			  margin: 50,
+			  responsiveClass: true,
+			  nav: true,
+			  loop: true,
+			  stagePadding: 100,
+			  responsive: {
+			    0: {
+			      items: 1
+			    },
+			    568: {
+			      items: 2
+			    },
+			    600: {
+			      items: 3
+			    },
+			    1000: {
+			      items: 3
+			    }
+			  }
+			});
+			$(document).ready(function () {
+			  $(".popup-youtube").magnificPopup({
+			    disableOn: 320,
+			    type: "iframe",
+			    mainClass: "mfp-fade",
+			    removalDelay: 160,
+			    preloader: false,
+			    fixedContentPos: true
+			  });
+			});
+			$(".item").magnificPopup({
+			  delegate: "a"
+			});

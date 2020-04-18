@@ -2,405 +2,358 @@
   "posts": [
     {
       "id": 1,
-      "imageHome": "http://st.truyenchon.com/data/comics/203/tu-la-thieu-gia-qua-kieu-ngao.jpg",
-      "nameHome": "Tu La Thiếu Gia Quá Kiêu Ngạo",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tu-la-thieu-gia-qua-kieu-ngao-20683",
-      "chapHome": "Chapter 88",
-      "chapTime": "7 phút trướ"
+      "imageHome": "http://st.truyenchon.com/data/comics/14/jitsu-wa-watashi-wa-information.jpg",
+      "nameHome": "Jitsu wa Watashi wa information",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/jitsu-wa-watashi-wa-information-3854",
+      "chapHome": "Chapter 69",
+      "chapTime": "2 phút trướ"
     },
     {
       "id": 2,
-      "imageHome": "http://st.truyenchon.com/data/comics/146/troi-ban-cho-nam-than-daddy.jpg",
-      "nameHome": "Trời Ban Cho Nam Thần Daddy",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/troi-ban-cho-nam-than-daddy-27538",
-      "chapHome": "Chapter 45",
-      "chapTime": "7 phút trướ"
+      "imageHome": "http://st.truyenchon.com/data/comics/212/boss-khung-bo-chiem-doat-ta.jpg",
+      "nameHome": "BOSS Khủng Bố Chiếm Đoạt Ta",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/boss-khung-bo-chiem-doat-ta-28628",
+      "chapHome": "Chapter 3",
+      "chapTime": "3 phút trướ"
     },
     {
       "id": 3,
-      "imageHome": "http://st.truyenchon.com/data/comics/88/suha-cua-toi.jpg",
-      "nameHome": "Suha Của Tôi",
-      "linkHome": "http://nhattruyen.com/truyen-tranh/suha-cua-toi-24152",
-      "chapHome": "Chapter 34",
-      "chapTime": "15 phút trư"
-    },
-    {
-      "id": 4,
-      "imageHome": "http://st.truyenchon.com/data/comics/139/my-nhan-gia-roi.jpg",
-      "nameHome": "Mỹ Nhân Già Rồi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/my-nhan-gia-roi-18059",
-      "chapHome": "Chapter 40",
-      "chapTime": "15 phút trư"
-    },
-    {
-      "id": 5,
-      "imageHome": "http://st.truyenchon.com/data/comics/182/ta-la-phe-vat.jpg",
-      "nameHome": "Ta Là Phế Vật",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-phe-vat-20150",
-      "chapHome": "Chapter 172",
-      "chapTime": "27 phút trư"
-    },
-    {
-      "id": 6,
-      "imageHome": "http://st.truyenchon.com/data/comics/212/sword-sheaths-child.jpg",
-      "nameHome": "Sword Sheath's Child",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/sword-sheaths-child-28884",
-      "chapHome": "Chapter 16",
-      "chapTime": "46 phút trư"
-    },
-    {
-      "id": 7,
-      "imageHome": "http://st.truyenchon.com/data/comics/214/tai-sinh-o-1-the-gioi-day-chet-choc.jpg",
-      "nameHome": "Tái Sinh Ở 1 Thế Giới Đầy Chết Chóc",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tai-sinh-o-1-the-gioi-day-chet-choc-28886",
-      "chapHome": "Chapter 1",
-      "chapTime": "48 phút trư"
-    },
-    {
-      "id": 8,
-      "imageHome": "http://st.truyenchon.com/data/comics/217/thua-tuong-tram-biet-sai-roi.jpg",
-      "nameHome": "Thừa Tướng, Trẫm Biết Sai Rồi!",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/thua-tuong-tram-biet-sai-roi-28889",
-      "chapHome": "Chapter 0",
-      "chapTime": "49 phút trư"
-    },
-    {
-      "id": 9,
-      "imageHome": "http://st.truyenchon.com/data/comics/224/giac-mong-nam-trieu.jpg",
-      "nameHome": "Giấc Mộng Nam Triều",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/giac-mong-nam-trieu-25824",
-      "chapHome": "Chapter 28",
-      "chapTime": "56 phút trư"
-    },
-    {
-      "id": 10,
-      "imageHome": "http://st.truyenchon.com/data/comics/213/trong-sinh-do-thi-tu-tien.jpg",
-      "nameHome": "Trọng Sinh Đô Thị Tu Tiên",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien-19413",
-      "chapHome": "Chapter 371",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 11,
-      "imageHome": "http://st.truyenchon.com/data/comics/234/dai-tuong-vo-hinh.jpg",
-      "nameHome": "Đại Tượng Vô Hình",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-tuong-vo-hinh-25834",
-      "chapHome": "Chapter 21",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 12,
-      "imageHome": "http://st.truyenchon.com/data/comics/190/kiem-do.jpg",
-      "nameHome": "Kiếm Đồ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kiem-do-26046",
-      "chapHome": "Chapter 15",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 13,
-      "imageHome": "http://st.truyenchon.com/data/comics/245/bat-tu-than-vuong-tu-lien-tuc.jpg",
-      "nameHome": "Bất Tử Thần Vương Tu Liên Tục",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/bat-tu-than-vuong-tu-lien-tuc-27381",
-      "chapHome": "Chapter 5",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 14,
-      "imageHome": "http://st.truyenchon.com/data/comics/32/vo-luyen-dinh-phong.jpg",
-      "nameHome": "Võ Luyện Đỉnh Phong",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong-17696",
-      "chapHome": "Chapter 519",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 15,
-      "imageHome": "http://st.truyenchon.com/data/comics/92/vua-trom-mo.jpg",
-      "nameHome": "Vua Trộm mộ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vua-trom-mo-23900",
-      "chapHome": "Chapter 105",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 16,
-      "imageHome": "http://st.truyenchon.com/data/comics/153/boi-vi-chung-ta-deu-la-nhung-ngoi-sao.jpg",
-      "nameHome": "Bởi vì chúng ta đều là những ngôi sao",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/boi-vi-chung-ta-deu-la-nhung-ngoi-sao-23961",
-      "chapHome": "Chapter 173",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 17,
-      "imageHome": "http://st.truyenchon.com/data/comics/24/yeu-toi-deu-chet-ca-di.jpg",
-      "nameHome": "Yêu Tôi Đều Chết Cả Đi!",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-toi-deu-chet-ca-di-23064",
-      "chapHome": "Chapter 82",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 18,
       "imageHome": "http://st.truyenchon.com/data/comics/199/tuong-quan-moi-ra-tran.jpg",
       "nameHome": "Tướng Quân Mời Ra Trận",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tuong-quan-moi-ra-tran-20679",
-      "chapHome": "Chapter 137",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 19,
-      "imageHome": "http://st.truyenchon.com/data/comics/24/hoc-vien-cao-thu.jpg",
-      "nameHome": "Học Viện Cao Thủ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoc-vien-cao-thu-27928",
-      "chapHome": "Chapter 199",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 20,
-      "imageHome": "http://st.truyenchon.com/data/comics/131/hoang-de-phe-vat-tien-hoa-su.jpg",
-      "nameHome": "Hoàng Đế “Phế Vật” Tiến Hóa Sử",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoang-de-phe-vat-tien-hoa-su-16259",
-      "chapHome": "Chapter 83",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 21,
-      "imageHome": "http://st.truyenchon.com/data/comics/45/lai-gap-duoc-em.jpeg",
-      "nameHome": "Lại Gặp Được Em",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/lai-gap-duoc-em-24621",
-      "chapHome": "Chapter 32",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 22,
-      "imageHome": "http://st.truyenchon.com/data/comics/93/canh-dieu-xanh-bay-trong-con-gio.jpg",
-      "nameHome": "Cánh Diều Xanh Bay Trong Cơn Gió",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/canh-dieu-xanh-bay-trong-con-gio-28765",
-      "chapHome": "Chapter 13",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 23,
-      "imageHome": "http://st.truyenchon.com/data/comics/208/joshi-kausei.jpg",
-      "nameHome": "Joshi Kausei",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/joshi-kausei-6352",
-      "chapHome": "Chapter 28",
-      "chapTime": "2 giờ trước"
-    },
-    {
-      "id": 24,
-      "imageHome": "http://st.truyenchon.com/data/comics/110/dich-nu-kieu-phi.jpg",
-      "nameHome": "Đích Nữ Kiều Phi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi-28526",
-      "chapHome": "Chapter 10",
-      "chapTime": "2 giờ trước"
-    },
-    {
-      "id": 25,
-      "imageHome": "http://st.truyenchon.com/data/comics/147/hau-nu-gia-dao.jpg",
-      "nameHome": "Hầu Nữ Giá Đáo",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hau-nu-gia-dao-27539",
-      "chapHome": "Chapter 10",
-      "chapTime": "2 giờ trước"
-    },
-    {
-      "id": 26,
-      "imageHome": "http://st.truyenchon.com/data/comics/44/hakumei-to-mikochi-tiny-little-life-in-t-596.jpg",
-      "nameHome": "Hakumei to Mikochi: Tiny Little Life in the Woods",
-      "linkHome": "http://nhattruyen.com/truyen-tranh/hakumei-to-mikochi-tiny-little-life-in-the-woods-284600",
-      "chapHome": "Chapter 4",
-      "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 27,
-      "imageHome": "http://st.truyenchon.com/data/comics/27/bizarre-love-triangle.jpg",
-      "nameHome": "Bizarre Love Triangle",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/bizarre-love-triangle-22555",
-      "chapHome": "Chapter 4",
-      "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 28,
-      "imageHome": "http://st.truyenchon.com/data/comics/18/ban-gai-scandal-cua-quy-thieu.jpg",
-      "nameHome": "Bạn Gái Scandal Của Quý Thiếu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/ban-gai-scandal-cua-quy-thieu-26642",
-      "chapHome": "Chapter 14",
-      "chapTime": "4 giờ trước"
-    },
-    {
-      "id": 29,
-      "imageHome": "http://st.truyenchon.com/data/comics/103/player-yang-xiao-hua.jpg",
-      "nameHome": "Player (Yang Xiao Hua)",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/player-yang-xiao-hua-28775",
-      "chapHome": "Chapter 3",
-      "chapTime": "4 giờ trước"
-    },
-    {
-      "id": 30,
-      "imageHome": "http://st.truyenchon.com/data/comics/5/tung-buoc-am-muu-tham-doc-huyet-hoang-tr-4896.jpg",
-      "nameHome": "Từng bước âm mưu thâm độc : Huyết hoàng trở về",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tung-buoc-am-muu-tham-doc-huyet-hoang-tro-ve-28677",
-      "chapHome": "Chapter 13",
-      "chapTime": "4 giờ trước"
-    },
-    {
-      "id": 31,
-      "imageHome": "http://st.truyenchon.com/data/comics/182/nguoi-choi-loi.jpg",
-      "nameHome": "Người Chơi Lỗi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-choi-loi-28854",
-      "chapHome": "Chapter 4",
-      "chapTime": "4 giờ trước"
-    },
-    {
-      "id": 32,
-      "imageHome": "http://st.truyenchon.com/data/comics/242/xuyen-qua-sach-lam-nu-phu-bi-tham-truyen-1522.jpg",
-      "nameHome": "Xuyên qua sách làm nữ phụ bi thảm-truyện sims",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/xuyen-qua-sach-lam-nu-phu-bi-tham-truyen-sims-19442",
-      "chapHome": "Chapter 16",
-      "chapTime": "5 giờ trước"
-    },
-    {
-      "id": 33,
-      "imageHome": "http://st.truyenchon.com/data/comics/137/vua-tro-choi-full-mau.jpg",
-      "nameHome": "Vua trò chơi Full Màu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vua-tro-choi-full-mau-17545",
-      "chapHome": "Chapter 201",
-      "chapTime": "9 giờ trước"
-    },
-    {
-      "id": 34,
-      "imageHome": "http://st.truyenchon.com/data/comics/220/bieu-dien-quan-he-nam-doan.jpg",
-      "nameHome": "Biểu Diện Quan Hệ Nam Đoàn",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/bieu-dien-quan-he-nam-doan-28124",
-      "chapHome": "Chapter 1.5",
-      "chapTime": "9 giờ trước"
-    },
-    {
-      "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/224/azur-lane-queen-order.jpg",
-      "nameHome": "Azur Lane: Queen Order",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/azur-lane-queen-order-22240",
-      "chapHome": "Chapter 56",
-      "chapTime": "10 giờ trướ"
-    },
-    {
-      "id": 36,
-      "imageHome": "http://st.truyenchon.com/data/comics/232/koroshi-ai.jpg",
-      "nameHome": "Koroshi Ai",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/koroshi-ai-15336",
-      "chapHome": "Chapter 24.5",
-      "chapTime": "10 giờ trướ"
-    }
-  ],
-  "views": [],
-  "chaps": [],
-  "xephang": [
-    {
-      "id": 1,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/213c41.jpg-posterend4",
-      "nameXephang": "Hoa Khôi Vương Bài",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/21/episodes"
-    },
-    {
-      "id": 2,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/7859c5a.jpg",
-      "nameXephang": "Tổng Tài Tại Thượng",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/785/episodes"
-    },
-    {
-      "id": 3,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2120737d.jpg",
-      "nameXephang": "Hoàng Hậu Tái Sinh",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/2120/episodes"
+      "chapHome": "Chapter 138",
+      "chapTime": "3 phút trướ"
     },
     {
       "id": 4,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/1732df55.jpg-posterup4",
-      "nameXephang": "Tiểu Thư Đỏng Đảnh",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/1732/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/222/fake.jpg",
+      "nameHome": "Fa/ke",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/fake-28894",
+      "chapHome": "Chapter 2",
+      "chapTime": "13 phút trư"
     },
     {
       "id": 5,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/4436d2.jpg-posterend4",
-      "nameXephang": "Ông Xã Quân Phiệt Bại Hoại",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/44/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/41/tho-san-quy.jpg",
+      "nameHome": "Thợ Săn Quỷ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tho-san-quy-20265",
+      "chapHome": "Chapter 65.5",
+      "chapTime": "15 phút trư"
     },
     {
       "id": 6,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/781d94f.jpg",
-      "nameXephang": "Nhập Cốt Noãn Hôn",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/781/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/226/ke-hoach-giai-cuu-natra.jpg",
+      "nameHome": "Kế hoạch giải cứu Natra",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ke-hoach-giai-cuu-natra-28898",
+      "chapHome": "Chapter 2",
+      "chapTime": "20 phút trư"
     },
     {
       "id": 7,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/782a303.jpg",
-      "nameXephang": "Thiếu Soái Vợ Ngài Lại Trốn Rồi",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/782/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/232/lam-vo-anh-em-nhe.jpg",
+      "nameHome": "Làm Vợ Anh, Em Nhé",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe-28904",
+      "chapHome": "Chapter 5",
+      "chapTime": "22 phút trư"
     },
     {
       "id": 8,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/173732ec.jpg-posterend4",
-      "nameXephang": "Cô Vợ Cuồng Bạo",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/1737/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/212/sword-sheaths-child.jpg",
+      "nameHome": "Sword Sheath's Child",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/sword-sheaths-child-28884",
+      "chapHome": "Chapter 17",
+      "chapTime": "23 phút trư"
     },
     {
       "id": 9,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/20341e02.jpg",
-      "nameXephang": "Phụng Nghịch Thiên Hạ",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/2034/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/95/gian-phi-nhu-thu-da-kieu.jpg",
+      "nameHome": "Gian Phi Như Thử Đa Kiều",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/gian-phi-nhu-thu-da-kieu-26719",
+      "chapHome": "Chapter 43",
+      "chapTime": "24 phút trư"
     },
     {
       "id": 10,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/1752404c.jpg-posterup4",
-      "nameXephang": "Thuần Tình Nha Đầu Hỏa Lạt Lạt",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/1752/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/234/dai-tuong-vo-hinh.jpg",
+      "nameHome": "Đại Tượng Vô Hình",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-tuong-vo-hinh-25834",
+      "chapHome": "Chapter 22",
+      "chapTime": "26 phút trư"
     },
     {
       "id": 11,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/77905c0.jpg-posterup4",
-      "nameXephang": "Hào Môn Thiên Giới Tiền Thê",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/779/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/184/dung-can-ta-tu-tien.jpg",
+      "nameHome": "Đừng Cản Ta Tu Tiên",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dung-can-ta-tu-tien-24760",
+      "chapHome": "Chapter 20",
+      "chapTime": "28 phút trư"
     },
     {
       "id": 12,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/24a0c5.jpg-posterend4",
-      "nameXephang": "Trai Hư Si Tình: Cô Vợ Bỏ Trốn",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/24/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/85/yeu-than-ky.jpg",
+      "nameHome": "Yêu Thần Ký",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-than-ky-10581",
+      "chapHome": "Chapter 271.2",
+      "chapTime": "28 phút trư"
     },
     {
       "id": 13,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2073544c.jpg-posterup4",
-      "nameXephang": "Phi Tịch Nghiên Tuyết",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/2073/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/40/pastel.jpg",
+      "nameHome": "Pastel",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/pastel-3880",
+      "chapHome": "Chapter 186",
+      "chapTime": "29 phút trư"
     },
     {
       "id": 14,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/179506c7.jpg-posterend4",
-      "nameXephang": "Đưa Ông Xã Quốc Dân Về Nhà",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/1795/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/80/di-toc-trung-sinh.jpg",
+      "nameHome": "Dị Tộc Trùng Sinh",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/di-toc-trung-sinh-26448",
+      "chapHome": "Chapter 72",
+      "chapTime": "29 phút trư"
     },
     {
       "id": 15,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/81003b4.jpg",
-      "nameXephang": "Nhiễm Sắc Thể Số 47",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/810/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/22/tieu-hoang-thu-va-tieu-hoang-thuc.jpg",
+      "nameHome": "Tiểu Hoàng Thư Và Tiểu Hoàng Thúc",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tieu-hoang-thu-va-tieu-hoang-thuc-18454",
+      "chapHome": "Chapter 57",
+      "chapTime": "33 phút trư"
     },
     {
       "id": 16,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/5f86e.jpg",
-      "nameXephang": "Yêu Thần Ký",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/5/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/190/kiem-do.jpg",
+      "nameHome": "Kiếm Đồ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/kiem-do-26046",
+      "chapHome": "Chapter 16",
+      "chapTime": "34 phút trư"
     },
     {
       "id": 17,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/20939266.jpg",
-      "nameXephang": "Cuộc Du Hành Tìm Về Tiền Kiếp",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/2093/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/161/ta-la-ta-de.jpg",
+      "nameHome": "Ta Là Tà Đế",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-ta-de-26017",
+      "chapHome": "Chapter 14.1",
+      "chapTime": "34 phút trư"
     },
     {
       "id": 18,
-      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2242ef92.jpg-posterup4",
-      "nameXephang": "Đấu La Đại Lục",
-      "linkXephang": "https://mangatoon.mobi//vi/detail/2242/episodes"
+      "imageHome": "http://st.truyenchon.com/data/comics/11/ta-chang-qua-la-mot-dai-la-kim-tien.jpg",
+      "nameHome": "Ta Chẳng Qua Là Một Đại La Kim Tiên",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-chang-qua-la-mot-dai-la-kim-tien-28427",
+      "chapHome": "Chapter 8",
+      "chapTime": "34 phút trư"
+    },
+    {
+      "id": 19,
+      "imageHome": "http://st.truyenchon.com/data/comics/236/thuong-nguyen-do.jpg",
+      "nameHome": "Thương Nguyên Đồ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/thuong-nguyen-do-27372",
+      "chapHome": "Chapter 26",
+      "chapTime": "35 phút trư"
+    },
+    {
+      "id": 20,
+      "imageHome": "http://st.truyenchon.com/data/comics/139/hoang-de-va-nu-hiep-si.jpg",
+      "nameHome": "Hoàng Đế Và Nữ Hiệp Sĩ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoang-de-va-nu-hiep-si-27275",
+      "chapHome": "Chapter 3.2",
+      "chapTime": "35 phút trư"
+    },
+    {
+      "id": 21,
+      "imageHome": "http://st.truyenchon.com/data/comics/27/nhat-an-tat.jpg",
+      "nameHome": "Nhất ăn tất",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-an-tat-27675",
+      "chapHome": "Chapter 26",
+      "chapTime": "35 phút trư"
+    },
+    {
+      "id": 22,
+      "imageHome": "http://st.truyenchon.com/data/comics/223/than-lai-yeu-vang.jpg",
+      "nameHome": "Thần Lai Yêu Vãng",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/than-lai-yeu-vang-24799",
+      "chapHome": "Chapter 2.1",
+      "chapTime": "35 phút trư"
+    },
+    {
+      "id": 23,
+      "imageHome": "http://st.truyenchon.com/data/comics/182/nguoi-choi-loi.jpg",
+      "nameHome": "Người Chơi Lỗi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-choi-loi-28854",
+      "chapHome": "Chapter 5",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 24,
+      "imageHome": "http://st.truyenchon.com/data/comics/189/tu-hom-nay-bat-dau-lam-thanh-chu.jpg",
+      "nameHome": "Từ Hôm Nay Bắt Đầu Làm Thành Chủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tu-hom-nay-bat-dau-lam-thanh-chu-22461",
+      "chapHome": "Chapter 26",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 25,
+      "imageHome": "http://st.truyenchon.com/data/comics/6/ma-lat-nu-lao-ban.jpg",
+      "nameHome": "Ma Lạt Nữ Lão Bản",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ma-lat-nu-lao-ban-28678",
+      "chapHome": "Chapter 9",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 26,
+      "imageHome": "http://st.truyenchon.com/data/comics/251/vuong-phi-co-chut-nghich-ngom.jpg",
+      "nameHome": "Vương Phi Có Chút Nghịch Ngợm",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vuong-phi-co-chut-nghich-ngom-26363",
+      "chapHome": "Chapter 48",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 27,
+      "imageHome": "http://st.truyenchon.com/data/comics/224/thieu-soai-vo-anh-muon-lat-troi.jpg",
+      "nameHome": "Thiếu Soái, Vợ Anh Muốn Lật Trời!",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/thieu-soai-vo-anh-muon-lat-troi-27104",
+      "chapHome": "Chapter 26",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 28,
+      "imageHome": "http://st.truyenchon.com/data/comics/96/khoa-chat-doi-moi.jpg",
+      "nameHome": "Khóa Chặt Đôi Môi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/khoa-chat-doi-moi-23136",
+      "chapHome": "Chapter 95",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 29,
+      "imageHome": "http://st.truyenchon.com/data/comics/154/ba-dao-tieu-thuc-xin-treu-choc-vua-thoi.jpg",
+      "nameHome": "Bá Đạo Tiểu Thúc, Xin Trêu Chọc Vừa Thôi!",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ba-dao-tieu-thuc-xin-treu-choc-vua-thoi-21914",
+      "chapHome": "Chapter 113",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 30,
+      "imageHome": "http://st.truyenchon.com/data/comics/50/hard-core-leveling-warrior-season-2.jpg",
+      "nameHome": "Hard Core Leveling Warrior ss2",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hard-core-leveling-warrior-ss2-24370",
+      "chapHome": "Chapter 33",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 31,
+      "imageHome": "http://st.truyenchon.com/data/comics/199/nhung-vu-an-cua-kindaichi-o-tuoi-37.jpg",
+      "nameHome": "Những Vụ Án Của Kindaichi Ở Tuổi 37",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhung-vu-an-cua-kindaichi-o-tuoi-37-19655",
+      "chapHome": "Chapter 50",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 32,
+      "imageHome": "http://st.truyenchon.com/data/comics/162/to-da-yeu-cau-rat-nhieu.jpg",
+      "nameHome": "Tớ Đã Yêu Cậu Rất Nhiều",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/to-da-yeu-cau-rat-nhieu-24738",
+      "chapHome": "Chapter 14",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 33,
+      "imageHome": "http://st.truyenchon.com/data/comics/205/monkey-peak-dinh-nui-khi.jpg",
+      "nameHome": "Monkey Peak - Đỉnh Núi Khỉ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/monkey-peak-dinh-nui-khi-16077",
+      "chapHome": "Chapter 88",
+      "chapTime": "36 phút trư"
+    },
+    {
+      "id": 34,
+      "imageHome": "http://st.truyenchon.com/data/comics/146/hoc-vien-kieu-ngao-hoang-gia.jpg",
+      "nameHome": "Học Viện Kiêu Ngạo Hoàng Gia",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoc-vien-kieu-ngao-hoang-gia-28562",
+      "chapHome": "Chapter 5",
+      "chapTime": "48 phút trư"
+    },
+    {
+      "id": 35,
+      "imageHome": "http://st.truyenchon.com/data/comics/221/manh-bao-dot-kich-mami-cha-con-dau.jpg",
+      "nameHome": "Manh Bảo Đột Kích: Mami Cha Con Đâu ?",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/manh-bao-dot-kich-mami-cha-con-dau-26333",
+      "chapHome": "Chapter 59",
+      "chapTime": "52 phút trư"
+    },
+    {
+      "id": 36,
+      "imageHome": "http://st.truyenchon.com/data/comics/207/watari-kun-no-xx-ga-houkai-sunzen.jpg",
+      "nameHome": "Watari-kun no xx ga Houkai Sunzen",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/watari-kun-no-xx-ga-houkai-sunzen-6095",
+      "chapHome": "Chapter 52",
+      "chapTime": "57 phút trư"
     }
   ],
+  "views": [
+    {
+      "id": "7",
+      "nameView": "Làm Vợ Anh, Em Nhé",
+      "imgView": "http://st.truyenchon.com/data/comics/232/lam-vo-anh-em-nhe.jpg",
+      "dataView": "\n        [Cập nhật lúc: 21:37 18/04/2020]\n     ",
+      "tenKhac": "",
+      "tacGia": "Đang cập nhật",
+      "tinhTrang": "Đang tiến hành",
+      "theLoai": "Comedy - Romance - Shoujo - Truyện Màu - Webtoon",
+      "noiDung": "Nhằm làm gia tăng tỉ lệ sinh và hỗ trợ những người trẻ tuổi thất nghiệp, không được học hành và sống khép kín với xã hội (NEET), chính phủ Nhật Bản đã thông qua bộ luật bảo vệ NEET. Nội dung của bộ luật là đưa những bạn trẻ sống tách biệt với xã hội tái hòa nhập cộng đồng thông qua con đường hôn nhân. AKIYASU SINN - một công chức viên trẻ tuổi được chọn làm đối tượng thử nghiệm đầu tiên của bộ luật này, cậu phải tìm cách thuyết phục SAWAMOTO MARI kết hôn với mình và khiến cho cô ấy hạnh phúc."
+    },
+    {
+      "_id": "5",
+      "chapter": "Chapter 5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe/chap-5/559416"
+    },
+    {
+      "_id": "4",
+      "chapter": "Chapter 4",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe/chap-4/559415"
+    },
+    {
+      "_id": "3",
+      "chapter": "Chapter 3",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe/chap-3/559414"
+    },
+    {
+      "_id": "2",
+      "chapter": "Chapter 2",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe/chap-2/559413"
+    },
+    {
+      "_id": "1",
+      "chapter": "Chapter 1",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/lam-vo-anh-em-nhe/chap-1/559412"
+    },
+    {
+      "_id": "51",
+      "chapter": "Chapter 519",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong/chap-519/559133"
+    },
+    {
+      "_id": "45",
+      "chapter": "Chapter 453",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-453/554993"
+    },
+    {
+      "_id": "37",
+      "chapter": "Chapter 371",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien/chap-371/559134"
+    },
+    {
+      "_id": "22",
+      "chapter": "Chapter 229",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/co-vo-hop-dong-bo-tron-cua-tong-giam-doc/chap-229/558548"
+    },
+    {
+      "_id": "50",
+      "chapter": "Chapter 500",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/thong-linh-phi/chap-500/558790"
+    }
+  ],
+  "chaps": [],
+  "xephang": [],
   "viewsXep": [
     {
       "id": 1,
