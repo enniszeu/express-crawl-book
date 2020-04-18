@@ -2,286 +2,1215 @@
   "posts": [
     {
       "id": 1,
-      "imageHome": "http://st.truyenchon.com/data/comics/218/trung-sinh-khong-gian-co-vo-hao-mon-nong-5549.jpg",
-      "nameHome": "Trùng Sinh Không Gian: Cô Vợ Hào Môn Nóng Bỏng Không Dễ Chọc",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/trung-sinh-khong-gian-co-vo-hao-mon-nong-bong-khong-de-choc-26330",
-      "chapHome": "Chapter 25",
+      "imageHome": "http://st.truyenchon.com/data/comics/203/tu-la-thieu-gia-qua-kieu-ngao.jpg",
+      "nameHome": "Tu La Thiếu Gia Quá Kiêu Ngạo",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tu-la-thieu-gia-qua-kieu-ngao-20683",
+      "chapHome": "Chapter 88",
       "chapTime": "7 phút trướ"
     },
     {
       "id": 2,
-      "imageHome": "http://st.truyenchon.com/data/comics/214/that-girl-is-not-just-cute.jpg",
-      "nameHome": "That Girl Is Not Just Cute",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/that-girl-is-not-just-cute-20694",
-      "chapHome": "Chapter 44",
-      "chapTime": "11 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/146/troi-ban-cho-nam-than-daddy.jpg",
+      "nameHome": "Trời Ban Cho Nam Thần Daddy",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/troi-ban-cho-nam-than-daddy-27538",
+      "chapHome": "Chapter 45",
+      "chapTime": "7 phút trướ"
     },
     {
       "id": 3,
-      "imageHome": "http://st.truyenchon.com/data/comics/113/mairimashita-iruma-kun.jpg",
-      "nameHome": "Mairimashita! Iruma-kun",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/mairimashita-iruma-kun-15985",
-      "chapHome": "Chapter 148",
-      "chapTime": "19 ngày trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/88/suha-cua-toi.jpg",
+      "nameHome": "Suha Của Tôi",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/suha-cua-toi-24152",
+      "chapHome": "Chapter 34",
+      "chapTime": "15 phút trư"
     },
     {
       "id": 4,
-      "imageHome": "http://st.truyenchon.com/data/comics/11/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg",
-      "nameHome": "Chọc tức vợ yêu mua một tặng một",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot-25355",
-      "chapHome": "Chapter 90",
-      "chapTime": "24 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/139/my-nhan-gia-roi.jpg",
+      "nameHome": "Mỹ Nhân Già Rồi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/my-nhan-gia-roi-18059",
+      "chapHome": "Chapter 40",
+      "chapTime": "15 phút trư"
     },
     {
       "id": 5,
-      "imageHome": "http://st.truyenchon.com/data/comics/26/than-luan-mat-luyen.jpg",
-      "nameHome": "Thần Luân Mật Luyến",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/than-luan-mat-luyen-25626",
-      "chapHome": "Chapter 36",
-      "chapTime": "32 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/182/ta-la-phe-vat.jpg",
+      "nameHome": "Ta Là Phế Vật",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-phe-vat-20150",
+      "chapHome": "Chapter 172",
+      "chapTime": "27 phút trư"
     },
     {
       "id": 6,
-      "imageHome": "http://st.truyenchon.com/data/comics/98/trung-sinh-hai-hoang.jpg",
-      "nameHome": "Trùng Sinh Hải Hoàng",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/trung-sinh-hai-hoang-26466",
-      "chapHome": "Chapter 5",
-      "chapTime": "36 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/212/sword-sheaths-child.jpg",
+      "nameHome": "Sword Sheath's Child",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/sword-sheaths-child-28884",
+      "chapHome": "Chapter 16",
+      "chapTime": "46 phút trư"
     },
     {
       "id": 7,
-      "imageHome": "http://st.truyenchon.com/data/comics/206/baba-dep-trai-tren-troi-roi-xuong.jpg",
-      "nameHome": "BaBa Đẹp Trai Trên Trời Rơi Xuống",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/baba-dep-trai-tren-troi-roi-xuong-27086",
-      "chapHome": "Chapter 45",
-      "chapTime": "50 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/214/tai-sinh-o-1-the-gioi-day-chet-choc.jpg",
+      "nameHome": "Tái Sinh Ở 1 Thế Giới Đầy Chết Chóc",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tai-sinh-o-1-the-gioi-day-chet-choc-28886",
+      "chapHome": "Chapter 1",
+      "chapTime": "48 phút trư"
     },
     {
       "id": 8,
-      "imageHome": "http://st.truyenchon.com/data/comics/165/tan-diet-vuong-gia-man-trieu.jpg",
-      "nameHome": "Tận diệt vương gia mãn triều",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tan-diet-vuong-gia-man-trieu-17573",
-      "chapHome": "Chapter 154",
-      "chapTime": "51 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/217/thua-tuong-tram-biet-sai-roi.jpg",
+      "nameHome": "Thừa Tướng, Trẫm Biết Sai Rồi!",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/thua-tuong-tram-biet-sai-roi-28889",
+      "chapHome": "Chapter 0",
+      "chapTime": "49 phút trư"
     },
     {
       "id": 9,
-      "imageHome": "http://st.truyenchon.com/data/comics/18/kokou-no-hito.jpg",
-      "nameHome": "Kokou no Hito",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kokou-no-hito-6930",
-      "chapHome": "Chapter 133",
-      "chapTime": "1 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/224/giac-mong-nam-trieu.jpg",
+      "nameHome": "Giấc Mộng Nam Triều",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/giac-mong-nam-trieu-25824",
+      "chapHome": "Chapter 28",
+      "chapTime": "56 phút trư"
     },
     {
       "id": 10,
-      "imageHome": "http://st.truyenchon.com/data/comics/82/shy.jpg",
-      "nameHome": "Shy",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/shy-25682",
-      "chapHome": "Chapter 3",
+      "imageHome": "http://st.truyenchon.com/data/comics/213/trong-sinh-do-thi-tu-tien.jpg",
+      "nameHome": "Trọng Sinh Đô Thị Tu Tiên",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien-19413",
+      "chapHome": "Chapter 371",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 11,
-      "imageHome": "http://st.truyenchon.com/data/comics/223/81-diver.jpg",
-      "nameHome": "81 Diver",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/81-diver-10207",
-      "chapHome": "Chapter 375",
+      "imageHome": "http://st.truyenchon.com/data/comics/234/dai-tuong-vo-hinh.jpg",
+      "nameHome": "Đại Tượng Vô Hình",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-tuong-vo-hinh-25834",
+      "chapHome": "Chapter 21",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 12,
-      "imageHome": "http://st.truyenchon.com/data/comics/3/im-around-thirty-and-finally-in-love.jpg",
-      "nameHome": "I'm Around Thirty And Finally In Love",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/im-around-thirty-and-finally-in-love-23299",
-      "chapHome": "Chapter 5",
+      "imageHome": "http://st.truyenchon.com/data/comics/190/kiem-do.jpg",
+      "nameHome": "Kiếm Đồ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/kiem-do-26046",
+      "chapHome": "Chapter 15",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 13,
-      "imageHome": "http://st.truyenchon.com/data/comics/172/duc-hanh-ma-ac-nu-ban-tang.jpg",
-      "nameHome": "Đức Hạnh Mà Ác Nữ Ban Tặng",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/duc-hanh-ma-ac-nu-ban-tang-28076",
-      "chapHome": "Chapter 8",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 14,
-      "imageHome": "http://st.truyenchon.com/data/comics/191/y-vo-chi-ton.jpg",
-      "nameHome": "Y Võ Chí Tôn",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/y-vo-chi-ton-22463",
-      "chapHome": "Chapter 97",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 15,
-      "imageHome": "http://st.truyenchon.com/data/comics/211/moi-tinh-dau-la-cv-dai-than.jpg",
-      "nameHome": "Mối Tình Đầu Là CV Đại Thần",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/moi-tinh-dau-la-cv-dai-than-28883",
-      "chapHome": "Chapter 0",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 16,
-      "imageHome": "http://st.truyenchon.com/data/comics/60/fantasy-bishoujo-juniku-ojisan-to.jpg",
-      "nameHome": "Fantasy Bishoujo Juniku Ojisan To",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/fantasy-bishoujo-juniku-ojisan-to-26428",
-      "chapHome": "Chapter 12",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 17,
-      "imageHome": "http://st.truyenchon.com/data/comics/5/khuc-cuong-tuong-cua-ta-va-nang-sau-khi-5706.jpg",
-      "nameHome": "Khúc Cuồng Tưởng Của Ta Và Nàng Sau Khi Biến Thân",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/khuc-cuong-tuong-cua-ta-va-nang-sau-khi-bien-than-22021",
-      "chapHome": "Chapter 44",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 18,
-      "imageHome": "http://st.truyenchon.com/data/comics/36/pho-ma-khong-nen-a.jpg",
-      "nameHome": "Phò Mã! Không Nên A!",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/pho-ma-khong-nen-a-19236",
-      "chapHome": "Chapter 69",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 19,
-      "imageHome": "http://st.truyenchon.com/data/comics/114/fatestrange-fake.jpg",
-      "nameHome": "Fate/strange Fake",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/fatestrange-fake-11634",
-      "chapHome": "Chapter 24",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 20,
-      "imageHome": "http://st.truyenchon.com/data/comics/89/aoi-horus-no-hitomi-dansou-no-joou-no-mo-5289.jpg",
-      "nameHome": "Aoi Horus No Hitomi - Dansou No Joou No Monogatari",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/aoi-horus-no-hitomi-dansou-no-joou-no-monogatari-15705",
-      "chapHome": "Chapter 8",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 21,
-      "imageHome": "http://st.truyenchon.com/data/comics/174/duc-hoa-doc-nu.jpg",
-      "nameHome": "Dục Hỏa Độc Nữ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/duc-hoa-doc-nu-244940",
-      "chapHome": "Chapter 113",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 22,
-      "imageHome": "http://st.truyenchon.com/data/comics/226/nam-dam.jpg",
-      "nameHome": "Nắm Đấm",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nam-dam-24034",
-      "chapHome": "Chapter 77",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 23,
-      "imageHome": "http://st.truyenchon.com/data/comics/128/1-nen-a-gumi-no-monster.jpg",
-      "nameHome": "1-Nen A-Gumi No Monster",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/1-nen-a-gumi-no-monster-18304",
-      "chapHome": "Chapter 22",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 24,
-      "imageHome": "http://st.truyenchon.com/data/comics/172/anh-hau-lao-ba-khong-duoc-chay.jpg",
-      "nameHome": "Ảnh Hậu Lão Bà Không Được Chạy",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/anh-hau-lao-ba-khong-duoc-chay-21420",
-      "chapHome": "Chapter 130",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 25,
-      "imageHome": "http://st.truyenchon.com/data/comics/122/do-thi-dinh-phong-cao-thu.jpg",
-      "nameHome": "Đô Thị Đỉnh Phong Cao Thủ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/do-thi-dinh-phong-cao-thu-24698",
-      "chapHome": "Chapter 19",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 26,
-      "imageHome": "http://st.truyenchon.com/data/comics/102/ichinose-kun-wa-kofun-dekinai.jpg",
-      "nameHome": "Ichinose-kun Wa Kofun Dekinai",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/ichinose-kun-wa-kofun-dekinai-22886",
-      "chapHome": "Chapter 8",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 27,
-      "imageHome": "http://st.truyenchon.com/data/comics/62/hinata-no-blue.jpg",
-      "nameHome": "Hinata no Blue",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hinata-no-blue-22846",
+      "imageHome": "http://st.truyenchon.com/data/comics/245/bat-tu-than-vuong-tu-lien-tuc.jpg",
+      "nameHome": "Bất Tử Thần Vương Tu Liên Tục",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/bat-tu-than-vuong-tu-lien-tuc-27381",
       "chapHome": "Chapter 5",
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 28,
-      "imageHome": "http://st.truyenchon.com/data/comics/81/summer-time-render.jpg",
-      "nameHome": "Summer Time Render",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/summer-time-render-18257",
-      "chapHome": "Chapter 49",
+      "id": 14,
+      "imageHome": "http://st.truyenchon.com/data/comics/32/vo-luyen-dinh-phong.jpg",
+      "nameHome": "Võ Luyện Đỉnh Phong",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong-17696",
+      "chapHome": "Chapter 519",
       "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 15,
+      "imageHome": "http://st.truyenchon.com/data/comics/92/vua-trom-mo.jpg",
+      "nameHome": "Vua Trộm mộ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vua-trom-mo-23900",
+      "chapHome": "Chapter 105",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 16,
+      "imageHome": "http://st.truyenchon.com/data/comics/153/boi-vi-chung-ta-deu-la-nhung-ngoi-sao.jpg",
+      "nameHome": "Bởi vì chúng ta đều là những ngôi sao",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/boi-vi-chung-ta-deu-la-nhung-ngoi-sao-23961",
+      "chapHome": "Chapter 173",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 17,
+      "imageHome": "http://st.truyenchon.com/data/comics/24/yeu-toi-deu-chet-ca-di.jpg",
+      "nameHome": "Yêu Tôi Đều Chết Cả Đi!",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-toi-deu-chet-ca-di-23064",
+      "chapHome": "Chapter 82",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 18,
+      "imageHome": "http://st.truyenchon.com/data/comics/199/tuong-quan-moi-ra-tran.jpg",
+      "nameHome": "Tướng Quân Mời Ra Trận",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tuong-quan-moi-ra-tran-20679",
+      "chapHome": "Chapter 137",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 19,
+      "imageHome": "http://st.truyenchon.com/data/comics/24/hoc-vien-cao-thu.jpg",
+      "nameHome": "Học Viện Cao Thủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoc-vien-cao-thu-27928",
+      "chapHome": "Chapter 199",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 20,
+      "imageHome": "http://st.truyenchon.com/data/comics/131/hoang-de-phe-vat-tien-hoa-su.jpg",
+      "nameHome": "Hoàng Đế “Phế Vật” Tiến Hóa Sử",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoang-de-phe-vat-tien-hoa-su-16259",
+      "chapHome": "Chapter 83",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 21,
+      "imageHome": "http://st.truyenchon.com/data/comics/45/lai-gap-duoc-em.jpeg",
+      "nameHome": "Lại Gặp Được Em",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/lai-gap-duoc-em-24621",
+      "chapHome": "Chapter 32",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 22,
+      "imageHome": "http://st.truyenchon.com/data/comics/93/canh-dieu-xanh-bay-trong-con-gio.jpg",
+      "nameHome": "Cánh Diều Xanh Bay Trong Cơn Gió",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/canh-dieu-xanh-bay-trong-con-gio-28765",
+      "chapHome": "Chapter 13",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 23,
+      "imageHome": "http://st.truyenchon.com/data/comics/208/joshi-kausei.jpg",
+      "nameHome": "Joshi Kausei",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/joshi-kausei-6352",
+      "chapHome": "Chapter 28",
+      "chapTime": "2 giờ trước"
+    },
+    {
+      "id": 24,
+      "imageHome": "http://st.truyenchon.com/data/comics/110/dich-nu-kieu-phi.jpg",
+      "nameHome": "Đích Nữ Kiều Phi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dich-nu-kieu-phi-28526",
+      "chapHome": "Chapter 10",
+      "chapTime": "2 giờ trước"
+    },
+    {
+      "id": 25,
+      "imageHome": "http://st.truyenchon.com/data/comics/147/hau-nu-gia-dao.jpg",
+      "nameHome": "Hầu Nữ Giá Đáo",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hau-nu-gia-dao-27539",
+      "chapHome": "Chapter 10",
+      "chapTime": "2 giờ trước"
+    },
+    {
+      "id": 26,
+      "imageHome": "http://st.truyenchon.com/data/comics/44/hakumei-to-mikochi-tiny-little-life-in-t-596.jpg",
+      "nameHome": "Hakumei to Mikochi: Tiny Little Life in the Woods",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/hakumei-to-mikochi-tiny-little-life-in-the-woods-284600",
+      "chapHome": "Chapter 4",
+      "chapTime": "3 giờ trước"
+    },
+    {
+      "id": 27,
+      "imageHome": "http://st.truyenchon.com/data/comics/27/bizarre-love-triangle.jpg",
+      "nameHome": "Bizarre Love Triangle",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/bizarre-love-triangle-22555",
+      "chapHome": "Chapter 4",
+      "chapTime": "3 giờ trước"
+    },
+    {
+      "id": 28,
+      "imageHome": "http://st.truyenchon.com/data/comics/18/ban-gai-scandal-cua-quy-thieu.jpg",
+      "nameHome": "Bạn Gái Scandal Của Quý Thiếu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ban-gai-scandal-cua-quy-thieu-26642",
+      "chapHome": "Chapter 14",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 29,
-      "imageHome": "http://st.truyenchon.com/data/comics/247/nguoi-co-don.jpg",
-      "nameHome": "Người Cô Đơn",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-co-don-22007",
-      "chapHome": "Chapter 133",
-      "chapTime": "1 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/103/player-yang-xiao-hua.jpg",
+      "nameHome": "Player (Yang Xiao Hua)",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/player-yang-xiao-hua-28775",
+      "chapHome": "Chapter 3",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 30,
-      "imageHome": "http://st.truyenchon.com/data/comics/39/tram-cung-khong-muon-qua-khi-phach.jpg",
-      "nameHome": "Trẫm Cũng Không Muốn Quá Khí Phách",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tram-cung-khong-muon-qua-khi-phach-26663",
-      "chapHome": "Chapter 25",
-      "chapTime": "1 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/5/tung-buoc-am-muu-tham-doc-huyet-hoang-tr-4896.jpg",
+      "nameHome": "Từng bước âm mưu thâm độc : Huyết hoàng trở về",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tung-buoc-am-muu-tham-doc-huyet-hoang-tro-ve-28677",
+      "chapHome": "Chapter 13",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 31,
-      "imageHome": "http://st.truyenchon.com/data/comics/76/saotome-girl-hitakakusu.jpg",
-      "nameHome": "Saotome Girl, Hitakakusu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/saotome-girl-hitakakusu-17228",
-      "chapHome": "Chapter 36",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/182/nguoi-choi-loi.jpg",
+      "nameHome": "Người Chơi Lỗi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-choi-loi-28854",
+      "chapHome": "Chapter 4",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 32,
-      "imageHome": "http://st.truyenchon.com/data/comics/61/bac-si-so-cung-muon-yeu.jpg",
-      "nameHome": "Bác Sĩ Sở Cũng Muốn Yêu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/bac-si-so-cung-muon-yeu-17469",
-      "chapHome": "Chapter 259",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/242/xuyen-qua-sach-lam-nu-phu-bi-tham-truyen-1522.jpg",
+      "nameHome": "Xuyên qua sách làm nữ phụ bi thảm-truyện sims",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/xuyen-qua-sach-lam-nu-phu-bi-tham-truyen-sims-19442",
+      "chapHome": "Chapter 16",
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 33,
-      "imageHome": "http://st.truyenchon.com/data/comics/80/nuoc-mat-cua-chua-kill-logger.jpg",
-      "nameHome": "Nước mắt của chúa : Kill logger",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nuoc-mat-cua-chua-kill-logger-26704",
-      "chapHome": "Chapter 8",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/137/vua-tro-choi-full-mau.jpg",
+      "nameHome": "Vua trò chơi Full Màu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vua-tro-choi-full-mau-17545",
+      "chapHome": "Chapter 201",
+      "chapTime": "9 giờ trước"
     },
     {
       "id": 34,
-      "imageHome": "http://st.truyenchon.com/data/comics/0/player.jpg",
-      "nameHome": "Player",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/player-28672",
-      "chapHome": "Chapter 3",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/220/bieu-dien-quan-he-nam-doan.jpg",
+      "nameHome": "Biểu Diện Quan Hệ Nam Đoàn",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/bieu-dien-quan-he-nam-doan-28124",
+      "chapHome": "Chapter 1.5",
+      "chapTime": "9 giờ trước"
     },
     {
       "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/227/em-gai-dung-lam-phien-toi.jpg",
-      "nameHome": "Em Gái Đừng Làm Phiền Tôi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/em-gai-dung-lam-phien-toi-28131",
-      "chapHome": "Chapter 11",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/224/azur-lane-queen-order.jpg",
+      "nameHome": "Azur Lane: Queen Order",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/azur-lane-queen-order-22240",
+      "chapHome": "Chapter 56",
+      "chapTime": "10 giờ trướ"
+    },
+    {
+      "id": 36,
+      "imageHome": "http://st.truyenchon.com/data/comics/232/koroshi-ai.jpg",
+      "nameHome": "Koroshi Ai",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/koroshi-ai-15336",
+      "chapHome": "Chapter 24.5",
+      "chapTime": "10 giờ trướ"
     }
   ],
   "views": [],
   "chaps": [],
-  "xephang": []
+  "xephang": [
+    {
+      "id": 1,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/213c41.jpg-posterend4",
+      "nameXephang": "Hoa Khôi Vương Bài",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/21/episodes"
+    },
+    {
+      "id": 2,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/7859c5a.jpg",
+      "nameXephang": "Tổng Tài Tại Thượng",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/785/episodes"
+    },
+    {
+      "id": 3,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2120737d.jpg",
+      "nameXephang": "Hoàng Hậu Tái Sinh",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/2120/episodes"
+    },
+    {
+      "id": 4,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/1732df55.jpg-posterup4",
+      "nameXephang": "Tiểu Thư Đỏng Đảnh",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/1732/episodes"
+    },
+    {
+      "id": 5,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/4436d2.jpg-posterend4",
+      "nameXephang": "Ông Xã Quân Phiệt Bại Hoại",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/44/episodes"
+    },
+    {
+      "id": 6,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/781d94f.jpg",
+      "nameXephang": "Nhập Cốt Noãn Hôn",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/781/episodes"
+    },
+    {
+      "id": 7,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/782a303.jpg",
+      "nameXephang": "Thiếu Soái Vợ Ngài Lại Trốn Rồi",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/782/episodes"
+    },
+    {
+      "id": 8,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/173732ec.jpg-posterend4",
+      "nameXephang": "Cô Vợ Cuồng Bạo",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/1737/episodes"
+    },
+    {
+      "id": 9,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/20341e02.jpg",
+      "nameXephang": "Phụng Nghịch Thiên Hạ",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/2034/episodes"
+    },
+    {
+      "id": 10,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/1752404c.jpg-posterup4",
+      "nameXephang": "Thuần Tình Nha Đầu Hỏa Lạt Lạt",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/1752/episodes"
+    },
+    {
+      "id": 11,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/77905c0.jpg-posterup4",
+      "nameXephang": "Hào Môn Thiên Giới Tiền Thê",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/779/episodes"
+    },
+    {
+      "id": 12,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/24a0c5.jpg-posterend4",
+      "nameXephang": "Trai Hư Si Tình: Cô Vợ Bỏ Trốn",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/24/episodes"
+    },
+    {
+      "id": 13,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2073544c.jpg-posterup4",
+      "nameXephang": "Phi Tịch Nghiên Tuyết",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/2073/episodes"
+    },
+    {
+      "id": 14,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/179506c7.jpg-posterend4",
+      "nameXephang": "Đưa Ông Xã Quốc Dân Về Nhà",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/1795/episodes"
+    },
+    {
+      "id": 15,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/81003b4.jpg",
+      "nameXephang": "Nhiễm Sắc Thể Số 47",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/810/episodes"
+    },
+    {
+      "id": 16,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/5f86e.jpg",
+      "nameXephang": "Yêu Thần Ký",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/5/episodes"
+    },
+    {
+      "id": 17,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/20939266.jpg",
+      "nameXephang": "Cuộc Du Hành Tìm Về Tiền Kiếp",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/2093/episodes"
+    },
+    {
+      "id": 18,
+      "imageXephang": "http://cn.e.pic.mangatoon.mobi/cartoon-posters/2242ef92.jpg-posterup4",
+      "nameXephang": "Đấu La Đại Lục",
+      "linkXephang": "https://mangatoon.mobi//vi/detail/2242/episodes"
+    }
+  ],
+  "viewsXep": [
+    {
+      "id": 1,
+      "nameViewXep": "Chapter 1",
+      "linkViewXep": "/vi/watch/2120/13749"
+    },
+    {
+      "id": 2,
+      "nameViewXep": "Chapter 2",
+      "linkViewXep": "/vi/watch/2120/13767"
+    },
+    {
+      "id": 3,
+      "nameViewXep": "Chapter 3",
+      "linkViewXep": "/vi/watch/2120/13768"
+    },
+    {
+      "id": 4,
+      "nameViewXep": "Chapter 4",
+      "linkViewXep": "/vi/watch/2120/13769"
+    },
+    {
+      "id": 5,
+      "nameViewXep": "Chapter 5",
+      "linkViewXep": "/vi/watch/2120/13770"
+    },
+    {
+      "id": 6,
+      "nameViewXep": "Chapter 6",
+      "linkViewXep": "/vi/watch/2120/13771"
+    },
+    {
+      "id": 7,
+      "nameViewXep": "Chapter 7",
+      "linkViewXep": "/vi/watch/2120/13772"
+    },
+    {
+      "id": 8,
+      "nameViewXep": "Chapter 8",
+      "linkViewXep": "/vi/watch/2120/13773"
+    },
+    {
+      "id": 9,
+      "nameViewXep": "Chapter 9",
+      "linkViewXep": "/vi/watch/2120/13774"
+    },
+    {
+      "id": 10,
+      "nameViewXep": "Chapter 10",
+      "linkViewXep": "/vi/watch/2120/13775"
+    },
+    {
+      "id": 11,
+      "nameViewXep": "Chapter 11",
+      "linkViewXep": "/vi/watch/2120/13776"
+    },
+    {
+      "id": 12,
+      "nameViewXep": "Chapter 12",
+      "linkViewXep": "/vi/watch/2120/13805"
+    },
+    {
+      "id": 13,
+      "nameViewXep": "Chapter 13",
+      "linkViewXep": "/vi/watch/2120/13777"
+    },
+    {
+      "id": 14,
+      "nameViewXep": "Chapter 14",
+      "linkViewXep": "/vi/watch/2120/13778"
+    },
+    {
+      "id": 15,
+      "nameViewXep": "Chapter 15",
+      "linkViewXep": "/vi/watch/2120/13779"
+    },
+    {
+      "id": 16,
+      "nameViewXep": "Chapter 16",
+      "linkViewXep": "/vi/watch/2120/13780"
+    },
+    {
+      "id": 17,
+      "nameViewXep": "Chapter 17",
+      "linkViewXep": "/vi/watch/2120/13781"
+    },
+    {
+      "id": 18,
+      "nameViewXep": "Chapter 18",
+      "linkViewXep": "/vi/watch/2120/13806"
+    },
+    {
+      "id": 19,
+      "nameViewXep": "Chapter 19",
+      "linkViewXep": "/vi/watch/2120/13782"
+    },
+    {
+      "id": 20,
+      "nameViewXep": "Chapter 20",
+      "linkViewXep": "/vi/watch/2120/13783"
+    },
+    {
+      "id": 21,
+      "nameViewXep": "Chapter 21",
+      "linkViewXep": "/vi/watch/2120/13788"
+    },
+    {
+      "id": 22,
+      "nameViewXep": "Chapter 22",
+      "linkViewXep": "/vi/watch/2120/13785"
+    },
+    {
+      "id": 23,
+      "nameViewXep": "Chapter 23",
+      "linkViewXep": "/vi/watch/2120/14352"
+    },
+    {
+      "id": 24,
+      "nameViewXep": "Chapter 24",
+      "linkViewXep": "/vi/watch/2120/14353"
+    },
+    {
+      "id": 25,
+      "nameViewXep": "Chapter 25",
+      "linkViewXep": "/vi/watch/2120/14354"
+    },
+    {
+      "id": 26,
+      "nameViewXep": "Chapter 26",
+      "linkViewXep": "/vi/watch/2120/14363"
+    },
+    {
+      "id": 27,
+      "nameViewXep": "Chapter 27",
+      "linkViewXep": "/vi/watch/2120/14362"
+    },
+    {
+      "id": 28,
+      "nameViewXep": "Chapter 28",
+      "linkViewXep": "/vi/watch/2120/14359"
+    },
+    {
+      "id": 29,
+      "nameViewXep": "Chapter 29",
+      "linkViewXep": "/vi/watch/2120/15706"
+    },
+    {
+      "id": 30,
+      "nameViewXep": "Chapter 30",
+      "linkViewXep": "/vi/watch/2120/15711"
+    },
+    {
+      "id": 31,
+      "nameViewXep": "Chapter 31",
+      "linkViewXep": "/vi/watch/2120/16725"
+    },
+    {
+      "id": 32,
+      "nameViewXep": "Chapter 32",
+      "linkViewXep": "/vi/watch/2120/17080"
+    },
+    {
+      "id": 33,
+      "nameViewXep": "Chapter 33",
+      "linkViewXep": "/vi/watch/2120/17180"
+    },
+    {
+      "id": 34,
+      "nameViewXep": "Chapter 34",
+      "linkViewXep": "/vi/watch/2120/17231"
+    },
+    {
+      "id": 35,
+      "nameViewXep": "Chapter 35",
+      "linkViewXep": "/vi/watch/2120/17232"
+    },
+    {
+      "id": 36,
+      "nameViewXep": "Chapter 36",
+      "linkViewXep": "/vi/watch/2120/17233"
+    },
+    {
+      "id": 37,
+      "nameViewXep": "Chapter 37",
+      "linkViewXep": "/vi/watch/2120/17234"
+    },
+    {
+      "id": 38,
+      "nameViewXep": "Chapter 38",
+      "linkViewXep": "/vi/watch/2120/17235"
+    },
+    {
+      "id": 39,
+      "nameViewXep": "Chapter 39",
+      "linkViewXep": "/vi/watch/2120/18875"
+    },
+    {
+      "id": 40,
+      "nameViewXep": "Chapter 40",
+      "linkViewXep": "/vi/watch/2120/18876"
+    },
+    {
+      "id": 41,
+      "nameViewXep": "Chapter 41",
+      "linkViewXep": "/vi/watch/2120/18877"
+    },
+    {
+      "id": 42,
+      "nameViewXep": "Chapter 42",
+      "linkViewXep": "/vi/watch/2120/20647"
+    },
+    {
+      "id": 43,
+      "nameViewXep": "Chapter 43",
+      "linkViewXep": "/vi/watch/2120/20654"
+    },
+    {
+      "id": 44,
+      "nameViewXep": "Chapter 44",
+      "linkViewXep": "/vi/watch/2120/20658"
+    },
+    {
+      "id": 45,
+      "nameViewXep": "Chapter 45",
+      "linkViewXep": "/vi/watch/2120/20660"
+    },
+    {
+      "id": 46,
+      "nameViewXep": "Chapter 46",
+      "linkViewXep": "/vi/watch/2120/20664"
+    },
+    {
+      "id": 47,
+      "nameViewXep": "Chapter 47",
+      "linkViewXep": "/vi/watch/2120/20666"
+    },
+    {
+      "id": 48,
+      "nameViewXep": "Chapter 48",
+      "linkViewXep": "/vi/watch/2120/20668"
+    },
+    {
+      "id": 49,
+      "nameViewXep": "Chapter 49",
+      "linkViewXep": "/vi/watch/2120/20671"
+    },
+    {
+      "id": 50,
+      "nameViewXep": "Chapter 50",
+      "linkViewXep": "/vi/watch/2120/20673"
+    },
+    {
+      "id": 51,
+      "nameViewXep": "Chapter 51",
+      "linkViewXep": "/vi/watch/2120/20676"
+    },
+    {
+      "id": 52,
+      "nameViewXep": "Chapter 52",
+      "linkViewXep": "/vi/watch/2120/22410"
+    },
+    {
+      "id": 53,
+      "nameViewXep": "Chapter 53",
+      "linkViewXep": "/vi/watch/2120/22415"
+    },
+    {
+      "id": 54,
+      "nameViewXep": "Chapter 54",
+      "linkViewXep": "/vi/watch/2120/22420"
+    },
+    {
+      "id": 55,
+      "nameViewXep": "Chapter 55",
+      "linkViewXep": "/vi/watch/2120/22422"
+    },
+    {
+      "id": 56,
+      "nameViewXep": "Chapter 56",
+      "linkViewXep": "/vi/watch/2120/22423"
+    },
+    {
+      "id": 57,
+      "nameViewXep": "Chapter 57",
+      "linkViewXep": "/vi/watch/2120/22424"
+    },
+    {
+      "id": 58,
+      "nameViewXep": "Chapter 58",
+      "linkViewXep": "/vi/watch/2120/22425"
+    },
+    {
+      "id": 59,
+      "nameViewXep": "Chapter 59",
+      "linkViewXep": "/vi/watch/2120/22426"
+    },
+    {
+      "id": 60,
+      "nameViewXep": "Chapter 60",
+      "linkViewXep": "/vi/watch/2120/22427"
+    },
+    {
+      "id": 61,
+      "nameViewXep": "Chapter 61",
+      "linkViewXep": "/vi/watch/2120/22428"
+    },
+    {
+      "id": 62,
+      "nameViewXep": "Chapter 62",
+      "linkViewXep": "/vi/watch/2120/23424"
+    },
+    {
+      "id": 63,
+      "nameViewXep": "Chapter 63",
+      "linkViewXep": "/vi/watch/2120/23405"
+    },
+    {
+      "id": 64,
+      "nameViewXep": "Chapter 64",
+      "linkViewXep": "/vi/watch/2120/23431"
+    },
+    {
+      "id": 65,
+      "nameViewXep": "Chapter 65",
+      "linkViewXep": "/vi/watch/2120/23435"
+    },
+    {
+      "id": 66,
+      "nameViewXep": "Chapter 66",
+      "linkViewXep": "/vi/watch/2120/23436"
+    },
+    {
+      "id": 67,
+      "nameViewXep": "Chapter 67",
+      "linkViewXep": "/vi/watch/2120/23437"
+    },
+    {
+      "id": 68,
+      "nameViewXep": "Chapter 68",
+      "linkViewXep": "/vi/watch/2120/23440"
+    },
+    {
+      "id": 69,
+      "nameViewXep": "Chapter 69",
+      "linkViewXep": "/vi/watch/2120/23441"
+    },
+    {
+      "id": 70,
+      "nameViewXep": "Chapter 70",
+      "linkViewXep": "/vi/watch/2120/23442"
+    },
+    {
+      "id": 71,
+      "nameViewXep": "Chapter 71",
+      "linkViewXep": "/vi/watch/2120/23443"
+    },
+    {
+      "id": 72,
+      "nameViewXep": "Chapter 72",
+      "linkViewXep": "/vi/watch/2120/25386"
+    },
+    {
+      "id": 73,
+      "nameViewXep": "Chapter 73",
+      "linkViewXep": "/vi/watch/2120/25498"
+    },
+    {
+      "id": 74,
+      "nameViewXep": "Chapter 74",
+      "linkViewXep": "/vi/watch/2120/25499"
+    },
+    {
+      "id": 75,
+      "nameViewXep": "Chapter 75",
+      "linkViewXep": "/vi/watch/2120/25500"
+    },
+    {
+      "id": 76,
+      "nameViewXep": "Chapter 76",
+      "linkViewXep": "/vi/watch/2120/25501"
+    },
+    {
+      "id": 77,
+      "nameViewXep": "Chapter 77",
+      "linkViewXep": "/vi/watch/2120/25503"
+    },
+    {
+      "id": 78,
+      "nameViewXep": "Chapter 78",
+      "linkViewXep": "/vi/watch/2120/25505"
+    },
+    {
+      "id": 79,
+      "nameViewXep": "Chapter 79",
+      "linkViewXep": "/vi/watch/2120/25524"
+    },
+    {
+      "id": 80,
+      "nameViewXep": "Chapter 80",
+      "linkViewXep": "/vi/watch/2120/25526"
+    },
+    {
+      "id": 81,
+      "nameViewXep": "Chapter 81",
+      "linkViewXep": "/vi/watch/2120/25527"
+    },
+    {
+      "id": 82,
+      "nameViewXep": "Chapter 82",
+      "linkViewXep": "/vi/watch/2120/27294"
+    },
+    {
+      "id": 83,
+      "nameViewXep": "Chapter 83",
+      "linkViewXep": "/vi/watch/2120/27295"
+    },
+    {
+      "id": 84,
+      "nameViewXep": "Chapter 84",
+      "linkViewXep": "/vi/watch/2120/27296"
+    },
+    {
+      "id": 85,
+      "nameViewXep": "Chapter 85",
+      "linkViewXep": "/vi/watch/2120/27299"
+    },
+    {
+      "id": 86,
+      "nameViewXep": "Chapter 86",
+      "linkViewXep": "/vi/watch/2120/27300"
+    },
+    {
+      "id": 87,
+      "nameViewXep": "Chapter 87",
+      "linkViewXep": "/vi/watch/2120/28352"
+    },
+    {
+      "id": 88,
+      "nameViewXep": "Chapter 88",
+      "linkViewXep": "/vi/watch/2120/28354"
+    },
+    {
+      "id": 89,
+      "nameViewXep": "Chapter 89",
+      "linkViewXep": "/vi/watch/2120/28358"
+    },
+    {
+      "id": 90,
+      "nameViewXep": "Chapter 90",
+      "linkViewXep": "/vi/watch/2120/28359"
+    },
+    {
+      "id": 91,
+      "nameViewXep": "Chapter 91",
+      "linkViewXep": "/vi/watch/2120/28361"
+    },
+    {
+      "id": 92,
+      "nameViewXep": "Chapter 92",
+      "linkViewXep": "/vi/watch/2120/28366"
+    },
+    {
+      "id": 93,
+      "nameViewXep": "Chapter 93",
+      "linkViewXep": "/vi/watch/2120/28367"
+    },
+    {
+      "id": 94,
+      "nameViewXep": "Chapter 94",
+      "linkViewXep": "/vi/watch/2120/28368"
+    },
+    {
+      "id": 95,
+      "nameViewXep": "Chapter 95",
+      "linkViewXep": "/vi/watch/2120/28369"
+    },
+    {
+      "id": 96,
+      "nameViewXep": "Chapter 96",
+      "linkViewXep": "/vi/watch/2120/28370"
+    },
+    {
+      "id": 97,
+      "nameViewXep": "Chapter 97",
+      "linkViewXep": "/vi/watch/2120/28371"
+    },
+    {
+      "id": 98,
+      "nameViewXep": "Chapter 98",
+      "linkViewXep": "/vi/watch/2120/28372"
+    },
+    {
+      "id": 99,
+      "nameViewXep": "Chapter 99",
+      "linkViewXep": "/vi/watch/2120/28373"
+    },
+    {
+      "id": 100,
+      "nameViewXep": "Chapter 100",
+      "linkViewXep": "/vi/watch/2120/28374"
+    },
+    {
+      "id": 101,
+      "nameViewXep": "Chapter 101",
+      "linkViewXep": "/vi/watch/2120/28375"
+    },
+    {
+      "id": 102,
+      "nameViewXep": "Chapter 102",
+      "linkViewXep": "/vi/watch/2120/29626"
+    },
+    {
+      "id": 103,
+      "nameViewXep": "Chapter 103",
+      "linkViewXep": "/vi/watch/2120/29627"
+    },
+    {
+      "id": 104,
+      "nameViewXep": "Chapter 104",
+      "linkViewXep": "/vi/watch/2120/29628"
+    },
+    {
+      "id": 105,
+      "nameViewXep": "Chapter 105",
+      "linkViewXep": "/vi/watch/2120/29629"
+    },
+    {
+      "id": 106,
+      "nameViewXep": "Chapter 106",
+      "linkViewXep": "/vi/watch/2120/30516"
+    },
+    {
+      "id": 107,
+      "nameViewXep": "Chapter 107",
+      "linkViewXep": "/vi/watch/2120/30513"
+    },
+    {
+      "id": 108,
+      "nameViewXep": "Chapter 108",
+      "linkViewXep": "/vi/watch/2120/30514"
+    },
+    {
+      "id": 109,
+      "nameViewXep": "Chapter 109",
+      "linkViewXep": "/vi/watch/2120/30517"
+    },
+    {
+      "id": 110,
+      "nameViewXep": "Chapter 110",
+      "linkViewXep": "/vi/watch/2120/30518"
+    },
+    {
+      "id": 111,
+      "nameViewXep": "Chapter 111",
+      "linkViewXep": "/vi/watch/2120/30520"
+    },
+    {
+      "id": 112,
+      "nameViewXep": "Chapter 112",
+      "linkViewXep": "/vi/watch/2120/31062"
+    },
+    {
+      "id": 113,
+      "nameViewXep": "Chapter 113",
+      "linkViewXep": "/vi/watch/2120/31063"
+    },
+    {
+      "id": 114,
+      "nameViewXep": "Chapter 114",
+      "linkViewXep": "/vi/watch/2120/31128"
+    },
+    {
+      "id": 115,
+      "nameViewXep": "Chapter 115",
+      "linkViewXep": "/vi/watch/2120/31064"
+    },
+    {
+      "id": 116,
+      "nameViewXep": "Chapter 116",
+      "linkViewXep": "/vi/watch/2120/31065"
+    },
+    {
+      "id": 117,
+      "nameViewXep": "Chapter 117",
+      "linkViewXep": "/vi/watch/2120/31066"
+    },
+    {
+      "id": 118,
+      "nameViewXep": "Chapter 118",
+      "linkViewXep": "/vi/watch/2120/31067"
+    },
+    {
+      "id": 119,
+      "nameViewXep": "Chapter 119",
+      "linkViewXep": "/vi/watch/2120/31143"
+    },
+    {
+      "id": 120,
+      "nameViewXep": "Chapter 120",
+      "linkViewXep": "/vi/watch/2120/31148"
+    },
+    {
+      "id": 121,
+      "nameViewXep": "Chapter 121",
+      "linkViewXep": "/vi/watch/2120/31151"
+    },
+    {
+      "id": 122,
+      "nameViewXep": "Chapter 122",
+      "linkViewXep": "/vi/watch/2120/32093"
+    },
+    {
+      "id": 123,
+      "nameViewXep": "Chapter 123",
+      "linkViewXep": "/vi/watch/2120/32094"
+    },
+    {
+      "id": 124,
+      "nameViewXep": "Chapter 124",
+      "linkViewXep": "/vi/watch/2120/32095"
+    },
+    {
+      "id": 125,
+      "nameViewXep": "Chapter 125",
+      "linkViewXep": "/vi/watch/2120/32097"
+    },
+    {
+      "id": 126,
+      "nameViewXep": "Chapter 126",
+      "linkViewXep": "/vi/watch/2120/32098"
+    },
+    {
+      "id": 127,
+      "nameViewXep": "Chapter 127",
+      "linkViewXep": "/vi/watch/2120/32100"
+    },
+    {
+      "id": 128,
+      "nameViewXep": "Chapter 128",
+      "linkViewXep": "/vi/watch/2120/32104"
+    },
+    {
+      "id": 129,
+      "nameViewXep": "Chapter 129",
+      "linkViewXep": "/vi/watch/2120/32106"
+    },
+    {
+      "id": 130,
+      "nameViewXep": "Chapter 130",
+      "linkViewXep": "/vi/watch/2120/32108"
+    },
+    {
+      "id": 131,
+      "nameViewXep": "Chapter 131",
+      "linkViewXep": "/vi/watch/2120/32110"
+    },
+    {
+      "id": 132,
+      "nameViewXep": "Chapter 132",
+      "linkViewXep": "/vi/watch/2120/33867"
+    },
+    {
+      "id": 133,
+      "nameViewXep": "Chapter 133",
+      "linkViewXep": "/vi/watch/2120/33868"
+    },
+    {
+      "id": 134,
+      "nameViewXep": "Chapter 134",
+      "linkViewXep": "/vi/watch/2120/33870"
+    },
+    {
+      "id": 135,
+      "nameViewXep": "Chapter 135",
+      "linkViewXep": "/vi/watch/2120/33872"
+    },
+    {
+      "id": 136,
+      "nameViewXep": "Chapter 136",
+      "linkViewXep": "/vi/watch/2120/33874"
+    },
+    {
+      "id": 137,
+      "nameViewXep": "Chapter 137",
+      "linkViewXep": "/vi/watch/2120/33875"
+    },
+    {
+      "id": 138,
+      "nameViewXep": "Chapter 138",
+      "linkViewXep": "/vi/watch/2120/33878"
+    },
+    {
+      "id": 139,
+      "nameViewXep": "Chapter 139",
+      "linkViewXep": "/vi/watch/2120/33879"
+    },
+    {
+      "id": 140,
+      "nameViewXep": "Chapter 140",
+      "linkViewXep": "/vi/watch/2120/35835"
+    },
+    {
+      "id": 141,
+      "nameViewXep": "Chapter 141",
+      "linkViewXep": "/vi/watch/2120/33886"
+    },
+    {
+      "id": 142,
+      "nameViewXep": "Chapter 142",
+      "linkViewXep": "/vi/watch/2120/35888"
+    },
+    {
+      "id": 143,
+      "nameViewXep": "Chapter 143",
+      "linkViewXep": "/vi/watch/2120/35890"
+    },
+    {
+      "id": 144,
+      "nameViewXep": "Chapter 144",
+      "linkViewXep": "/vi/watch/2120/35891"
+    },
+    {
+      "id": 145,
+      "nameViewXep": "Chapter 145",
+      "linkViewXep": "/vi/watch/2120/35892"
+    },
+    {
+      "id": 146,
+      "nameViewXep": "Chapter 146",
+      "linkViewXep": "/vi/watch/2120/35893"
+    },
+    {
+      "id": 147,
+      "nameViewXep": "Chapter 147",
+      "linkViewXep": "/vi/watch/2120/35894"
+    },
+    {
+      "id": 148,
+      "nameViewXep": "Chapter 148",
+      "linkViewXep": "/vi/watch/2120/35895"
+    },
+    {
+      "id": 149,
+      "nameViewXep": "Chapter 149",
+      "linkViewXep": "/vi/watch/2120/35896"
+    },
+    {
+      "id": 150,
+      "nameViewXep": "Chapter 150",
+      "linkViewXep": "/vi/watch/2120/36694"
+    },
+    {
+      "id": 151,
+      "nameViewXep": "Chapter 151",
+      "linkViewXep": "/vi/watch/2120/35899"
+    },
+    {
+      "id": 152,
+      "nameViewXep": "Chapter 152",
+      "linkViewXep": "/vi/watch/2120/35938"
+    },
+    {
+      "id": 153,
+      "nameViewXep": "Chapter 153",
+      "linkViewXep": "/vi/watch/2120/35982"
+    },
+    {
+      "id": 154,
+      "nameViewXep": "Chapter 154",
+      "linkViewXep": "/vi/watch/2120/35983"
+    },
+    {
+      "id": 155,
+      "nameViewXep": "Chapter 155",
+      "linkViewXep": "/vi/watch/2120/35986"
+    },
+    {
+      "id": 156,
+      "nameViewXep": "Chapter 156",
+      "linkViewXep": "/vi/watch/2120/35987"
+    },
+    {
+      "id": 157,
+      "nameViewXep": "Chapter 157",
+      "linkViewXep": "/vi/watch/2120/36699"
+    },
+    {
+      "id": 158,
+      "nameViewXep": "Chapter 158",
+      "linkViewXep": "/vi/watch/2120/35988"
+    },
+    {
+      "id": 159,
+      "nameViewXep": "Chapter 159",
+      "linkViewXep": "/vi/watch/2120/36029"
+    },
+    {
+      "id": 160,
+      "nameViewXep": "Chapter 160",
+      "linkViewXep": "/vi/watch/2120/36717"
+    },
+    {
+      "id": 161,
+      "nameViewXep": "Chapter 161",
+      "linkViewXep": "/vi/watch/2120/36718"
+    },
+    {
+      "id": 162,
+      "nameViewXep": "Chapter 162",
+      "linkViewXep": "/vi/watch/2120/36720"
+    }
+  ]
 }

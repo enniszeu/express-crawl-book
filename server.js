@@ -21,7 +21,7 @@ app.set('views', './views');
 
 // const db = []
 
-db.defaults({ posts: [], views: [], chaps: [], xephang: [] })
+db.defaults({ posts: [], views: [], chaps: [], xephang: [], viewsXep: [] })
   .write()
 
 
@@ -239,14 +239,10 @@ app.get('/post/chap/:id', function(req, res){
 				  	dateChap : dateChap
 				  })
 				  .write()
-			
-			// console.log(nameChap)
-			// console.log(dateChap)
 
 		}
 	})
 
-    // console.log(chapsItems)
     res.render('pageViewChap/viewPageChap',{
     	chapsItems:chapsItems,
     	_id : _id
@@ -257,17 +253,17 @@ app.get('/post/chap/:id', function(req, res){
 
 
 app.get('/bangxephang', function(req, res){
-	var xephangItems = db.get('xephang').value()
+	const xephangItems = db.get('xephang').value()
 
-	for (i = 1; i <100; i++){
-			request(`http://truyenqq.com/top-thang/trang-${i}.html`, (err,
+			request(`https://mangatoon.mobi/vi/genre/hot?type=1`, (err,
 				res, html) =>{
 				if(!err && res.statusCode == 200){
 					const $ = cheerio.load(html)
+					db.get('xephang').remove().write()
 
-					$('.list-stories li').each((i, el)=>{
+					$('.items a').each((i, el)=>{
 						const imageXephang = $(el)
-							.find('.story-item a img')
+							.find('.item div .content-image img')
 							.attr('src')
 
 						const nameXephang = $(el)
@@ -275,7 +271,6 @@ app.get('/bangxephang', function(req, res){
 							.attr('alt')
 
 						const linkXephang = $(el)
-							.find('a')
 							.attr('href')
 
 						db.get('xephang')
@@ -283,49 +278,70 @@ app.get('/bangxephang', function(req, res){
 						  	id : i + 1,
 						  	imageXephang : imageXephang,
 						  	nameXephang : nameXephang,
-						  	linkXephang : linkXephang
+						  	linkXephang : "https://mangatoon.mobi/"+linkXephang+"/episodes"
 						  })
 						  .write()
-
-
 						
 					})
 
 				}
 			})
-    	}
-
-	console.log(xephangItems)
-	
 
 
-    res.render('pageXephang/XephangPage',{
+    	console.log(xephangItems)
+    	res.render('pageXephang/XephangPage',{
     	xephangItems:xephangItems
     })
     
 })
 
-app.post('/bangxephang', function(req, res){
-	const timName = req.body;
-	var xephangItems = db.get('xephang').value()
+app.get('/post/xephang/:id', function(req, res){
+    const id = req.params.id
+    const items = db.get('xephang').find({ id: parseInt(id) }).value()
+    const url = items.linkXephang
+    const viewsXep = db.get('viewsXep').value()
+    console.log(viewsXep)
+    // console.log(items)
 
-	let bigCities = [];
-        for (let i = 0; i < xephangItems.length; i++) {
-            if (xephangItems[i].nameXephang === timName.timname) {
-                bigCities.push(xephangItems[i]);
-            }
-        }
-        console.log(bigCities)
 
-	console.log(timName)
-	res.render('tiemKim/pageTim',{
-    	bigCities:bigCities
+    requestsXep(url,id)
+    
+    res.render('pageViewXep/viewXepPage',{
+    	viewsXep:viewsXep,
+    	id:id
     })
-    db.get('xephang').remove().write()
+    
 })
+// viewrequest
+function requestsXep(url, id){
+	request({url}, (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			db.get('viewsXep').remove().write()
 
+			  	$('.episodes-wrap a').each((i, el)=>{
+					const linkViewXep = $(el)
+						.attr('href')
 
+					const nameViewXep = $(el)
+						.find('a .item-right .episode-title')
+						.text()
+						.replace(/\s\s+/g,"")
 
+					db.get('viewsXep')
+					  .push({ 
+					  	id:i+1,
+					  	nameViewXep:nameViewXep,
+					  	linkViewXep:linkViewXep
+					  })
+					  .write()
+
+				})
+		}
+
+	})
+}
 
 
 app.listen(port, function(){
