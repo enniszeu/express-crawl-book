@@ -2,70 +2,86 @@
   "posts": [
     {
       "id": 1,
+      "imageHome": "http://st.truyenchon.com/data/comics/119/majo-senpai-nichijou.jpg",
+      "nameHome": "Majo-Senpai Nichijou",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/majo-senpai-nichijou-19831",
+      "chapHome": "Chapter 13",
+      "chapTime": "4 phút trướ"
+    },
+    {
+      "id": 2,
+      "imageHome": "http://st.truyenchon.com/data/comics/72/sono-idol-kyuuketsuki-ni-tsuki.jpg",
+      "nameHome": "Sono Idol Kyuuketsuki ni tsuki",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki-27464",
+      "chapHome": "Chapter 6",
+      "chapTime": "5 phút trướ"
+    },
+    {
+      "id": 3,
       "imageHome": "http://st.truyenchon.com/data/comics/24/xuyen-duyet-tay-nguyen-3000.jpg",
       "nameHome": "Xuyên Duyệt Tây Nguyên 3000",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/xuyen-duyet-tay-nguyen-3000-4376",
       "chapHome": "Chapter 272.1",
-      "chapTime": "24 giây trư"
+      "chapTime": "9 phút trướ"
     },
     {
-      "id": 2,
+      "id": 4,
       "imageHome": "http://st.truyenchon.com/data/comics/180/than-ma-thien-sat.jpg",
       "nameHome": "Thần Ma Thiên Sát",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/than-ma-thien-sat-21684",
       "chapHome": "Chapter 67",
-      "chapTime": "4 phút trướ"
+      "chapTime": "13 phút trư"
     },
     {
-      "id": 3,
+      "id": 5,
       "imageHome": "http://st.truyenchon.com/data/comics/2/thuyen-truong-dai-nhan-khinh-diem-ai.jpg",
       "nameHome": "Thuyền Trưởng Đại Nhân Khinh Diểm Ái",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/thuyen-truong-dai-nhan-khinh-diem-ai-18690",
       "chapHome": "Chapter 59",
-      "chapTime": "7 phút trướ"
+      "chapTime": "16 phút trư"
     },
     {
-      "id": 4,
+      "id": 6,
       "imageHome": "http://st.truyenchon.com/data/comics/137/cau-chuyen-ve-cau-va-toi.jpg",
       "nameHome": "Câu chuyện về cậu và tôi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/cau-chuyen-ve-cau-va-toi-28297",
       "chapHome": "Chapter 16",
-      "chapTime": "18 phút trư"
+      "chapTime": "27 phút trư"
     },
     {
-      "id": 5,
+      "id": 7,
       "imageHome": "http://st.truyenchon.com/data/comics/234/seiken-no-blacksmith.jpg",
       "nameHome": "Seiken no Blacksmith",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/seiken-no-blacksmith-5354",
       "chapHome": "Chapter 44",
-      "chapTime": "36 phút trư"
+      "chapTime": "45 phút trư"
     },
     {
-      "id": 6,
+      "id": 8,
       "imageHome": "http://st.truyenchon.com/data/comics/94/tokyorevengers.jpg",
       "nameHome": "Tokyo卍Revengers",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tokyorevengers-20830",
       "chapHome": "Chapter 154",
-      "chapTime": "45 phút trư"
+      "chapTime": "53 phút trư"
     },
     {
-      "id": 7,
+      "id": 9,
       "imageHome": "http://st.truyenchon.com/data/comics/64/flying-witch.jpg",
       "nameHome": "Flying Witch",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/flying-witch-4416",
       "chapHome": "Chapter 33",
-      "chapTime": "57 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
-      "id": 8,
+      "id": 10,
       "imageHome": "http://st.truyenchon.com/data/comics/173/dau-gia-va-phap-khi-tai-di-gioi.jpg",
       "nameHome": "Đấu Giả Và Pháp Khí Tại Dị Giới",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dau-gia-va-phap-khi-tai-di-gioi-15789",
       "chapHome": "Chapter 44",
-      "chapTime": "57 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
-      "id": 9,
+      "id": 11,
       "imageHome": "http://st.truyenchon.com/data/comics/169/hoa-hong-nien-dai-hac-cot-duong.jpg",
       "nameHome": "Hỏa Hồng Niên Đại Hắc Cốt Đường",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hoa-hong-nien-dai-hac-cot-duong-17065",
@@ -73,7 +89,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 10,
+      "id": 12,
       "imageHome": "http://st.truyenchon.com/data/comics/98/trung-sinh-hai-hoang.jpg",
       "nameHome": "Trùng Sinh Hải Hoàng",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/trung-sinh-hai-hoang-26466",
@@ -81,7 +97,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 11,
+      "id": 13,
       "imageHome": "http://st.truyenchon.com/data/comics/246/hoang-de-be-ha-dich-thien-gioi-bao-boi.jpg",
       "nameHome": "Hoàng Đế Bệ Hạ Đích Thiên Giới Bảo Bối",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi-26358",
@@ -89,7 +105,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 12,
+      "id": 14,
       "imageHome": "http://st.truyenchon.com/data/comics/113/seijo-no-maryoku-wa-bannou-desu.jpg",
       "nameHome": "Seijo no Maryoku Wa Bannou Desu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/seijo-no-maryoku-wa-bannou-desu-18545",
@@ -97,7 +113,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 13,
+      "id": 15,
       "imageHome": "http://st.truyenchon.com/data/comics/233/anh-hung-va-hiep-nu.jpg",
       "nameHome": "Anh Hùng Và Hiệp Nữ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/anh-hung-va-hiep-nu-28649",
@@ -105,7 +121,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 14,
+      "id": 16,
       "imageHome": "http://st.truyenchon.com/data/comics/211/moi-tinh-dau-la-cv-dai-than.jpg",
       "nameHome": "Mối Tình Đầu Là CV Đại Thần",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/moi-tinh-dau-la-cv-dai-than-28883",
@@ -113,7 +129,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 15,
+      "id": 17,
       "imageHome": "http://st.truyenchon.com/data/comics/189/real-account-ii.jpg",
       "nameHome": "Real Account II",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/real-account-ii-7101",
@@ -121,7 +137,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 16,
+      "id": 18,
       "imageHome": "http://st.truyenchon.com/data/comics/222/sekai-saik-no-asashin-isekai-kizoku-ni-t-9293.jpg",
       "nameHome": "Sekai saikō no asashin, isekai kizoku ni tensei suru",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/sekai-saik-no-asashin-isekai-kizoku-ni-tensei-suru-21214",
@@ -129,7 +145,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 17,
+      "id": 19,
       "imageHome": "http://st.truyenchon.com/data/comics/224/am-da-vo-thuong.jpg",
       "nameHome": "Ám Dạ Vô Thường",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/am-da-vo-thuong-22752",
@@ -137,15 +153,15 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 18,
+      "id": 20,
       "imageHome": "http://st.truyenchon.com/data/comics/211/hatarakanai-futari.jpg",
       "nameHome": "Hatarakanai Futari",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hatarakanai-futari-8403",
       "chapHome": "Chapter 23",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 19,
+      "id": 21,
       "imageHome": "http://st.truyenchon.com/data/comics/186/luom-duoc-mot-tieu-ho-ly-3.jpg",
       "nameHome": "Lượm Được Một Tiểu Hồ Ly 3",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/luom-duoc-mot-tieu-ho-ly-3-22202",
@@ -153,7 +169,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 20,
+      "id": 22,
       "imageHome": "http://st.truyenchon.com/data/comics/227/em-gai-dung-lam-phien-toi.jpg",
       "nameHome": "Em Gái Đừng Làm Phiền Tôi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/em-gai-dung-lam-phien-toi-28131",
@@ -161,7 +177,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 21,
+      "id": 23,
       "imageHome": "http://st.truyenchon.com/data/comics/182/thien-than-khong-canh.jpg",
       "nameHome": "Thiên Thần Không Cánh",
       "linkHome": "http://nhattruyen.com/truyen-tranh/thien-than-khong-canh-15286",
@@ -169,7 +185,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 22,
+      "id": 24,
       "imageHome": "http://st.truyenchon.com/data/comics/75/khi-tro-choi-ac-ma-bat-dau.jpg",
       "nameHome": "Khi Trò Chơi Ác Ma Bắt Đầu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/khi-tro-choi-ac-ma-bat-dau-17227",
@@ -177,7 +193,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 23,
+      "id": 25,
       "imageHome": "http://st.truyenchon.com/data/comics/93/canh-dieu-xanh-bay-trong-con-gio.jpg",
       "nameHome": "Cánh Diều Xanh Bay Trong Cơn Gió",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/canh-dieu-xanh-bay-trong-con-gio-28765",
@@ -185,7 +201,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 24,
+      "id": 26,
       "imageHome": "http://st.truyenchon.com/data/comics/49/tong-tai-kieu-ngao-vo-yeu-em-dung-chay.jpg",
       "nameHome": "Tổng Tài Kiêu Ngạo: Vợ Yêu Em Đừng Chạy",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tong-tai-kieu-ngao-vo-yeu-em-dung-chay-27697",
@@ -193,7 +209,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 25,
+      "id": 27,
       "imageHome": "http://st.truyenchon.com/data/comics/202/nguyen-linh-chua-te.jpg",
       "nameHome": "Nguyên Linh Chúa Tể",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/nguyen-linh-chua-te-26826",
@@ -201,7 +217,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 26,
+      "id": 28,
       "imageHome": "http://st.truyenchon.com/data/comics/133/soredemo-ayumu-wa-yosetekuru.jpeg",
       "nameHome": "Soredemo Ayumu wa Yosetekuru",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/soredemo-ayumu-wa-yosetekuru-21381",
@@ -209,7 +225,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 27,
+      "id": 29,
       "imageHome": "http://st.truyenchon.com/data/comics/219/chua-te-nguyen-linh.jpg",
       "nameHome": "Chúa Tể Nguyên Linh",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/chua-te-nguyen-linh-26843",
@@ -217,7 +233,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 28,
+      "id": 30,
       "imageHome": "http://st.truyenchon.com/data/comics/222/cherry-teacher-sakura-naoki.jpg",
       "nameHome": "Cherry Teacher Sakura Naoki",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/cherry-teacher-sakura-naoki-13790",
@@ -225,7 +241,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 29,
+      "id": 31,
       "imageHome": "http://st.truyenchon.com/data/comics/201/god-of-blackfield.jpg",
       "nameHome": "God of blackfield",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield-28873",
@@ -233,15 +249,15 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 30,
+      "id": 32,
       "imageHome": "http://st.truyenchon.com/data/comics/161/ta-la-ta-de.jpg",
       "nameHome": "Ta Là Tà Đế",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-ta-de-26017",
       "chapHome": "Chapter 14.2",
-      "chapTime": "2 giờ trước"
+      "chapTime": "3 giờ trước"
     },
     {
-      "id": 31,
+      "id": 33,
       "imageHome": "http://st.truyenchon.com/data/comics/122/do-thi-dinh-phong-cao-thu.jpg",
       "nameHome": "Đô Thị Đỉnh Phong Cao Thủ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/do-thi-dinh-phong-cao-thu-24698",
@@ -249,7 +265,7 @@
       "chapTime": "3 giờ trước"
     },
     {
-      "id": 32,
+      "id": 34,
       "imageHome": "http://st.truyenchon.com/data/comics/71/hoan-phi-thien-ha.jpg",
       "nameHome": "Hoạn Phi Thiên Hạ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hoan-phi-thien-ha-28743",
@@ -257,7 +273,7 @@
       "chapTime": "3 giờ trước"
     },
     {
-      "id": 33,
+      "id": 35,
       "imageHome": "http://st.truyenchon.com/data/comics/25/con-sot-vang-sau-chien-tranh.jpg",
       "nameHome": "Cơn sốt vàng sau chiến tranh",
       "linkHome": "http://nhattruyen.com/truyen-tranh/con-sot-vang-sau-chien-tranh-11801",
@@ -265,391 +281,55 @@
       "chapTime": "3 giờ trước"
     },
     {
-      "id": 34,
+      "id": 36,
       "imageHome": "http://st.truyenchon.com/data/comics/48/tha-vu-nu-do-ra.jpg",
       "nameHome": "Thả Vu Nữ Đó Ra",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tha-vu-nu-do-ra-21552",
       "chapHome": "Chapter 78",
       "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/88/seifuku-no-vampiress-lord.jpg",
-      "nameHome": "Seifuku no Vampiress Lord",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/seifuku-no-vampiress-lord-16984",
-      "chapHome": "Chapter 21",
-      "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 36,
-      "imageHome": "http://st.truyenchon.com/data/comics/171/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-393.jpg",
-      "nameHome": "Trọng sinh bá sủng Nhiếp Chính Vương quá mạnh mẽ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-manh-me-21419",
-      "chapHome": "Chapter 60",
-      "chapTime": "3 giờ trước"
     }
   ],
   "views": [
     {
-      "id": "11",
-      "nameView": "Hoàng Đế Bệ Hạ Đích Thiên Giới Bảo Bối",
-      "imgView": "http://st.truyenchon.com/data/comics/246/hoang-de-be-ha-dich-thien-gioi-bao-boi.jpg",
-      "dataView": "\n        [Cập nhật lúc: 17:05 19/04/2020]\n     ",
-      "tenKhac": "",
-      "tacGia": "Đang cập nhật",
+      "id": "2",
+      "nameView": "Sono Idol Kyuuketsuki ni tsuki",
+      "imgView": "http://st.truyenchon.com/data/comics/72/sono-idol-kyuuketsuki-ni-tsuki.jpg",
+      "dataView": "\n        [Cập nhật lúc: 18:14 19/04/2020]\n     ",
+      "tenKhac": "Be Vamp, Be Idol!; Sono Aidoru Kyuuketsuki ni Tsuki; そのアイドル吸血鬼につき",
+      "tacGia": "Natsu Samako",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Manhua - Truyện Màu - Xuyên Không",
-      "noiDung": ""
-    },
-    {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-70/559805"
-    },
-    {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-69/558561"
-    },
-    {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-68/557816"
-    },
-    {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-67/557204"
-    },
-    {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-66/556499"
-    },
-    {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-65/555945"
-    },
-    {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-64/555194"
-    },
-    {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-63/554236"
-    },
-    {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-62/553901"
-    },
-    {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-61/553447"
-    },
-    {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-60/552443"
-    },
-    {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-59/552115"
-    },
-    {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-58/551383"
-    },
-    {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-57/550755"
-    },
-    {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-56/550227"
-    },
-    {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-55/549491"
-    },
-    {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-54/548514"
-    },
-    {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-53/547413"
-    },
-    {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-52/545794"
-    },
-    {
-      "_id": "51",
-      "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-51/545702"
-    },
-    {
-      "_id": "50",
-      "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-50/545505"
-    },
-    {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-49/545504"
-    },
-    {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-48/545328"
-    },
-    {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-47/544977"
-    },
-    {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-46/544775"
-    },
-    {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-45/544573"
-    },
-    {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-44/543825"
-    },
-    {
-      "_id": "43",
-      "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-43/543817"
-    },
-    {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-42/542653"
-    },
-    {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-41/541926"
-    },
-    {
-      "_id": "40",
-      "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-40/541583"
-    },
-    {
-      "_id": "39",
-      "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-39/541179"
-    },
-    {
-      "_id": "38",
-      "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-38/540107"
-    },
-    {
-      "_id": "37",
-      "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-37/539735"
-    },
-    {
-      "_id": "36",
-      "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-36/539149"
-    },
-    {
-      "_id": "35",
-      "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-35/538845"
-    },
-    {
-      "_id": "34",
-      "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-34/537623"
-    },
-    {
-      "_id": "33",
-      "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-33/537619"
-    },
-    {
-      "_id": "32",
-      "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-32/537313"
-    },
-    {
-      "_id": "31",
-      "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-31/537268"
-    },
-    {
-      "_id": "30",
-      "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-30/537209"
-    },
-    {
-      "_id": "29",
-      "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-29/536968"
-    },
-    {
-      "_id": "28",
-      "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-28/536596"
-    },
-    {
-      "_id": "27",
-      "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-27/536286"
-    },
-    {
-      "_id": "26",
-      "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-26/536282"
-    },
-    {
-      "_id": "25",
-      "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-25/535991"
-    },
-    {
-      "_id": "24",
-      "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-24/535979"
-    },
-    {
-      "_id": "23",
-      "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-23/535402"
-    },
-    {
-      "_id": "22",
-      "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-22/535272"
-    },
-    {
-      "_id": "21",
-      "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-21/535084"
-    },
-    {
-      "_id": "20",
-      "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-20/534768"
-    },
-    {
-      "_id": "19",
-      "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-19/534150"
-    },
-    {
-      "_id": "18",
-      "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-18/533851"
-    },
-    {
-      "_id": "17",
-      "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-17/533634"
-    },
-    {
-      "_id": "16",
-      "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-16/532522"
-    },
-    {
-      "_id": "15",
-      "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-15/532517"
-    },
-    {
-      "_id": "14",
-      "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-14/532157"
-    },
-    {
-      "_id": "13",
-      "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-13/530970"
-    },
-    {
-      "_id": "12",
-      "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-12/530553"
-    },
-    {
-      "_id": "11",
-      "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-11/530254"
-    },
-    {
-      "_id": "10",
-      "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-10/529086"
-    },
-    {
-      "_id": "9",
-      "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-9/528903"
-    },
-    {
-      "_id": "8",
-      "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-8/528524"
-    },
-    {
-      "_id": "7",
-      "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-7/527242"
+      "theLoai": "Comedy - Fantasy - Manga - Romance - Shoujo",
+      "noiDung": "Minato là một học sinh cao trung, fan cuồng của nữ idol tên Shiraume Coco. Tuy nhiên Coco đột nhiên thông báo tốt nghiệp ở buổi live cuối làm cậu ăn không ngon, ngủ không yên suốt một tháng. Sau đó, cậu tình cờ gặp lại Coco tại một công viên và vận mệnh cậu thay đổi từ đây..."
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-6/527094"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-6/559820"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-5/526688"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-5/555932"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-4/525728"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-4/555931"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-3/525522"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-3/548268"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-2/524908"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-2/544773"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoang-de-be-ha-dich-thien-gioi-bao-boi/chap-1/524453"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/sono-idol-kyuuketsuki-ni-tsuki/chap-1/540302"
     },
     {
       "_id": "520",
@@ -679,122 +359,83 @@
   ],
   "chaps": [
     {
-      "imageChap": "https://2.bp.blogspot.com/-Q3ojP9Rlkvk/XpXFqJsITKI/AAAAAAAC22E/xHCbmsyMhTQcnOyUPjd7w1bWf9redYd4ACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-1-0.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/001-fix.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-65JnWRQEUow/XpXFqKbAJrI/AAAAAAAC218/H2T1Uwt9QWAOdZvtIUDdWZfJPpmL6gKfwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-1-1.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/002-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/--najCMYtlAA/XpXFqDpcWFI/AAAAAAAC22A/rNw22JXc1csJXRGLoxfP10zOSbbktywSQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-1-2.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/003-fix.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-GmqSkm4Uo48/XpXFrJhdOLI/AAAAAAAC22I/dZnENqQ2X_c9Sjnlwl_Lk4_-gdCFFeC4QCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-1-3.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/004-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-oL4j6_Cwjs0/XpXFrqLFIAI/AAAAAAAC22M/91SQw_JhMlM9Zz1v-6a2tdFQo-zfwGoagCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-0.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/005-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-GYVuUIXX40o/XpXFsbZrLrI/AAAAAAAC22Q/KtWfVYPhw8AosgaexpNwynZryJ6SCMDnwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-1.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/006-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-AAY9kzyxmv0/XpXFsy1VpUI/AAAAAAAC22U/5zmbSCdf4xoNRwJdEPIN8ojBolWTdrF2QCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-2.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/007-fix.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-iHXRUahiOJo/XpXFtEIIBrI/AAAAAAAC22Y/FNlIDXPqkh8RbA_3kkxg1OwJ_tpcRMnEwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-3.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/008-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-fXoUKb3PU44/XpXFtxG37sI/AAAAAAAC22c/ud3SgZwQtcM7I5ti3rz7sN-sDKr6xEkkgCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-4.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/009-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-Kr11GktSPBE/XpXFuYWhZ8I/AAAAAAAC22g/MJre6cU05xE0rgIiKt6uw6HS_dG02jWhwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-2-5.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/010-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-V42LGlgK__w/XpXFuvJRP3I/AAAAAAAC22k/8dyB-XJ__n0NH4VspGCSDX-ElhAUerlPACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-3-0.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/011-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-_MdSHyZHEds/XpXFvMjsxII/AAAAAAAC22o/jNpLNhZHMCwWw6N31iccshjDHpkNLwgcwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-3-1.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/012-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-EuVw5SIYvQg/XpXFvqTiXQI/AAAAAAAC22s/ORLI9FwZcTo2It6gHUHFstdm-WxEJ7_KgCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-3-2.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/013-fix.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-tmWv6AIw3h8/XpXFwFQQMMI/AAAAAAAC22w/55DxOvoKSfsQAVSqofJrVAxA4oomc6pUwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-3-3.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/014-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-q9eZNxuY6lk/XpXFwj_25tI/AAAAAAAC220/b8aajvPlpL4eLrLHYPKMNtIUdUwIywOUQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-0.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/015-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-wa7uk0wUa9w/XpXFxIcAm3I/AAAAAAAC224/gZhy6B6AFi0B2pekBY30aK1NT7YAliuuQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-1.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/016-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-EV9wAbVitUA/XpXFxxBxCjI/AAAAAAAC228/aiiodM-n4UsIK4GWtXy43OpNLMnye4IYACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-2.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/017-fix.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-VQo1Nw3Tu-Y/XpXFyHqy3tI/AAAAAAAC23A/j7xQDm1o2ngWanJ0QfQTDRNxZfJ_BhGAQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-3.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/018-fix.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-AIiTbeqXWeU/XpXFy0eq_zI/AAAAAAAC23E/O_5ENjhvvhEPzhpyfXJ-koe-sOrpvRmQACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-4.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/019-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-gJBjWLJptUo/XpXFy5E0O1I/AAAAAAAC23I/gt5YUonw3W0Xo-9PLQPqbdsFe6vs6wmqACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-5.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/020-fix.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-7eNoZwG1ErQ/XpXFzSdtlsI/AAAAAAAC23M/IsjvCuAQqVoXivUZuDZizwvn_2jgzuasACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-6.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/021-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-3CGQ87yM4Vo/XpXF0xjl0tI/AAAAAAAC23Q/BDumUq2hdes4IUP7P4_l0td57zrc9MPPACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-7.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/022-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-bJRAVMsLhPg/XpXF061O4JI/AAAAAAAC23U/zKzdOXqpa6wt-Zdj6snNC3ALhQwNu6iDACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-4-8.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/023-fix.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-2Xa9egrusEc/XpXF1M7RD3I/AAAAAAAC23Y/QG1aqSSnLdwGcrpGDGz-iocpWgUTAG1zACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-5-0.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/024-fix.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-yUTL8hrwuHw/XpXF1md7hSI/AAAAAAAC23c/52DW_xAbxkcbv9YZJoWBmNucejgNqb90QCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-5-1.webp"
+      "imageChap": "http://imageinstant.com/data/images/27464/555931/025-fix.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-1YZtXopo6Yw/XpXF2Q9VlkI/AAAAAAAC23g/SCwKGrzX694_KDxxXZd6h1FS9AqFSB76gCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-5-2.webp"
-    },
-    {
-      "imageChap": "https://3.bp.blogspot.com/-865tWXR6Yaw/XpXF2pBLbPI/AAAAAAAC23k/K61t59ICqLQe3LtU0K-SoHqxw0SWrDeewCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-6-0.webp"
-    },
-    {
-      "imageChap": "https://1.bp.blogspot.com/--4S-sl9Bxls/XpXF3ASjVWI/AAAAAAAC23o/tO_50Vl_fe4Dp3XiMYS5iyHQ8boFjd6dACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-6-1.webp"
-    },
-    {
-      "imageChap": "https://3.bp.blogspot.com/--6db66GRJig/XpXF3vh4k8I/AAAAAAAC23s/NczuQOjdtEE5iD0BTPLKVfCZWbNRSq-RgCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-6-2.webp"
-    },
-    {
-      "imageChap": "https://2.bp.blogspot.com/-RUeHvqhb2Xw/XpXF4PyuBFI/AAAAAAAC23w/2l4AidtqDAAbzbRSjJkNuPSeZHdVV8vHwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-6-3.webp"
-    },
-    {
-      "imageChap": "https://1.bp.blogspot.com/-kno_-WcMEf0/XpXF4p0PBoI/AAAAAAAC230/poiX9UP0BiE7qdAagZtVrAnxs_bqP7epwCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-7-0.webp"
-    },
-    {
-      "imageChap": "https://1.bp.blogspot.com/-Fgxocp_1i24/XpXF42eCogI/AAAAAAAC234/WY8T4XbLQ_oJWzrFF_B0HSUBB1T52a3FQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-7-1.webp"
-    },
-    {
-      "imageChap": "https://4.bp.blogspot.com/-6NZwmEcWQak/XpXF5UznLLI/AAAAAAAC238/nqhoHS5CTukAS4JFLClj2K331W0WcQ4_ACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-7-2.webp"
-    },
-    {
-      "imageChap": "https://4.bp.blogspot.com/-FbiUBkHGytU/XpXF5iRzO1I/AAAAAAAC24A/T2PUuwvHDqY0Un8w1wjZSFfsrQA5URUzQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-7-3.webp"
-    },
-    {
-      "imageChap": "https://3.bp.blogspot.com/-YKGM0z8o0vQ/XpXF59DbQxI/AAAAAAAC24E/SF5vknhUHqoIBu6-zDMuVXfkL6OevNmnACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-7-4.webp"
-    },
-    {
-      "imageChap": "https://3.bp.blogspot.com/-7Qo1PM2dqrU/XpXF6JzwtkI/AAAAAAAC24I/IVB8s5eb-ecLqrQKyYwm2UvOdsrDuFJLACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-8-0.webp"
-    },
-    {
-      "imageChap": "https://4.bp.blogspot.com/-h5ukhWRcEXg/XpXF6_c2QEI/AAAAAAAC24M/KYPLzohJ8qIIKBEH0PwUS6Ve31HfoSusACLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-8-1.webp"
-    },
-    {
-      "imageChap": "https://1.bp.blogspot.com/-2GJjO_T6FeA/XpXF7B-tlGI/AAAAAAAC24Q/ljDRZLPTREcdwSuF2vUbFy4VoVYWzahTQCLcBGAsYHQ/s0/Hoang-De-Be-Ha-Dich-Thien-Gioi-Bao-Boi-Chapter-68-P-8-2.webp"
-    },
-    {
-      "nameChap": "Hoàng Đế Bệ Hạ Đích Thiên Giới Bảo Bối - Chapter 68",
-      "dateChap": "[Cập nhật lúc: 21:21 14/04/2020]"
+      "nameChap": "Sono Idol Kyuuketsuki ni tsuki - Chapter 4",
+      "dateChap": "[Cập nhật lúc: 18:44 07/04/2020]"
     }
   ],
   "homeXephang": [
@@ -940,7 +581,7 @@
       "nameHome": "Tổng Tài Hàng Tỉ Quấn Lấy Tôi: Hôn Ước Giá Trên Trời",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tong-tai-hang-ti-quan-lay-toi-hon-uoc-gia-tren-troi-17176",
       "chapHome": "Chapter 114",
-      "chapTime": "6 ngày trướ"
+      "chapTime": "7 ngày trướ"
     },
     {
       "id": 19,
@@ -1052,7 +693,7 @@
       "nameHome": "Thảnh Thơi Thú Thế Chủng Chủng Điền, Sinh Sinh Tể",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/thanh-thoi-thu-the-chung-chung-dien-sinh-sinh-te-21401",
       "chapHome": "Chapter 131",
-      "chapTime": "7 giờ trước"
+      "chapTime": "8 giờ trước"
     },
     {
       "id": 33,
@@ -1089,910 +730,235 @@
   ],
   "viewsXepHang": [
     {
-      "id": "15",
-      "nameView": "Danh Môn Chí Ái",
-      "imgView": "http://st.truyenchon.com/data/comics/251/danh-mon-chi-ai.jpg",
-      "dataView": "\n        [Cập nhật lúc: 21:39 16/04/2020]\n     ",
+      "id": "34",
+      "nameView": "Vương Phi Hám Của - Phu Quân Là Một Bảo Bảo Ấm Áp",
+      "imgView": "http://st.truyenchon.com/data/comics/49/vuong-phi-ham-cua-phu-quan-la-mot-bao-ba-9810.jpg",
+      "dataView": "\n        [Cập nhật lúc: 22:38 15/04/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Comedy - Manhua - Ngôn Tình - Romance - Truyện Màu",
-      "noiDung": "Một cuộc giao dịch đã bắt cô ấy phải hiến thân cho người đàn ông tôn kính nhất, đáng sợ nhất ở thành phố Đông Lăng. Ban ngày, cô ấy là một người con gái bình thường như bao cô gái khác nhưng ban đêm cô lại trở thành món đồ chơi của anh ta… Hai tay cô bị ép dưới ngực anh, khuôn mặt kinh hoảng: “Nếu anh dám làm loạn, tôi… tôi sẽ tố cáo anh.” Anh nhấc cằm cô lên, cười tà mị nói: “Cả cái thành phố Đông Lăng này là thiên hạ của tôi, em dám tố cáo tôi sao?”"
+      "theLoai": "Cổ Đại - Comedy - Manhua - Ngôn Tình - Romance - Truyện Màu - Xuyên Không",
+      "noiDung": "Xuyên không thì thôi chứ, đã thế còn xuyên không thành con gái của tội thần triều đình ? Phu quân làm ngơ, ai gặp cũng ức hiếp, còn nghèo túng cùng cực nữa. Cứ đợi đấy ! Hãy xem ta đoạt sủng kiếm tiền, tình yêu và sự nghiệp đều nắm trong tay..."
     },
     {
-      "_id": "97",
-      "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-97/558764"
+      "_id": "44",
+      "chapter": "Chapter 44",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-44/558401"
     },
     {
-      "_id": "96.",
-      "chapter": "Chapter 96.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-96.2/557814"
+      "_id": "43",
+      "chapter": "Chapter 43",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-43/558402"
     },
     {
-      "_id": "96.",
-      "chapter": "Chapter 96.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-96.1/557813"
+      "_id": "42",
+      "chapter": "Chapter 42",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-42/558403"
     },
     {
-      "_id": "95.",
-      "chapter": "Chapter 95.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-95.2/557070"
+      "_id": "41",
+      "chapter": "Chapter 41",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-41/554976"
     },
     {
-      "_id": "95.",
-      "chapter": "Chapter 95.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-95.1/557069"
+      "_id": "40",
+      "chapter": "Chapter 40",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-40/531660"
     },
     {
-      "_id": "94",
-      "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-94/556512"
+      "_id": "39",
+      "chapter": "Chapter 39",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-39/531661"
     },
     {
-      "_id": "93",
-      "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-93/555950"
+      "_id": "38",
+      "chapter": "Chapter 38",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-38/531662"
     },
     {
-      "_id": "92",
-      "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-92/555016"
+      "_id": "37",
+      "chapter": "Chapter 37",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-37/531663"
     },
     {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-91/554373"
+      "_id": "36",
+      "chapter": "Chapter 36",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-36/531664"
     },
     {
-      "_id": "90.",
-      "chapter": "Chapter 90.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-90.2/553063"
+      "_id": "35",
+      "chapter": "Chapter 35",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-35/530034"
     },
     {
-      "_id": "90.",
-      "chapter": "Chapter 90.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-90.1/553062"
+      "_id": "34",
+      "chapter": "Chapter 34",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-34/530035"
     },
     {
-      "_id": "89.",
-      "chapter": "Chapter 89.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-89.2/552568"
+      "_id": "33",
+      "chapter": "Chapter 33",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-33/530036"
     },
     {
-      "_id": "89.",
-      "chapter": "Chapter 89.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-89.1/552567"
+      "_id": "32",
+      "chapter": "Chapter 32",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-32/530037"
     },
     {
-      "_id": "88.",
-      "chapter": "Chapter 88.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-88.2/551336"
+      "_id": "31",
+      "chapter": "Chapter 31",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-31/530038"
     },
     {
-      "_id": "88.",
-      "chapter": "Chapter 88.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-88.1/551332"
+      "_id": "30",
+      "chapter": "Chapter 30",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-30/530039"
     },
     {
-      "_id": "87.",
-      "chapter": "Chapter 87.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-87.2/550376"
+      "_id": "29",
+      "chapter": "Chapter 29",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-29/529225"
     },
     {
-      "_id": "87.",
-      "chapter": "Chapter 87.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-87.1/550375"
+      "_id": "28",
+      "chapter": "Chapter 28",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-28/529226"
     },
     {
-      "_id": "86.",
-      "chapter": "Chapter 86.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-86.2/549035"
+      "_id": "27",
+      "chapter": "Chapter 27",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-27/529227"
     },
     {
-      "_id": "86.",
-      "chapter": "Chapter 86.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-86.1/549032"
+      "_id": "26",
+      "chapter": "Chapter 26",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-26/529228"
     },
     {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-85/548018"
+      "_id": "25",
+      "chapter": "Chapter 25",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-25/529229"
     },
     {
-      "_id": "84.",
-      "chapter": "Chapter 84.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-84.2/546647"
+      "_id": "24",
+      "chapter": "Chapter 24",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-24/529230"
     },
     {
-      "_id": "84.",
-      "chapter": "Chapter 84.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-84.1/546646"
+      "_id": "23",
+      "chapter": "Chapter 23",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-23/529231"
     },
     {
-      "_id": "83.",
-      "chapter": "Chapter 83.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-83.2/545584"
+      "_id": "22",
+      "chapter": "Chapter 22",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-22/529232"
     },
     {
-      "_id": "83.",
-      "chapter": "Chapter 83.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-83.1/545580"
+      "_id": "21",
+      "chapter": "Chapter 21",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-21/529233"
     },
     {
-      "_id": "82.",
-      "chapter": "Chapter 82.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-82.2/544619"
+      "_id": "20",
+      "chapter": "Chapter 20",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-20/529234"
     },
     {
-      "_id": "82.",
-      "chapter": "Chapter 82.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-82.1/544618"
+      "_id": "19",
+      "chapter": "Chapter 19",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-19/529235"
     },
     {
-      "_id": "81.",
-      "chapter": "Chapter 81.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-81.2/543390"
+      "_id": "18",
+      "chapter": "Chapter 18",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-18/529236"
     },
     {
-      "_id": "81.",
-      "chapter": "Chapter 81.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-81.1/543389"
+      "_id": "17",
+      "chapter": "Chapter 17",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-17/529237"
     },
     {
-      "_id": "80.",
-      "chapter": "Chapter 80.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-80.2/542282"
+      "_id": "16",
+      "chapter": "Chapter 16",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-16/529238"
     },
     {
-      "_id": "80.",
-      "chapter": "Chapter 80.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-80.1/542281"
+      "_id": "15",
+      "chapter": "Chapter 15",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-15/529221"
     },
     {
-      "_id": "79.",
-      "chapter": "Chapter 79.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-79.2/541780"
+      "_id": "14",
+      "chapter": "Chapter 14",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-14/529222"
     },
     {
-      "_id": "79.",
-      "chapter": "Chapter 79.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-79.1/541778"
+      "_id": "13",
+      "chapter": "Chapter 13",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-13/529223"
     },
     {
-      "_id": "78.",
-      "chapter": "Chapter 78.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-78.2/540998"
+      "_id": "12",
+      "chapter": "Chapter 12",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-12/479947"
     },
     {
-      "_id": "78.",
-      "chapter": "Chapter 78.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-78.1/540997"
+      "_id": "11",
+      "chapter": "Chapter 11",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-11/477089"
     },
     {
-      "_id": "77.",
-      "chapter": "Chapter 77.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-77.2/540274"
+      "_id": "10",
+      "chapter": "Chapter 10",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-10/477088"
     },
     {
-      "_id": "77.",
-      "chapter": "Chapter 77.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-77.1/540273"
+      "_id": "9",
+      "chapter": "Chapter 9",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-9/477087"
     },
     {
-      "_id": "76.",
-      "chapter": "Chapter 76.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-76.2/539123"
+      "_id": "8",
+      "chapter": "Chapter 8",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-8/477086"
     },
     {
-      "_id": "76.",
-      "chapter": "Chapter 76.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-76.1/539120"
+      "_id": "7",
+      "chapter": "Chapter 7",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-7/477085"
     },
     {
-      "_id": "75.",
-      "chapter": "Chapter 75.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-75.2/538307"
+      "_id": "6",
+      "chapter": "Chapter 6",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-6/477084"
     },
     {
-      "_id": "75.",
-      "chapter": "Chapter 75.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-75.1/538306"
+      "_id": "5",
+      "chapter": "Chapter 5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-5/477083"
     },
     {
-      "_id": "74.",
-      "chapter": "Chapter 74.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-74.2/537851"
+      "_id": "4",
+      "chapter": "Chapter 4",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-4/477082"
     },
     {
-      "_id": "74.",
-      "chapter": "Chapter 74.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-74.1/537850"
+      "_id": "3",
+      "chapter": "Chapter 3",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-3/477081"
     },
     {
-      "_id": "73.",
-      "chapter": "Chapter 73.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-73.2/537096"
-    },
-    {
-      "_id": "73.",
-      "chapter": "Chapter 73.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-73.1/537095"
-    },
-    {
-      "_id": "72.",
-      "chapter": "Chapter 72.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-72.2/536958"
-    },
-    {
-      "_id": "72.",
-      "chapter": "Chapter 72.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-72.1/536957"
-    },
-    {
-      "_id": "71.",
-      "chapter": "Chapter 71.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-71.2/536610"
-    },
-    {
-      "_id": "71.",
-      "chapter": "Chapter 71.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-71.1/536609"
-    },
-    {
-      "_id": "70.",
-      "chapter": "Chapter 70.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-70.2/536219"
-    },
-    {
-      "_id": "70.",
-      "chapter": "Chapter 70.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-70.1/536218"
-    },
-    {
-      "_id": "69.",
-      "chapter": "Chapter 69.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-69.2/535511"
-    },
-    {
-      "_id": "69.",
-      "chapter": "Chapter 69.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-69.1/535510"
-    },
-    {
-      "_id": "68.",
-      "chapter": "Chapter 68.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-68.2/534666"
-    },
-    {
-      "_id": "68.",
-      "chapter": "Chapter 68.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-68.1/534663"
-    },
-    {
-      "_id": "67.",
-      "chapter": "Chapter 67.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-67.2/534207"
-    },
-    {
-      "_id": "67.",
-      "chapter": "Chapter 67.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-67.1/534206"
-    },
-    {
-      "_id": "66.",
-      "chapter": "Chapter 66.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-66.2/533495"
-    },
-    {
-      "_id": "66.",
-      "chapter": "Chapter 66.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-66.1/533476"
-    },
-    {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-65/532616"
-    },
-    {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-64/531745"
-    },
-    {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-63/531285"
-    },
-    {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-62/530528"
-    },
-    {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-61/530141"
-    },
-    {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-60/529658"
-    },
-    {
-      "_id": "59.",
-      "chapter": "Chapter 59.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-59.2/528659"
-    },
-    {
-      "_id": "59.",
-      "chapter": "Chapter 59.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-59.1/528658"
-    },
-    {
-      "_id": "58.",
-      "chapter": "Chapter 58.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-58.2/527892"
-    },
-    {
-      "_id": "58.",
-      "chapter": "Chapter 58.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-58.1/527891"
-    },
-    {
-      "_id": "57.",
-      "chapter": "Chapter 57.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-57.2/527305"
-    },
-    {
-      "_id": "57.",
-      "chapter": "Chapter 57.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-57.1/527304"
-    },
-    {
-      "_id": "56.",
-      "chapter": "Chapter 56.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-56.2/526788"
-    },
-    {
-      "_id": "56.",
-      "chapter": "Chapter 56.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-56.1/526787"
-    },
-    {
-      "_id": "55.",
-      "chapter": "Chapter 55.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-55.2/525616"
-    },
-    {
-      "_id": "55.",
-      "chapter": "Chapter 55.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-55.1/525615"
-    },
-    {
-      "_id": "54.",
-      "chapter": "Chapter 54.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-54.2/524314"
-    },
-    {
-      "_id": "54.",
-      "chapter": "Chapter 54.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-54.1/524313"
-    },
-    {
-      "_id": "53.",
-      "chapter": "Chapter 53.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-53.2/523546"
-    },
-    {
-      "_id": "53.",
-      "chapter": "Chapter 53.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-53.1/523545"
-    },
-    {
-      "_id": "52.",
-      "chapter": "Chapter 52.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-52.2/522831"
-    },
-    {
-      "_id": "52.",
-      "chapter": "Chapter 52.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-52.1/522830"
-    },
-    {
-      "_id": "51.",
-      "chapter": "Chapter 51.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-51.2/522535"
-    },
-    {
-      "_id": "51.",
-      "chapter": "Chapter 51.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-51.1/522534"
-    },
-    {
-      "_id": "50.",
-      "chapter": "Chapter 50.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-50.2/521680"
-    },
-    {
-      "_id": "50.",
-      "chapter": "Chapter 50.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-50.1/521679"
-    },
-    {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-49/520942"
-    },
-    {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-48/520782"
-    },
-    {
-      "_id": "47.",
-      "chapter": "Chapter 47.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-47.2/520246"
-    },
-    {
-      "_id": "47.",
-      "chapter": "Chapter 47.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-47.1/520245"
-    },
-    {
-      "_id": "46.",
-      "chapter": "Chapter 46.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-46.2/519525"
-    },
-    {
-      "_id": "46.",
-      "chapter": "Chapter 46.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-46.1/519524"
-    },
-    {
-      "_id": "45.",
-      "chapter": "Chapter 45.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-45.2/519523"
-    },
-    {
-      "_id": "45.",
-      "chapter": "Chapter 45.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-45.1/519522"
-    },
-    {
-      "_id": "44.",
-      "chapter": "Chapter 44.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-44.2/519521"
-    },
-    {
-      "_id": "44.",
-      "chapter": "Chapter 44.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-44.1/519519"
-    },
-    {
-      "_id": "43.",
-      "chapter": "Chapter 43.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-43.2/519518"
-    },
-    {
-      "_id": "43.",
-      "chapter": "Chapter 43.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-43.1/519517"
-    },
-    {
-      "_id": "42.",
-      "chapter": "Chapter 42.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-42.2/519516"
-    },
-    {
-      "_id": "42.",
-      "chapter": "Chapter 42.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-42.1/519515"
-    },
-    {
-      "_id": "41.",
-      "chapter": "Chapter 41.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-41.2/519514"
-    },
-    {
-      "_id": "41.",
-      "chapter": "Chapter 41.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-41.1/519513"
-    },
-    {
-      "_id": "40.",
-      "chapter": "Chapter 40.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-40.2/519512"
-    },
-    {
-      "_id": "40.",
-      "chapter": "Chapter 40.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-40.1/519511"
-    },
-    {
-      "_id": "39.",
-      "chapter": "Chapter 39.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-39.2/519510"
-    },
-    {
-      "_id": "39.",
-      "chapter": "Chapter 39.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-39.1/519509"
-    },
-    {
-      "_id": "38.",
-      "chapter": "Chapter 38.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-38.2/519508"
-    },
-    {
-      "_id": "38.",
-      "chapter": "Chapter 38.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-38.1/519507"
-    },
-    {
-      "_id": "37.",
-      "chapter": "Chapter 37.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-37.2/519506"
-    },
-    {
-      "_id": "37.",
-      "chapter": "Chapter 37.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-37.1/519505"
-    },
-    {
-      "_id": "36.",
-      "chapter": "Chapter 36.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-36.2/519048"
-    },
-    {
-      "_id": "36.",
-      "chapter": "Chapter 36.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-36.1/519047"
-    },
-    {
-      "_id": "35.",
-      "chapter": "Chapter 35.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-35.2/517771"
-    },
-    {
-      "_id": "35.",
-      "chapter": "Chapter 35.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-35.1/517769"
-    },
-    {
-      "_id": "34.",
-      "chapter": "Chapter 34.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-34.2/517313"
-    },
-    {
-      "_id": "34.",
-      "chapter": "Chapter 34.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-34.1/517312"
-    },
-    {
-      "_id": "33.",
-      "chapter": "Chapter 33.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-33.2/516758"
-    },
-    {
-      "_id": "33.",
-      "chapter": "Chapter 33.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-33.1/516757"
-    },
-    {
-      "_id": "32.",
-      "chapter": "Chapter 32.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-32.2/516167"
-    },
-    {
-      "_id": "32.",
-      "chapter": "Chapter 32.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-32.1/516166"
-    },
-    {
-      "_id": "31.",
-      "chapter": "Chapter 31.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-31.2/515309"
-    },
-    {
-      "_id": "31.",
-      "chapter": "Chapter 31.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-31.1/515308"
-    },
-    {
-      "_id": "30.",
-      "chapter": "Chapter 30.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-30.2/514592"
-    },
-    {
-      "_id": "30.",
-      "chapter": "Chapter 30.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-30.1/514591"
-    },
-    {
-      "_id": "29.",
-      "chapter": "Chapter 29.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-29.2/513484"
-    },
-    {
-      "_id": "29.",
-      "chapter": "Chapter 29.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-29.1/513482"
-    },
-    {
-      "_id": "28.",
-      "chapter": "Chapter 28.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-28.2/512270"
-    },
-    {
-      "_id": "28.",
-      "chapter": "Chapter 28.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-28.1/512269"
-    },
-    {
-      "_id": "27.",
-      "chapter": "Chapter 27.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-27.2/511138"
-    },
-    {
-      "_id": "27.",
-      "chapter": "Chapter 27.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-27.1/511137"
-    },
-    {
-      "_id": "26.",
-      "chapter": "Chapter 26.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-26.2/510475"
-    },
-    {
-      "_id": "26.",
-      "chapter": "Chapter 26.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-26.1/510474"
-    },
-    {
-      "_id": "25.",
-      "chapter": "Chapter 25.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-25.2/509751"
-    },
-    {
-      "_id": "25.",
-      "chapter": "Chapter 25.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-25.1/509750"
-    },
-    {
-      "_id": "24.",
-      "chapter": "Chapter 24.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-24.2/508781"
-    },
-    {
-      "_id": "24.",
-      "chapter": "Chapter 24.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-24.1/508780"
-    },
-    {
-      "_id": "23.",
-      "chapter": "Chapter 23.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-23.2/508137"
-    },
-    {
-      "_id": "23.",
-      "chapter": "Chapter 23.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-23.1/508136"
-    },
-    {
-      "_id": "22.",
-      "chapter": "Chapter 22.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-22.2/507471"
-    },
-    {
-      "_id": "22.",
-      "chapter": "Chapter 22.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-22.1/507470"
-    },
-    {
-      "_id": "21.",
-      "chapter": "Chapter 21.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-21.2/506779"
-    },
-    {
-      "_id": "21.",
-      "chapter": "Chapter 21.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-21.1/506778"
-    },
-    {
-      "_id": "20.",
-      "chapter": "Chapter 20.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-20.2/505866"
-    },
-    {
-      "_id": "20.",
-      "chapter": "Chapter 20.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-20.1/505865"
-    },
-    {
-      "_id": "19.",
-      "chapter": "Chapter 19.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-19.2/505373"
-    },
-    {
-      "_id": "19.",
-      "chapter": "Chapter 19.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-19.1/505372"
-    },
-    {
-      "_id": "18.",
-      "chapter": "Chapter 18.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-18.2/504328"
-    },
-    {
-      "_id": "18.",
-      "chapter": "Chapter 18.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-18.1/504327"
-    },
-    {
-      "_id": "17.",
-      "chapter": "Chapter 17.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-17.2/502768"
-    },
-    {
-      "_id": "17.",
-      "chapter": "Chapter 17.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-17.1/502765"
-    },
-    {
-      "_id": "16.",
-      "chapter": "Chapter 16.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-16.2/502031"
-    },
-    {
-      "_id": "16.",
-      "chapter": "Chapter 16.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-16.1/502030"
-    },
-    {
-      "_id": "15.",
-      "chapter": "Chapter 15.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-15.2/501162"
-    },
-    {
-      "_id": "15.",
-      "chapter": "Chapter 15.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-15.1/501161"
-    },
-    {
-      "_id": "14.",
-      "chapter": "Chapter 14.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-14.2/500004"
-    },
-    {
-      "_id": "14.",
-      "chapter": "Chapter 14.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-14.1/500003"
-    },
-    {
-      "_id": "13.",
-      "chapter": "Chapter 13.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-13.2/497331"
-    },
-    {
-      "_id": "13.",
-      "chapter": "Chapter 13.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-13.1/497330"
-    },
-    {
-      "_id": "12.",
-      "chapter": "Chapter 12.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-12.2/496757"
-    },
-    {
-      "_id": "12.",
-      "chapter": "Chapter 12.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-12.1/496756"
-    },
-    {
-      "_id": "11.",
-      "chapter": "Chapter 11.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-11.2/495672"
-    },
-    {
-      "_id": "11.",
-      "chapter": "Chapter 11.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-11.1/495448"
-    },
-    {
-      "_id": "10.",
-      "chapter": "Chapter 10.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-10.2/494786"
-    },
-    {
-      "_id": "10.",
-      "chapter": "Chapter 10.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-10.1/494359"
-    },
-    {
-      "_id": "9.2",
-      "chapter": "Chapter 9.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-9.2/493153"
-    },
-    {
-      "_id": "9.1",
-      "chapter": "Chapter 9.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-9.1/492861"
-    },
-    {
-      "_id": "8.2",
-      "chapter": "Chapter 8.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-8.2/492601"
-    },
-    {
-      "_id": "8.1",
-      "chapter": "Chapter 8.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-8.1/492117"
-    },
-    {
-      "_id": "7.2",
-      "chapter": "Chapter 7.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-7.2/491754"
-    },
-    {
-      "_id": "7.1",
-      "chapter": "Chapter 7.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-7.1/490904"
-    },
-    {
-      "_id": "6.2",
-      "chapter": "Chapter 6.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-6.2/490909"
-    },
-    {
-      "_id": "6.1",
-      "chapter": "Chapter 6.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-6.1/490358"
-    },
-    {
-      "_id": "5.2",
-      "chapter": "Chapter 5.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-5.2/489822"
-    },
-    {
-      "_id": "5.1",
-      "chapter": "Chapter 5.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-5.1/489487"
-    },
-    {
-      "_id": "4.2",
-      "chapter": "Chapter 4.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-4.2/489216"
-    },
-    {
-      "_id": "4.1",
-      "chapter": "Chapter 4.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-4.1/488952"
-    },
-    {
-      "_id": "3.2",
-      "chapter": "Chapter 3.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-3.2/488252"
-    },
-    {
-      "_id": "3.1",
-      "chapter": "Chapter 3.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-3.1/487857"
-    },
-    {
-      "_id": "2.2",
-      "chapter": "Chapter 2.2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-2.2/487628"
-    },
-    {
-      "_id": "2.1",
-      "chapter": "Chapter 2.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-2.1/487239"
+      "_id": "2",
+      "chapter": "Chapter 2",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-2/477080"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/danh-mon-chi-ai/chap-1/486691"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-1/477079"
     },
     {
       "_id": "520",
@@ -2022,161 +988,65 @@
   ],
   "chapsXephang": [
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/001-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/001.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/002-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/002.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/003-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/003.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/004-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/004.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/005-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/005.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/006-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/006.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/007-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/007.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/008-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/008.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/009-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/009.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/010-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/010.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/011-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/011.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/012-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/012.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/013-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/013.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/014-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/014.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/015-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/015.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/016-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/016.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/017-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/017.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/018-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/018.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/019-fix.jpg"
+      "imageChap": "http://i1.imageinstant.com/data/images/23089/531662/019.jpg"
     },
     {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/020-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/021-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/022-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/023-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/024-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/025-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/026-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/027-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/028-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/029-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/030-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/031-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/032-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/033-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/034-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/035-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/036-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/037-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/038-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/039-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/040-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/041-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/042-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/043-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/044-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/045-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/046-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/047-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/048-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/049-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/050-fix.jpg"
-    },
-    {
-      "imageChap": "http://imageinstant.com/data/images/24059/555950/051-fix.jpg"
-    },
-    {
-      "nameChap": "Danh Môn Chí Ái - Chapter 93",
-      "dateChap": "[Cập nhật lúc: 21:42 07/04/2020]"
+      "nameChap": "Vương Phi Hám Của - Phu Quân Là Một Bảo Bảo Ấm Áp - Chapter 38",
+      "dateChap": "[Cập nhật lúc: 11:38 02/01/2020]"
     }
   ],
   "homeConGai": [
@@ -2471,1000 +1341,230 @@
   ],
   "viewsConGai": [
     {
-      "id": "13",
-      "nameView": "Luôn Có Yêu Quái",
-      "imgView": "http://st.truyenchon.com/data/comics/191/luon-co-yeu-quai.jpg",
-      "dataView": "\n        [Cập nhật lúc: 20:33 18/04/2020]\n     ",
+      "id": "1",
+      "nameView": "Omoi, Omoware, Furi, Furare",
+      "imgView": "http://st.truyenchon.com/data/comics/205/omoi-omoware-furi-furare.jpg",
+      "dataView": "\n        [Cập nhật lúc: 13:58 19/04/2020]\n     ",
       "tenKhac": "",
-      "tacGia": "Đang cập nhật",
+      "tacGia": "SAKISAKA IO",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Manhua - Ngôn Tình - Truyện Màu",
-      "noiDung": "..."
-    },
-    {
-      "_id": "196",
-      "chapter": "Chapter 196",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-196/559370"
-    },
-    {
-      "_id": "195",
-      "chapter": "Chapter 195",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-195/558703"
-    },
-    {
-      "_id": "194",
-      "chapter": "Chapter 194",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-194/557267"
-    },
-    {
-      "_id": "193",
-      "chapter": "Chapter 193",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-193/556192"
-    },
-    {
-      "_id": "192",
-      "chapter": "Chapter 192",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-192/555744"
-    },
-    {
-      "_id": "191",
-      "chapter": "Chapter 191",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-191/554630"
-    },
-    {
-      "_id": "190",
-      "chapter": "Chapter 190",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-190/554027"
-    },
-    {
-      "_id": "189",
-      "chapter": "Chapter 189",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-189/552096"
-    },
-    {
-      "_id": "188",
-      "chapter": "Chapter 188",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-188/552095"
-    },
-    {
-      "_id": "187",
-      "chapter": "Chapter 187",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-187/550696"
-    },
-    {
-      "_id": "186",
-      "chapter": "Chapter 186",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-186/550695"
-    },
-    {
-      "_id": "185",
-      "chapter": "Chapter 185",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-185/548823"
-    },
-    {
-      "_id": "184",
-      "chapter": "Chapter 184",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-184/548822"
-    },
-    {
-      "_id": "183",
-      "chapter": "Chapter 183",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-183/544290"
-    },
-    {
-      "_id": "182",
-      "chapter": "Chapter 182",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-182/544289"
-    },
-    {
-      "_id": "181",
-      "chapter": "Chapter 181",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-181/543705"
-    },
-    {
-      "_id": "180",
-      "chapter": "Chapter 180",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-180/543704"
-    },
-    {
-      "_id": "179",
-      "chapter": "Chapter 179",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-179/542517"
-    },
-    {
-      "_id": "178",
-      "chapter": "Chapter 178",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-178/542516"
-    },
-    {
-      "_id": "177",
-      "chapter": "Chapter 177",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-177/541027"
-    },
-    {
-      "_id": "176",
-      "chapter": "Chapter 176",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-176/541025"
-    },
-    {
-      "_id": "175",
-      "chapter": "Chapter 175",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-175/539309"
-    },
-    {
-      "_id": "174",
-      "chapter": "Chapter 174",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-174/539308"
-    },
-    {
-      "_id": "173",
-      "chapter": "Chapter 173",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-173/538300"
-    },
-    {
-      "_id": "172",
-      "chapter": "Chapter 172",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-172/538299"
-    },
-    {
-      "_id": "171",
-      "chapter": "Chapter 171",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-171/536965"
-    },
-    {
-      "_id": "170",
-      "chapter": "Chapter 170",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-170/536964"
-    },
-    {
-      "_id": "169",
-      "chapter": "Chapter 169",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-169/536891"
-    },
-    {
-      "_id": "168",
-      "chapter": "Chapter 168",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-168/536963"
-    },
-    {
-      "_id": "167",
-      "chapter": "Chapter 167",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-167/536890"
-    },
-    {
-      "_id": "166",
-      "chapter": "Chapter 166",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-166/536624"
-    },
-    {
-      "_id": "165",
-      "chapter": "Chapter 165",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-165/536623"
-    },
-    {
-      "_id": "164",
-      "chapter": "Chapter 164",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-164/536591"
-    },
-    {
-      "_id": "163",
-      "chapter": "Chapter 163",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-163/536590"
-    },
-    {
-      "_id": "162",
-      "chapter": "Chapter 162",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-162/536589"
-    },
-    {
-      "_id": "161",
-      "chapter": "Chapter 161",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-161/536309"
-    },
-    {
-      "_id": "160",
-      "chapter": "Chapter 160",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-160/536064"
-    },
-    {
-      "_id": "159",
-      "chapter": "Chapter 159",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-159/535276"
-    },
-    {
-      "_id": "158",
-      "chapter": "Chapter 158",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-158/534372"
-    },
-    {
-      "_id": "157",
-      "chapter": "Chapter 157",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-157/533449"
-    },
-    {
-      "_id": "156",
-      "chapter": "Chapter 156",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-156/532771"
-    },
-    {
-      "_id": "155",
-      "chapter": "Chapter 155",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-155/531276"
-    },
-    {
-      "_id": "154",
-      "chapter": "Chapter 154",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-154/529943"
-    },
-    {
-      "_id": "153",
-      "chapter": "Chapter 153",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-153/528412"
-    },
-    {
-      "_id": "152",
-      "chapter": "Chapter 152",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-152/526951"
-    },
-    {
-      "_id": "151",
-      "chapter": "Chapter 151",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-151/525586"
-    },
-    {
-      "_id": "150",
-      "chapter": "Chapter 150",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-150/523208"
-    },
-    {
-      "_id": "149",
-      "chapter": "Chapter 149",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-149/521432"
-    },
-    {
-      "_id": "148",
-      "chapter": "Chapter 148",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-148/520381"
-    },
-    {
-      "_id": "147",
-      "chapter": "Chapter 147",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-147/520169"
-    },
-    {
-      "_id": "146",
-      "chapter": "Chapter 146",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-146/518034"
-    },
-    {
-      "_id": "145",
-      "chapter": "Chapter 145",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-145/516559"
-    },
-    {
-      "_id": "144",
-      "chapter": "Chapter 144",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-144/515313"
-    },
-    {
-      "_id": "143",
-      "chapter": "Chapter 143",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-143/513479"
-    },
-    {
-      "_id": "142",
-      "chapter": "Chapter 142",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-142/508543"
-    },
-    {
-      "_id": "141",
-      "chapter": "Chapter 141",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-141/508273"
-    },
-    {
-      "_id": "140",
-      "chapter": "Chapter 140",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-140/507854"
-    },
-    {
-      "_id": "139",
-      "chapter": "Chapter 139",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-139/506905"
-    },
-    {
-      "_id": "138",
-      "chapter": "Chapter 138",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-138/506136"
-    },
-    {
-      "_id": "137",
-      "chapter": "Chapter 137",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-137/505526"
-    },
-    {
-      "_id": "136",
-      "chapter": "Chapter 136",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-136/504114"
-    },
-    {
-      "_id": "135",
-      "chapter": "Chapter 135",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-135/503044"
-    },
-    {
-      "_id": "134",
-      "chapter": "Chapter 134",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-134/502525"
-    },
-    {
-      "_id": "133",
-      "chapter": "Chapter 133",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-133/501185"
-    },
-    {
-      "_id": "132",
-      "chapter": "Chapter 132",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-132/499701"
-    },
-    {
-      "_id": "131",
-      "chapter": "Chapter 131",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-131/497836"
-    },
-    {
-      "_id": "130",
-      "chapter": "Chapter 130",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-130/496787"
-    },
-    {
-      "_id": "129",
-      "chapter": "Chapter 129",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-129/494778"
-    },
-    {
-      "_id": "128",
-      "chapter": "Chapter 128",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-128/493191"
-    },
-    {
-      "_id": "127",
-      "chapter": "Chapter 127",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-127/491797"
-    },
-    {
-      "_id": "126",
-      "chapter": "Chapter 126",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-126/491100"
-    },
-    {
-      "_id": "125",
-      "chapter": "Chapter 125",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-125/489826"
-    },
-    {
-      "_id": "124",
-      "chapter": "Chapter 124",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-124/487045"
-    },
-    {
-      "_id": "123",
-      "chapter": "Chapter 123",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-123/485591"
-    },
-    {
-      "_id": "122",
-      "chapter": "Chapter 122",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-122/480683"
-    },
-    {
-      "_id": "121",
-      "chapter": "Chapter 121",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-121/480660"
-    },
-    {
-      "_id": "120",
-      "chapter": "Chapter 120",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-120/479620"
-    },
-    {
-      "_id": "119",
-      "chapter": "Chapter 119",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-119/477981"
-    },
-    {
-      "_id": "118",
-      "chapter": "Chapter 118",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-118/476999"
-    },
-    {
-      "_id": "117",
-      "chapter": "Chapter 117",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-117/474781"
-    },
-    {
-      "_id": "116",
-      "chapter": "Chapter 116",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-116/473364"
-    },
-    {
-      "_id": "115",
-      "chapter": "Chapter 115",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-115/472222"
-    },
-    {
-      "_id": "114",
-      "chapter": "Chapter 114",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-114/470003"
-    },
-    {
-      "_id": "113",
-      "chapter": "Chapter 113",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-113/467004"
-    },
-    {
-      "_id": "112",
-      "chapter": "Chapter 112",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-112/464365"
-    },
-    {
-      "_id": "111",
-      "chapter": "Chapter 111",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-111/463328"
-    },
-    {
-      "_id": "110",
-      "chapter": "Chapter 110",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-110/460166"
-    },
-    {
-      "_id": "109",
-      "chapter": "Chapter 109",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-109/459178"
-    },
-    {
-      "_id": "108",
-      "chapter": "Chapter 108",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-108/457584"
-    },
-    {
-      "_id": "107",
-      "chapter": "Chapter 107",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-107/453491"
-    },
-    {
-      "_id": "106",
-      "chapter": "Chapter 106",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-106/451680"
-    },
-    {
-      "_id": "105",
-      "chapter": "Chapter 105",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-105/450465"
-    },
-    {
-      "_id": "104",
-      "chapter": "Chapter 104",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-104/449646"
-    },
-    {
-      "_id": "103",
-      "chapter": "Chapter 103",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-103/449046"
-    },
-    {
-      "_id": "102",
-      "chapter": "Chapter 102",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-102/446369"
-    },
-    {
-      "_id": "101",
-      "chapter": "Chapter 101",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-101/445634"
-    },
-    {
-      "_id": "100",
-      "chapter": "Chapter 100",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-100/444954"
-    },
-    {
-      "_id": "99",
-      "chapter": "Chapter 99",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-99/443189"
-    },
-    {
-      "_id": "98",
-      "chapter": "Chapter 98",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-98/438514"
-    },
-    {
-      "_id": "97",
-      "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-97/436636"
-    },
-    {
-      "_id": "96",
-      "chapter": "Chapter 96",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-96/434744"
-    },
-    {
-      "_id": "95",
-      "chapter": "Chapter 95",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-95/433599"
-    },
-    {
-      "_id": "94",
-      "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-94/430769"
-    },
-    {
-      "_id": "93.",
-      "chapter": "Chapter 93.5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-93.5/430507"
-    },
-    {
-      "_id": "93",
-      "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-93/429916"
-    },
-    {
-      "_id": "92",
-      "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-92/429044"
-    },
-    {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-91/427626"
-    },
-    {
-      "_id": "90",
-      "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-90/426267"
-    },
-    {
-      "_id": "89",
-      "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-89/425384"
-    },
-    {
-      "_id": "88",
-      "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-88/424367"
-    },
-    {
-      "_id": "87",
-      "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-87/423989"
-    },
-    {
-      "_id": "86",
-      "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-86/422337"
-    },
-    {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-85/420295"
-    },
-    {
-      "_id": "84",
-      "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-84/418750"
-    },
-    {
-      "_id": "83",
-      "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-83/417533"
-    },
-    {
-      "_id": "82",
-      "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-82/416624"
-    },
-    {
-      "_id": "81",
-      "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-81/414342"
-    },
-    {
-      "_id": "80",
-      "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-80/413127"
-    },
-    {
-      "_id": "79",
-      "chapter": "Chapter 79",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-79/407010"
-    },
-    {
-      "_id": "78",
-      "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-78/405861"
-    },
-    {
-      "_id": "77",
-      "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-77/404575"
-    },
-    {
-      "_id": "76",
-      "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-76/401309"
-    },
-    {
-      "_id": "75",
-      "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-75/399822"
-    },
-    {
-      "_id": "74",
-      "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-74/398506"
-    },
-    {
-      "_id": "73",
-      "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-73/395608"
-    },
-    {
-      "_id": "72",
-      "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-72/394645"
-    },
-    {
-      "_id": "71",
-      "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-71/394018"
-    },
-    {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-70/386509"
-    },
-    {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-69/385207"
-    },
-    {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-68/384507"
-    },
-    {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-67/383165"
-    },
-    {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-66/383049"
-    },
-    {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-65/382509"
-    },
-    {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-64/381615"
-    },
-    {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-63/380468"
-    },
-    {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-62/379682"
-    },
-    {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-61/379587"
-    },
-    {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-60/379193"
-    },
-    {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-59/378993"
-    },
-    {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-58/378681"
-    },
-    {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-57/376052"
-    },
-    {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-56/375758"
-    },
-    {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-55/372234"
-    },
-    {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-54/371398"
-    },
-    {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-53/370885"
-    },
-    {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-52/370075"
-    },
-    {
-      "_id": "51",
-      "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-51/369983"
-    },
-    {
-      "_id": "50",
-      "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-50/369369"
-    },
-    {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-49/367091"
-    },
-    {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-48/366359"
-    },
-    {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-47/365586"
-    },
-    {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-46/365194"
-    },
-    {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-45/363373"
-    },
-    {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-44/362025"
+      "theLoai": "Comedy - Drama - Ngôn Tình - Romance - School Life - Shoujo - Slice of Life",
+      "noiDung": "Một câu chuyện tình yêu giữa con 4 người: Akari, Yuna, Kazuomi, và Rio có những lập trường tình yêu khác nhau bắt đầu ...----------------------------------------Câu chuyện xoay quanh Yuna và Akari người có hai quan điểm khác nhau của tình yêu: Yuna là người coi tình yêu như một giấc mơ và Akari là một người rất thực tế về sự lựa chọn lãng mạn . Trong khi đó, hai chàng trai, Kazuomi và Rio, ai cũng có quan điểm khác nhau của tình yêu: Kazuomi là một người thực thà và không biết gì về tình yêu trong khi Rio chộp lấy mọi cơ hội tán tỉnh miễn là gặp cô gái nào đó trông dễ thương."
     },
     {
       "_id": "43",
       "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-43/360453"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-43/559720"
     },
     {
       "_id": "42",
       "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-42/358552"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-42/555140"
     },
     {
       "_id": "41",
       "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-41/357694"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-41/546888"
     },
     {
       "_id": "40",
       "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-40/355794"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-40/545120"
     },
     {
       "_id": "39",
       "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-39/353138"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-39/423260"
     },
     {
       "_id": "38",
       "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-38/352743"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-38/423259"
     },
     {
       "_id": "37",
       "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-37/351923"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-37/423258"
     },
     {
       "_id": "36",
       "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-36/351704"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-36/423257"
     },
     {
       "_id": "35",
       "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-35/350178"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-35/423256"
     },
     {
       "_id": "34",
       "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-34/346555"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-34/423255"
     },
     {
       "_id": "33",
       "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-33/346456"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-33/423254"
     },
     {
       "_id": "32",
       "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-32/346340"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-32/423253"
     },
     {
       "_id": "31",
       "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-31/346144"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-31/423252"
     },
     {
       "_id": "30",
       "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-30/345990"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-30/423251"
     },
     {
       "_id": "29",
       "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-29/345863"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-29/423250"
     },
     {
       "_id": "28",
       "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-28/345721"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-28/423249"
     },
     {
       "_id": "27",
       "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-27/344611"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-27/423248"
     },
     {
       "_id": "26",
       "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-26/344449"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-26/423247"
     },
     {
       "_id": "25",
       "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-25/344311"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-25/423246"
     },
     {
       "_id": "24",
       "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-24/341414"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-24/423245"
     },
     {
       "_id": "23",
       "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-23/341413"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-23/423244"
     },
     {
       "_id": "22",
       "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-22/341412"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-22/423243"
     },
     {
       "_id": "21",
       "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-21/341161"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-21/423242"
     },
     {
       "_id": "20",
       "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-20/341160"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-20/356795"
     },
     {
       "_id": "19",
       "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-19/341162"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-19/354002"
     },
     {
       "_id": "18",
       "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-18/339800"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-18/353161"
     },
     {
       "_id": "17",
       "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-17/339799"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-17/352465"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-16/339675"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-16/351733"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-15/339426"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-15/350709"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-14/335476"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-14/346136"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-13/335475"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-13/344916"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-12/335474"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-12/343695"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-11/335381"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-11/329000"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-10/335380"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-10/327163"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-9/335379"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-9/324419"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-8/328134"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-8/291390"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-7/327902"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-7/243889"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-6/327824"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-6/239743"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-5/327547"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-5/221516"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-4/323935"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-4/216927"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-3/323934"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-3/205904"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-2/323933"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-2/200124"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai/chap-1/323932"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare/chap-1/192081"
     },
     {
       "_id": "520",
@@ -3494,86 +1594,143 @@
   ],
   "chapsConGai": [
     {
-      "imageChap": "https://1.bp.blogspot.com/-MD3_YAxFx8Q/XnojaOXxDVI/AAAAAAAAkKw/3mNWOoZEHyYlBXLAqKT7pc9f1lD-bgHSgCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-14-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/001.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-sfY7fpIS0-Y/XnojaCAx_UI/AAAAAAAAkKo/QqOQtBntojYabX6Q43kYmgB9IfZ7laXuACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-14-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/002.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-LBe565-z4wM/XnojaMS9TQI/AAAAAAAAkKs/-_1eZO0HSzgkHIP9JWYIgT4Cy4Trl1_qACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-15-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/003.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-RiaOrKSfrP0/Xnoja-EDNrI/AAAAAAAAkK0/ItRl4Os6bYknkElyV6TW7lx59kNnyp-gACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-15-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/004.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-i42dD9Dj2hY/XnojbJwZv1I/AAAAAAAAkK4/WOcEKzN-dUsqQ_isE_Ut3GkeUS-ha4mugCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-16-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/005.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-xJnqb1GGrxU/XnojbU6TW9I/AAAAAAAAkK8/c7C0rmFRN4AHNe2YAi93GQEVdXapO_mSACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-16-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/006.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-FWaRltRVyGc/Xnojcc7K_aI/AAAAAAAAkLA/qTGmZKZuuDMGML-vEL4aIhgTZz2ftvb8ACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-17-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/007.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-MTGZ5J2O08g/XnojcV9Wf5I/AAAAAAAAkLE/ZarHOlivYSgSeKp4fhujzMh-zFfdxCEoACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-17-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/008.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-gPqwHLcG5Uk/XnojcmMQReI/AAAAAAAAkLI/Q1xMxjdOM9oovBUz71wW-DSNmBkTUmcZACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-18-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/009.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-KW79YmvtQrY/XnojdOvbx-I/AAAAAAAAkLM/xnGav5Ln_XkrD2GySs6YiK9lhe_PrCMyQCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-18-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/010.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-mYbY4VeGCoQ/XnojdRzfV3I/AAAAAAAAkLQ/21JLhaY7NbAz5FVgDi1DfEIbz9dc2HANgCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-19-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/011.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-bmnLQQpfuGo/XnojdoP3HuI/AAAAAAAAkLU/mGTFor6tNbsBqt7yl5B5G160HObqR3X3QCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-19-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/012.jpg"
     },
     {
-      "imageChap": "https://2.bp.blogspot.com/-BovbJ9C6R0s/Xnojd097kHI/AAAAAAAAkLY/E7GaYQP2ijM3J_qETlBJlPMnQvJ9Q0PtgCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-20-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/013.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-pNlxVtxhQ4k/XnojerPW6YI/AAAAAAAAkLc/Xk4vvktFen4KJLCHoFZnoTFU6FPoqSWLwCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-20-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/014.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-KvSXZwGKOnM/XnojexPhyvI/AAAAAAAAkLg/eWa9Eo2tbwUXo_DeuXcfUY7F0N6UImI4wCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-21-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/015.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-AuhsHAwdQ0A/XnojfSQnexI/AAAAAAAAkLk/_1AwAA8jYBkJ87p8dtJ2sGHlOBU4UxmNQCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-21-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/016.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-1QVHRl4qnDE/XnojfpesxRI/AAAAAAAAkLo/jjtc_rEHJ8IjaYVlGPod2QjPQMaWRfx-gCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-22-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/017.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-kRxN2J4OIL8/XnojgFA6k7I/AAAAAAAAkLs/CK9rgn2A6eE_rBIlMzKF3ga2hqBjWuGdACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-22-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/018.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-b30OFYa3hgI/XnojgPafp1I/AAAAAAAAkLw/Ia3Svzfo0vEZNMG0Xp0AEkuH6rQ5YwoVgCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-23-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/019.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-frUrvJ9xo5E/Xnojgt1T2_I/AAAAAAAAkL0/89wK9j9_WuoxQoTQ5d4BKSczQc9QD6mXwCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-23-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/020.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-JpFX_7tU3kU/XnojhGQZH1I/AAAAAAAAkL4/9mbBloayoy4Z-GSZ8vescYZ0Vwu2cFYSwCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-24-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/021.jpg"
     },
     {
-      "imageChap": "https://4.bp.blogspot.com/-yIY2zf_JbSY/XnojhYuLMzI/AAAAAAAAkL8/N0RrmgvkzdIbZSokjdpurZJ4Z6Ltir0qwCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-24-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/022.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-jTYxIx_9ZnU/XnojhuSKTQI/AAAAAAAAkMA/O5J9gI6nD3MfT266HKikbRrvXOX_avU5wCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-25-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/023.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-DCuCGfSY9aU/XnojiAm1Q6I/AAAAAAAAkME/hiEK8-OFIWkzpd9iQh3XmLAqNm8X27D6QCLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-25-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/024.jpg"
     },
     {
-      "imageChap": "https://3.bp.blogspot.com/-l1MQPn2Qqro/Xnojih0futI/AAAAAAAAkMI/2rAJuY4OuEwBXz62kHXxyAH3D6uGb3_PACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-26-0.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/025.jpg"
     },
     {
-      "imageChap": "https://1.bp.blogspot.com/-JZ3k6FXP4tI/Xnojim2AO1I/AAAAAAAAkMM/b6MHjQmkLUY2tsYie0m3JHZu3rJHXOZEACLcBGAsYHQ/s1600/Luon-Co-Yeu-Quai-Chapter-188-P-26-1.webp"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/026.jpg"
     },
     {
-      "nameChap": "Luôn Có Yêu Quái - Chapter 189",
-      "dateChap": "[Cập nhật lúc: 22:14 24/03/2020]"
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/027.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/028.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/029.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/030.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/031.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/032.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/033.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/034.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/035.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/036.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/037.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/038.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/039.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/040.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/041.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/042.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/043.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/044.jpg"
+    },
+    {
+      "imageChap": "http://i2.imageinstant.com/data/images/9933/423243/045.jpg"
+    },
+    {
+      "nameChap": "Omoi, Omoware, Furi, Furare - Chapter 22",
+      "dateChap": "[Cập nhật lúc: 11:30 25/11/2018]"
     }
   ]
 }
