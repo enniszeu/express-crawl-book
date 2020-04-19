@@ -39,8 +39,10 @@ block conten
 							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
 								div.row
 									.go_logo
-										i.fab.fa-neos 
+										i.fab.fa-neos
 										span Moi cap nhat
+										span(style="float:right")
+											a(href="/post") Xem tat ca
 									.owl-carousel
 										each posts in db
 											a(href=`/post/${posts.id}`)
@@ -56,13 +58,37 @@ block conten
 					span Bang xep hang
 					span(style="float:right")
 						a(href="/bangxephang") Xem tat ca
-				each posts in homeXephang.slice(16,24)
+				each posts in homeXephang.reverse().slice(1,9)
 					.col-3.col-12-custom
 						a(href=`/post/xephang/${posts.id}`)
 							.wapper_conten_xephang
 								img(src=posts.imageHome)
 								p=posts.nameHome
 									b=posts.chapHome
+		.container-fluid(style="background:#f7f9fb")
+			.row
+				.col-12
+					.wapper_header
+						.row
+							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
+								div.row
+									.go_logo
+										i(style="color:red").fas.fa-fish
+										span Con gai thich
+										span(style="float:right")
+											a(href="/congai") Xem tat ca
+									.owl-carousel
+										each posts in homeConGai
+											a(href=`/post/congai/${posts.id}`)
+												.item
+													img(src=posts.imageHome)
+													p=posts.nameHome
+													b=posts.chapHome
+													i.fa.fa-play(aria-hidden='true')
+		.waper_foter_end
+			.lay1
+
+
 
 										
 
@@ -110,7 +136,7 @@ block conten
 			showMeau();
 			setTimeout(reload, 500);
 			$(".owl-carousel").owlCarousel({
-			  autoplay: true,
+			  autoplay: false,
 			  autoplayTimeout: 5000,
 			  autoplayHoverPause: true,
 			  loop: true,

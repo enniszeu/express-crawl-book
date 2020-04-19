@@ -2,1184 +2,329 @@
   "posts": [
     {
       "id": 1,
-      "imageHome": "http://st.truyenchon.com/data/comics/255/vo-dich-song-bao-boi.jpg",
-      "nameHome": "Vô Địch Song Bảo Bối",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-dich-song-bao-boi-25855",
-      "chapHome": "Chapter 7",
-      "chapTime": "9 phút trướ"
+      "imageHome": "http://st.truyenchon.com/data/comics/186/luom-duoc-mot-tieu-ho-ly-3.jpg",
+      "nameHome": "Lượm Được Một Tiểu Hồ Ly 3",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/luom-duoc-mot-tieu-ho-ly-3-22202",
+      "chapHome": "Chapter 101",
+      "chapTime": "4 phút trướ"
     },
     {
       "id": 2,
-      "imageHome": "http://st.truyenchon.com/data/comics/185/ma-nu-mat-trang-va-dien-ha-thai-duong.jpg",
-      "nameHome": "Ma Nữ Mặt Trăng Và Điện Hạ Thái Dương",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/ma-nu-mat-trang-va-dien-ha-thai-duong-25785",
-      "chapHome": "Chapter 8",
-      "chapTime": "9 phút trướ"
+      "imageHome": "http://st.truyenchon.com/data/comics/227/em-gai-dung-lam-phien-toi.jpg",
+      "nameHome": "Em Gái Đừng Làm Phiền Tôi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/em-gai-dung-lam-phien-toi-28131",
+      "chapHome": "Chapter 12",
+      "chapTime": "7 phút trướ"
     },
     {
       "id": 3,
-      "imageHome": "http://st.truyenchon.com/data/comics/122/to-aru-kagaku-no-railgun-gaiden-astral-b-9469.jpg",
-      "nameHome": "To Aru Kagaku no Railgun Gaiden: Astral Buddy",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/to-aru-kagaku-no-railgun-gaiden-astral-buddy-28026",
-      "chapHome": "Chapter 16",
-      "chapTime": "21 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/182/thien-than-khong-canh.jpg",
+      "nameHome": "Thiên Thần Không Cánh",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/thien-than-khong-canh-15286",
+      "chapHome": "Chapter 39",
+      "chapTime": "14 phút trư"
     },
     {
       "id": 4,
-      "imageHome": "http://st.truyenchon.com/data/comics/116/duc-huyet-thuong-hau.jpg",
-      "nameHome": "Dục huyết Thương hậu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/duc-huyet-thuong-hau-19828",
-      "chapHome": "Chapter 124",
-      "chapTime": "21 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/75/khi-tro-choi-ac-ma-bat-dau.jpg",
+      "nameHome": "Khi Trò Chơi Ác Ma Bắt Đầu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/khi-tro-choi-ac-ma-bat-dau-17227",
+      "chapHome": "Chapter 116",
+      "chapTime": "15 phút trư"
     },
     {
       "id": 5,
-      "imageHome": "http://st.truyenchon.com/data/comics/42/hotboy-quoc-dan-la-nu.jpg",
-      "nameHome": "Hotboy Quốc Dân Là Nữ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hotboy-quoc-dan-la-nu-25642",
-      "chapHome": "Chapter 51",
-      "chapTime": "30 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/93/canh-dieu-xanh-bay-trong-con-gio.jpg",
+      "nameHome": "Cánh Diều Xanh Bay Trong Cơn Gió",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/canh-dieu-xanh-bay-trong-con-gio-28765",
+      "chapHome": "Chapter 14",
+      "chapTime": "18 phút trư"
     },
     {
       "id": 6,
-      "imageHome": "http://st.truyenchon.com/data/comics/228/mahouka-koukou-no-rettousei-raihousha-he-1982.jpg",
-      "nameHome": "Mahouka Koukou no Rettousei – Raihousha Hen",
-      "linkHome": "http://nhattruyen.com/truyen-tranh/mahouka-koukou-no-rettousei-raihousha-hen-117480",
-      "chapHome": "Chapter 23",
-      "chapTime": "38 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/49/tong-tai-kieu-ngao-vo-yeu-em-dung-chay.jpg",
+      "nameHome": "Tổng Tài Kiêu Ngạo: Vợ Yêu Em Đừng Chạy",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tong-tai-kieu-ngao-vo-yeu-em-dung-chay-27697",
+      "chapHome": "Chapter 15",
+      "chapTime": "24 phút trư"
     },
     {
       "id": 7,
-      "imageHome": "http://st.truyenchon.com/data/comics/119/again.jpg",
-      "nameHome": "Again!!",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/again-1399",
-      "chapHome": "Chapter 104",
-      "chapTime": "43 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/202/nguyen-linh-chua-te.jpg",
+      "nameHome": "Nguyên Linh Chúa Tể",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguyen-linh-chua-te-26826",
+      "chapHome": "Chapter 8",
+      "chapTime": "29 phút trư"
     },
     {
       "id": 8,
-      "imageHome": "http://st.truyenchon.com/data/comics/220/phuong-nghich-thien-ha.jpg",
-      "nameHome": "Phượng Nghịch Thiên Hạ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/phuong-nghich-thien-ha-45720",
-      "chapHome": "Chapter 374",
-      "chapTime": "48 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/133/soredemo-ayumu-wa-yosetekuru.jpeg",
+      "nameHome": "Soredemo Ayumu wa Yosetekuru",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/soredemo-ayumu-wa-yosetekuru-21381",
+      "chapHome": "Chapter 48",
+      "chapTime": "32 phút trư"
     },
     {
       "id": 9,
-      "imageHome": "http://st.truyenchon.com/data/comics/84/bless.jpg",
-      "nameHome": "Bless",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/bless-28500",
-      "chapHome": "Chapter 13",
-      "chapTime": "49 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/219/chua-te-nguyen-linh.jpg",
+      "nameHome": "Chúa Tể Nguyên Linh",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/chua-te-nguyen-linh-26843",
+      "chapHome": "Chapter 8",
+      "chapTime": "41 phút trư"
     },
     {
       "id": 10,
-      "imageHome": "http://st.truyenchon.com/data/comics/27/dem-ao-mong-cuc-lac.jpg",
-      "nameHome": "Đêm Ảo Mộng Cực Lạc",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dem-ao-mong-cuc-lac-20763",
-      "chapHome": "Chapter 14",
-      "chapTime": "59 phút trư"
+      "imageHome": "http://st.truyenchon.com/data/comics/222/cherry-teacher-sakura-naoki.jpg",
+      "nameHome": "Cherry Teacher Sakura Naoki",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cherry-teacher-sakura-naoki-13790",
+      "chapHome": "Chapter 34",
+      "chapTime": "49 phút trư"
     },
     {
       "id": 11,
-      "imageHome": "http://st.truyenchon.com/data/comics/104/co-vo-am-ap-cua-ha-thieu.jpg",
-      "nameHome": "Cô vợ ấm áp của hạ thiếu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/co-vo-am-ap-cua-ha-thieu-18792",
-      "chapHome": "Chapter 230",
-      "chapTime": "1 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/201/god-of-blackfield.jpg",
+      "nameHome": "God of blackfield",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield-28873",
+      "chapHome": "Chapter 5",
+      "chapTime": "49 phút trư"
     },
     {
       "id": 12,
-      "imageHome": "http://st.truyenchon.com/data/comics/182/nguoi-choi-loi.jpg",
-      "nameHome": "Người Chơi Lỗi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-choi-loi-28854",
-      "chapHome": "Chapter 6",
-      "chapTime": "1 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/161/ta-la-ta-de.jpg",
+      "nameHome": "Ta Là Tà Đế",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-ta-de-26017",
+      "chapHome": "Chapter 14.2",
+      "chapTime": "55 phút trư"
     },
     {
       "id": 13,
-      "imageHome": "http://st.truyenchon.com/data/comics/155/hon-don-kiem-than.jpg",
-      "nameHome": "Hỗn Độn Kiếm Thần",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hon-don-kiem-than-18075",
-      "chapHome": "Chapter 177",
+      "imageHome": "http://st.truyenchon.com/data/comics/122/do-thi-dinh-phong-cao-thu.jpg",
+      "nameHome": "Đô Thị Đỉnh Phong Cao Thủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/do-thi-dinh-phong-cao-thu-24698",
+      "chapHome": "Chapter 59",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 14,
-      "imageHome": "http://st.truyenchon.com/data/comics/28/kieu-sung-y-phi.jpg",
-      "nameHome": "Kiêu Sủng Y Phi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kieu-sung-y-phi-19484",
-      "chapHome": "Chapter 144",
+      "imageHome": "http://st.truyenchon.com/data/comics/71/hoan-phi-thien-ha.jpg",
+      "nameHome": "Hoạn Phi Thiên Hạ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoan-phi-thien-ha-28743",
+      "chapHome": "Chapter 1",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 15,
-      "imageHome": "http://st.truyenchon.com/data/comics/201/phuong-hoang-thac-chuyen-sung-khi-the.jpg",
-      "nameHome": "Phượng Hoàng Thác: Chuyên Sủng Khí Thê",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/phuong-hoang-thac-chuyen-sung-khi-the-26825",
-      "chapHome": "Chapter 32",
+      "imageHome": "http://st.truyenchon.com/data/comics/25/con-sot-vang-sau-chien-tranh.jpg",
+      "nameHome": "Cơn sốt vàng sau chiến tranh",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/con-sot-vang-sau-chien-tranh-11801",
+      "chapHome": "Chapter 93",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 16,
-      "imageHome": "http://st.truyenchon.com/data/comics/49/kieu-nhi-khong-nghe-loi.jpg",
-      "nameHome": "Kiều Nhi Không Nghe Lời",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kieu-nhi-khong-nghe-loi-27185",
-      "chapHome": "Chapter 11.5",
+      "imageHome": "http://st.truyenchon.com/data/comics/48/tha-vu-nu-do-ra.jpg",
+      "nameHome": "Thả Vu Nữ Đó Ra",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tha-vu-nu-do-ra-21552",
+      "chapHome": "Chapter 78",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 17,
-      "imageHome": "http://st.truyenchon.com/data/comics/21/tam-trao-tien-the-chi-lu.jpg",
-      "nameHome": "Tầm Trảo Tiền Thế Chi Lữ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tam-trao-tien-the-chi-lu-4373",
-      "chapHome": "Chapter 212.2",
+      "imageHome": "http://st.truyenchon.com/data/comics/88/seifuku-no-vampiress-lord.jpg",
+      "nameHome": "Seifuku no Vampiress Lord",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/seifuku-no-vampiress-lord-16984",
+      "chapHome": "Chapter 21",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 18,
-      "imageHome": "http://st.truyenchon.com/data/comics/169/hoa-hong-nien-dai-hac-cot-duong.jpg",
-      "nameHome": "Hỏa Hồng Niên Đại Hắc Cốt Đường",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoa-hong-nien-dai-hac-cot-duong-17065",
-      "chapHome": "Chapter 557",
+      "imageHome": "http://st.truyenchon.com/data/comics/171/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-393.jpg",
+      "nameHome": "Trọng sinh bá sủng Nhiếp Chính Vương quá mạnh mẽ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-manh-me-21419",
+      "chapHome": "Chapter 60",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 19,
-      "imageHome": "http://st.truyenchon.com/data/comics/229/chien-dinh.jpg",
-      "nameHome": "Chiến Đỉnh",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/chien-dinh-21989",
-      "chapHome": "Chapter 60",
+      "imageHome": "http://st.truyenchon.com/data/comics/170/nu-phu-thuy-muon-song-noi-loan.jpg",
+      "nameHome": "Nữ Phù Thủy Muốn Sống Nổi Loạn",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nu-phu-thuy-muon-song-noi-loan-26026",
+      "chapHome": "Chapter 26",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 20,
-      "imageHome": "http://st.truyenchon.com/data/comics/214/tai-sinh-o-1-the-gioi-day-chet-choc.jpg",
-      "nameHome": "Tái Sinh Ở 1 Thế Giới Đầy Chết Chóc",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tai-sinh-o-1-the-gioi-day-chet-choc-28886",
-      "chapHome": "Chapter 3",
+      "imageHome": "http://st.truyenchon.com/data/comics/87/het-nhu-han-quang-gap-nang-gat.jpg",
+      "nameHome": "Hệt Như Hàn Quang Gặp Nắng Gắt",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/het-nhu-han-quang-gap-nang-gat-28247",
+      "chapHome": "Chapter 41",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 21,
-      "imageHome": "http://st.truyenchon.com/data/comics/113/toorigakari-ni-one-point-advice-shiteiku-885.jpg",
-      "nameHome": "Toorigakari ni one point advice shiteiku type no yankee",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/toorigakari-ni-one-point-advice-shiteiku-type-no-yankee-28785",
-      "chapHome": "Chapter 13",
+      "imageHome": "http://st.truyenchon.com/data/comics/112/y-hau-le-thien.jpg",
+      "nameHome": "Y Hậu Lệ Thiên",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/y-hau-le-thien-28528",
+      "chapHome": "Chapter 12",
       "chapTime": "1 giờ trước"
     },
     {
       "id": 22,
-      "imageHome": "http://st.truyenchon.com/data/comics/87/nghich-chuyen-tien-do.jpg",
-      "nameHome": "Nghịch Chuyển Tiên Đồ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nghich-chuyen-tien-do-23639",
-      "chapHome": "Chapter 42",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/191/dai-nghich-chi-mon.jpg",
+      "nameHome": "Đại Nghịch Chi Môn",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-nghich-chi-mon-20415",
+      "chapHome": "Chapter 81",
+      "chapTime": "1 giờ trước"
     },
     {
       "id": 23,
-      "imageHome": "http://st.truyenchon.com/data/comics/28/vuot-qua-gioi-han.jpg",
-      "nameHome": "Vượt qua giới hạn",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vuot-qua-gioi-han-284440",
-      "chapHome": "Chapter 23",
+      "imageHome": "http://st.truyenchon.com/data/comics/181/toan-co-tu.jpg",
+      "nameHome": "Toàn Cơ Từ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/toan-co-tu-13237",
+      "chapHome": "Chapter 52.2",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 24,
-      "imageHome": "http://st.truyenchon.com/data/comics/137/cau-chuyen-ve-cau-va-toi.jpg",
-      "nameHome": "Câu chuyện về cậu và tôi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/cau-chuyen-ve-cau-va-toi-28297",
-      "chapHome": "Chapter 15",
+      "imageHome": "http://st.truyenchon.com/data/comics/46/skeleton-soldier-couldnt-protect-the-dun-3189.jpg",
+      "nameHome": "Skeleton Soldier Couldn’t Protect The Dungeon",
+      "linkHome": "http://nhattruyen.com/truyen-tranh/skeleton-soldier-couldnt-protect-the-dungeon-189900",
+      "chapHome": "Chapter 76",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 25,
-      "imageHome": "http://st.truyenchon.com/data/comics/102/tabetemo-oishiku-arimasen.jpg",
-      "nameHome": "Tabetemo Oishiku Arimasen",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tabetemo-oishiku-arimasen-28774",
-      "chapHome": "Chapter 3",
+      "imageHome": "http://st.truyenchon.com/data/comics/205/omoi-omoware-furi-furare.jpg",
+      "nameHome": "Omoi, Omoware, Furi, Furare",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare-9933",
+      "chapHome": "Chapter 43",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 26,
-      "imageHome": "http://st.truyenchon.com/data/comics/246/nghich-thien-dai-than.jpg",
-      "nameHome": "Nghịch Thiên Đại Thần",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nghich-thien-dai-than-21238",
-      "chapHome": "Chapter 35.5",
+      "imageHome": "http://st.truyenchon.com/data/comics/38/doc-phi-tai-thuong-ta-vuong-tai-ha.jpg",
+      "nameHome": "Độc Phi Tại Thượng, Tà Vương Tại Hạ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/doc-phi-tai-thuong-ta-vuong-tai-ha-27686",
+      "chapHome": "Chapter 19",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 27,
-      "imageHome": "http://st.truyenchon.com/data/comics/213/trong-sinh-do-thi-tu-tien.jpg",
-      "nameHome": "Trọng Sinh Đô Thị Tu Tiên",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien-19413",
-      "chapHome": "Chapter 372",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/224/azur-lane-queen-order.jpg",
+      "nameHome": "Azur Lane: Queen Order",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/azur-lane-queen-order-22240",
+      "chapHome": "Chapter 56",
+      "chapTime": "1 ngày trướ"
     },
     {
       "id": 28,
-      "imageHome": "http://st.truyenchon.com/data/comics/32/vo-luyen-dinh-phong.jpg",
-      "nameHome": "Võ Luyện Đỉnh Phong",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong-17696",
-      "chapHome": "Chapter 520",
+      "imageHome": "http://st.truyenchon.com/data/comics/195/toi-khong-phai-la-nguoi-tot.jpg",
+      "nameHome": "Tôi Không Phải Là Người Tốt",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/toi-khong-phai-la-nguoi-tot-20675",
+      "chapHome": "Chapter 27",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 29,
-      "imageHome": "http://st.truyenchon.com/data/comics/193/hai-cach-tim-gap-nguoi-yeu.jpg",
-      "nameHome": "Hai Cách Tìm Gặp Người Yêu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hai-cach-tim-gap-nguoi-yeu-26305",
-      "chapHome": "Chapter 41",
+      "imageHome": "http://st.truyenchon.com/data/comics/117/sankaku-no-kyori-wa-kagirinai-zero.jpg",
+      "nameHome": "Sankaku no Kyori wa Kagirinai Zero",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/sankaku-no-kyori-wa-kagirinai-zero-22133",
+      "chapHome": "Chapter 5",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 30,
-      "imageHome": "http://st.truyenchon.com/data/comics/194/dai-gia-thua-tuong.jpg",
-      "nameHome": "Đại Giá Thừa Tướng",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-gia-thua-tuong-16578",
-      "chapHome": "Chapter 151",
+      "imageHome": "http://st.truyenchon.com/data/comics/198/cung-chieu-vo-yeu.jpg",
+      "nameHome": "Cưng Chiều Vợ Yêu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu-18886",
+      "chapHome": "Chapter 224",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 31,
-      "imageHome": "http://st.truyenchon.com/data/comics/76/do-thi-kieu-hung-he-thong.jpg",
-      "nameHome": "Đô Thị Kiêu Hùng Hệ Thống",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong-20044",
-      "chapHome": "Chapter 176",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/151/dua-mami-ve-nha.jpg",
+      "nameHome": "Đưa mami về nhà",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha-26263",
+      "chapHome": "Chapter 79",
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 32,
-      "imageHome": "http://st.truyenchon.com/data/comics/131/hanh-trinh-hau-tan-the.jpg",
-      "nameHome": "Hành trình hậu tận thế",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/hanh-trinh-hau-tan-the-21891",
-      "chapHome": "Chapter 113",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/235/am-da-diem-sung-vo-tinh-treu-choc-de-nha-7460.jpg",
+      "nameHome": "Ám Dạ Điềm Sủng: Vô Tình Trêu Chọc Đệ Nhất Ác Ma",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/am-da-diem-sung-vo-tinh-treu-choc-de-nhat-ac-ma-26347",
+      "chapHome": "Chapter 13",
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 33,
-      "imageHome": "http://st.truyenchon.com/data/comics/54/choc-toi-chu-tich-tong-tai-2.jpg",
-      "nameHome": "Chọc tới chủ tịch tổng tài 2",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-toi-chu-tich-tong-tai-2-20534",
-      "chapHome": "Chapter 142",
+      "imageHome": "http://st.truyenchon.com/data/comics/36/her-hero.jpg",
+      "nameHome": "Her Hero",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/her-hero-17188",
+      "chapHome": "Chapter 19",
       "chapTime": "3 giờ trước"
     },
     {
       "id": 34,
-      "imageHome": "http://st.truyenchon.com/data/comics/39/tu-tien-tro-ve-tai-vuon-truong.jpg",
-      "nameHome": "Tu Tiên Trở Về Tại Vườn Trường",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tu-tien-tro-ve-tai-vuon-truong-25383",
-      "chapHome": "Chapter 60",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/255/vo-dich-song-bao-boi.jpg",
+      "nameHome": "Vô Địch Song Bảo Bối",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-dich-song-bao-boi-25855",
+      "chapHome": "Chapter 36",
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/11/than-gioi-online.jpg",
-      "nameHome": "Thần Giới Online",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/than-gioi-online-25867",
-      "chapHome": "Chapter 20",
+      "imageHome": "http://st.truyenchon.com/data/comics/185/ma-nu-mat-trang-va-dien-ha-thai-duong.jpg",
+      "nameHome": "Ma Nữ Mặt Trăng Và Điện Hạ Thái Dương",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ma-nu-mat-trang-va-dien-ha-thai-duong-25785",
+      "chapHome": "Chapter 8",
       "chapTime": "3 giờ trước"
     },
     {
       "id": 36,
-      "imageHome": "http://st.truyenchon.com/data/comics/164/medical-return.jpg",
-      "nameHome": "Medical Return",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/medical-return-28836",
-      "chapHome": "Chapter 10",
+      "imageHome": "http://st.truyenchon.com/data/comics/122/to-aru-kagaku-no-railgun-gaiden-astral-b-9469.jpg",
+      "nameHome": "To Aru Kagaku no Railgun Gaiden: Astral Buddy",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/to-aru-kagaku-no-railgun-gaiden-astral-buddy-28026",
+      "chapHome": "Chapter 16",
       "chapTime": "3 giờ trước"
     }
   ],
   "views": [
     {
-      "id": "24",
-      "nameView": "Đô Thị Kiêu Hùng Hệ Thống",
-      "imgView": "http://st.truyenchon.com/data/comics/76/do-thi-kieu-hung-he-thong.jpg",
-      "dataView": "\n        [Cập nhật lúc: 09:56 19/04/2020]\n     ",
+      "id": "10",
+      "nameView": "God of blackfield",
+      "imgView": "http://st.truyenchon.com/data/comics/201/god-of-blackfield.jpg",
+      "dataView": "\n        [Cập nhật lúc: 15:20 19/04/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Manhua - Martial Arts - Mystery - Supernatural - Truyện Màu - Xuyên Không",
-      "noiDung": "Một hồi tai nạn xe cộ, khiến giang bạch xuyên không tới 1 \"chính mình khác\" tại thế giới song song! Có siêu BUG lai lịch không rõ + không gì không làm được Đại Kiêu Hùng Hệ Thống !? Từ đây đường đời của Giang Bạch Lóe Sáng Chói Lọi"
-    },
-    {
-      "_id": "176",
-      "chapter": "Chapter 176",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-176/559623"
-    },
-    {
-      "_id": "175",
-      "chapter": "Chapter 175",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-175/558819"
-    },
-    {
-      "_id": "174",
-      "chapter": "Chapter 174",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-174/555423"
-    },
-    {
-      "_id": "173",
-      "chapter": "Chapter 173",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-173/554486"
-    },
-    {
-      "_id": "172",
-      "chapter": "Chapter 172",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-172/553947"
-    },
-    {
-      "_id": "171",
-      "chapter": "Chapter 171",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-171/553489"
-    },
-    {
-      "_id": "170",
-      "chapter": "Chapter 170",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-170/552937"
-    },
-    {
-      "_id": "169",
-      "chapter": "Chapter 169",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-169/545591"
-    },
-    {
-      "_id": "168",
-      "chapter": "Chapter 168",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-168/545077"
-    },
-    {
-      "_id": "167",
-      "chapter": "Chapter 167",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-167/541560"
-    },
-    {
-      "_id": "166",
-      "chapter": "Chapter 166",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-166/538727"
-    },
-    {
-      "_id": "165",
-      "chapter": "Chapter 165",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-165/536133"
-    },
-    {
-      "_id": "164",
-      "chapter": "Chapter 164",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-164/535763"
-    },
-    {
-      "_id": "163",
-      "chapter": "Chapter 163",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-163/534352"
-    },
-    {
-      "_id": "162",
-      "chapter": "Chapter 162",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-162/532193"
-    },
-    {
-      "_id": "161",
-      "chapter": "Chapter 161",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-161/531669"
-    },
-    {
-      "_id": "160",
-      "chapter": "Chapter 160",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-160/529665"
-    },
-    {
-      "_id": "159",
-      "chapter": "Chapter 159",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-159/528378"
-    },
-    {
-      "_id": "158",
-      "chapter": "Chapter 158",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-158/526963"
-    },
-    {
-      "_id": "157",
-      "chapter": "Chapter 157",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-157/525334"
-    },
-    {
-      "_id": "156",
-      "chapter": "Chapter 156",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-156/524765"
-    },
-    {
-      "_id": "155",
-      "chapter": "Chapter 155",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-155/524219"
-    },
-    {
-      "_id": "154",
-      "chapter": "Chapter 154",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-154/521984"
-    },
-    {
-      "_id": "153",
-      "chapter": "Chapter 153",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-153/520215"
-    },
-    {
-      "_id": "152",
-      "chapter": "Chapter 152",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-152/519700"
-    },
-    {
-      "_id": "151",
-      "chapter": "Chapter 151",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-151/519149"
-    },
-    {
-      "_id": "150",
-      "chapter": "Chapter 150",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-150/517138"
-    },
-    {
-      "_id": "149",
-      "chapter": "Chapter 149",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-149/516741"
-    },
-    {
-      "_id": "148",
-      "chapter": "Chapter 148",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-148/516363"
-    },
-    {
-      "_id": "147",
-      "chapter": "Chapter 147",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-147/514869"
-    },
-    {
-      "_id": "146",
-      "chapter": "Chapter 146",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-146/514374"
-    },
-    {
-      "_id": "145",
-      "chapter": "Chapter 145",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-145/513668"
-    },
-    {
-      "_id": "144",
-      "chapter": "Chapter 144",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-144/513019"
-    },
-    {
-      "_id": "143",
-      "chapter": "Chapter 143",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-143/512476"
-    },
-    {
-      "_id": "142",
-      "chapter": "Chapter 142",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-142/512063"
-    },
-    {
-      "_id": "141",
-      "chapter": "Chapter 141",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-141/511686"
-    },
-    {
-      "_id": "140",
-      "chapter": "Chapter 140",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-140/510911"
-    },
-    {
-      "_id": "139",
-      "chapter": "Chapter 139",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-139/510455"
-    },
-    {
-      "_id": "138",
-      "chapter": "Chapter 138",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-138/509938"
-    },
-    {
-      "_id": "137",
-      "chapter": "Chapter 137",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-137/509413"
-    },
-    {
-      "_id": "136",
-      "chapter": "Chapter 136",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-136/508786"
-    },
-    {
-      "_id": "135",
-      "chapter": "Chapter 135",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-135/508287"
-    },
-    {
-      "_id": "134",
-      "chapter": "Chapter 134",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-134/505557"
-    },
-    {
-      "_id": "133",
-      "chapter": "Chapter 133",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-133/498952"
-    },
-    {
-      "_id": "132",
-      "chapter": "Chapter 132",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-132/498951"
-    },
-    {
-      "_id": "131",
-      "chapter": "Chapter 131",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-131/498950"
-    },
-    {
-      "_id": "130",
-      "chapter": "Chapter 130",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-130/498949"
-    },
-    {
-      "_id": "129",
-      "chapter": "Chapter 129",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-129/498948"
-    },
-    {
-      "_id": "128",
-      "chapter": "Chapter 128",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-128/498947"
-    },
-    {
-      "_id": "127",
-      "chapter": "Chapter 127",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-127/498946"
-    },
-    {
-      "_id": "126",
-      "chapter": "Chapter 126",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-126/498945"
-    },
-    {
-      "_id": "125",
-      "chapter": "Chapter 125",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-125/498944"
-    },
-    {
-      "_id": "124",
-      "chapter": "Chapter 124",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-124/498943"
-    },
-    {
-      "_id": "123",
-      "chapter": "Chapter 123",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-123/498942"
-    },
-    {
-      "_id": "122",
-      "chapter": "Chapter 122",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-122/498941"
-    },
-    {
-      "_id": "121",
-      "chapter": "Chapter 121",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-121/498940"
-    },
-    {
-      "_id": "120",
-      "chapter": "Chapter 120",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-120/498939"
-    },
-    {
-      "_id": "119",
-      "chapter": "Chapter 119",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-119/498938"
-    },
-    {
-      "_id": "118",
-      "chapter": "Chapter 118",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-118/498937"
-    },
-    {
-      "_id": "117",
-      "chapter": "Chapter 117",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-117/489281"
-    },
-    {
-      "_id": "116",
-      "chapter": "Chapter 116",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-116/489280"
-    },
-    {
-      "_id": "115",
-      "chapter": "Chapter 115",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-115/498936"
-    },
-    {
-      "_id": "114",
-      "chapter": "Chapter 114",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-114/498935"
-    },
-    {
-      "_id": "113",
-      "chapter": "Chapter 113",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-113/498934"
-    },
-    {
-      "_id": "112",
-      "chapter": "Chapter 112",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-112/498933"
-    },
-    {
-      "_id": "111",
-      "chapter": "Chapter 111",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-111/498932"
-    },
-    {
-      "_id": "110",
-      "chapter": "Chapter 110",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-110/498931"
-    },
-    {
-      "_id": "109",
-      "chapter": "Chapter 109",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-109/498930"
-    },
-    {
-      "_id": "108",
-      "chapter": "Chapter 108",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-108/498929"
-    },
-    {
-      "_id": "107",
-      "chapter": "Chapter 107",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-107/498928"
-    },
-    {
-      "_id": "106",
-      "chapter": "Chapter 106",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-106/498927"
-    },
-    {
-      "_id": "105",
-      "chapter": "Chapter 105",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-105/498926"
-    },
-    {
-      "_id": "104",
-      "chapter": "Chapter 104",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-104/498925"
-    },
-    {
-      "_id": "103",
-      "chapter": "Chapter 103",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-103/498924"
-    },
-    {
-      "_id": "102",
-      "chapter": "Chapter 102",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-102/498923"
-    },
-    {
-      "_id": "101",
-      "chapter": "Chapter 101",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-101/498922"
-    },
-    {
-      "_id": "100",
-      "chapter": "Chapter 100",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-100/498921"
-    },
-    {
-      "_id": "99",
-      "chapter": "Chapter 99",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-99/498920"
-    },
-    {
-      "_id": "98",
-      "chapter": "Chapter 98",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-98/498919"
-    },
-    {
-      "_id": "97",
-      "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-97/498918"
-    },
-    {
-      "_id": "96",
-      "chapter": "Chapter 96",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-96/498917"
-    },
-    {
-      "_id": "95",
-      "chapter": "Chapter 95",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-95/498916"
-    },
-    {
-      "_id": "94",
-      "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-94/498915"
-    },
-    {
-      "_id": "93",
-      "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-93/498914"
-    },
-    {
-      "_id": "92",
-      "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-92/498913"
-    },
-    {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-91/498912"
-    },
-    {
-      "_id": "90",
-      "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-90/498911"
-    },
-    {
-      "_id": "89",
-      "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-89/498910"
-    },
-    {
-      "_id": "88",
-      "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-88/484792"
-    },
-    {
-      "_id": "87",
-      "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-87/483631"
-    },
-    {
-      "_id": "86",
-      "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-86/483088"
-    },
-    {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-85/482563"
-    },
-    {
-      "_id": "84",
-      "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-84/472451"
-    },
-    {
-      "_id": "83",
-      "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-83/471999"
-    },
-    {
-      "_id": "82",
-      "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-82/471557"
-    },
-    {
-      "_id": "81",
-      "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-81/468218"
-    },
-    {
-      "_id": "80",
-      "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-80/467375"
-    },
-    {
-      "_id": "79",
-      "chapter": "Chapter 79",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-79/466428"
-    },
-    {
-      "_id": "78",
-      "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-78/464480"
-    },
-    {
-      "_id": "77",
-      "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-77/463963"
-    },
-    {
-      "_id": "76",
-      "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-76/439317"
-    },
-    {
-      "_id": "75",
-      "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-75/439127"
-    },
-    {
-      "_id": "74",
-      "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-74/438937"
-    },
-    {
-      "_id": "73",
-      "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-73/438497"
-    },
-    {
-      "_id": "72",
-      "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-72/437870"
-    },
-    {
-      "_id": "71",
-      "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-71/437582"
-    },
-    {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-70/437262"
-    },
-    {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-69/437054"
-    },
-    {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-68/436815"
-    },
-    {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-67/436345"
-    },
-    {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-66/435864"
-    },
-    {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-65/435531"
-    },
-    {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-64/435257"
-    },
-    {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-63/434981"
-    },
-    {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-62/434748"
-    },
-    {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-61/434295"
-    },
-    {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-60/434090"
-    },
-    {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-59/433896"
-    },
-    {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-58/433689"
-    },
-    {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-57/433492"
-    },
-    {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-56/433291"
-    },
-    {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-55/433023"
-    },
-    {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-54/432603"
-    },
-    {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-53/432352"
-    },
-    {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-52/432126"
-    },
-    {
-      "_id": "51",
-      "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-51/431828"
-    },
-    {
-      "_id": "50",
-      "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-50/431646"
-    },
-    {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-49/431321"
-    },
-    {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-48/431077"
-    },
-    {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-47/430790"
-    },
-    {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-46/430556"
-    },
-    {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-45/430323"
-    },
-    {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-44/430049"
-    },
-    {
-      "_id": "43",
-      "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-43/429801"
-    },
-    {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-42/429599"
-    },
-    {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-41/429297"
-    },
-    {
-      "_id": "40",
-      "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-40/429136"
-    },
-    {
-      "_id": "39",
-      "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-39/428886"
-    },
-    {
-      "_id": "38",
-      "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-38/428666"
-    },
-    {
-      "_id": "37",
-      "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-37/428469"
-    },
-    {
-      "_id": "36",
-      "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-36/428086"
-    },
-    {
-      "_id": "35",
-      "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-35/427902"
-    },
-    {
-      "_id": "34",
-      "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-34/427671"
-    },
-    {
-      "_id": "33",
-      "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-33/427163"
-    },
-    {
-      "_id": "32",
-      "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-32/426901"
-    },
-    {
-      "_id": "31",
-      "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-31/426684"
-    },
-    {
-      "_id": "30",
-      "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-30/426458"
-    },
-    {
-      "_id": "29",
-      "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-29/426200"
-    },
-    {
-      "_id": "28",
-      "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-28/425901"
-    },
-    {
-      "_id": "27",
-      "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-27/425673"
-    },
-    {
-      "_id": "26",
-      "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-26/425449"
-    },
-    {
-      "_id": "25",
-      "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-25/425238"
-    },
-    {
-      "_id": "24",
-      "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-24/424987"
-    },
-    {
-      "_id": "23",
-      "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-23/424740"
-    },
-    {
-      "_id": "22",
-      "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-22/424558"
-    },
-    {
-      "_id": "21",
-      "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-21/424392"
-    },
-    {
-      "_id": "20",
-      "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-20/424229"
-    },
-    {
-      "_id": "19",
-      "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-19/424014"
-    },
-    {
-      "_id": "18",
-      "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-18/423876"
-    },
-    {
-      "_id": "17",
-      "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-17/423741"
-    },
-    {
-      "_id": "16",
-      "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-16/423541"
-    },
-    {
-      "_id": "15",
-      "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-15/423076"
-    },
-    {
-      "_id": "14",
-      "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-14/422877"
-    },
-    {
-      "_id": "13",
-      "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-13/422569"
-    },
-    {
-      "_id": "12",
-      "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-12/422260"
-    },
-    {
-      "_id": "11",
-      "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-11/422007"
-    },
-    {
-      "_id": "10",
-      "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-10/421850"
-    },
-    {
-      "_id": "9",
-      "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-9/421533"
-    },
-    {
-      "_id": "8",
-      "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-8/421358"
-    },
-    {
-      "_id": "7",
-      "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-7/421132"
-    },
-    {
-      "_id": "6",
-      "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-6/420718"
+      "theLoai": "Drama - Manhwa - School Life - Shounen - Supernatural - Webtoon",
+      "noiDung": "Câu chuyện về biệt đội đánh thuê Pháp, Kang Chan anh ta được gọi là God of Blackfield bởi đồng đội và kẻ thù. tuy nhiên sau một nhiệm vụ tiêu diệt Massallan của phiến quân SISS, Kang Chan đã chết bởi một viên đạn của một kẻ phản bội trong hàng ngũ quân của anh ta, anh đã chết nhưng lại được cứu bởi một thế lực bí ẩn và tỉnh dậy sau 3 năm tại Hàn Quốc. Tuy nhiên anh lại trong cơ thể một Kang Chan khác, một học sinh trung học 19 tuổi đang bị bắt nạt. Hành trình tìm ra kẻ phản bội và tìm ra sự thật đằng sau sự tái sinh của anh chính thức bắt đầu khi bạn bấm vào xem và like."
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-5/420536"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield/chap-5/559782"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-4/420303"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield/chap-4/559781"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-3/420080"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield/chap-3/559780"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-2/419746"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield/chap-2/558892"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/do-thi-kieu-hung-he-thong/chap-1/419572"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield/chap-1/558891"
     },
     {
       "_id": "520",
@@ -1282,7 +427,7 @@
       "nameHome": "Võ Luyện Đỉnh Phong",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong-17696",
       "chapHome": "Chapter 520",
-      "chapTime": "2 giờ trước"
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 3,
@@ -1290,7 +435,7 @@
       "nameHome": "Trọng Sinh Đô Thị Tu Tiên",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien-19413",
       "chapHome": "Chapter 372",
-      "chapTime": "2 giờ trước"
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 4,
@@ -1314,7 +459,7 @@
       "nameHome": "Bách Luyện Thành Thần",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/bach-luyen-thanh-than-110920",
       "chapHome": "Chapter 551",
-      "chapTime": "18 giờ trướ"
+      "chapTime": "21 giờ trướ"
     },
     {
       "id": 7,
@@ -1322,15 +467,15 @@
       "nameHome": "Yêu Thần Ký",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-than-ky-10581",
       "chapHome": "Chapter 271.2",
-      "chapTime": "15 giờ trướ"
+      "chapTime": "18 giờ trướ"
     },
     {
       "id": 8,
       "imageHome": "http://st.truyenchon.com/data/comics/151/dua-mami-ve-nha.jpg",
       "nameHome": "Đưa mami về nhà",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha-26263",
-      "chapHome": "Chapter 78",
-      "chapTime": "1 ngày trướ"
+      "chapHome": "Chapter 79",
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 9,
@@ -1338,7 +483,7 @@
       "nameHome": "Thanh Gươm Diệt Quỷ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/thanh-guom-diet-quy-12523",
       "chapHome": "Chapter 202",
-      "chapTime": "9 ngày trướ"
+      "chapTime": "10 ngày trư"
     },
     {
       "id": 10,
@@ -1370,7 +515,7 @@
       "nameHome": "Bỗng Một Ngày Trở Thành Con Gái Nhà Vua",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/bong-mot-ngay-tro-thanh-con-gai-nha-vua-24040",
       "chapHome": "Chapter 122",
-      "chapTime": "14 giờ trướ"
+      "chapTime": "17 giờ trướ"
     },
     {
       "id": 14,
@@ -1378,7 +523,7 @@
       "nameHome": "Đấu Phá Thương Khung",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dau-pha-thuong-khung-4409",
       "chapHome": "Chapter 292.2",
-      "chapTime": "16 giờ trướ"
+      "chapTime": "19 giờ trướ"
     },
     {
       "id": 15,
@@ -1394,7 +539,7 @@
       "nameHome": "Độc Phi Ngu Ngốc Không Thể Chọc",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/doc-phi-ngu-ngoc-khong-the-choc-26202",
       "chapHome": "Chapter 84",
-      "chapTime": "4 giờ trước"
+      "chapTime": "7 giờ trước"
     },
     {
       "id": 17,
@@ -1402,7 +547,7 @@
       "nameHome": "Sủng thê thành nghiện: Lục thiếu sủng từ đáy lòng",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/sung-the-thanh-nghien-luc-thieu-sung-tu-day-long-26366",
       "chapHome": "Chapter 89",
-      "chapTime": "4 giờ trước"
+      "chapTime": "7 giờ trước"
     },
     {
       "id": 18,
@@ -1425,8 +570,8 @@
       "imageHome": "http://st.truyenchon.com/data/comics/198/cung-chieu-vo-yeu.jpg",
       "nameHome": "Cưng Chiều Vợ Yêu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu-18886",
-      "chapHome": "Chapter 223",
-      "chapTime": "1 ngày trướ"
+      "chapHome": "Chapter 224",
+      "chapTime": "2 giờ trước"
     },
     {
       "id": 21,
@@ -1434,7 +579,7 @@
       "nameHome": "Cô vợ ấm áp của hạ thiếu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/co-vo-am-ap-cua-ha-thieu-18792",
       "chapHome": "Chapter 230",
-      "chapTime": "1 giờ trước"
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 22,
@@ -1450,7 +595,7 @@
       "nameHome": "Mỹ Nhân Già Rồi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/my-nhan-gia-roi-18059",
       "chapHome": "Chapter 42",
-      "chapTime": "3 giờ trước"
+      "chapTime": "6 giờ trước"
     },
     {
       "id": 24,
@@ -1466,7 +611,7 @@
       "nameHome": "Khóa Chặt Đôi Môi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/khoa-chat-doi-moi-23136",
       "chapHome": "Chapter 95",
-      "chapTime": "15 giờ trướ"
+      "chapTime": "18 giờ trướ"
     },
     {
       "id": 26,
@@ -1498,7 +643,7 @@
       "nameHome": "Ngày Nào Thiếu Soái Cũng Ghen",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen-23284",
       "chapHome": "Chapter 90",
-      "chapTime": "14 giờ trướ"
+      "chapTime": "17 giờ trướ"
     },
     {
       "id": 30,
@@ -1522,7 +667,7 @@
       "nameHome": "Thảnh Thơi Thú Thế Chủng Chủng Điền, Sinh Sinh Tể",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/thanh-thoi-thu-the-chung-chung-dien-sinh-sinh-te-21401",
       "chapHome": "Chapter 131",
-      "chapTime": "2 giờ trước"
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 33,
@@ -1559,2260 +704,1190 @@
   ],
   "viewsXepHang": [
     {
-      "id": "1",
-      "nameView": "Cuộc Chiến Trong Tòa Tháp",
-      "imgView": "http://st.truyenchon.com/data/comics/144/tower-of-god.jpg",
-      "dataView": "\n        [Cập nhật lúc: 19:42 04/04/2020]\n     ",
-      "tenKhac": "Tower of God",
-      "tacGia": "SIU",
+      "id": "33",
+      "nameView": "Trọng Sinh Để Ngủ Với Ảnh Đế",
+      "imgView": "http://st.truyenchon.com/data/comics/173/trong-sinh-de-ngu-voi-anh-de.jpg",
+      "dataView": "\n        [Cập nhật lúc: 22:37 11/04/2020]\n     ",
+      "tenKhac": "",
+      "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Action - Adventure - Comedy - Drama - Fantasy - Manhwa - Romance - Shounen",
-      "noiDung": "XEM PHẦN 2 TẠI ĐÂY\n\nTower of God kể về cuộc đấu tranh để leo lên đỉnh tòa tháp của nhiều con người với các mục đích khác nhau, nơi mà mọi mong muốn của bạn: tiền, quyền lực, sức mạnh, hay bất cứ một điều gì khác đều có thể được đáp ứng. Tại đây, mỗi người đều phải trổ hết tài năng của mình để leo lên từng tầng, mà mỗi tầng của tháp lại có vô vàn những thử thách khó khăn đang chờ họ, để đạt tới mục tiêu của mình. Thất bại đôi khi sẽ phải trả giá bằng chính mạng sống của mỗi người.\nĐây là nơi các thế lực minh tranh ám đấu, từ các cá nhân với năng lực siêu phàm được xưng tụng là God, các đại gia tộc thế lực hùng mạnh, đến những tổ chức phản loạn nguy hiểm khiến người chơi có thể dễ dàng biến thành con cờ trong tay họ. Tòa tháp cũng là nơi thử thách cho tình bạn, tình đồng đội khi ngay cả người thân nhất cũng sẵn sàng bán đứng bạn vì tham vọng của mình.\nNhân vật chính trong Tower of God là một cậu bé nhỏ con, không có tài năng gì nổi bật ngoài sự dũng cảm và niềm tin mãnh liệt vào tình bạn mang tên Twenty Fifth Baam – kẻ vô tình bị cuốn vào tòa tháp đầy sự cám dỗ. Chính Baam là người mang hi vọng sẽ có đủ sức mạnh để thay đổi toàn bộ tòa tháp, thậm chí đánh đổ cả vị Thần đứng đầu thế giới… Liệu điều gì đang chờ đợi cậu phía trước?"
-    },
-    {
-      "_id": "453",
-      "chapter": "Chapter 453",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-453/554993"
-    },
-    {
-      "_id": "452",
-      "chapter": "Chapter 452",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-452/554990"
-    },
-    {
-      "_id": "451",
-      "chapter": "Chapter 451",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-451/554989"
-    },
-    {
-      "_id": "450",
-      "chapter": "Chapter 450",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-450/554987"
-    },
-    {
-      "_id": "449",
-      "chapter": "Chapter 449 ep 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-449/554985"
-    },
-    {
-      "_id": "448",
-      "chapter": "Chapter 448",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-448/554983"
-    },
-    {
-      "_id": "447",
-      "chapter": "Chapter 447 ep 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-447/554982"
-    },
-    {
-      "_id": "446",
-      "chapter": "Chapter 446",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-446/554981"
-    },
-    {
-      "_id": "445",
-      "chapter": "Chapter 445 ep 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-445/529731"
-    },
-    {
-      "_id": "444",
-      "chapter": "Chapter 444",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-444/529730"
-    },
-    {
-      "_id": "443",
-      "chapter": "Chapter 443 ep 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-443/529729"
-    },
-    {
-      "_id": "442",
-      "chapter": "Chapter 442",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-442/529728"
-    },
-    {
-      "_id": "441",
-      "chapter": "Chapter 441 ep 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-441/529727"
-    },
-    {
-      "_id": "440",
-      "chapter": "Chapter 440 ep 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-440/529726"
-    },
-    {
-      "_id": "439",
-      "chapter": "Chapter 439",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-439/529725"
-    },
-    {
-      "_id": "438",
-      "chapter": "Chapter 438",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-438/529724"
-    },
-    {
-      "_id": "437",
-      "chapter": "Chapter 437",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-437/529723"
-    },
-    {
-      "_id": "436",
-      "chapter": "Chapter 436",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-436/529722"
-    },
-    {
-      "_id": "435",
-      "chapter": "Chapter 435 ep 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-435/529721"
-    },
-    {
-      "_id": "434",
-      "chapter": "Chapter 434",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-434/529720"
-    },
-    {
-      "_id": "433",
-      "chapter": "Chapter 433 ep 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-433/529719"
-    },
-    {
-      "_id": "432",
-      "chapter": "Chapter 432",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-432/529718"
-    },
-    {
-      "_id": "431",
-      "chapter": "Chapter 431 ep 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-431/529716"
-    },
-    {
-      "_id": "430",
-      "chapter": "Chapter 430 ep 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-430/529715"
-    },
-    {
-      "_id": "429",
-      "chapter": "Chapter 429",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-429/529714"
-    },
-    {
-      "_id": "428",
-      "chapter": "Chapter 428",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-428/529713"
-    },
-    {
-      "_id": "427",
-      "chapter": "Chapter 427 ep 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-427/529712"
-    },
-    {
-      "_id": "426",
-      "chapter": "Chapter 426 ep 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-426/529711"
-    },
-    {
-      "_id": "425",
-      "chapter": "Chapter 425",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-425/529710"
-    },
-    {
-      "_id": "424",
-      "chapter": "Chapter 424",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-424/529708"
-    },
-    {
-      "_id": "423",
-      "chapter": "Chapter 423",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-423/529707"
-    },
-    {
-      "_id": "422",
-      "chapter": "Chapter 422 ep 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-422/495923"
-    },
-    {
-      "_id": "421",
-      "chapter": "Chapter 421",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-421/495922"
-    },
-    {
-      "_id": "420",
-      "chapter": "Chapter 420",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-420/495921"
-    },
-    {
-      "_id": "419",
-      "chapter": "Chapter 419",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-419/495920"
-    },
-    {
-      "_id": "418",
-      "chapter": "Chapter 418 Season 3 ep 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-418/495919"
-    },
-    {
-      "_id": "417",
-      "chapter": "Chapter 417 END SEASON 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-417/495918"
-    },
-    {
-      "_id": "416",
-      "chapter": "Chapter 416",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-416/495917"
-    },
-    {
-      "_id": "415",
-      "chapter": "Chapter 415",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-415/495916"
-    },
-    {
-      "_id": "414",
-      "chapter": "Chapter 414",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-414/495915"
-    },
-    {
-      "_id": "413",
-      "chapter": "Chapter 413",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-413/495914"
-    },
-    {
-      "_id": "412",
-      "chapter": "Chapter 412",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-412/495913"
-    },
-    {
-      "_id": "411",
-      "chapter": "Chapter 411",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-411/495912"
-    },
-    {
-      "_id": "410",
-      "chapter": "Chapter 410",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-410/495911"
-    },
-    {
-      "_id": "409",
-      "chapter": "Chapter 409",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-409/495910"
-    },
-    {
-      "_id": "408",
-      "chapter": "Chapter 408",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-408/495909"
-    },
-    {
-      "_id": "407",
-      "chapter": "Chapter 407",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-407/495908"
-    },
-    {
-      "_id": "406",
-      "chapter": "Chapter 406",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-406/495907"
-    },
-    {
-      "_id": "405",
-      "chapter": "Chapter 405",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-405/495906"
-    },
-    {
-      "_id": "404",
-      "chapter": "Chapter 404",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-404/495905"
-    },
-    {
-      "_id": "403",
-      "chapter": "Chapter 403",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-403/495904"
-    },
-    {
-      "_id": "402",
-      "chapter": "Chapter 402",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-402/495903"
-    },
-    {
-      "_id": "401",
-      "chapter": "Chapter 401",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-401/495902"
-    },
-    {
-      "_id": "400",
-      "chapter": "Chapter 400",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-400/495901"
-    },
-    {
-      "_id": "399",
-      "chapter": "Chapter 399",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-399/495900"
-    },
-    {
-      "_id": "398",
-      "chapter": "Chapter 398",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-398/495899"
-    },
-    {
-      "_id": "397",
-      "chapter": "Chapter 397",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-397/495898"
-    },
-    {
-      "_id": "396",
-      "chapter": "Chapter 396",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-396/495897"
-    },
-    {
-      "_id": "395",
-      "chapter": "Chapter 395",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-395/495896"
-    },
-    {
-      "_id": "394",
-      "chapter": "Chapter 394",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-394/495895"
-    },
-    {
-      "_id": "393",
-      "chapter": "Chapter 393",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-393/495894"
-    },
-    {
-      "_id": "392",
-      "chapter": "Chapter 392",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-392/495893"
-    },
-    {
-      "_id": "391",
-      "chapter": "Chapter 391",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-391/495892"
-    },
-    {
-      "_id": "390",
-      "chapter": "Chapter 390",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-390/495891"
-    },
-    {
-      "_id": "389",
-      "chapter": "Chapter 389",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-389/495890"
-    },
-    {
-      "_id": "388",
-      "chapter": "Chapter 388",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-388/495889"
-    },
-    {
-      "_id": "387",
-      "chapter": "Chapter 387",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-387/495888"
-    },
-    {
-      "_id": "386",
-      "chapter": "Chapter 386",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-386/495887"
-    },
-    {
-      "_id": "385",
-      "chapter": "Chapter 385",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-385/495886"
-    },
-    {
-      "_id": "384",
-      "chapter": "Chapter 384",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-384/495885"
-    },
-    {
-      "_id": "383",
-      "chapter": "Chapter 383",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-383/495884"
-    },
-    {
-      "_id": "382",
-      "chapter": "Chapter 382",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-382/495883"
-    },
-    {
-      "_id": "381",
-      "chapter": "Chapter 381",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-381/495882"
-    },
-    {
-      "_id": "380",
-      "chapter": "Chapter 380",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-380/495881"
-    },
-    {
-      "_id": "379",
-      "chapter": "Chapter 379",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-379/495880"
-    },
-    {
-      "_id": "378",
-      "chapter": "Chapter 378",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-378/495879"
-    },
-    {
-      "_id": "377",
-      "chapter": "Chapter 377",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-377/495878"
-    },
-    {
-      "_id": "376",
-      "chapter": "Chapter 376",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-376/495877"
-    },
-    {
-      "_id": "375",
-      "chapter": "Chapter 375",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-375/495876"
-    },
-    {
-      "_id": "374",
-      "chapter": "Chapter 374",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-374/495875"
-    },
-    {
-      "_id": "373",
-      "chapter": "Chapter 373",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-373/495874"
-    },
-    {
-      "_id": "372",
-      "chapter": "Chapter 372",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-372/495873"
-    },
-    {
-      "_id": "371",
-      "chapter": "Chapter 371",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-371/495872"
-    },
-    {
-      "_id": "370",
-      "chapter": "Chapter 370",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-370/495871"
-    },
-    {
-      "_id": "369",
-      "chapter": "Chapter 369",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-369/495870"
-    },
-    {
-      "_id": "368",
-      "chapter": "Chapter 368",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-368/495869"
-    },
-    {
-      "_id": "367",
-      "chapter": "Chapter 367",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-367/495868"
-    },
-    {
-      "_id": "366",
-      "chapter": "Chapter 366",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-366/495867"
-    },
-    {
-      "_id": "365",
-      "chapter": "Chapter 365",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-365/495866"
-    },
-    {
-      "_id": "364",
-      "chapter": "Chapter 364",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-364/495865"
-    },
-    {
-      "_id": "363",
-      "chapter": "Chapter 363",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-363/495864"
-    },
-    {
-      "_id": "362",
-      "chapter": "Chapter 362",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-362/495863"
-    },
-    {
-      "_id": "361",
-      "chapter": "Chapter 361",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-361/495862"
-    },
-    {
-      "_id": "360",
-      "chapter": "Chapter 360",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-360/495861"
-    },
-    {
-      "_id": "359",
-      "chapter": "Chapter 359",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-359/495860"
-    },
-    {
-      "_id": "358",
-      "chapter": "Chapter 358",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-358/495859"
-    },
-    {
-      "_id": "357",
-      "chapter": "Chapter 357",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-357/495858"
-    },
-    {
-      "_id": "356",
-      "chapter": "Chapter 356",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-356/495857"
-    },
-    {
-      "_id": "355",
-      "chapter": "Chapter 355",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-355/495856"
-    },
-    {
-      "_id": "354",
-      "chapter": "Chapter 354",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-354/495855"
-    },
-    {
-      "_id": "353",
-      "chapter": "Chapter 353",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-353/495854"
-    },
-    {
-      "_id": "352",
-      "chapter": "Chapter 352",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-352/495853"
-    },
-    {
-      "_id": "351",
-      "chapter": "Chapter 351",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-351/495852"
-    },
-    {
-      "_id": "350",
-      "chapter": "Chapter 350",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-350/495851"
-    },
-    {
-      "_id": "349",
-      "chapter": "Chapter 349",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-349/495850"
-    },
-    {
-      "_id": "348",
-      "chapter": "Chapter 348",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-348/495849"
-    },
-    {
-      "_id": "347",
-      "chapter": "Chapter 347",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-347/495848"
-    },
-    {
-      "_id": "346",
-      "chapter": "Chapter 346",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-346/495847"
-    },
-    {
-      "_id": "345",
-      "chapter": "Chapter 345",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-345/495846"
-    },
-    {
-      "_id": "344",
-      "chapter": "Chapter 344",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-344/495845"
-    },
-    {
-      "_id": "343",
-      "chapter": "Chapter 343",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-343/495844"
-    },
-    {
-      "_id": "342",
-      "chapter": "Chapter 342",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-342/495843"
-    },
-    {
-      "_id": "341",
-      "chapter": "Chapter 341",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-341/495842"
-    },
-    {
-      "_id": "340",
-      "chapter": "Chapter 340",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-340/495841"
-    },
-    {
-      "_id": "339",
-      "chapter": "Chapter 339",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-339/495840"
-    },
-    {
-      "_id": "338",
-      "chapter": "Chapter 338",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-338/495839"
-    },
-    {
-      "_id": "337",
-      "chapter": "Chapter 337",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-337/495838"
-    },
-    {
-      "_id": "336",
-      "chapter": "Chapter 336",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-336/495837"
-    },
-    {
-      "_id": "335",
-      "chapter": "Chapter 335",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-335/495836"
-    },
-    {
-      "_id": "334",
-      "chapter": "Chapter 334",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-334/495835"
-    },
-    {
-      "_id": "333",
-      "chapter": "Chapter 333",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-333/495834"
-    },
-    {
-      "_id": "332",
-      "chapter": "Chapter 332",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-332/495833"
-    },
-    {
-      "_id": "331",
-      "chapter": "Chapter 331",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-331/495832"
-    },
-    {
-      "_id": "330",
-      "chapter": "Chapter 330",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-330/495831"
-    },
-    {
-      "_id": "329",
-      "chapter": "Chapter 329",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-329/495830"
-    },
-    {
-      "_id": "328",
-      "chapter": "Chapter 328",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-328/495829"
-    },
-    {
-      "_id": "327",
-      "chapter": "Chapter 327",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-327/495828"
-    },
-    {
-      "_id": "326",
-      "chapter": "Chapter 326",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-326/495827"
-    },
-    {
-      "_id": "325",
-      "chapter": "Chapter 325",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-325/495826"
-    },
-    {
-      "_id": "324",
-      "chapter": "Chapter 324",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-324/495824"
-    },
-    {
-      "_id": "323",
-      "chapter": "Chapter 323",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-323/495823"
-    },
-    {
-      "_id": "322",
-      "chapter": "Chapter 322",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-322/495822"
-    },
-    {
-      "_id": "321",
-      "chapter": "Chapter 321",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-321/495821"
-    },
-    {
-      "_id": "320",
-      "chapter": "Chapter 320",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-320/495820"
-    },
-    {
-      "_id": "319",
-      "chapter": "Chapter 319",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-319/495819"
-    },
-    {
-      "_id": "318",
-      "chapter": "Chapter 318",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-318/495818"
-    },
-    {
-      "_id": "317",
-      "chapter": "Chapter 317",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-317/495817"
-    },
-    {
-      "_id": "316",
-      "chapter": "Chapter 316",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-316/495816"
-    },
-    {
-      "_id": "315",
-      "chapter": "Chapter 315",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-315/495815"
-    },
-    {
-      "_id": "314",
-      "chapter": "Chapter 314",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-314/495814"
-    },
-    {
-      "_id": "313",
-      "chapter": "Chapter 313",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-313/495813"
-    },
-    {
-      "_id": "312",
-      "chapter": "Chapter 312",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-312/495812"
-    },
-    {
-      "_id": "311",
-      "chapter": "Chapter 311",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-311/495811"
-    },
-    {
-      "_id": "310",
-      "chapter": "Chapter 310",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-310/495810"
-    },
-    {
-      "_id": "309",
-      "chapter": "Chapter 309",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-309/495809"
-    },
-    {
-      "_id": "308",
-      "chapter": "Chapter 308",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-308/495808"
-    },
-    {
-      "_id": "307",
-      "chapter": "Chapter 307",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-307/495807"
-    },
-    {
-      "_id": "306",
-      "chapter": "Chapter 306",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-306/495806"
-    },
-    {
-      "_id": "305",
-      "chapter": "Chapter 305",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-305/495805"
-    },
-    {
-      "_id": "304",
-      "chapter": "Chapter 304",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-304/495804"
-    },
-    {
-      "_id": "303",
-      "chapter": "Chapter 303",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-303/495803"
-    },
-    {
-      "_id": "302",
-      "chapter": "Chapter 302",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-302/495802"
-    },
-    {
-      "_id": "301",
-      "chapter": "Chapter 301",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-301/495801"
-    },
-    {
-      "_id": "300",
-      "chapter": "Chapter 300",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-300/495800"
-    },
-    {
-      "_id": "299",
-      "chapter": "Chapter 299",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-299/495799"
-    },
-    {
-      "_id": "294",
-      "chapter": "Chapter 294",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-294/496116"
-    },
-    {
-      "_id": "293",
-      "chapter": "Chapter 293",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-293/496115"
-    },
-    {
-      "_id": "292",
-      "chapter": "Chapter 292",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-292/496114"
-    },
-    {
-      "_id": "291",
-      "chapter": "Chapter 291",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-291/496113"
-    },
-    {
-      "_id": "290",
-      "chapter": "Chapter 290",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-290/496112"
-    },
-    {
-      "_id": "289",
-      "chapter": "Chapter 289",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-289/496111"
-    },
-    {
-      "_id": "288",
-      "chapter": "Chapter 288",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-288/496110"
-    },
-    {
-      "_id": "287",
-      "chapter": "Chapter 287",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-287/496109"
-    },
-    {
-      "_id": "286",
-      "chapter": "Chapter 286",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-286/496108"
-    },
-    {
-      "_id": "285",
-      "chapter": "Chapter 285",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-285/496107"
-    },
-    {
-      "_id": "284",
-      "chapter": "Chapter 284",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-284/496106"
-    },
-    {
-      "_id": "283",
-      "chapter": "Chapter 283",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-283/496104"
-    },
-    {
-      "_id": "282",
-      "chapter": "Chapter 282",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-282/496103"
-    },
-    {
-      "_id": "281",
-      "chapter": "Chapter 281",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-281/496102"
-    },
-    {
-      "_id": "280",
-      "chapter": "Chapter 280",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-280/496101"
-    },
-    {
-      "_id": "279",
-      "chapter": "Chapter 279",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-279/496100"
-    },
-    {
-      "_id": "278",
-      "chapter": "Chapter 278",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-278/496099"
-    },
-    {
-      "_id": "277",
-      "chapter": "Chapter 277",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-277/496098"
-    },
-    {
-      "_id": "276",
-      "chapter": "Chapter 276",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-276/496097"
-    },
-    {
-      "_id": "275",
-      "chapter": "Chapter 275",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-275/496096"
-    },
-    {
-      "_id": "274",
-      "chapter": "Chapter 274",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-274/496095"
-    },
-    {
-      "_id": "273",
-      "chapter": "Chapter 273",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-273/496094"
-    },
-    {
-      "_id": "272",
-      "chapter": "Chapter 272",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-272/496093"
-    },
-    {
-      "_id": "271",
-      "chapter": "Chapter 271",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-271/496092"
-    },
-    {
-      "_id": "270",
-      "chapter": "Chapter 270",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-270/496091"
-    },
-    {
-      "_id": "269",
-      "chapter": "Chapter 269",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-269/496090"
-    },
-    {
-      "_id": "268",
-      "chapter": "Chapter 268",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-268/496089"
-    },
-    {
-      "_id": "267",
-      "chapter": "Chapter 267",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-267/496088"
-    },
-    {
-      "_id": "266",
-      "chapter": "Chapter 266",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-266/496087"
-    },
-    {
-      "_id": "265",
-      "chapter": "Chapter 265",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-265/496086"
-    },
-    {
-      "_id": "264",
-      "chapter": "Chapter 264",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-264/496085"
-    },
-    {
-      "_id": "263",
-      "chapter": "Chapter 263",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-263/496084"
-    },
-    {
-      "_id": "262",
-      "chapter": "Chapter 262",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-262/496083"
-    },
-    {
-      "_id": "261",
-      "chapter": "Chapter 261",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-261/496082"
-    },
-    {
-      "_id": "260",
-      "chapter": "Chapter 260",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-260/496081"
-    },
-    {
-      "_id": "259",
-      "chapter": "Chapter 259",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-259/496080"
-    },
-    {
-      "_id": "258",
-      "chapter": "Chapter 258",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-258/496079"
-    },
-    {
-      "_id": "257",
-      "chapter": "Chapter 257",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-257/496078"
-    },
-    {
-      "_id": "256",
-      "chapter": "Chapter 256",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-256/496077"
-    },
-    {
-      "_id": "255",
-      "chapter": "Chapter 255",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-255/496076"
-    },
-    {
-      "_id": "254",
-      "chapter": "Chapter 254",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-254/496075"
-    },
-    {
-      "_id": "253",
-      "chapter": "Chapter 253",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-253/496074"
-    },
-    {
-      "_id": "252",
-      "chapter": "Chapter 252",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-252/496073"
-    },
-    {
-      "_id": "251",
-      "chapter": "Chapter 251",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-251/496072"
-    },
-    {
-      "_id": "250",
-      "chapter": "Chapter 250",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-250/496071"
-    },
-    {
-      "_id": "249",
-      "chapter": "Chapter 249",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-249/496070"
-    },
-    {
-      "_id": "248",
-      "chapter": "Chapter 248",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-248/496069"
-    },
-    {
-      "_id": "247",
-      "chapter": "Chapter 247",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-247/496068"
-    },
-    {
-      "_id": "246",
-      "chapter": "Chapter 246",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-246/496067"
-    },
-    {
-      "_id": "245",
-      "chapter": "Chapter 245",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-245/496066"
-    },
-    {
-      "_id": "244",
-      "chapter": "Chapter 244",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-244/496065"
-    },
-    {
-      "_id": "243",
-      "chapter": "Chapter 243",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-243/496063"
-    },
-    {
-      "_id": "242",
-      "chapter": "Chapter 242",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-242/496062"
-    },
-    {
-      "_id": "241",
-      "chapter": "Chapter 241",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-241/496061"
-    },
-    {
-      "_id": "240",
-      "chapter": "Chapter 240",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-240/496060"
-    },
-    {
-      "_id": "239",
-      "chapter": "Chapter 239",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-239/496059"
-    },
-    {
-      "_id": "238",
-      "chapter": "Chapter 238",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-238/496058"
-    },
-    {
-      "_id": "237",
-      "chapter": "Chapter 237",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-237/496057"
-    },
-    {
-      "_id": "236",
-      "chapter": "Chapter 236",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-236/496056"
-    },
-    {
-      "_id": "235",
-      "chapter": "Chapter 235",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-235/496055"
+      "theLoai": "Comedy - Manhua - Ngôn Tình - Romance - Shoujo - Supernatural - Truyện Màu",
+      "noiDung": "“Muốn được tái sinh thêm một lần nữa để có thể thực hiện ước nguyện của cô ấy.” \n“Vậy ước nguyện của cô ấy là gì?”.\n\"Giấc mơ chiến thắng”"
     },
     {
       "_id": "234",
       "chapter": "Chapter 234",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-234/496054"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-234/557113"
     },
     {
       "_id": "233",
       "chapter": "Chapter 233",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-233/496053"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-233/555200"
     },
     {
       "_id": "232",
-      "chapter": "Chapter 232",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-232/496052"
+      "chapter": "Chapter 232.2",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-232.2/553898"
+    },
+    {
+      "_id": "232",
+      "chapter": "Chapter 232.1",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-232.1/553897"
+    },
+    {
+      "_id": "231",
+      "chapter": "Chapter 231",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-231/553371"
     },
     {
       "_id": "230",
       "chapter": "Chapter 230",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-230/496051"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-230/552945"
     },
     {
       "_id": "229",
       "chapter": "Chapter 229",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-229/496050"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-229/552914"
     },
     {
       "_id": "228",
       "chapter": "Chapter 228",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-228/496049"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-228/552404"
     },
     {
       "_id": "227",
       "chapter": "Chapter 227",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-227/496048"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-227/552174"
     },
     {
       "_id": "226",
       "chapter": "Chapter 226",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-226/496047"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-226/552173"
     },
     {
       "_id": "225",
       "chapter": "Chapter 225",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-225/496046"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-225/552172"
     },
     {
       "_id": "224",
       "chapter": "Chapter 224",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-224/496045"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-224/550808"
     },
     {
       "_id": "223",
       "chapter": "Chapter 223",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-223/496044"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-223/550807"
     },
     {
       "_id": "222",
       "chapter": "Chapter 222",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-222/496043"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-222/550388"
     },
     {
       "_id": "221",
       "chapter": "Chapter 221",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-221/496042"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-221/550386"
     },
     {
       "_id": "220",
       "chapter": "Chapter 220",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-220/496041"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-220/550385"
     },
     {
       "_id": "219",
       "chapter": "Chapter 219",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-219/496040"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-219/549847"
     },
     {
       "_id": "218",
       "chapter": "Chapter 218",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-218/496039"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-218/549729"
     },
     {
       "_id": "217",
       "chapter": "Chapter 217",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-217/496038"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-217/549728"
     },
     {
       "_id": "216",
       "chapter": "Chapter 216",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-216/496037"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-216/549727"
     },
     {
       "_id": "215",
       "chapter": "Chapter 215",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-215/496036"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-215/549726"
     },
     {
       "_id": "214",
       "chapter": "Chapter 214",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-214/496035"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-214/549725"
     },
     {
       "_id": "213",
       "chapter": "Chapter 213",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-213/496034"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-213/549724"
     },
     {
       "_id": "212",
       "chapter": "Chapter 212",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-212/496033"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-212/549723"
     },
     {
       "_id": "211",
       "chapter": "Chapter 211",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-211/496032"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-211/549722"
     },
     {
       "_id": "210",
       "chapter": "Chapter 210",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-210/496031"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-210/549721"
     },
     {
       "_id": "209",
       "chapter": "Chapter 209",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-209/496030"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-209/549720"
     },
     {
       "_id": "208",
       "chapter": "Chapter 208",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-208/496029"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-208/549719"
     },
     {
       "_id": "207",
       "chapter": "Chapter 207",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-207/496028"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-207/549718"
     },
     {
       "_id": "206",
       "chapter": "Chapter 206",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-206/496027"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-206/549717"
     },
     {
       "_id": "205",
       "chapter": "Chapter 205",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-205/496026"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-205/549716"
     },
     {
       "_id": "204",
       "chapter": "Chapter 204",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-204/496025"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-204/549715"
     },
     {
       "_id": "203",
       "chapter": "Chapter 203",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-203/496024"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-203/549714"
     },
     {
       "_id": "202",
       "chapter": "Chapter 202",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-202/496023"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-202/549713"
     },
     {
       "_id": "201",
       "chapter": "Chapter 201",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-201/496022"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-201/549712"
     },
     {
       "_id": "200",
       "chapter": "Chapter 200",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-200/496021"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-200/549711"
     },
     {
       "_id": "199",
       "chapter": "Chapter 199",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-199/496020"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-199/549710"
     },
     {
       "_id": "198",
-      "chapter": "Chapter 198 Chap 197",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-198/496019"
+      "chapter": "Chapter 198",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-198/549709"
     },
     {
       "_id": "197",
       "chapter": "Chapter 197",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-197/496018"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-197/549708"
     },
     {
       "_id": "196",
       "chapter": "Chapter 196",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-196/496017"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-196/549707"
     },
     {
       "_id": "195",
       "chapter": "Chapter 195",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-195/496016"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-195/549706"
     },
     {
       "_id": "194",
       "chapter": "Chapter 194",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-194/496015"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-194/549705"
     },
     {
       "_id": "193",
       "chapter": "Chapter 193",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-193/496014"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-193/549704"
     },
     {
       "_id": "192",
       "chapter": "Chapter 192",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-192/496013"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-192/549703"
     },
     {
       "_id": "191",
       "chapter": "Chapter 191",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-191/496012"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-191/549702"
     },
     {
       "_id": "190",
       "chapter": "Chapter 190",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-190/496011"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-190/549701"
     },
     {
       "_id": "189",
-      "chapter": "Chapter 189",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-189/496010"
+      "chapter": "Chapter 189 Chap 190",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-189/549700"
     },
     {
       "_id": "188",
       "chapter": "Chapter 188",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-188/496009"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-188/549699"
     },
     {
       "_id": "187",
       "chapter": "Chapter 187",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-187/496008"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-187/549698"
     },
     {
       "_id": "186",
       "chapter": "Chapter 186",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-186/496007"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-186/549697"
     },
     {
       "_id": "185",
       "chapter": "Chapter 185",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-185/496006"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-185/549696"
     },
     {
       "_id": "184",
       "chapter": "Chapter 184",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-184/496005"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-184/549695"
     },
     {
       "_id": "183",
       "chapter": "Chapter 183",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-183/496004"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-183/549694"
     },
     {
       "_id": "182",
       "chapter": "Chapter 182",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-182/496003"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-182/549693"
     },
     {
       "_id": "181",
       "chapter": "Chapter 181",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-181/539944"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-181/549692"
     },
     {
       "_id": "180",
       "chapter": "Chapter 180",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-180/539943"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-180/549691"
     },
     {
       "_id": "179",
       "chapter": "Chapter 179",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-179/539942"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-179/549690"
     },
     {
       "_id": "178",
       "chapter": "Chapter 178",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-178/539941"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-178/549689"
     },
     {
       "_id": "177",
       "chapter": "Chapter 177",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-177/539940"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-177/549688"
     },
     {
       "_id": "176",
       "chapter": "Chapter 176",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-176/539939"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-176/549687"
     },
     {
       "_id": "175",
       "chapter": "Chapter 175",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-175/539938"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-175/549686"
     },
     {
       "_id": "174",
       "chapter": "Chapter 174",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-174/539937"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-174/549685"
     },
     {
       "_id": "173",
       "chapter": "Chapter 173",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-173/539936"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-173/549684"
     },
     {
       "_id": "172",
       "chapter": "Chapter 172",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-172/539935"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-172/549683"
     },
     {
       "_id": "171",
       "chapter": "Chapter 171",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-171/539934"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-171/549682"
     },
     {
       "_id": "170",
       "chapter": "Chapter 170",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-170/539933"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-170/549681"
     },
     {
       "_id": "169",
       "chapter": "Chapter 169",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-169/539932"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-169/549680"
     },
     {
       "_id": "168",
       "chapter": "Chapter 168",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-168/539931"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-168/549679"
     },
     {
       "_id": "167",
       "chapter": "Chapter 167",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-167/539930"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-167/549678"
     },
     {
       "_id": "166",
       "chapter": "Chapter 166",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-166/539929"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-166/549677"
     },
     {
       "_id": "165",
       "chapter": "Chapter 165",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-165/539928"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-165/549676"
     },
     {
       "_id": "164",
       "chapter": "Chapter 164",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-164/539927"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-164/549674"
     },
     {
       "_id": "163",
       "chapter": "Chapter 163",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-163/539926"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-163/549736"
     },
     {
       "_id": "162",
       "chapter": "Chapter 162",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-162/539925"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-162/549735"
     },
     {
       "_id": "161",
       "chapter": "Chapter 161",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-161/539924"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-161/549734"
     },
     {
       "_id": "160",
       "chapter": "Chapter 160",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-160/539922"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-160/549653"
     },
     {
       "_id": "159",
       "chapter": "Chapter 159",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-159/539921"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-159/549652"
     },
     {
       "_id": "158",
       "chapter": "Chapter 158",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-158/496002"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-158/549651"
     },
     {
       "_id": "157",
       "chapter": "Chapter 157",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-157/496001"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-157/549650"
     },
     {
       "_id": "156",
       "chapter": "Chapter 156",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-156/496000"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-156/549649"
     },
     {
       "_id": "155",
       "chapter": "Chapter 155",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-155/495999"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-155/549620"
     },
     {
       "_id": "154",
       "chapter": "Chapter 154",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-154/495998"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-154/549619"
     },
     {
       "_id": "153",
       "chapter": "Chapter 153",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-153/495997"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-153/549618"
     },
     {
       "_id": "152",
       "chapter": "Chapter 152",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-152/495996"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-152/549617"
     },
     {
       "_id": "151",
       "chapter": "Chapter 151",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-151/495995"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-151/549616"
     },
     {
       "_id": "150",
       "chapter": "Chapter 150",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-150/495994"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-150/549615"
     },
     {
       "_id": "149",
       "chapter": "Chapter 149",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-149/495993"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-149/549614"
     },
     {
       "_id": "148",
       "chapter": "Chapter 148",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-148/495992"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-148/549613"
     },
     {
       "_id": "147",
       "chapter": "Chapter 147",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-147/495991"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-147/549612"
     },
     {
       "_id": "146",
       "chapter": "Chapter 146",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-146/495990"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-146/549611"
     },
     {
       "_id": "145",
       "chapter": "Chapter 145",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-145/495989"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-145/549588"
     },
     {
       "_id": "144",
       "chapter": "Chapter 144",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-144/495988"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-144/549587"
     },
     {
       "_id": "143",
       "chapter": "Chapter 143",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-143/495987"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-143/549586"
     },
     {
       "_id": "142",
       "chapter": "Chapter 142",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-142/495986"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-142/549585"
     },
     {
       "_id": "141",
       "chapter": "Chapter 141",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-141/495985"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-141/549584"
     },
     {
       "_id": "140",
       "chapter": "Chapter 140",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-140/495984"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-140/549583"
     },
     {
       "_id": "139",
       "chapter": "Chapter 139",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-139/495983"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-139/549582"
     },
     {
       "_id": "138",
       "chapter": "Chapter 138",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-138/495982"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-138/549581"
     },
     {
       "_id": "137",
       "chapter": "Chapter 137",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-137/495981"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-137/549575"
     },
     {
       "_id": "136",
       "chapter": "Chapter 136",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-136/495980"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-136/549574"
     },
     {
       "_id": "135",
       "chapter": "Chapter 135",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-135/495979"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-135/549573"
     },
     {
       "_id": "134",
       "chapter": "Chapter 134",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-134/495978"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-134/549572"
     },
     {
       "_id": "133",
       "chapter": "Chapter 133",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-133/495977"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-133/549571"
     },
     {
       "_id": "132",
       "chapter": "Chapter 132",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-132/495976"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-132/549570"
     },
     {
       "_id": "131",
       "chapter": "Chapter 131",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-131/495975"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-131/549569"
     },
     {
       "_id": "130",
       "chapter": "Chapter 130",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-130/495974"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-130/549568"
     },
     {
       "_id": "129",
       "chapter": "Chapter 129",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-129/495973"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-129/549567"
     },
     {
       "_id": "128",
       "chapter": "Chapter 128",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-128/495972"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-128/549566"
     },
     {
       "_id": "127",
       "chapter": "Chapter 127",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-127/495971"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-127/549565"
     },
     {
       "_id": "126",
       "chapter": "Chapter 126",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-126/495970"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-126/549564"
     },
     {
       "_id": "125",
       "chapter": "Chapter 125",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-125/495969"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-125/549563"
     },
     {
       "_id": "124",
       "chapter": "Chapter 124",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-124/495968"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-124/549562"
     },
     {
       "_id": "123",
       "chapter": "Chapter 123",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-123/495967"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-123/549561"
     },
     {
       "_id": "122",
       "chapter": "Chapter 122",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-122/495966"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-122/549560"
     },
     {
       "_id": "121",
       "chapter": "Chapter 121",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-121/495965"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-121/549559"
     },
     {
       "_id": "120",
       "chapter": "Chapter 120",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-120/495964"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-120/549558"
     },
     {
       "_id": "119",
       "chapter": "Chapter 119",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-119/495963"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-119/549557"
     },
     {
       "_id": "118",
       "chapter": "Chapter 118",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-118/495962"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-118/549556"
     },
     {
       "_id": "117",
       "chapter": "Chapter 117",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-117/495961"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-117/549555"
     },
     {
       "_id": "116",
       "chapter": "Chapter 116",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-116/495960"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-116/549554"
     },
     {
       "_id": "115",
       "chapter": "Chapter 115",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-115/495959"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-115/549553"
     },
     {
       "_id": "114",
       "chapter": "Chapter 114",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-114/495958"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-114/549552"
     },
     {
       "_id": "113",
       "chapter": "Chapter 113",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-113/495957"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-113/549551"
     },
     {
       "_id": "112",
       "chapter": "Chapter 112",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-112/495956"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-112/549550"
     },
     {
       "_id": "111",
       "chapter": "Chapter 111",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-111/495955"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-111/549549"
     },
     {
       "_id": "110",
       "chapter": "Chapter 110",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-110/495954"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-110/549548"
     },
     {
       "_id": "109",
       "chapter": "Chapter 109",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-109/495953"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-109/549547"
     },
     {
       "_id": "108",
       "chapter": "Chapter 108",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-108/495952"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-108/549546"
     },
     {
       "_id": "107",
       "chapter": "Chapter 107",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-107/495951"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-107/549545"
     },
     {
       "_id": "106",
       "chapter": "Chapter 106",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-106/495950"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-106/549544"
     },
     {
       "_id": "105",
       "chapter": "Chapter 105",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-105/495949"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-105/549543"
     },
     {
       "_id": "104",
       "chapter": "Chapter 104",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-104/495948"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-104/549542"
     },
     {
       "_id": "103",
       "chapter": "Chapter 103",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-103/495947"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-103/549127"
     },
     {
       "_id": "102",
       "chapter": "Chapter 102",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-102/495946"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-102/549126"
     },
     {
       "_id": "101",
       "chapter": "Chapter 101",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-101/495945"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-101/549125"
     },
     {
       "_id": "100",
       "chapter": "Chapter 100",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-100/495944"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-100/549124"
     },
     {
       "_id": "99",
       "chapter": "Chapter 99",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-99/495943"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-99/549123"
     },
     {
       "_id": "98",
       "chapter": "Chapter 98",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-98/495942"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-98/549122"
     },
     {
       "_id": "97",
       "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-97/495941"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-97/549121"
     },
     {
       "_id": "96",
       "chapter": "Chapter 96",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-96/495940"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-96/549120"
     },
     {
       "_id": "95",
       "chapter": "Chapter 95",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-95/495939"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-95/549008"
     },
     {
       "_id": "94",
       "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-94/495938"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-94/549007"
     },
     {
       "_id": "93",
       "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-93/495937"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-93/549006"
     },
     {
       "_id": "92",
       "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-92/495936"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-92/549005"
     },
     {
       "_id": "91",
       "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-91/495935"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-91/548985"
     },
     {
       "_id": "90",
       "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-90/495934"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-90/548979"
     },
     {
       "_id": "89",
       "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-89/495933"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-89/548978"
     },
     {
       "_id": "88",
       "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-88/495932"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-88/516328"
     },
     {
       "_id": "87",
       "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-87/495931"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-87/510235"
     },
     {
       "_id": "86",
       "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-86/495930"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-86/509837"
     },
     {
       "_id": "85",
       "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-85/495929"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-85/509839"
     },
     {
       "_id": "84",
       "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-84/495928"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-84/509836"
     },
     {
       "_id": "83",
       "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-83/495927"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-83/515955"
     },
     {
       "_id": "82",
       "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-82/495926"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-82/510233"
     },
     {
       "_id": "81",
       "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-81/495925"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-81/509323"
     },
     {
       "_id": "80",
       "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-80/495924"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-80/506320"
     },
     {
-      "_id": "79 ",
-      "chapter": "Chapter 79 END SEASON 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-79/109485"
+      "_id": "79",
+      "chapter": "Chapter 79",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-79/502145"
     },
     {
       "_id": "78",
       "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-78/109484"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-78/425022"
     },
     {
       "_id": "77",
       "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-77/109483"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-77/425020"
     },
     {
       "_id": "76",
       "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-76/109482"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-76/425019"
     },
     {
       "_id": "75",
       "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-75/109481"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-75/425016"
     },
     {
       "_id": "74",
       "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-74/109480"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-74/425015"
     },
     {
       "_id": "73",
       "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-73/109479"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-73/424542"
     },
     {
       "_id": "72",
       "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-72/109478"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-72/418038"
     },
     {
       "_id": "71",
       "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-71/109477"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-71/418037"
     },
     {
       "_id": "70",
       "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-70/109476"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-70/417764"
     },
     {
       "_id": "69",
       "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-69/109475"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-69/416216"
     },
     {
       "_id": "68",
       "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-68/109474"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-68/412054"
     },
     {
       "_id": "67",
       "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-67/109473"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-67/409063"
     },
     {
       "_id": "66",
       "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-66/109472"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-66/404994"
     },
     {
       "_id": "65",
       "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-65/109471"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-65/401125"
     },
     {
       "_id": "64",
       "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-64/109470"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-64/399727"
     },
     {
       "_id": "63",
       "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-63/109469"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-63/398282"
     },
     {
       "_id": "62",
       "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-62/109468"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-62/394798"
     },
     {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-61/109467"
+      "_id": "61 ",
+      "chapter": "Chapter 61 Chap 62",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-61/394628"
     },
     {
       "_id": "60",
       "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-60/109466"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-60/392589"
     },
     {
       "_id": "59",
       "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-59/109465"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-59/391466"
     },
     {
       "_id": "58",
       "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-58/109464"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-58/390204"
     },
     {
       "_id": "57",
       "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-57/109463"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-57/387924"
     },
     {
       "_id": "56",
       "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-56/109462"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-56/384065"
     },
     {
       "_id": "55",
       "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-55/109461"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-55/383274"
     },
     {
       "_id": "54",
       "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-54/109460"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-54/381602"
     },
     {
       "_id": "53",
       "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-53/109459"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-53/381005"
     },
     {
       "_id": "52",
       "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-52/109458"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-52/378001"
     },
     {
       "_id": "51",
       "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-51/109457"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-51/375890"
     },
     {
       "_id": "50",
       "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-50/109456"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-50/375081"
     },
     {
       "_id": "49",
       "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-49/109455"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-49/373941"
     },
     {
       "_id": "48",
       "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-48/109454"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-48/372998"
     },
     {
       "_id": "47",
       "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-47/109453"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-47/372083"
     },
     {
       "_id": "46",
       "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-46/109452"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-46/371653"
     },
     {
       "_id": "45",
       "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-45/109451"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-45/371202"
     },
     {
       "_id": "44",
       "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-44/109450"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-44/369736"
     },
     {
       "_id": "43",
       "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-43/109449"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-43/368502"
     },
     {
       "_id": "42",
       "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-42/109448"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-42/367510"
     },
     {
       "_id": "41",
       "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-41/109447"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-41/366415"
     },
     {
       "_id": "40",
       "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-40/109446"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-40/365917"
     },
     {
       "_id": "39",
       "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-39/109445"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-39/365637"
     },
     {
       "_id": "38",
       "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-38/109444"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-38/364891"
     },
     {
       "_id": "37",
       "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-37/109443"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-37/363573"
     },
     {
       "_id": "36",
       "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-36/109442"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-36/362388"
     },
     {
       "_id": "35",
       "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-35/109441"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-35/360620"
     },
     {
       "_id": "34",
       "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-34/109440"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-34/359455"
     },
     {
       "_id": "33",
       "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-33/109439"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-33/357201"
     },
     {
       "_id": "32",
       "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-32/109438"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-32/356031"
     },
     {
       "_id": "31",
       "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-31/109437"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-31/355355"
     },
     {
       "_id": "30",
       "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-30/109436"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-30/354080"
     },
     {
       "_id": "29",
       "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-29/109435"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-29/352564"
     },
     {
       "_id": "28",
       "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-28/109434"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-28/350462"
     },
     {
       "_id": "27",
       "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-27/109433"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-27/349756"
     },
     {
       "_id": "26",
       "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-26/109432"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-26/348461"
     },
     {
       "_id": "25",
       "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-25/109431"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-25/346748"
     },
     {
       "_id": "24",
       "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-24/109430"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-24/346408"
     },
     {
       "_id": "23",
       "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-23/109429"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-23/342928"
     },
     {
       "_id": "22",
       "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-22/109428"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-22/341877"
     },
     {
       "_id": "21",
       "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-21/109427"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-21/340759"
     },
     {
       "_id": "20",
       "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-20/109426"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-20/340731"
     },
     {
       "_id": "19",
       "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-19/109425"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-19/340732"
     },
     {
       "_id": "18",
       "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-18/109424"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-18/340730"
     },
     {
       "_id": "17",
       "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-17/109423"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-17/339765"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-16/109422"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-16/338506"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-15/109421"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-15/337249"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-14/109420"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-14/336250"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-13/109419"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-13/336249"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-12/109418"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-12/335426"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-11/109417"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-11/328628"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-10/109416"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-10/328524"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-9/109415"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-9/328525"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-8/109414"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-8/328526"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-7/109413"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-7/328527"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-6/109412"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-6/325312"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-5/109411"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-5/325155"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-4/109410"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-4/322472"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-3/109409"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-3/321677"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-2/109408"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-2/320655"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-1/109407"
-    },
-    {
-      "_id": "0",
-      "chapter": "Chapter 0",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-0/186452"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-de-ngu-voi-anh-de/chap-1/318445"
     },
     {
       "_id": "520",
@@ -3883,6 +1958,506 @@
     {
       "nameChap": "Tổng Tài Hàng Tỉ Quấn Lấy Tôi: Hôn Ước Giá Trên Trời - Chapter 111",
       "dateChap": "[Cập nhật lúc: 08:54 11/04/2020]"
+    }
+  ],
+  "homeConGai": [
+    {
+      "id": 1,
+      "imageHome": "http://st.truyenchon.com/data/comics/205/omoi-omoware-furi-furare.jpg",
+      "nameHome": "Omoi, Omoware, Furi, Furare",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare-9933",
+      "chapHome": "Chapter 43",
+      "chapTime": "2 giờ trước"
+    },
+    {
+      "id": 2,
+      "imageHome": "http://st.truyenchon.com/data/comics/104/co-vo-am-ap-cua-ha-thieu.jpg",
+      "nameHome": "Cô vợ ấm áp của hạ thiếu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/co-vo-am-ap-cua-ha-thieu-18792",
+      "chapHome": "Chapter 230",
+      "chapTime": "4 giờ trước"
+    },
+    {
+      "id": 3,
+      "imageHome": "http://st.truyenchon.com/data/comics/194/dai-gia-thua-tuong.jpg",
+      "nameHome": "Đại Giá Thừa Tướng",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-gia-thua-tuong-16578",
+      "chapHome": "Chapter 151",
+      "chapTime": "6 giờ trước"
+    },
+    {
+      "id": 4,
+      "imageHome": "http://st.truyenchon.com/data/comics/54/choc-toi-chu-tich-tong-tai-2.jpg",
+      "nameHome": "Chọc tới chủ tịch tổng tài 2",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-toi-chu-tich-tong-tai-2-20534",
+      "chapHome": "Chapter 142",
+      "chapTime": "6 giờ trước"
+    },
+    {
+      "id": 5,
+      "imageHome": "http://st.truyenchon.com/data/comics/139/my-nhan-gia-roi.jpg",
+      "nameHome": "Mỹ Nhân Già Rồi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/my-nhan-gia-roi-18059",
+      "chapHome": "Chapter 42",
+      "chapTime": "6 giờ trước"
+    },
+    {
+      "id": 6,
+      "imageHome": "http://st.truyenchon.com/data/comics/127/dich-nu-huu-doc.jpg",
+      "nameHome": "Đích Nữ Hữu Độc",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dich-nu-huu-doc-26751",
+      "chapHome": "Chapter 34",
+      "chapTime": "7 giờ trước"
+    },
+    {
+      "id": 7,
+      "imageHome": "http://st.truyenchon.com/data/comics/155/momochi-san-chi-no-ayakashi-ouji.jpg",
+      "nameHome": "Momochi-san Chi no Ayakashi Ouji",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji-6299",
+      "chapHome": "Chapter 18",
+      "chapTime": "7 giờ trước"
+    },
+    {
+      "id": 8,
+      "imageHome": "http://st.truyenchon.com/data/comics/248/trieu-dinh-co-yeu-khi.jpg",
+      "nameHome": "Triều Đình Có Yêu Khí",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/trieu-dinh-co-yeu-khi-26616",
+      "chapHome": "Chapter 26",
+      "chapTime": "9 giờ trước"
+    },
+    {
+      "id": 9,
+      "imageHome": "http://st.truyenchon.com/data/comics/12/de-vuong-trac.jpg",
+      "nameHome": "Đế Vương Trắc",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/de-vuong-trac-15116",
+      "chapHome": "Chapter 137",
+      "chapTime": "17 giờ trướ"
+    },
+    {
+      "id": 10,
+      "imageHome": "http://st.truyenchon.com/data/comics/63/my-nu-dai-tieu-thu-dich-cuong-thi-cao-th-883.jpg",
+      "nameHome": "Mỹ Nữ Đại Tiểu Thư Đích Cương Thi Cao Thủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/my-nu-dai-tieu-thu-dich-cuong-thi-cao-thu-18751",
+      "chapHome": "Chapter 124",
+      "chapTime": "17 giờ trướ"
+    },
+    {
+      "id": 11,
+      "imageHome": "http://st.truyenchon.com/data/comics/244/ngay-nao-thieu-soai-cung-ghen.jpg",
+      "nameHome": "Ngày Nào Thiếu Soái Cũng Ghen",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ngay-nao-thieu-soai-cung-ghen-23284",
+      "chapHome": "Chapter 90",
+      "chapTime": "17 giờ trướ"
+    },
+    {
+      "id": 12,
+      "imageHome": "http://st.truyenchon.com/data/comics/251/vuong-phi-co-chut-nghich-ngom.jpg",
+      "nameHome": "Vương Phi Có Chút Nghịch Ngợm",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vuong-phi-co-chut-nghich-ngom-26363",
+      "chapHome": "Chapter 48",
+      "chapTime": "18 giờ trướ"
+    },
+    {
+      "id": 13,
+      "imageHome": "http://st.truyenchon.com/data/comics/191/luon-co-yeu-quai.jpg",
+      "nameHome": "Luôn Có Yêu Quái",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/luon-co-yeu-quai-16319",
+      "chapHome": "Chapter 196",
+      "chapTime": "19 giờ trướ"
+    },
+    {
+      "id": 14,
+      "imageHome": "http://st.truyenchon.com/data/comics/173/khuynh-thanh-cuong-phi-cua-ta-vuong.jpg",
+      "nameHome": "Khuynh Thành Cuồng Phi Của Tà Vương",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/khuynh-thanh-cuong-phi-cua-ta-vuong-24237",
+      "chapHome": "Chapter 93",
+      "chapTime": "19 giờ trướ"
+    },
+    {
+      "id": 15,
+      "imageHome": "http://st.truyenchon.com/data/comics/210/nhat-dai-linh-hau.jpg",
+      "nameHome": "Nhất Đại Linh Hậu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-dai-linh-hau-17874",
+      "chapHome": "Chapter 100",
+      "chapTime": "20 giờ trướ"
+    },
+    {
+      "id": 16,
+      "imageHome": "http://st.truyenchon.com/data/comics/152/nguoi-yeu-an-hinh-cua-anh-de.jpg",
+      "nameHome": "Người yêu ẩn hình của ảnh đế",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-yeu-an-hinh-cua-anh-de-24216",
+      "chapHome": "Chapter 71",
+      "chapTime": "23 giờ trướ"
+    },
+    {
+      "id": 17,
+      "imageHome": "http://st.truyenchon.com/data/comics/194/nhat-ky-day-do-cua-gia-toc-dang-yeu.jpg",
+      "nameHome": "Nhật Ký Dạy Dỗ Của Gia Tộc Đáng Yêu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-ky-day-do-cua-gia-toc-dang-yeu-16834",
+      "chapHome": "Chapter 61",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 18,
+      "imageHome": "http://st.truyenchon.com/data/comics/199/tich-nhan-hoa-no-chi-vi-em.jpg",
+      "nameHome": "Tịch Nhan Hoa Nở Chỉ Vì Em",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tich-nhan-hoa-no-chi-vi-em-17095",
+      "chapHome": "Chapter 119",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 19,
+      "imageHome": "http://st.truyenchon.com/data/comics/106/ac-ma-dung-hon-toi.jpg",
+      "nameHome": "Ác ma đừng hôn tôi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ac-ma-dung-hon-toi-20842",
+      "chapHome": "Chapter 130",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 20,
+      "imageHome": "http://st.truyenchon.com/data/comics/149/phuc-thu-thieu-gia-tieu-diem-the.jpg",
+      "nameHome": "Phục thù thiếu gia tiểu điềm thê",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/phuc-thu-thieu-gia-tieu-diem-the-18069",
+      "chapHome": "Chapter 83",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 21,
+      "imageHome": "http://st.truyenchon.com/data/comics/131/hoang-de-phe-vat-tien-hoa-su.jpg",
+      "nameHome": "Hoàng Đế “Phế Vật” Tiến Hóa Sử",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/hoang-de-phe-vat-tien-hoa-su-16259",
+      "chapHome": "Chapter 83",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 22,
+      "imageHome": "http://st.truyenchon.com/data/comics/11/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg",
+      "nameHome": "Chọc tức vợ yêu mua một tặng một",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot-25355",
+      "chapHome": "Chapter 90",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 23,
+      "imageHome": "http://st.truyenchon.com/data/comics/26/than-luan-mat-luyen.jpg",
+      "nameHome": "Thần Luân Mật Luyến",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/than-luan-mat-luyen-25626",
+      "chapHome": "Chapter 36",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 24,
+      "imageHome": "http://st.truyenchon.com/data/comics/172/anh-hau-lao-ba-khong-duoc-chay.jpg",
+      "nameHome": "Ảnh Hậu Lão Bà Không Được Chạy",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/anh-hau-lao-ba-khong-duoc-chay-21420",
+      "chapHome": "Chapter 130",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 25,
+      "imageHome": "http://st.truyenchon.com/data/comics/61/bac-si-so-cung-muon-yeu.jpg",
+      "nameHome": "Bác Sĩ Sở Cũng Muốn Yêu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/bac-si-so-cung-muon-yeu-17469",
+      "chapHome": "Chapter 259",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 26,
+      "imageHome": "http://st.truyenchon.com/data/comics/192/huynh-khong-cong-tuoc-ga-khong-duoc.jpg",
+      "nameHome": "Huynh khống công tước gả không được",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/huynh-khong-cong-tuoc-ga-khong-duoc-23232",
+      "chapHome": "Chapter 69.2",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 27,
+      "imageHome": "http://st.truyenchon.com/data/comics/58/cung-chieu-dao-phi.jpg",
+      "nameHome": "Cưng Chiều Đào Phi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cung-chieu-dao-phi-16698",
+      "chapHome": "Chapter 94",
+      "chapTime": "1 ngày trướ"
+    },
+    {
+      "id": 28,
+      "imageHome": "http://st.truyenchon.com/data/comics/79/chien-luyen-cao-tiep.jpg",
+      "nameHome": "Chiến Luyến Cáo Tiệp",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/chien-luyen-cao-tiep-20303",
+      "chapHome": "Chapter 24",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 29,
+      "imageHome": "http://st.truyenchon.com/data/comics/143/thong-linh-phi.jpg",
+      "nameHome": "Thông Linh Phi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/thong-linh-phi-12943",
+      "chapHome": "Chapter 500",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 30,
+      "imageHome": "http://st.truyenchon.com/data/comics/185/cam-tu-vi-uong.jpg",
+      "nameHome": "Cẩm Tú Vị Ương",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cam-tu-vi-uong-15033",
+      "chapHome": "Chapter 83",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 31,
+      "imageHome": "http://st.truyenchon.com/data/comics/252/trong-sinh-chi-hao-mon-cuong-the-quy-lai-113.jpg",
+      "nameHome": "Trọng Sinh Chi Hao Môn Cường Thế Quy Lai",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-chi-hao-mon-cuong-the-quy-lai-15868",
+      "chapHome": "Chapter 150",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 32,
+      "imageHome": "http://st.truyenchon.com/data/comics/60/he-thong-che-tao-nu-than.jpg",
+      "nameHome": "Hệ Thống Chế Tạo Nữ Thần",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/he-thong-che-tao-nu-than-16188",
+      "chapHome": "Chapter 284",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 33,
+      "imageHome": "http://st.truyenchon.com/data/comics/166/vo-yeu-cuoi-truoc-sung-sau.jpg",
+      "nameHome": "Vợ yêu cưới trước sủng sau",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vo-yeu-cuoi-truoc-sung-sau-17574",
+      "chapHome": "Chapter 101",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 34,
+      "imageHome": "http://st.truyenchon.com/data/comics/61/vuong-gia-khong-nen-a.jpg",
+      "nameHome": "Vương Gia ! Không nên a !",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vuong-gia-khong-nen-a-14653",
+      "chapHome": "Chapter 271",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 35,
+      "imageHome": "http://st.truyenchon.com/data/comics/242/ba-dao-tong-tai-yeu-toi.jpg",
+      "nameHome": "Bá Đạo Tổng Tài Yêu Tôi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/ba-dao-tong-tai-yeu-toi-16370",
+      "chapHome": "Chapter 79",
+      "chapTime": "2 ngày trướ"
+    },
+    {
+      "id": 36,
+      "imageHome": "http://st.truyenchon.com/data/comics/90/nu-de-hoc-dot.jpg",
+      "nameHome": "Nữ Đế Học Dốt",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nu-de-hoc-dot-16218",
+      "chapHome": "Chapter 58",
+      "chapTime": "2 ngày trướ"
+    }
+  ],
+  "viewsConGai": [
+    {
+      "id": "7",
+      "nameView": "Momochi-san Chi no Ayakashi Ouji",
+      "imgView": "http://st.truyenchon.com/data/comics/155/momochi-san-chi-no-ayakashi-ouji.jpg",
+      "dataView": "\n        [Cập nhật lúc: 08:46 19/04/2020]\n     ",
+      "tenKhac": "",
+      "tacGia": "Shouoto Aya",
+      "tinhTrang": "Đang tiến hành",
+      "theLoai": "Comedy - Harem - Ngôn Tình - Romance - Shoujo - Supernatural",
+      "noiDung": "Cô bé mồ côi Momochi Himari được thừa hưởng căn nhà Momochi - có tiếng   đồn là bị ma ám theo di chúc. Sau bao khó khăn tìm ra vị trí căn nhà hẻo   lánh này, cô bé đã tìm được nó cùng với 3 kẻ khả nghi đang nương náu   trong ngôi nhà này."
+    },
+    {
+      "_id": "18",
+      "chapter": "Chapter 18",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-18/559605"
+    },
+    {
+      "_id": "17",
+      "chapter": "Chapter 17",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-17/557434"
+    },
+    {
+      "_id": "16",
+      "chapter": "Chapter 16",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-16/557433"
+    },
+    {
+      "_id": "15",
+      "chapter": "Chapter 15",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-15/360437"
+    },
+    {
+      "_id": "14",
+      "chapter": "Chapter 14",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-14/359559"
+    },
+    {
+      "_id": "13.",
+      "chapter": "Chapter 13.5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-13.5/358213"
+    },
+    {
+      "_id": "13",
+      "chapter": "Chapter 13",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-13/356794"
+    },
+    {
+      "_id": "12",
+      "chapter": "Chapter 12",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-12/354000"
+    },
+    {
+      "_id": "11",
+      "chapter": "Chapter 11",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-11/353163"
+    },
+    {
+      "_id": "10",
+      "chapter": "Chapter 10",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-10/347391"
+    },
+    {
+      "_id": "9",
+      "chapter": "Chapter 9",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-9/346137"
+    },
+    {
+      "_id": "8.5",
+      "chapter": "Chapter 8.5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-8.5/345355"
+    },
+    {
+      "_id": "8",
+      "chapter": "Chapter 8",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-8/344049"
+    },
+    {
+      "_id": "7",
+      "chapter": "Chapter 7",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-7/343949"
+    },
+    {
+      "_id": "6",
+      "chapter": "Chapter 6",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-6/120015"
+    },
+    {
+      "_id": "5",
+      "chapter": "Chapter 5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-5/120014"
+    },
+    {
+      "_id": "4",
+      "chapter": "Chapter 4",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-4/120013"
+    },
+    {
+      "_id": "3",
+      "chapter": "Chapter 3",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-3/120012"
+    },
+    {
+      "_id": "2",
+      "chapter": "Chapter 2",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-2/120011"
+    },
+    {
+      "_id": "1",
+      "chapter": "Chapter 1",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/momochi-san-chi-no-ayakashi-ouji/chap-1/120010"
+    },
+    {
+      "_id": "520",
+      "chapter": "Chapter 520",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong/chap-520/559628"
+    },
+    {
+      "_id": "453",
+      "chapter": "Chapter 453",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cuoc-chien-trong-toa-thap/chap-453/554993"
+    },
+    {
+      "_id": "372",
+      "chapter": "Chapter 372",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien/chap-372/559627"
+    },
+    {
+      "_id": "229",
+      "chapter": "Chapter 229",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/co-vo-hop-dong-bo-tron-cua-tong-giam-doc/chap-229/558548"
+    },
+    {
+      "_id": "500",
+      "chapter": "Chapter 500",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/thong-linh-phi/chap-500/558790"
+    }
+  ],
+  "chapsConGai": [
+    {
+      "imageChap": "https://4.bp.blogspot.com/-U43ABAIW83o/Xgqo8y2nFgI/AAAAAAAA9TI/zPIGXHf2vaoGtkcqPFS5GgZ6HDtQAYPuQCLcBGAsYHQ/s0/image-0-0.jpg"
+    },
+    {
+      "imageChap": "https://1.bp.blogspot.com/-umgXbXUf8oQ/Xgqo9FAh3SI/AAAAAAAA9TQ/ysA_vfH7jEkwq9_nL8cl0jHnnGdPA5_ZwCLcBGAsYHQ/s0/image-0-1.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-RmWpNbujaOo/Xgqo9DvlJ8I/AAAAAAAA9TM/fnAS1EImdEIe2Us-MrjOtwPYr1DI5LuFQCLcBGAsYHQ/s0/image-0-2.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-46-vf24Y9RQ/Xgqo-CwWePI/AAAAAAAA9TU/Q5n4z8xA_NcMSTW8Ljm1REw2cdinVok8wCLcBGAsYHQ/s0/image-1-0.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-Nmd6qUDn7zw/Xgqo-kOvS0I/AAAAAAAA9TY/3akaTuM1ivgrcQkhnIkDYp3PqBGDe9Z9gCLcBGAsYHQ/s0/image-1-1.jpg"
+    },
+    {
+      "imageChap": "https://1.bp.blogspot.com/-TSGR4ZBwnIY/Xgqo-wvVYpI/AAAAAAAA9Tc/pvmoARD-DGQ2Ji9y1kSMSYFEThJAtp-CgCLcBGAsYHQ/s0/image-2-0.jpg"
+    },
+    {
+      "imageChap": "https://1.bp.blogspot.com/-rNhAZG2HFmY/Xgqo_M9MK-I/AAAAAAAA9Tg/5KZYSx17wrogufQs67Ye9f4_EKXVro5aQCLcBGAsYHQ/s0/image-2-1.jpg"
+    },
+    {
+      "imageChap": "https://2.bp.blogspot.com/-ebqnfLTMVHQ/Xgqo_pBydCI/AAAAAAAA9Tk/gu-LBFpDfe0vwzJXpXzwb9YufpGA6QJswCLcBGAsYHQ/s0/image-2-2.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-ObfgrO3FgfI/Xgqo_5i4HlI/AAAAAAAA9To/OTTxdiYFR9UIlaGo4-W_E4XhapnkzgepwCLcBGAsYHQ/s0/image-3-0.jpg"
+    },
+    {
+      "imageChap": "https://2.bp.blogspot.com/-9PJvPB2ihm0/XgqpADxuw7I/AAAAAAAA9Ts/J1-Z7qDidQ89qYQ21N2ngzL3GPcuabiVwCLcBGAsYHQ/s0/image-3-1.jpg"
+    },
+    {
+      "imageChap": "https://1.bp.blogspot.com/-z6Sxs9ucSzc/XgqpA1BCZZI/AAAAAAAA9Tw/reIynT3v0zE87HgF64DOtKZQLxbhFG3XQCLcBGAsYHQ/s0/image-4-0.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-IXNVv4D3u7c/XgqpA_B8r1I/AAAAAAAA9T0/o9Y22C9oK0M9g_QCiCFHyBb5a5bJ1xOYgCLcBGAsYHQ/s0/image-4-1.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-z7RRzyfBjTE/XgqpBEYCHLI/AAAAAAAA9T4/lVUhBOjdzfscc6QX85Ad27eIxsnfnA2xwCLcBGAsYHQ/s0/image-4-2.jpg"
+    },
+    {
+      "imageChap": "https://2.bp.blogspot.com/-rFS1iydssA8/XgqpB8ADyJI/AAAAAAAA9T8/84zHa8WDYc4Zp_VF1VK9smyuvB_3x3KbwCLcBGAsYHQ/s0/image-5-0.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-He-jG0Z0Lnk/XgqpCE91w7I/AAAAAAAA9UA/KQcbpyCogtQ0PP-fiPL8j3b6V0Lb1sJEQCLcBGAsYHQ/s0/image-5-1.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-rufL5PlTmbs/XgqpCTTA5mI/AAAAAAAA9UE/a6Y_VDPS2UAje982glEAwcyOGqOPisMWgCLcBGAsYHQ/s0/image-6-0.jpg"
+    },
+    {
+      "imageChap": "https://2.bp.blogspot.com/-izxmOQqlLpI/XgqpCxUMPhI/AAAAAAAA9UI/gAAzg1JsXy8s7GEVD7aAryUfiebvgDTMwCLcBGAsYHQ/s0/image-6-1.jpg"
+    },
+    {
+      "imageChap": "https://1.bp.blogspot.com/-2hrBukyQnpQ/XgqpDI3WKGI/AAAAAAAA9UM/UO-HV-mQLswS8SuEMlri6_aE2hvCg9vZgCLcBGAsYHQ/s0/image-7-0.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-rSCy87euuw8/XgqpDcE5E9I/AAAAAAAA9UQ/fp_Nv48nZcoJviuCYkIl47WZSFBFc9LKQCLcBGAsYHQ/s0/image-7-1.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-SP6YwVPYB5g/XgqpD3KD1gI/AAAAAAAA9UU/8O_Dj5Uc7MAJdlVAgrLe6aTo5Pv9tyUdQCLcBGAsYHQ/s0/image-8-0.jpg"
+    },
+    {
+      "imageChap": "https://3.bp.blogspot.com/-FC0kYs4dNBk/XgqpEBHFi-I/AAAAAAAA9UY/I5ex74TC7ogjOezbodBfcbnZM8W5qm7fACLcBGAsYHQ/s0/image-8-1.jpg"
+    },
+    {
+      "imageChap": "https://4.bp.blogspot.com/-78sTWUAThng/XgqpEVtJutI/AAAAAAAA9Uc/M7yffsvKlI4G9B0u1Z0TFGFbERbh1Z29ACLcBGAsYHQ/s0/image-8-2.jpg"
+    },
+    {
+      "nameChap": "Đích Nữ Hữu Độc - Chapter 3",
+      "dateChap": "[Cập nhật lúc: 23:26 30/12/2019]"
     }
   ]
 }

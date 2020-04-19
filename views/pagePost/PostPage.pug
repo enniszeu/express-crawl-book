@@ -37,15 +37,15 @@ block conten
 		.waper_xephang
 			.row.custom_row
 				.go_logo
-					i.fab.fa-hotjar
-					span Bang xep hang
-				each posts in homeXephang.reverse()
+					i(style="color:#a2b8b1").fab.fa-neos
+					span Moi cap nhat
+				each posts in db
 					div.col-xs-12.col-sm-12.col-md-3.col-lg-3.col-12-custom
-						a(href=`/post/xephang/${posts.id}`)
+						a(href=`/post/${posts.id}`)
 							.wapper_conten_xephang
 								.should
 									img(src=posts.imageHome)
-									p=posts.nameHome
+									p(style="width:50%")=posts.nameHome
 										b=posts.chapHome
 
 										
