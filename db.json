@@ -2,78 +2,94 @@
   "posts": [
     {
       "id": 1,
+      "imageHome": "http://st.truyenchon.com/data/comics/113/seijo-no-maryoku-wa-bannou-desu.jpg",
+      "nameHome": "Seijo no Maryoku Wa Bannou Desu",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/seijo-no-maryoku-wa-bannou-desu-18545",
+      "chapHome": "Chapter 6.1",
+      "chapTime": "2 phút trướ"
+    },
+    {
+      "id": 2,
+      "imageHome": "http://st.truyenchon.com/data/comics/233/anh-hung-va-hiep-nu.jpg",
+      "nameHome": "Anh Hùng Và Hiệp Nữ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/anh-hung-va-hiep-nu-28649",
+      "chapHome": "Chapter 3",
+      "chapTime": "2 phút trướ"
+    },
+    {
+      "id": 3,
       "imageHome": "http://st.truyenchon.com/data/comics/211/moi-tinh-dau-la-cv-dai-than.jpg",
       "nameHome": "Mối Tình Đầu Là CV Đại Thần",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/moi-tinh-dau-la-cv-dai-than-28883",
       "chapHome": "Chapter 1",
-      "chapTime": "4 phút trướ"
+      "chapTime": "15 phút trư"
     },
     {
-      "id": 2,
+      "id": 4,
       "imageHome": "http://st.truyenchon.com/data/comics/189/real-account-ii.jpg",
       "nameHome": "Real Account II",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/real-account-ii-7101",
       "chapHome": "Chapter 78",
-      "chapTime": "10 phút trư"
+      "chapTime": "21 phút trư"
     },
     {
-      "id": 3,
+      "id": 5,
       "imageHome": "http://st.truyenchon.com/data/comics/222/sekai-saik-no-asashin-isekai-kizoku-ni-t-9293.jpg",
       "nameHome": "Sekai saikō no asashin, isekai kizoku ni tensei suru",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/sekai-saik-no-asashin-isekai-kizoku-ni-tensei-suru-21214",
       "chapHome": "Chapter 6.1",
-      "chapTime": "13 phút trư"
+      "chapTime": "23 phút trư"
     },
     {
-      "id": 4,
+      "id": 6,
       "imageHome": "http://st.truyenchon.com/data/comics/224/am-da-vo-thuong.jpg",
       "nameHome": "Ám Dạ Vô Thường",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/am-da-vo-thuong-22752",
       "chapHome": "Chapter 47",
-      "chapTime": "32 phút trư"
+      "chapTime": "43 phút trư"
     },
     {
-      "id": 5,
+      "id": 7,
       "imageHome": "http://st.truyenchon.com/data/comics/211/hatarakanai-futari.jpg",
       "nameHome": "Hatarakanai Futari",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hatarakanai-futari-8403",
       "chapHome": "Chapter 23",
-      "chapTime": "34 phút trư"
+      "chapTime": "44 phút trư"
     },
     {
-      "id": 6,
+      "id": 8,
       "imageHome": "http://st.truyenchon.com/data/comics/186/luom-duoc-mot-tieu-ho-ly-3.jpg",
       "nameHome": "Lượm Được Một Tiểu Hồ Ly 3",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/luom-duoc-mot-tieu-ho-ly-3-22202",
       "chapHome": "Chapter 101",
-      "chapTime": "48 phút trư"
+      "chapTime": "59 phút trư"
     },
     {
-      "id": 7,
+      "id": 9,
       "imageHome": "http://st.truyenchon.com/data/comics/227/em-gai-dung-lam-phien-toi.jpg",
       "nameHome": "Em Gái Đừng Làm Phiền Tôi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/em-gai-dung-lam-phien-toi-28131",
       "chapHome": "Chapter 12",
-      "chapTime": "51 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
-      "id": 8,
+      "id": 10,
       "imageHome": "http://st.truyenchon.com/data/comics/182/thien-than-khong-canh.jpg",
       "nameHome": "Thiên Thần Không Cánh",
       "linkHome": "http://nhattruyen.com/truyen-tranh/thien-than-khong-canh-15286",
       "chapHome": "Chapter 39",
-      "chapTime": "58 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
-      "id": 9,
+      "id": 11,
       "imageHome": "http://st.truyenchon.com/data/comics/75/khi-tro-choi-ac-ma-bat-dau.jpg",
       "nameHome": "Khi Trò Chơi Ác Ma Bắt Đầu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/khi-tro-choi-ac-ma-bat-dau-17227",
       "chapHome": "Chapter 116",
-      "chapTime": "58 phút trư"
+      "chapTime": "1 giờ trước"
     },
     {
-      "id": 10,
+      "id": 12,
       "imageHome": "http://st.truyenchon.com/data/comics/93/canh-dieu-xanh-bay-trong-con-gio.jpg",
       "nameHome": "Cánh Diều Xanh Bay Trong Cơn Gió",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/canh-dieu-xanh-bay-trong-con-gio-28765",
@@ -81,7 +97,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 11,
+      "id": 13,
       "imageHome": "http://st.truyenchon.com/data/comics/49/tong-tai-kieu-ngao-vo-yeu-em-dung-chay.jpg",
       "nameHome": "Tổng Tài Kiêu Ngạo: Vợ Yêu Em Đừng Chạy",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tong-tai-kieu-ngao-vo-yeu-em-dung-chay-27697",
@@ -89,7 +105,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 12,
+      "id": 14,
       "imageHome": "http://st.truyenchon.com/data/comics/202/nguyen-linh-chua-te.jpg",
       "nameHome": "Nguyên Linh Chúa Tể",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/nguyen-linh-chua-te-26826",
@@ -97,7 +113,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 13,
+      "id": 15,
       "imageHome": "http://st.truyenchon.com/data/comics/133/soredemo-ayumu-wa-yosetekuru.jpeg",
       "nameHome": "Soredemo Ayumu wa Yosetekuru",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/soredemo-ayumu-wa-yosetekuru-21381",
@@ -105,7 +121,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 14,
+      "id": 16,
       "imageHome": "http://st.truyenchon.com/data/comics/219/chua-te-nguyen-linh.jpg",
       "nameHome": "Chúa Tể Nguyên Linh",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/chua-te-nguyen-linh-26843",
@@ -113,7 +129,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 15,
+      "id": 17,
       "imageHome": "http://st.truyenchon.com/data/comics/222/cherry-teacher-sakura-naoki.jpg",
       "nameHome": "Cherry Teacher Sakura Naoki",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/cherry-teacher-sakura-naoki-13790",
@@ -121,7 +137,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 16,
+      "id": 18,
       "imageHome": "http://st.truyenchon.com/data/comics/201/god-of-blackfield.jpg",
       "nameHome": "God of blackfield",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/god-of-blackfield-28873",
@@ -129,7 +145,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 17,
+      "id": 19,
       "imageHome": "http://st.truyenchon.com/data/comics/161/ta-la-ta-de.jpg",
       "nameHome": "Ta Là Tà Đế",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/ta-la-ta-de-26017",
@@ -137,7 +153,7 @@
       "chapTime": "1 giờ trước"
     },
     {
-      "id": 18,
+      "id": 20,
       "imageHome": "http://st.truyenchon.com/data/comics/122/do-thi-dinh-phong-cao-thu.jpg",
       "nameHome": "Đô Thị Đỉnh Phong Cao Thủ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/do-thi-dinh-phong-cao-thu-24698",
@@ -145,31 +161,31 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 19,
+      "id": 21,
       "imageHome": "http://st.truyenchon.com/data/comics/71/hoan-phi-thien-ha.jpg",
       "nameHome": "Hoạn Phi Thiên Hạ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/hoan-phi-thien-ha-28743",
       "chapHome": "Chapter 1",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 20,
+      "id": 22,
       "imageHome": "http://st.truyenchon.com/data/comics/25/con-sot-vang-sau-chien-tranh.jpg",
       "nameHome": "Cơn sốt vàng sau chiến tranh",
       "linkHome": "http://nhattruyen.com/truyen-tranh/con-sot-vang-sau-chien-tranh-11801",
       "chapHome": "Chapter 93",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 21,
+      "id": 23,
       "imageHome": "http://st.truyenchon.com/data/comics/48/tha-vu-nu-do-ra.jpg",
       "nameHome": "Thả Vu Nữ Đó Ra",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tha-vu-nu-do-ra-21552",
       "chapHome": "Chapter 78",
-      "chapTime": "1 giờ trước"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 22,
+      "id": 24,
       "imageHome": "http://st.truyenchon.com/data/comics/88/seifuku-no-vampiress-lord.jpg",
       "nameHome": "Seifuku no Vampiress Lord",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/seifuku-no-vampiress-lord-16984",
@@ -177,7 +193,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 23,
+      "id": 25,
       "imageHome": "http://st.truyenchon.com/data/comics/171/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-393.jpg",
       "nameHome": "Trọng sinh bá sủng Nhiếp Chính Vương quá mạnh mẽ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/trong-sinh-ba-sung-nhiep-chinh-vuong-qua-manh-me-21419",
@@ -185,7 +201,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 24,
+      "id": 26,
       "imageHome": "http://st.truyenchon.com/data/comics/170/nu-phu-thuy-muon-song-noi-loan.jpg",
       "nameHome": "Nữ Phù Thủy Muốn Sống Nổi Loạn",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/nu-phu-thuy-muon-song-noi-loan-26026",
@@ -193,7 +209,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 25,
+      "id": 27,
       "imageHome": "http://st.truyenchon.com/data/comics/87/het-nhu-han-quang-gap-nang-gat.jpg",
       "nameHome": "Hệt Như Hàn Quang Gặp Nắng Gắt",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/het-nhu-han-quang-gap-nang-gat-28247",
@@ -201,7 +217,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 26,
+      "id": 28,
       "imageHome": "http://st.truyenchon.com/data/comics/112/y-hau-le-thien.jpg",
       "nameHome": "Y Hậu Lệ Thiên",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/y-hau-le-thien-28528",
@@ -209,7 +225,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 27,
+      "id": 29,
       "imageHome": "http://st.truyenchon.com/data/comics/191/dai-nghich-chi-mon.jpg",
       "nameHome": "Đại Nghịch Chi Môn",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-nghich-chi-mon-20415",
@@ -217,7 +233,7 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 28,
+      "id": 30,
       "imageHome": "http://st.truyenchon.com/data/comics/181/toan-co-tu.jpg",
       "nameHome": "Toàn Cơ Từ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/toan-co-tu-13237",
@@ -225,23 +241,23 @@
       "chapTime": "2 giờ trước"
     },
     {
-      "id": 29,
+      "id": 31,
       "imageHome": "http://st.truyenchon.com/data/comics/46/skeleton-soldier-couldnt-protect-the-dun-3189.jpg",
       "nameHome": "Skeleton Soldier Couldn’t Protect The Dungeon",
       "linkHome": "http://nhattruyen.com/truyen-tranh/skeleton-soldier-couldnt-protect-the-dungeon-189900",
       "chapHome": "Chapter 76",
-      "chapTime": "2 giờ trước"
+      "chapTime": "3 giờ trước"
     },
     {
-      "id": 30,
+      "id": 32,
       "imageHome": "http://st.truyenchon.com/data/comics/205/omoi-omoware-furi-furare.jpg",
       "nameHome": "Omoi, Omoware, Furi, Furare",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare-9933",
       "chapHome": "Chapter 43",
-      "chapTime": "2 giờ trước"
+      "chapTime": "3 giờ trước"
     },
     {
-      "id": 31,
+      "id": 33,
       "imageHome": "http://st.truyenchon.com/data/comics/38/doc-phi-tai-thuong-ta-vuong-tai-ha.jpg",
       "nameHome": "Độc Phi Tại Thượng, Tà Vương Tại Hạ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/doc-phi-tai-thuong-ta-vuong-tai-ha-27686",
@@ -249,7 +265,7 @@
       "chapTime": "3 giờ trước"
     },
     {
-      "id": 32,
+      "id": 34,
       "imageHome": "http://st.truyenchon.com/data/comics/224/azur-lane-queen-order.jpg",
       "nameHome": "Azur Lane: Queen Order",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/azur-lane-queen-order-22240",
@@ -257,7 +273,7 @@
       "chapTime": "1 ngày trướ"
     },
     {
-      "id": 33,
+      "id": 35,
       "imageHome": "http://st.truyenchon.com/data/comics/195/toi-khong-phai-la-nguoi-tot.jpg",
       "nameHome": "Tôi Không Phải Là Người Tốt",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/toi-khong-phai-la-nguoi-tot-20675",
@@ -265,27 +281,11 @@
       "chapTime": "3 giờ trước"
     },
     {
-      "id": 34,
+      "id": 36,
       "imageHome": "http://st.truyenchon.com/data/comics/117/sankaku-no-kyori-wa-kagirinai-zero.jpg",
       "nameHome": "Sankaku no Kyori wa Kagirinai Zero",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/sankaku-no-kyori-wa-kagirinai-zero-22133",
       "chapHome": "Chapter 5",
-      "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/198/cung-chieu-vo-yeu.jpg",
-      "nameHome": "Cưng Chiều Vợ Yêu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu-18886",
-      "chapHome": "Chapter 224",
-      "chapTime": "3 giờ trước"
-    },
-    {
-      "id": 36,
-      "imageHome": "http://st.truyenchon.com/data/comics/151/dua-mami-ve-nha.jpg",
-      "nameHome": "Đưa mami về nhà",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha-26263",
-      "chapHome": "Chapter 79",
       "chapTime": "3 giờ trước"
     }
   ],
@@ -734,7 +734,7 @@
       "nameHome": "Độc Phi Ngu Ngốc Không Thể Chọc",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/doc-phi-ngu-ngoc-khong-the-choc-26202",
       "chapHome": "Chapter 84",
-      "chapTime": "7 giờ trước"
+      "chapTime": "8 giờ trước"
     },
     {
       "id": 17,
@@ -774,7 +774,7 @@
       "nameHome": "Cô vợ ấm áp của hạ thiếu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/co-vo-am-ap-cua-ha-thieu-18792",
       "chapHome": "Chapter 230",
-      "chapTime": "4 giờ trước"
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 22,
@@ -899,235 +899,1075 @@
   ],
   "viewsXepHang": [
     {
-      "id": "34",
-      "nameView": "Vương Phi Hám Của - Phu Quân Là Một Bảo Bảo Ấm Áp",
-      "imgView": "http://st.truyenchon.com/data/comics/49/vuong-phi-ham-cua-phu-quan-la-mot-bao-ba-9810.jpg",
-      "dataView": "\n        [Cập nhật lúc: 22:38 15/04/2020]\n     ",
+      "id": "30",
+      "nameView": "Tuyệt Thế Chiến Hồn",
+      "imgView": "http://st.truyenchon.com/data/comics/232/tuyet-the-chien-hon.jpg",
+      "dataView": "\n        [Cập nhật lúc: 20:41 14/04/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Cổ Đại - Comedy - Manhua - Ngôn Tình - Romance - Truyện Màu - Xuyên Không",
-      "noiDung": "Xuyên không thì thôi chứ, đã thế còn xuyên không thành con gái của tội thần triều đình ? Phu quân làm ngơ, ai gặp cũng ức hiếp, còn nghèo túng cùng cực nữa. Cứ đợi đấy ! Hãy xem ta đoạt sủng kiếm tiền, tình yêu và sự nghiệp đều nắm trong tay..."
+      "theLoai": "Action - Adventure - Manhua - Mystery - Truyện Màu",
+      "noiDung": "Thiếu chủ được chờ mong của gia tộc lại chỉ ra một cái phế võ hồn?\nLà thiên tài hay phế vật?\nCùng đón xem nhé!"
+    },
+    {
+      "_id": "211",
+      "chapter": "Chapter 211",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-211/557802"
+    },
+    {
+      "_id": "210",
+      "chapter": "Chapter 210",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-210/556207"
+    },
+    {
+      "_id": "209",
+      "chapter": "Chapter 209",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-209/553839"
+    },
+    {
+      "_id": "208",
+      "chapter": "Chapter 208",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-208/553395"
+    },
+    {
+      "_id": "207",
+      "chapter": "Chapter 207",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-207/550391"
+    },
+    {
+      "_id": "206",
+      "chapter": "Chapter 206",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-206/549811"
+    },
+    {
+      "_id": "205",
+      "chapter": "Chapter 205",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-205/546664"
+    },
+    {
+      "_id": "204",
+      "chapter": "Chapter 204",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-204/545040"
+    },
+    {
+      "_id": "203",
+      "chapter": "Chapter 203",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-203/543879"
+    },
+    {
+      "_id": "202",
+      "chapter": "Chapter 202",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-202/542682"
+    },
+    {
+      "_id": "201",
+      "chapter": "Chapter 201",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-201/541419"
+    },
+    {
+      "_id": "200",
+      "chapter": "Chapter 200",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-200/540833"
+    },
+    {
+      "_id": "199",
+      "chapter": "Chapter 199",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-199/538536"
+    },
+    {
+      "_id": "198",
+      "chapter": "Chapter 198",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-198/538018"
+    },
+    {
+      "_id": "197",
+      "chapter": "Chapter 197",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-197/536225"
+    },
+    {
+      "_id": "196",
+      "chapter": "Chapter 196",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-196/535132"
+    },
+    {
+      "_id": "195",
+      "chapter": "Chapter 195",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-195/534393"
+    },
+    {
+      "_id": "194",
+      "chapter": "Chapter 194",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-194/533150"
+    },
+    {
+      "_id": "193",
+      "chapter": "Chapter 193",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-193/530670"
+    },
+    {
+      "_id": "192",
+      "chapter": "Chapter 192",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-192/530107"
+    },
+    {
+      "_id": "191",
+      "chapter": "Chapter 191",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-191/526436"
+    },
+    {
+      "_id": "190",
+      "chapter": "Chapter 190",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-190/523529"
+    },
+    {
+      "_id": "189",
+      "chapter": "Chapter 189",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-189/523030"
+    },
+    {
+      "_id": "188",
+      "chapter": "Chapter 188",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-188/521481"
+    },
+    {
+      "_id": "187",
+      "chapter": "Chapter 187",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-187/520724"
+    },
+    {
+      "_id": "186",
+      "chapter": "Chapter 186",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-186/518552"
+    },
+    {
+      "_id": "185",
+      "chapter": "Chapter 185",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-185/517417"
+    },
+    {
+      "_id": "184",
+      "chapter": "Chapter 184",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-184/517230"
+    },
+    {
+      "_id": "183",
+      "chapter": "Chapter 183",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-183/516835"
+    },
+    {
+      "_id": "182",
+      "chapter": "Chapter 182",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-182/516173"
+    },
+    {
+      "_id": "181",
+      "chapter": "Chapter 181",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-181/515623"
+    },
+    {
+      "_id": "180",
+      "chapter": "Chapter 180",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-180/515221"
+    },
+    {
+      "_id": "179",
+      "chapter": "Chapter 179",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-179/514688"
+    },
+    {
+      "_id": "178",
+      "chapter": "Chapter 178",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-178/514182"
+    },
+    {
+      "_id": "177",
+      "chapter": "Chapter 177",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-177/513598"
+    },
+    {
+      "_id": "176",
+      "chapter": "Chapter 176",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-176/512920"
+    },
+    {
+      "_id": "175",
+      "chapter": "Chapter 175",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-175/512196"
+    },
+    {
+      "_id": "174",
+      "chapter": "Chapter 174",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-174/511614"
+    },
+    {
+      "_id": "173",
+      "chapter": "Chapter 173",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-173/510838"
+    },
+    {
+      "_id": "172",
+      "chapter": "Chapter 172",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-172/510274"
+    },
+    {
+      "_id": "171",
+      "chapter": "Chapter 171",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-171/508798"
+    },
+    {
+      "_id": "170",
+      "chapter": "Chapter 170",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-170/508274"
+    },
+    {
+      "_id": "169",
+      "chapter": "Chapter 169",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-169/507913"
+    },
+    {
+      "_id": "168",
+      "chapter": "Chapter 168",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-168/507439"
+    },
+    {
+      "_id": "167",
+      "chapter": "Chapter 167",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-167/506952"
+    },
+    {
+      "_id": "166",
+      "chapter": "Chapter 166",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-166/506579"
+    },
+    {
+      "_id": "165",
+      "chapter": "Chapter 165",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-165/506133"
+    },
+    {
+      "_id": "164",
+      "chapter": "Chapter 164",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-164/505580"
+    },
+    {
+      "_id": "163",
+      "chapter": "Chapter 163",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-163/504918"
+    },
+    {
+      "_id": "162",
+      "chapter": "Chapter 162",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-162/504340"
+    },
+    {
+      "_id": "161",
+      "chapter": "Chapter 161",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-161/503757"
+    },
+    {
+      "_id": "160",
+      "chapter": "Chapter 160",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-160/501376"
+    },
+    {
+      "_id": "159",
+      "chapter": "Chapter 159",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-159/499971"
+    },
+    {
+      "_id": "158",
+      "chapter": "Chapter 158",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-158/498285"
+    },
+    {
+      "_id": "157",
+      "chapter": "Chapter 157",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-157/498284"
+    },
+    {
+      "_id": "156",
+      "chapter": "Chapter 156",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-156/498283"
+    },
+    {
+      "_id": "155",
+      "chapter": "Chapter 155",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-155/498282"
+    },
+    {
+      "_id": "154",
+      "chapter": "Chapter 154",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-154/498281"
+    },
+    {
+      "_id": "153",
+      "chapter": "Chapter 153",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-153/498280"
+    },
+    {
+      "_id": "152",
+      "chapter": "Chapter 152",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-152/498279"
+    },
+    {
+      "_id": "151",
+      "chapter": "Chapter 151",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-151/498278"
+    },
+    {
+      "_id": "150",
+      "chapter": "Chapter 150",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-150/498277"
+    },
+    {
+      "_id": "149",
+      "chapter": "Chapter 149",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-149/498276"
+    },
+    {
+      "_id": "148",
+      "chapter": "Chapter 148",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-148/498275"
+    },
+    {
+      "_id": "147",
+      "chapter": "Chapter 147",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-147/498274"
+    },
+    {
+      "_id": "146",
+      "chapter": "Chapter 146",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-146/498273"
+    },
+    {
+      "_id": "145",
+      "chapter": "Chapter 145",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-145/498272"
+    },
+    {
+      "_id": "144",
+      "chapter": "Chapter 144",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-144/498271"
+    },
+    {
+      "_id": "143",
+      "chapter": "Chapter 143",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-143/498270"
+    },
+    {
+      "_id": "142",
+      "chapter": "Chapter 142",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-142/498269"
+    },
+    {
+      "_id": "141",
+      "chapter": "Chapter 141",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-141/498268"
+    },
+    {
+      "_id": "140",
+      "chapter": "Chapter 140",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-140/498267"
+    },
+    {
+      "_id": "139",
+      "chapter": "Chapter 139",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-139/496410"
+    },
+    {
+      "_id": "138",
+      "chapter": "Chapter 138",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-138/495562"
+    },
+    {
+      "_id": "137",
+      "chapter": "Chapter 137",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-137/494919"
+    },
+    {
+      "_id": "136",
+      "chapter": "Chapter 136",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-136/494468"
+    },
+    {
+      "_id": "135",
+      "chapter": "Chapter 135",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-135/493805"
+    },
+    {
+      "_id": "134",
+      "chapter": "Chapter 134",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-134/492511"
+    },
+    {
+      "_id": "133",
+      "chapter": "Chapter 133",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-133/492010"
+    },
+    {
+      "_id": "132",
+      "chapter": "Chapter 132",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-132/491408"
+    },
+    {
+      "_id": "131",
+      "chapter": "Chapter 131",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-131/490094"
+    },
+    {
+      "_id": "130",
+      "chapter": "Chapter 130",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-130/489442"
+    },
+    {
+      "_id": "129",
+      "chapter": "Chapter 129",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-129/488955"
+    },
+    {
+      "_id": "128",
+      "chapter": "Chapter 128",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-128/487031"
+    },
+    {
+      "_id": "127",
+      "chapter": "Chapter 127",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-127/486474"
+    },
+    {
+      "_id": "126",
+      "chapter": "Chapter 126",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-126/485880"
+    },
+    {
+      "_id": "125",
+      "chapter": "Chapter 125",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-125/485304"
+    },
+    {
+      "_id": "124",
+      "chapter": "Chapter 124",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-124/484804"
+    },
+    {
+      "_id": "123",
+      "chapter": "Chapter 123",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-123/484127"
+    },
+    {
+      "_id": "122",
+      "chapter": "Chapter 122",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-122/483642"
+    },
+    {
+      "_id": "121",
+      "chapter": "Chapter 121",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-121/483107"
+    },
+    {
+      "_id": "120",
+      "chapter": "Chapter 120",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-120/482575"
+    },
+    {
+      "_id": "119",
+      "chapter": "Chapter 119",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-119/481951"
+    },
+    {
+      "_id": "118",
+      "chapter": "Chapter 118",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-118/481443"
+    },
+    {
+      "_id": "117",
+      "chapter": "Chapter 117",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-117/480384"
+    },
+    {
+      "_id": "116",
+      "chapter": "Chapter 116",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-116/479777"
+    },
+    {
+      "_id": "115",
+      "chapter": "Chapter 115",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-115/479324"
+    },
+    {
+      "_id": "114",
+      "chapter": "Chapter 114",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-114/478840"
+    },
+    {
+      "_id": "113",
+      "chapter": "Chapter 113",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-113/478405"
+    },
+    {
+      "_id": "112",
+      "chapter": "Chapter 112",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-112/477938"
+    },
+    {
+      "_id": "111",
+      "chapter": "Chapter 111",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-111/476763"
+    },
+    {
+      "_id": "110",
+      "chapter": "Chapter 110",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-110/476240"
+    },
+    {
+      "_id": "109",
+      "chapter": "Chapter 109",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-109/475072"
+    },
+    {
+      "_id": "108",
+      "chapter": "Chapter 108",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-108/469638"
+    },
+    {
+      "_id": "107",
+      "chapter": "Chapter 107",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-107/468673"
+    },
+    {
+      "_id": "106",
+      "chapter": "Chapter 106",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-106/467566"
+    },
+    {
+      "_id": "105",
+      "chapter": "Chapter 105",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-105/466168"
+    },
+    {
+      "_id": "104",
+      "chapter": "Chapter 104",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-104/465345"
+    },
+    {
+      "_id": "103",
+      "chapter": "Chapter 103",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-103/464711"
+    },
+    {
+      "_id": "102",
+      "chapter": "Chapter 102",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-102/464309"
+    },
+    {
+      "_id": "101",
+      "chapter": "Chapter 101",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-101/463779"
+    },
+    {
+      "_id": "100",
+      "chapter": "Chapter 100",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-100/463177"
+    },
+    {
+      "_id": "99",
+      "chapter": "Chapter 99",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-99/462586"
+    },
+    {
+      "_id": "98",
+      "chapter": "Chapter 98",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-98/462137"
+    },
+    {
+      "_id": "97",
+      "chapter": "Chapter 97",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-97/461637"
+    },
+    {
+      "_id": "96",
+      "chapter": "Chapter 96",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-96/461074"
+    },
+    {
+      "_id": "95",
+      "chapter": "Chapter 95",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-95/460490"
+    },
+    {
+      "_id": "94",
+      "chapter": "Chapter 94",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-94/460096"
+    },
+    {
+      "_id": "93",
+      "chapter": "Chapter 93",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-93/459698"
+    },
+    {
+      "_id": "92",
+      "chapter": "Chapter 92",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-92/459283"
+    },
+    {
+      "_id": "91",
+      "chapter": "Chapter 91",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-91/458313"
+    },
+    {
+      "_id": "90",
+      "chapter": "Chapter 90",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-90/457857"
+    },
+    {
+      "_id": "89",
+      "chapter": "Chapter 89",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-89/457217"
+    },
+    {
+      "_id": "88",
+      "chapter": "Chapter 88",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-88/456859"
+    },
+    {
+      "_id": "87",
+      "chapter": "Chapter 87",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-87/456431"
+    },
+    {
+      "_id": "86",
+      "chapter": "Chapter 86",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-86/456011"
+    },
+    {
+      "_id": "85",
+      "chapter": "Chapter 85",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-85/455537"
+    },
+    {
+      "_id": "84",
+      "chapter": "Chapter 84",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-84/455164"
+    },
+    {
+      "_id": "83",
+      "chapter": "Chapter 83",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-83/454350"
+    },
+    {
+      "_id": "82",
+      "chapter": "Chapter 82",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-82/453489"
+    },
+    {
+      "_id": "81",
+      "chapter": "Chapter 81",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-81/453091"
+    },
+    {
+      "_id": "80",
+      "chapter": "Chapter 80",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-80/451432"
+    },
+    {
+      "_id": "79",
+      "chapter": "Chapter 79",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-79/450631"
+    },
+    {
+      "_id": "78",
+      "chapter": "Chapter 78",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-78/448852"
+    },
+    {
+      "_id": "77",
+      "chapter": "Chapter 77",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-77/448373"
+    },
+    {
+      "_id": "76",
+      "chapter": "Chapter 76",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-76/441689"
+    },
+    {
+      "_id": "75",
+      "chapter": "Chapter 75",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-75/441239"
+    },
+    {
+      "_id": "74",
+      "chapter": "Chapter 74",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-74/439344"
+    },
+    {
+      "_id": "73",
+      "chapter": "Chapter 73",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-73/439012"
+    },
+    {
+      "_id": "72",
+      "chapter": "Chapter 72",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-72/437907"
+    },
+    {
+      "_id": "71",
+      "chapter": "Chapter 71",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-71/437286"
+    },
+    {
+      "_id": "70",
+      "chapter": "Chapter 70",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-70/437077"
+    },
+    {
+      "_id": "69",
+      "chapter": "Chapter 69",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-69/435982"
+    },
+    {
+      "_id": "68",
+      "chapter": "Chapter 68",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-68/435324"
+    },
+    {
+      "_id": "67",
+      "chapter": "Chapter 67",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-67/434792"
+    },
+    {
+      "_id": "66",
+      "chapter": "Chapter 66",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-66/434129"
+    },
+    {
+      "_id": "65",
+      "chapter": "Chapter 65",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-65/433749"
+    },
+    {
+      "_id": "64",
+      "chapter": "Chapter 64",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-64/433321"
+    },
+    {
+      "_id": "63",
+      "chapter": "Chapter 63",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-63/433114"
+    },
+    {
+      "_id": "62",
+      "chapter": "Chapter 62",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-62/432654"
+    },
+    {
+      "_id": "61",
+      "chapter": "Chapter 61",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-61/432396"
+    },
+    {
+      "_id": "60",
+      "chapter": "Chapter 60",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-60/432150"
+    },
+    {
+      "_id": "59",
+      "chapter": "Chapter 59",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-59/431855"
+    },
+    {
+      "_id": "58",
+      "chapter": "Chapter 58",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-58/431673"
+    },
+    {
+      "_id": "57",
+      "chapter": "Chapter 57",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-57/431348"
+    },
+    {
+      "_id": "56",
+      "chapter": "Chapter 56",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-56/431138"
+    },
+    {
+      "_id": "55",
+      "chapter": "Chapter 55",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-55/430823"
+    },
+    {
+      "_id": "54",
+      "chapter": "Chapter 54",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-54/430588"
+    },
+    {
+      "_id": "53",
+      "chapter": "Chapter 53",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-53/430345"
+    },
+    {
+      "_id": "52",
+      "chapter": "Chapter 52",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-52/430073"
+    },
+    {
+      "_id": "51",
+      "chapter": "Chapter 51",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-51/429854"
+    },
+    {
+      "_id": "50",
+      "chapter": "Chapter 50",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-50/429629"
+    },
+    {
+      "_id": "49",
+      "chapter": "Chapter 49",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-49/429332"
+    },
+    {
+      "_id": "48",
+      "chapter": "Chapter 48",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-48/429156"
+    },
+    {
+      "_id": "47",
+      "chapter": "Chapter 47",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-47/428915"
+    },
+    {
+      "_id": "46",
+      "chapter": "Chapter 46",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-46/428688"
+    },
+    {
+      "_id": "45",
+      "chapter": "Chapter 45",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-45/428496"
     },
     {
       "_id": "44",
       "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-44/558401"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-44/428110"
     },
     {
       "_id": "43",
       "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-43/558402"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-43/427919"
     },
     {
       "_id": "42",
       "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-42/558403"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-42/427697"
     },
     {
       "_id": "41",
       "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-41/554976"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-41/427179"
     },
     {
       "_id": "40",
       "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-40/531660"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-40/426945"
     },
     {
       "_id": "39",
       "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-39/531661"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-39/426722"
     },
     {
       "_id": "38",
       "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-38/531662"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-38/426481"
     },
     {
       "_id": "37",
       "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-37/531663"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-37/426232"
     },
     {
       "_id": "36",
       "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-36/531664"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-36/425939"
     },
     {
       "_id": "35",
       "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-35/530034"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-35/425690"
     },
     {
       "_id": "34",
       "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-34/530035"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-34/425477"
     },
     {
       "_id": "33",
       "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-33/530036"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-33/425271"
     },
     {
       "_id": "32",
       "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-32/530037"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-32/425012"
     },
     {
       "_id": "31",
       "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-31/530038"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-31/424787"
     },
     {
       "_id": "30",
       "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-30/530039"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-30/424584"
     },
     {
       "_id": "29",
       "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-29/529225"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-29/424421"
     },
     {
       "_id": "28",
       "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-28/529226"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-28/424257"
     },
     {
       "_id": "27",
       "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-27/529227"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-27/424067"
     },
     {
       "_id": "26",
       "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-26/529228"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-26/423892"
     },
     {
       "_id": "25",
       "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-25/529229"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-25/423788"
     },
     {
       "_id": "24",
       "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-24/529230"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-24/423568"
     },
     {
       "_id": "23",
       "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-23/529231"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-23/423123"
     },
     {
       "_id": "22",
       "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-22/529232"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-22/422898"
     },
     {
       "_id": "21",
       "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-21/529233"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-21/422640"
     },
     {
       "_id": "20",
       "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-20/529234"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-20/422292"
     },
     {
       "_id": "19",
       "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-19/529235"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-19/422055"
     },
     {
       "_id": "18",
       "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-18/529236"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-18/421871"
     },
     {
       "_id": "17",
       "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-17/529237"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-17/421566"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-16/529238"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-16/421379"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-15/529221"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-15/421151"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-14/529222"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-14/420853"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-13/529223"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-13/420582"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-12/479947"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-12/420413"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-11/477089"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-11/420176"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-10/477088"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-10/419760"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-9/477087"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-9/419595"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-8/477086"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-8/419358"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-7/477085"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-7/419009"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-6/477084"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-6/418784"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-5/477083"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-5/418555"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-4/477082"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-4/418206"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-3/477081"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-3/417939"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-2/477080"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-2/417369"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vuong-phi-ham-cua-phu-quan-la-mot-bao-bao-am-ap/chap-1/477079"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-1/417080"
+    },
+    {
+      "_id": "0",
+      "chapter": "Chapter 0",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/tuyet-the-chien-hon/chap-0/416828"
     },
     {
       "_id": "520",
@@ -1207,7 +2047,7 @@
       "nameHome": "Omoi, Omoware, Furi, Furare",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/omoi-omoware-furi-furare-9933",
       "chapHome": "Chapter 43",
-      "chapTime": "2 giờ trước"
+      "chapTime": "3 giờ trước"
     },
     {
       "id": 2,
@@ -1215,7 +2055,7 @@
       "nameHome": "Cô vợ ấm áp của hạ thiếu",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/co-vo-am-ap-cua-ha-thieu-18792",
       "chapHome": "Chapter 230",
-      "chapTime": "4 giờ trước"
+      "chapTime": "5 giờ trước"
     },
     {
       "id": 3,
@@ -1263,7 +2103,7 @@
       "nameHome": "Triều Đình Có Yêu Khí",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/trieu-dinh-co-yeu-khi-26616",
       "chapHome": "Chapter 26",
-      "chapTime": "9 giờ trước"
+      "chapTime": "10 giờ trướ"
     },
     {
       "id": 9,
@@ -1407,7 +2247,7 @@
       "nameHome": "Huynh khống công tước gả không được",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/huynh-khong-cong-tuoc-ga-khong-duoc-23232",
       "chapHome": "Chapter 69.2",
-      "chapTime": "1 ngày trướ"
+      "chapTime": "2 ngày trướ"
     },
     {
       "id": 27,
