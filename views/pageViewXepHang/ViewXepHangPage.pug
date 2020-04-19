@@ -32,7 +32,7 @@ block conten
 						a(href="") Help
 					li 
 						a(href="") Goo
-		.container-fluid(style="background:#f7f9fb")
+		.container-fluid.custom_col
 			.row
 				.col-12
 					.wapper_baner
@@ -42,10 +42,12 @@ block conten
 					.col-12
 						.wapper_conten
 							each posts in viewsXepHang
-								.row(class=posts.id === id ? "" : "display")
-									div.col-12.col-sm-12.col-md-4.col-lg-4.col-xl-4
+								.row
+									div.col-12.col-sm-12.col-md-4.col-lg-4.col-xl-4.custom_col
 										.conten_img_view
 											img(src=posts.imgView)
+										.conten_treck
+								.row(class=posts.id === id ? "" : "display")
 									div.col-12.col-sm-12.col-md-8.col-lg-8.col-xl-8
 										.conten_mota
 											h3=posts.nameView
@@ -71,7 +73,7 @@ block conten
 										hr
 										.wapper_chap
 											each posts in viewsXepHang
-												a(href=`/post/chapxephang/${posts._id}`)
+												a(href=`/post/chap/${posts._id}`)
 													p(class=posts.chapter === "Chapter 369" || posts.chapter === "Chapter 517" || posts.chapter === "Chapter 229" || posts.chapter === "Chapter 499" || posts.chapter === "Chapter 453" || posts.chapter === "Chapter 493" || posts.chapter === "Chapter 500" || posts.chapter === "Chapter 519" || posts.chapter === "Chapter 371" ? "display" : "")=posts.chapter
 	//- title=posts.nameView
 	script.
