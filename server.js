@@ -163,7 +163,6 @@ app.get('/', (req, res)=>{
 	requestsHome();
 	requestsXephang();
 	requestsConGai();
-	console.log(db.get('homeConGai').value())
     res.render('pageHome/homePage',{
     	db:db.get('posts').value(),
     	homeXephang:db.get('homeXephang').value(),
@@ -315,7 +314,6 @@ function requestPostViewXep(url, id){
 				.find('p')
 				.text()	
 
-			console.log(tenKhac)
 			
 				db.get('viewsXepHang')
 				  .push({ 
@@ -365,7 +363,6 @@ app.get('/post/xephang/:id', function(req, res){
 
     requestPostViewXep(url,id)
     
-    console.log(viewsXepHang)
     res.render('pageViewXepHang/ViewXepHangPage',{
     	viewsXepHang:viewsXepHang,
     	id:id,
@@ -415,7 +412,6 @@ function requestViewConGai(url, id){
 				.find('p')
 				.text()	
 
-			console.log(tenKhac)
 			
 				db.get('viewsConGai')
 				  .push({ 
@@ -465,7 +461,6 @@ app.get('/post/congai/:id', function(req, res){
 
     requestViewConGai(url,id)
 
-    console.log(viewsConGai)
     res.render('pageViewConGai/ViewConGaiPage',{
     	viewsConGai:viewsConGai,
     	id:id,
@@ -525,7 +520,6 @@ app.get('/post/chapcongai/:id', function(req, res){
 		}
 	})
 
-    console.log(chapsConGai)
     res.render('pageViewChapConGai/ViewChapConGaiPage',{
     	chapsConGai:chapsConGai,
     	_id : _id
@@ -584,7 +578,6 @@ app.get('/post/chapxephang/:id', function(req, res){
 		}
 	})
 
-    console.log(chapsXephangItems)
     res.render('pageViewChapXephang/ViewChapXephangPage',{
     	chapsXephangItems:chapsXephangItems,
     	_id : _id
@@ -605,9 +598,6 @@ app.get('/post/chap/:id', function(req, res){
     var chapsItems = db.get('chaps').value()
     var ab = db.get('views').value()
 
-
-    console.log(ab)
-    console.log(_id)
 
     request({url}, (err,
 		res, html) =>{
