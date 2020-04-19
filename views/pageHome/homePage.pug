@@ -8,11 +8,11 @@ block conten
 		i.fas.fa-times
 		ul
 			li 
-				a(href="") Home
+				a(href="/") Home
 			li 
 				a(href="/bangxephang") Bang xep hang
 			li 
-				a(href="") Help
+				a(href="/congai") Con gái thích
 			li 
 				a(href="") Goo
 	.wapper_home.not(id="fixed")
@@ -24,11 +24,11 @@ block conten
 			.meau_nav
 				ul
 					li 
-						a(href="") Home
+						a(href="/") Home
 					li 
 						a(href="/bangxephang") Bang xep hang
 					li 
-						a(href="") Help
+						a(href="/congai") Con gái thích
 					li 
 						a(href="") Goo
 		.container-fluid(style="background:#f7f9fb; padding-top:48px;")
@@ -40,9 +40,9 @@ block conten
 								div.row
 									.go_logo
 										i.fab.fa-neos
-										span Moi cap nhat
+										span Mới cập nhật
 										span(style="float:right")
-											a(href="/post") Xem tat ca
+											a(href="/post") All
 									.owl-carousel
 										each posts in db
 											a(href=`/post/${posts.id}`)
@@ -55,9 +55,9 @@ block conten
 			.row.custom_row
 				.go_logo
 					i.fab.fa-hotjar
-					span Bang xep hang
+					span Bảng xếp hạng
 					span(style="float:right")
-						a(href="/bangxephang") Xem tat ca
+						a(href="/bangxephang") All
 				each posts in homeXephang.reverse().slice(1,9)
 					.col-3.col-12-custom
 						a(href=`/post/xephang/${posts.id}`)
@@ -73,10 +73,10 @@ block conten
 							div.col-xs-12.col-sm-12.col-md-12.col-lg-12.col-12-custom
 								div.row
 									.go_logo
-										i(style="color:red").fas.fa-fish
-										span Con gai thich
+										i.fas.fa-fish
+										span Con gái thích
 										span(style="float:right")
-											a(href="/congai") Xem tat ca
+											a(href="/congai") All
 									.owl-carousel
 										each posts in homeConGai
 											a(href=`/post/congai/${posts.id}`)
@@ -87,6 +87,7 @@ block conten
 													i.fa.fa-play(aria-hidden='true')
 		.waper_foter_end
 		.lay1
+			p THANH TUAN WITH LOVE © 2020 ALL RIGHTS RESERVED.
 
 
 
@@ -134,7 +135,7 @@ block conten
 				return sessionStorage.getItem(name) || '';
 			}
 			showMeau();
-			setTimeout(reload, 500);
+			setTimeout(reload, 100);
 			$(".owl-carousel").owlCarousel({
 			  autoplay: false,
 			  autoplayTimeout: 5000,
