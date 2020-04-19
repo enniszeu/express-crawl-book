@@ -52,14 +52,15 @@ block conten
 		.waper_xephang
 			.row.custom_row
 				.go_logo
-					i.fab.fa-neos 
+					i.fab.fa-hotjar
 					span Bang xep hang
-				each posts in homeXephang.slice(0,8)
+				each posts in homeXephang.slice(16,24)
 					.col-3.col-12-custom
-						.wapper_conten_xephang
-							img(src=posts.imageHome)
-							p=posts.nameHome
-							b=posts.chapHome
+						a(href=`/post/xephang/${posts.id}`)
+							.wapper_conten_xephang
+								img(src=posts.imageHome)
+								p=posts.nameHome
+									b=posts.chapHome
 
 										
 

@@ -21,7 +21,7 @@ app.set('views', './views');
 
 // const db = []
 
-db.defaults({ posts: [], views: [], chaps: [], homeXephang: [], xephang: [], viewsXep: [] })
+db.defaults({ posts: [], views: [], chaps: [], homeXephang: [], viewsXepHang: [], chapsXephang: []})
   .write()
 
 
@@ -117,7 +117,6 @@ function requestsXephang(){
 
 app.get('/', (req, res)=>{
 
-	console.log(db.get('homeXephang').value())
 	requestsHome();
 	requestsXephang();
     res.render('pageHome/homePage',{
@@ -197,7 +196,7 @@ function requestss(url, id){
 
 				db.get('views')
 				  .push({ 
-				  	_id : chapter.slice(8,10),
+				  	_id : chapter.slice(8,11),
 				  	chapter : chapter,
 				  	chapterHref : chapterHref
 				  })
@@ -227,6 +226,169 @@ app.get('/post/:id', function(req, res){
 	})
     
 })
+
+
+// viewrequest
+function requestPostViewXep(url, id){
+	request({url}, (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			db.get('viewsXepHang').remove().write()
+
+			const nameView = $('.col-image')
+				.find('img')
+				.attr('alt')
+
+			const imgView = $('.col-image')
+				.find('img')
+				.attr('src')
+
+			const dataView = $('#item-detail')
+			.find('.small')
+			.text()
+			.slice(0,47)
+		
+			const tenKhac = $('.list-info .othername')
+				.find('h2')
+				.text()	
+
+			const tacGia = $('.list-info .author')
+				.find('.col-xs-8')
+				.text()	
+
+			const tinhTrang = $('.list-info .status')
+				.find('.col-xs-8')
+				.text()	
+
+			const theLoai = $('.list-info .kind')
+				.find('.col-xs-8')
+				.text()	
+
+			const noiDung = $('.detail-content')
+				.find('p')
+				.text()	
+
+			console.log(tenKhac)
+			
+				db.get('viewsXepHang')
+				  .push({ 
+				  	id:id,
+				  	nameView : nameView,
+					imgView : imgView,
+					dataView : dataView,
+					tenKhac : tenKhac,
+					tacGia : tacGia,
+					tinhTrang : tinhTrang,
+					theLoai : theLoai,
+					noiDung : noiDung
+				  })
+				  .write()
+
+				  $('ul li .chapter').each((i, el)=>{
+					const chapter = $(el)
+						.find('a')
+						.text()
+						.replace(":", "")
+
+					const chapterHref = $(el)
+						.find('a')
+						.attr('href')
+
+
+				db.get('viewsXepHang')
+				  .push({ 
+				  	_id : chapter.slice(8,11),
+				  	chapter : chapter,
+				  	chapterHref : chapterHref
+				  })
+				  .write()
+			})
+
+			}
+
+	})
+}
+
+app.get('/post/xephang/:id', function(req, res){
+    const id = req.params.id
+    const items = db.get('homeXephang').find({ id: parseInt(id) }).value()
+    const url = items.linkHome
+    const viewsXepHang = db.get('viewsXepHang').value()
+
+
+    requestPostViewXep(url,id)
+    
+    console.log(viewsXepHang)
+    res.render('pageViewXepHang/ViewXepHangPage',{
+    	viewsXepHang:viewsXepHang,
+    	id:id,
+    	_id:items.id
+    })
+    
+})
+
+app.get('/post/chapxephang/:id', function(req, res){
+    const _id = req.params.id
+    const items = db.get('viewsXepHang').find({ _id: _id }).value()
+    const url = items.chapterHref
+
+    
+    var chapsXephangItems = db.get('chapsXephang').value()
+
+
+    request({url}, (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			db.get('chapsXephang').remove().write()
+
+			$('.reading-detail div').each((i, el)=>{
+				const imageChap = $(el)
+					.find('img')
+					.attr('src')
+
+				const nameChap = $(el)
+					.find('img')
+					.attr('src')
+
+				db.get('chapsXephang')
+				  .push({ 
+				  	imageChap : imageChap
+				  })
+				  .write()
+				
+			})
+
+			const nameChap = $('.top')
+				.find('h1')
+				.text()
+
+			const dateChap = $('.top')
+				.find('i')
+				.text()
+
+			db.get('chapsXephang')
+				  .push({ 
+				  	nameChap : nameChap,
+				  	dateChap : dateChap
+				  })
+				  .write()
+
+		}
+	})
+
+    console.log(chapsXephangItems)
+    res.render('pageViewChapXephang/ViewChapXephangPage',{
+    	chapsXephangItems:chapsXephangItems,
+    	_id : _id
+    })
+    
+})
+
+
+
+
 
 app.get('/post/chap/:id', function(req, res){
     const _id = req.params.id
@@ -334,23 +496,7 @@ app.get('/bangxephang', function(req, res){
     
 })
 
-app.get('/post/xephang/:id', function(req, res){
-    const id = req.params.id
-    const items = db.get('xephang').find({ id: parseInt(id) }).value()
-    const url = items.linkXephang
-    const viewsXep = db.get('viewsXep').value()
-    console.log(viewsXep)
-    // console.log(items)
 
-
-    requestsXep(url,id)
-    
-    res.render('pageViewXep/viewXepPage',{
-    	viewsXep:viewsXep,
-    	id:id
-    })
-    
-})
 // viewrequest
 function requestsXep(url, id){
 	request({url}, (err,

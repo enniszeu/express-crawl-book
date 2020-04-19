@@ -41,38 +41,38 @@ block conten
 				.row
 					.col-12
 						.wapper_conten
-							each posts in viewsXep
+							each posts in viewsXepHang
 								.row(class=posts.id === id ? "" : "display")
 									div.col-12.col-sm-12.col-md-4.col-lg-4.col-xl-4
 										.conten_img_view
-											//- img(src=posts.imgView)
+											img(src=posts.imgView)
 									div.col-12.col-sm-12.col-md-8.col-lg-8.col-xl-8
 										.conten_mota
-											//- h3=posts.nameView
-											//- p(style="font-style:italic; font-size: 13px; opacity:0.7" )=`[Cập nhật lúc : ${posts.dataView} ]`
-											//- p
-											//- 	i.fas.fa-user  Tac gia : 
-											//- 		span(style="color:#a2b8b1; font-style:italic")=posts.tacGia
-											//- p
-											//- 	i.fas.fa-rss  Tinh trang : 
-											//- 		span(style="color:#a2b8b1; font-style:italic")=posts.tinhTrang
-											//- p 
-											//- 	i.fas.fa-tags  The loai :  
-											//- 		span(style="color:#a2b8b1; font-style:italic")=posts.theLoai
+											h3=posts.nameView
+											p(style="font-style:italic; font-size: 13px; opacity:0.7" )=`[Cập nhật lúc : ${posts.dataView} ]`
+											p
+												i.fas.fa-user  Tac gia : 
+													span(style="color:#a2b8b1; font-style:italic")=posts.tacGia
+											p
+												i.fas.fa-rss  Tinh trang : 
+													span(style="color:#a2b8b1; font-style:italic")=posts.tinhTrang
+											p 
+												i.fas.fa-tags  The loai :  
+													span(style="color:#a2b8b1; font-style:italic")=posts.theLoai
 								.row(class=posts.id === id ? "" : "display")
 									div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12
 										br
 										h4(style="color:#a2b8b1")
 											i.fas.fa-file-alt  Nội dung
-										//- p=posts.noiDung
+										p=posts.noiDung
 										hr
 										h4(style="color:#a2b8b1")
 											i.fas.fa-th-list  Danh sách chương
 										hr
 										.wapper_chap
-											each posts in viewsXep
-												a(href=`/post/chap/${posts.id}`)
-													p=posts.nameViewXep
+											each posts in viewsXepHang
+												a(href=`/post/chapxephang/${posts._id}`)
+													p(class=posts.chapter === "Chapter 369" || posts.chapter === "Chapter 517" || posts.chapter === "Chapter 229" || posts.chapter === "Chapter 499" || posts.chapter === "Chapter 453" || posts.chapter === "Chapter 493" || posts.chapter === "Chapter 500" || posts.chapter === "Chapter 519" || posts.chapter === "Chapter 371" ? "display" : "")=posts.chapter
 	//- title=posts.nameView
 	script.
 		function showMeau(){

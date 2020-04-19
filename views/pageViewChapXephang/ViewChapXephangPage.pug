@@ -1,0 +1,125 @@
+
+
+extends ../layOut/chapComeon
+
+block conten
+	.loader.loader-black.loader-1(id="fixeds")
+	.meau_mobi(id="showMeau")
+		i.fas.fa-ellipsis-v
+	.show_meau(id="mobie_on")
+		i.fas.fa-times
+		ul
+			li 
+				a(href="") Home
+			li 
+				a(href="") Active
+			li 
+				a(href="") Help
+			li 
+				a(href="") Goo
+	.wapper_home.not(id="fixed")
+	
+		.herder_img(id="ab")
+			.wapper_baner
+				.img_baner
+		.wapper_meau
+			.meau_nav
+				ul
+					li 
+						a(href="") Home
+					li 
+						a(href="") Active
+					li 
+						a(href="") Help
+					li 
+						a(href="") Goo
+		.container-fluid(style="background:#f7f9fb")
+			.row
+				.col-12
+					.wapper_baner
+						.img_baner
+			.wapper_header
+				.row
+					.col-12.custom_col
+						.wapper_conten
+							.homeTree
+								a(href="/")
+									.homeNow 
+										i.fas.fa-home
+								a(href="#ab")
+									.homeNow_go
+										i.fas.fa-arrow-up
+							each posts in chapsXephangItems
+								p=posts.nameChap
+
+							each posts in chapsXephangItems
+								.row
+									div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12.custom_col
+										.conten_img_view
+											img(src=posts.imageChap style="width:100%")
+							.row
+								.col-12
+									.rendChap
+										a(href=`/post/chap/${_id -1 }`)
+											i.fas.fa-arrow-left &nbsp; Chap truoc
+										a.fas(href=`/post/chapxephang/${parseInt(_id) +1}`) Chap sau 
+											i.fas.fa-arrow-right
+								
+	//- title=posts.nameView
+	script.
+		function showMeau(){
+			var show = document.getElementById("showMeau")
+			var meauOn = document.getElementById("mobie_on")
+			var fixed = document.getElementById("fixed")
+			var fixeds = document.getElementById("fixeds")
+			show.addEventListener("click", showMeaus)
+			meauOn.addEventListener("click", closeMeau)
+			setTimeout(function(){ fixed.classList.remove('not') }, 1500);
+			setTimeout(function(){ fixeds.classList.add('not') }, 1500);
+			function showMeaus(){
+				console.log("hh")
+				meauOn.style.left = "0"
+				fixed.classList.add('of')
+			}
+			function closeMeau(){
+				meauOn.style.left = "-310px"
+				fixed.classList.remove('of')
+			}
+		}
+		function reload(){
+			if(
+				getStorage('loaded') == '' 
+				|| getStorage('loaded') == '0'
+			){
+				setStorage('loaded', '1');
+				window.location.reload();
+				return true;
+			}else{
+				setStorage('loaded', '0');
+				return true;
+			}
+		}
+		function setStorage(name, value){
+			return sessionStorage.setItem(name, value);
+		}
+		function getStorage(name){
+			return sessionStorage.getItem(name) || '';
+		}
+		showMeau();
+		setTimeout(reload, 1000);
+		var scroll1 = window.pageYOffset;
+		window.onscroll = function(){
+		var scroll2 = window.pageYOffset;
+		if (scroll1 > scroll2) {
+			document.querySelector('.homeNow').style.top = "86%";
+			document.querySelector('.homeNow_go').style.top = "86%";
+		}else{
+			document.querySelector('.homeNow').style.top = "100%";
+			document.querySelector('.homeNow_go').style.top = "100%";
+           
+
+		}
+		scroll1 = scroll2;
+		}
+
+
