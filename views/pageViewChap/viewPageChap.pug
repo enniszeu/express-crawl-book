@@ -33,6 +33,9 @@ block conten
 						a(href="") Help
 					li 
 						a(href="") Goo
+		each posts in chapsItems
+			.contenview(style="color:#a2b8b1;text-align: center;padding: 0 15px;")
+				p=posts.nameChap
 		.container-fluid(style="background:#f7f9fb")
 			.row
 				.col-12
@@ -50,13 +53,11 @@ block conten
 									.homeNow_go
 										i.fas.fa-arrow-up
 							each posts in chapsItems
-								p=posts.nameChap
-
-							each posts in chapsItems
 								.row
 									div.col-12.col-sm-12.col-md-12.col-lg-12.col-xl-12.custom_col
 										.conten_img_view
 											img(src=posts.imageChap style="width:100%")
+
 							.row
 								.col-12
 									.rendChap
