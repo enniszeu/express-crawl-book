@@ -454,79 +454,16 @@ app.get('/post/chap/:id', function(req, res){
 
 
 app.get('/bangxephang', function(req, res){
-	const xephangItems = db.get('xephang').value()
-
-			request(`https://mangatoon.mobi/vi/genre/hot?type=1`, (err,
-				res, html) =>{
-				if(!err && res.statusCode == 200){
-					const $ = cheerio.load(html)
-					db.get('xephang').remove().write()
-
-					$('.items a').each((i, el)=>{
-						const imageXephang = $(el)
-							.find('.item div .content-image img')
-							.attr('src')
-
-						const nameXephang = $(el)
-							.find('a img')
-							.attr('alt')
-
-						const linkXephang = $(el)
-							.attr('href')
-
-						db.get('xephang')
-						  .push({ 
-						  	id : i + 1,
-						  	imageXephang : imageXephang,
-						  	nameXephang : nameXephang,
-						  	linkXephang : "https://mangatoon.mobi/"+linkXephang+"/episodes"
-						  })
-						  .write()
-						
-					})
-
-				}
-			})
-
-
-    	console.log(xephangItems)
-    	res.render('pageXephang/XephangPage',{
-    	xephangItems:xephangItems
+	requestsXephang();
+	console.log(db.get('homeXephang').value())
+    res.render('pageXepHang/XepHangPage',{
+    	homeXephang:db.get('homeXephang').value()
     })
     
 })
 
 
-// viewrequest
-function requestsXep(url, id){
-	request({url}, (err,
-		res, html) =>{
-		if(!err && res.statusCode == 200){
-			const $ = cheerio.load(html)
-			db.get('viewsXep').remove().write()
 
-			  	$('.episodes-wrap a').each((i, el)=>{
-					const linkViewXep = $(el)
-						.attr('href')
-
-					const nameViewXep = $(el)
-						.find('a .item-right .episode-title')
-						.text()
-						.replace(/\s\s+/g,"")
-
-					db.get('viewsXep')
-					  .push({ 
-					  	id:i+1,
-					  	nameViewXep:nameViewXep,
-					  	linkViewXep:linkViewXep
-					  })
-					  .write()
-
-				})
-		}
-
-	})
-}
 
 
 app.listen(port, function(){

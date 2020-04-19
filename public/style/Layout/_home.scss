@@ -311,8 +311,11 @@ body {
 		  }
 		  span{
 		  	font-size: 20px;
-		  	padding: 0 20px;
+		  	padding: 13px 20px;
 		  	font-weight: 600;
+		  	a{
+		  		color: #b6b6b6;
+		  	}
 		  }
 	 }
 }
@@ -365,9 +368,18 @@ body {
 			background: #141414 !important;
 		}
 	}
+	.waper_xephang{
+		.go_logo{
+			span{
+				color: #b6b6b6;
+				font-size: 15px;
+			}
+		}
+	}
 	.go_logo{
 		span{
 			color: #b6b6b6;
+			font-size: 15px;
 		}
 	}
 	.herder_img .wapper_baner .img_baner {
@@ -413,12 +425,25 @@ body {
 			padding: 0 5px;
 			height: 15px;
 		}
+		.should{
+			img{
+				width: 28%;
+			}
+			p{
+				left: 31%;
+				background: #141414
+			}
+			b{
+				background: #141414
+			}
+		}
 		
 
 	}
 	.wapper_conten_xephang:hover:before {
 	  height:80%;
 	}
+
 }
 
 
