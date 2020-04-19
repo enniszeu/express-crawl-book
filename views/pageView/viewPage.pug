@@ -84,8 +84,8 @@ block conten
 			var fixeds = document.getElementById("fixeds")
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
-			setTimeout(function(){ fixed.classList.remove('not') }, 2000);
-			setTimeout(function(){ fixeds.classList.add('not') }, 2000);
+			setTimeout(function(){ fixed.classList.remove('not') }, 1000);
+			setTimeout(function(){ fixeds.classList.add('not') }, 1000);
 			function showMeaus(){
 				console.log("hh")
 				meauOn.style.left = "0"
@@ -116,6 +116,6 @@ block conten
 			return sessionStorage.getItem(name) || '';
 		}
 		showMeau();
-		setTimeout(reload, 100);
+		setTimeout(reload, 500);
 
 
