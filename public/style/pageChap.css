@@ -14,13 +14,7 @@ body{
     .herder_img .wapper_baner .img_baner {
         background-image: url("../.././img/BangPhong.png");
     }
-    .conten_treck{
-        background-image: linear-gradient( to left, transparent, rgba(0, 0, 0, 0.71) 40%, #000 );
-        width: 144px;
-        height: 100%;
-        top: 0;
-        position: absolute;
-    }
+
 }
 
 .loader {

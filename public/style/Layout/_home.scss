@@ -355,14 +355,14 @@ body {
 .waper_foter_end{
 	width: 100%;
 	height: 170px;
-	background: #393a3e;
+	background: #141414;
 	margin-top:20px;
-	.lay1{
-		width: 100%;
-		height: 40px;
-		background: #2e2e32;
-	} 
+	
 }
+.lay1{
+    width: 100%;
+    height: 40px;
+  } 
 .wapper_conten_xephang:hover:before {
 	  content: "";
 	  background: rgba(0, 0, 0, 0.5);
@@ -463,7 +463,7 @@ body {
 
 	}
 	.wapper_conten_xephang:hover:before {
-	  height:80%;
+	  height:81%;
 	}
 
 }
