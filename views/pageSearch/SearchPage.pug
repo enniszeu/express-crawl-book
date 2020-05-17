@@ -1,0 +1,68 @@
+
+extends ../layOut/viewComeon
+
+block conten
+	.loader.loader-black.loader-1(id="fixeds")
+	.meau_mobi(id="showMeau")
+		i.fas.fa-ellipsis-v
+	.show_meau(id="mobie_on")
+		i.fas.fa-times
+		ul
+			li 
+				a(href="") Home
+			li 
+				a(href="") Active
+			li 
+				a(href="") Help
+			li 
+				a(href="") Goo
+	.wapper_home.not(id="fixed")
+	
+		.herder_img
+			.wapper_baner
+				.img_baner
+		.wapper_meau
+			.meau_nav
+				ul
+					li 
+						a(href="") Home
+					li 
+						a(href="") Active
+					li 
+						a(href="") Help
+					li 
+						a(href="") Goo
+		.container-fluid.custom_col
+			.row
+				.col-12
+					.wapper_baner
+						.img_baner
+			.wapper_header
+				.row
+					.col-12
+						.wapper_conten
+							input
+							
+	//- title=posts.nameView
+	script.
+		function showMeau(){
+			var show = document.getElementById("showMeau")
+			var meauOn = document.getElementById("mobie_on")
+			var fixed = document.getElementById("fixed")
+			var fixeds = document.getElementById("fixeds")
+			show.addEventListener("click", showMeaus)
+			meauOn.addEventListener("click", closeMeau)
+			setTimeout(function(){ fixed.classList.remove('not') }, 1000);
+			setTimeout(function(){ fixeds.classList.add('not') }, 1000);
+			function showMeaus(){
+				console.log("hh")
+				meauOn.style.left = "0"
+				fixed.classList.add('of')
+			}
+			function closeMeau(){
+				meauOn.style.left = "-310px"
+				fixed.classList.remove('of')
+			}
+		}
+		showMeau();
+

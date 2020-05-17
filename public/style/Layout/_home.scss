@@ -392,6 +392,9 @@ body {
 			background: #141414 !important;
 		}
 	}
+  .loader-1 {
+    left: 31% !important;
+  }
 	.waper_xephang{
 		.go_logo{
 			span{
@@ -535,7 +538,7 @@ body {
 .loader-1 {
   animation-name: loader1;
   top: 40%;
-  left: 31%;
+  left: 44%;
   position: absolute; }
 
 @keyframes loader1 {

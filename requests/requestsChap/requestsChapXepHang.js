@@ -2,7 +2,7 @@ const request = require("request");
 const cheerio = require("cheerio");
 const db = require('../.././db');
 
-function requestsChapXepHang(url, _id){
+requestsChapXepHang=(url, _id)=>{
 	request({url}, (err,
 		res, html) =>{
 		if(!err && res.statusCode == 200){

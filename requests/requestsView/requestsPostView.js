@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const db = require('../.././db');
 
 // viewrequest
-function requestsPostView(url, id){
+requestsPostView=(url, id)=>{
 	request({url}, (err,
 		res, html) =>{
 		if(!err && res.statusCode == 200){

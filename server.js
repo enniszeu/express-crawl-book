@@ -5,6 +5,8 @@ const port = process.env.PORT || 3000;
 const request = require("request");
 const cheerio = require("cheerio");
 const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const Post = require('./models/post.models');
 
 const requestsHome = require('./requests/requestsHome');
 const requestsXephang = require('./requests/requestsXephang');
@@ -22,6 +24,8 @@ const resquestsChapPost = require('./requests/requestsChap/resquestsChapPost');
 
 const db = require('./db');
 
+mongoose.connect("mongodb+srv://enniszeu:01695419337@cluster0-sjefs.mongodb.net/enniszeu?retryWrites=true&w=majority" ,{useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true });
+
 
 app.use(express.static('public'));
 
@@ -33,11 +37,60 @@ app.set('views', './views');
 
 
 
+app.get('/search', function(req, res){
+
+	// for (let i = 1; i < 9; i++) {
+	request(`http://truyenqq.com/top-thang/trang-3.html`, (err,
+		res, html) =>{
+		if(!err && res.statusCode == 200){
+			const $ = cheerio.load(html)
+			// db.get('homeConGai').remove().write()
+
+			$('.list-stories li .story-item').each((i, el)=>{
+				const imageHome = $(el)
+					.find('a img')
+					.attr('data-src')
+
+				const nameHome = $(el)
+					.find('h3 a')
+					.text()
+
+				const linkHome = $(el)
+					.find('a')
+					.attr('href')
+
+				const status = "true"
+			    const newUser = new Post({imageHome,nameHome,linkHome,status})
+			    console.log(newUser)
+			    newUser.save()
+		        
+			})
+
+		}
+	})
+// }
+
+    // res.render('pageSearch/SearchPage')
+    
+})
+
+// app.get('/reset', function(req, res){
+// 	Post.find()
+//         .then(posts => {
+//         	console.log(posts.status)
+
+//         })
+//         .catch(err => res.status(400).json('Err :' + err))
+// 	// res.json('reset oke')
+// })
+
+
 app.get('/', (req, res)=>{
 
 	requestsHome;
 	requestsXephang;
 	requestsConGai;
+    
     res.render('pageHome/homePage',{
     	db:db.get('posts').value(),
     	homeXephang:db.get('homeXephang').value(),
@@ -86,8 +139,6 @@ app.get('/post/xephang/:id', function(req, res){
     })
     
 })
-
-
 
 app.get('/post/congai/:id', function(req, res){
     
@@ -190,6 +241,9 @@ app.get('/congai', function(req, res){
     })
     
 })
+
+
+//saerch
 
 
 
