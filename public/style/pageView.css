@@ -20,6 +20,9 @@
     background: #fff;
     border-bottom: 1px solid #a2b8b1;
 }
+.nots{
+    opacity:1 !important;
+}
 @media (max-width: 768px) {
     .nav_bar_menu{
         background: #000;

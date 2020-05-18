@@ -6,6 +6,9 @@ body{
 .not{
 	display:none !important;
 }
+.nots{
+    opacity:1 !important;
+}
 
 @media (max-width: 768px) {
     body{
@@ -14,7 +17,9 @@ body{
     .herder_img .wapper_baner .img_baner {
         background-image: url("../.././img/BangPhong.png");
     }
-
+    .loader-1 {
+        left: 32% !important;
+    }
 }
 
 .loader {

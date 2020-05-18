@@ -17,7 +17,7 @@ block conten
 				a(href="") Help
 			li 
 				a(href="") Goo
-	.wapper_home.not(id="fixed")
+	.wapper_home.not(id="fixed" style="opacity: 0; transition: 0.5s;")
 	
 		.herder_img(id="ab")
 			.wapper_baner
@@ -75,6 +75,7 @@ block conten
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
 			setTimeout(function(){ fixed.classList.remove('not') }, 1500);
+			setTimeout(function(){ fixed.classList.add('nots') }, 2500);
 			setTimeout(function(){ fixeds.classList.add('not') }, 1500);
 			function showMeaus(){
 				console.log("hh")
