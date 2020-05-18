@@ -114,5 +114,25 @@ block conten
 			}
 		}
 		showMeau();
+			function reload(){
+				if(
+					getStorage('loaded') == '' 
+					|| getStorage('loaded') == '0'
+				){
+					setStorage('loaded', '1');
+					window.location.reload();
+					return true;
+				}else{
+					setStorage('loaded', '0');
+					return true;
+				}
+			}
+			function setStorage(name, value){
+				return sessionStorage.setItem(name, value);
+			}
+			function getStorage(name){
+				return sessionStorage.getItem(name) || '';
+			}
+			setTimeout(reload, 500);
 
 
