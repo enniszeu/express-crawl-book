@@ -4,10 +4,14 @@ const app = express();
 const port = process.env.PORT || 3000;
 const request = require("request");
 const cheerio = require("cheerio");
-const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const Post = require('./models/post.models');
 var session = require('express-session');
+const bodyParser = require('body-parser');
+
+
+app.use(bodyParser.json()); // for parsing application/json
+app.use(express.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 
 
 app.use(session({ secret: 'keyboard cat', cookie: { maxAge: 60000 }}))
@@ -28,65 +32,69 @@ const resquestsChapPost = require('./requests/requestsChap/resquestsChapPost');
 
 const db = require('./db');
 
-mongoose.connect("mongodb+srv://enniszeu:01695419337@cluster0-sjefs.mongodb.net/enniszeu?retryWrites=true&w=majority" ,{useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true });
-
+mongoose.connect(
+  "mongodb+srv://enniszeu:01695419337@cluster0-okm7c.azure.mongodb.net/test?retryWrites=true&w=majority",
+  { useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true }
+);
 
 app.use(express.static('public'));
-
-app.use(bodyParser.json()) // for parsing application/json
-app.use(bodyParser.urlencoded({ extended: true })) // for parsing application/x-www-form-urlencoded
 
 app.set('view engine', 'pug');
 app.set('views', './views');
 
 
+app.get('/search', (req, res)=>{
+    Post.find()
+    .then(posts => {
+        var q = req.query.q;
+        var matching = posts.filter(function(post){
+            return post.nameHome.toLowerCase().indexOf(q) !== -1;
+        })
+        res.render('pageSearch/SearchPage', {posts : matching})
+    })
+    .catch(err => res.status(400).json("Err :" + err));
 
-app.get('/search', function(req, res){
 
-	// for (let i = 1; i < 9; i++) {
-	request(`http://truyenqq.com/top-thang/trang-3.html`, (err,
-		res, html) =>{
-		if(!err && res.statusCode == 200){
-			const $ = cheerio.load(html)
-			// db.get('homeConGai').remove().write()
-
-			$('.list-stories li .story-item').each((i, el)=>{
-				const imageHome = $(el)
-					.find('a img')
-					.attr('data-src')
-
-				const nameHome = $(el)
-					.find('h3 a')
-					.text()
-
-				const linkHome = $(el)
-					.find('a')
-					.attr('href')
-
-				const status = "true"
-			    const newUser = new Post({imageHome,nameHome,linkHome,status})
-			    console.log(newUser)
-			    newUser.save()
-		        
-			})
-
-		}
-	})
-// }
-
-    // res.render('pageSearch/SearchPage')
-    
 })
 
-// app.get('/reset', function(req, res){
-// 	Post.find()
-//         .then(posts => {
-//         	console.log(posts.status)
+app.get('/addBook', (req, res)=>{
+    
+    res.render("addBook/addBook")
 
-//         })
-//         .catch(err => res.status(400).json('Err :' + err))
-// 	// res.json('reset oke')
-// })
+})
+
+app.post('/addBook', (req, res, next)=>{
+    
+    const imageHome = req.body.imageHome;
+    const nameHome = req.body.nameHome;
+    const linkHome = req.body.linkHome;
+
+
+    const newUser = new Post({imageHome,nameHome,linkHome})
+    newUser.save()
+        .then(() => res.json('User add'))
+        .catch(err => res.status(400).json('Err: ' + err));
+    console.log(newUser)
+
+})
+
+app.get('/search/zon/:id', function(req, res){
+
+    Post.findById(req.params.id)
+        .then(posts => {
+            console.log(posts.linkHome)
+            requestsPostView(posts.linkHome,req.params.id)
+
+            var viewsItems = db.get('views').value()
+
+            res.render('pageViewSearch/viewPageSearch',{
+                viewsItems:viewsItems,
+                id:req.params.id,
+                url:posts.linkHome
+            })
+        })
+        .catch(err => res.status(400).json('Err :' + err))
+})
 
 
 app.get('/', (req, res)=>{
@@ -106,13 +114,7 @@ app.get('/', (req, res)=>{
 
 
 
-app.get('/addTemview', function(req, res){
-    // const items = db.get('posts').find({ id: parseInt(id) }).value()
-    // const url = items.linkHome
-    // req.session = "ghg"
-    console.log(req.session.temiew)
 
-})
 
 
 app.get('/post/:id', function(req, res){
@@ -125,13 +127,13 @@ app.get('/post/:id', function(req, res){
     requestsPostView(url,id)
     var viewsItems = db.get('views').value()
 
-    req.session.temiew = [
-        {
-            url: url,
-            img: viewsItems[0].imgView,
-            like: '4550'
-        }
-    ]
+    // req.session.temiew = [
+    //     {
+    //         url: url,
+    //         img: viewsItems[0].imgView,
+    //         like: '4550'
+    //     }
+    // ]
     
     res.render('pageView/viewPage',{
     	viewsItems:viewsItems,
@@ -265,6 +267,63 @@ app.get('/congai', function(req, res){
 
 
 //saerch
+
+
+
+// app.get('/search', function(req, res){
+
+//  // for (let i = 1; i < 9; i++) {
+//  request(`http://truyenqq.com/top-thang/trang-3.html`, (err,
+//      res, html) =>{
+//      if(!err && res.statusCode == 200){
+//          const $ = cheerio.load(html)
+//          // db.get('homeConGai').remove().write()
+
+//          $('.list-stories li .story-item').each((i, el)=>{
+//              const imageHome = $(el)
+//                  .find('a img')
+//                  .attr('data-src')
+
+//              const nameHome = $(el)
+//                  .find('h3 a')
+//                  .text()
+
+//              const linkHome = $(el)
+//                  .find('a')
+//                  .attr('href')
+
+//              const status = "true"
+//              const newUser = new Post({imageHome,nameHome,linkHome,status})
+//              console.log(newUser)
+//              newUser.save()
+                
+//          })
+
+//      }
+//  })
+// // }
+
+//     // res.render('pageSearch/SearchPage')
+    
+// })
+
+// app.get('/reset', function(req, res){
+//  Post.find()
+//         .then(posts => {
+//          console.log(posts.status)
+
+//         })
+//         .catch(err => res.status(400).json('Err :' + err))
+//  // res.json('reset oke')
+// })
+
+// app.get('/addTemview', function(req, res){
+//     // const items = db.get('posts').find({ id: parseInt(id) }).value()
+//     // const url = items.linkHome
+//     // req.session = "ghg"
+//     console.log(req.session.temiew)
+
+// })
 
 
 

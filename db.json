@@ -291,60 +291,705 @@
   ],
   "views": [
     {
-      "id": "6",
-      "nameView": "Học Viện Phi Nhân",
-      "imgView": "http://st.truyenchon.com/data/comics/147/hoc-vien-phi-nhan.jpg",
-      "dataView": "\n        [Cập nhật lúc: 21:07 18/05/2020]\n     ",
-      "tenKhac": "Extraodinary Ones/ 非人学园",
+      "id": "5ec2c1adca9a6a2dc4b3ab60",
+      "nameView": "Hôn Nhân Dục Vọng: Thiếu Gia Nhẹ Một Chút!",
+      "imgView": "http://st.truyenchon.com/data/comics/60/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut-7626.jpg",
+      "dataView": "\n        [Cập nhật lúc: 15:02 18/05/2020]\n     ",
+      "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Comedy - School Life",
-      "noiDung": "Những câu truyện nhỏ của tựa game Game Extraodinary Ones."
+      "theLoai": "Manhua - Ngôn Tình - Truyện Màu",
+      "noiDung": "Tác giả: 极漫文化\nTrans: Ái Như\nEdit: Nhóm Minh Nguyệt Lầu\nNội dung: Một người là trụ cột đất nước, xuất thân từ gia đình danh giá, một người lại là phụ nữ đã kết hôn, thấp cổ bé họng. Trước khi cuộc hôn nhân tan vỡ, trong những năm theo đuổi, vài năm sau trùng phùng, “Có anh đây, không ai dám ức hiếp em được nữa!”..."
+    },
+    {
+      "_id": "138",
+      "chapter": "Chapter 138",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-138/570455"
+    },
+    {
+      "_id": "137",
+      "chapter": "Chapter 137",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-137/569453"
+    },
+    {
+      "_id": "136",
+      "chapter": "Chapter 136",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-136/567291"
+    },
+    {
+      "_id": "135",
+      "chapter": "Chapter 135",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-135/565079"
+    },
+    {
+      "_id": "134",
+      "chapter": "Chapter 134",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-134/564618"
+    },
+    {
+      "_id": "133",
+      "chapter": "Chapter 133",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-133/564248"
+    },
+    {
+      "_id": "132",
+      "chapter": "Chapter 132",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-132/562796"
+    },
+    {
+      "_id": "131",
+      "chapter": "Chapter 131",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-131/562795"
+    },
+    {
+      "_id": "130",
+      "chapter": "Chapter 130",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-130/561040"
+    },
+    {
+      "_id": "129",
+      "chapter": "Chapter 129",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-129/560576"
+    },
+    {
+      "_id": "128",
+      "chapter": "Chapter 128",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-128/557820"
+    },
+    {
+      "_id": "127",
+      "chapter": "Chapter 127",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-127/557333"
+    },
+    {
+      "_id": "126",
+      "chapter": "Chapter 126",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-126/555707"
+    },
+    {
+      "_id": "125",
+      "chapter": "Chapter 125",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-125/555706"
+    },
+    {
+      "_id": "124",
+      "chapter": "Chapter 124",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-124/554119"
+    },
+    {
+      "_id": "123",
+      "chapter": "Chapter 123",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-123/553426"
+    },
+    {
+      "_id": "122",
+      "chapter": "Chapter 122",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-122/553425"
+    },
+    {
+      "_id": "121",
+      "chapter": "Chapter 121",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-121/553424"
+    },
+    {
+      "_id": "120",
+      "chapter": "Chapter 120",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-120/550357"
+    },
+    {
+      "_id": "119",
+      "chapter": "Chapter 119",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-119/550044"
+    },
+    {
+      "_id": "118",
+      "chapter": "Chapter 118",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-118/547762"
+    },
+    {
+      "_id": "117",
+      "chapter": "Chapter 117",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-117/547239"
+    },
+    {
+      "_id": "116",
+      "chapter": "Chapter 116",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-116/545338"
+    },
+    {
+      "_id": "115",
+      "chapter": "Chapter 115",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-115/544852"
+    },
+    {
+      "_id": "114",
+      "chapter": "Chapter 114",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-114/543899"
+    },
+    {
+      "_id": "113",
+      "chapter": "Chapter 113",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-113/543385"
+    },
+    {
+      "_id": "112",
+      "chapter": "Chapter 112",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-112/541736"
+    },
+    {
+      "_id": "111",
+      "chapter": "Chapter 111",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-111/541569"
+    },
+    {
+      "_id": "110",
+      "chapter": "Chapter 110",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-110/539979"
+    },
+    {
+      "_id": "109",
+      "chapter": "Chapter 109",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-109/539715"
+    },
+    {
+      "_id": "108",
+      "chapter": "Chapter 108",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-108/538519"
+    },
+    {
+      "_id": "107",
+      "chapter": "Chapter 107",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-107/538518"
+    },
+    {
+      "_id": "106",
+      "chapter": "Chapter 106",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-106/537331"
+    },
+    {
+      "_id": "105",
+      "chapter": "Chapter 105",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-105/537330"
+    },
+    {
+      "_id": "104",
+      "chapter": "Chapter 104",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-104/535710"
+    },
+    {
+      "_id": "103",
+      "chapter": "Chapter 103",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-103/535533"
+    },
+    {
+      "_id": "102",
+      "chapter": "Chapter 102",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-102/534388"
+    },
+    {
+      "_id": "101",
+      "chapter": "Chapter 101",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-101/533697"
+    },
+    {
+      "_id": "100",
+      "chapter": "Chapter 100",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-100/533005"
+    },
+    {
+      "_id": "99",
+      "chapter": "Chapter 99",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-99/532625"
+    },
+    {
+      "_id": "98",
+      "chapter": "Chapter 98",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-98/531261"
+    },
+    {
+      "_id": "97",
+      "chapter": "Chapter 97",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-97/530521"
+    },
+    {
+      "_id": "96",
+      "chapter": "Chapter 96",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-96/529952"
+    },
+    {
+      "_id": "95",
+      "chapter": "Chapter 95",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-95/529170"
+    },
+    {
+      "_id": "94",
+      "chapter": "Chapter 94",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-94/527882"
+    },
+    {
+      "_id": "93",
+      "chapter": "Chapter 93",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-93/527138"
+    },
+    {
+      "_id": "92",
+      "chapter": "Chapter 92",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-92/527137"
+    },
+    {
+      "_id": "91",
+      "chapter": "Chapter 91",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-91/525779"
+    },
+    {
+      "_id": "90",
+      "chapter": "Chapter 90",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-90/524540"
+    },
+    {
+      "_id": "89",
+      "chapter": "Chapter 89",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-89/524539"
+    },
+    {
+      "_id": "88",
+      "chapter": "Chapter 88",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-88/522809"
+    },
+    {
+      "_id": "87",
+      "chapter": "Chapter 87",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-87/522807"
+    },
+    {
+      "_id": "86",
+      "chapter": "Chapter 86",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-86/521304"
+    },
+    {
+      "_id": "85",
+      "chapter": "Chapter 85",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-85/520967"
+    },
+    {
+      "_id": "84",
+      "chapter": "Chapter 84",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-84/520244"
+    },
+    {
+      "_id": "83",
+      "chapter": "Chapter 83",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-83/518762"
+    },
+    {
+      "_id": "82",
+      "chapter": "Chapter 82",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-82/518005"
+    },
+    {
+      "_id": "81",
+      "chapter": "Chapter 81",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-81/517296"
+    },
+    {
+      "_id": "80",
+      "chapter": "Chapter 80",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-80/516388"
+    },
+    {
+      "_id": "79",
+      "chapter": "Chapter 79",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-79/515709"
+    },
+    {
+      "_id": "78",
+      "chapter": "Chapter 78",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-78/514891"
+    },
+    {
+      "_id": "77",
+      "chapter": "Chapter 77",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-77/514597"
+    },
+    {
+      "_id": "76",
+      "chapter": "Chapter 76",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-76/512531"
+    },
+    {
+      "_id": "75",
+      "chapter": "Chapter 75",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-75/512303"
+    },
+    {
+      "_id": "74",
+      "chapter": "Chapter 74",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-74/511524"
+    },
+    {
+      "_id": "73",
+      "chapter": "Chapter 73",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-73/510959"
+    },
+    {
+      "_id": "72",
+      "chapter": "Chapter 72",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-72/509765"
+    },
+    {
+      "_id": "71",
+      "chapter": "Chapter 71",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-71/508392"
+    },
+    {
+      "_id": "70",
+      "chapter": "Chapter 70",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-70/507743"
+    },
+    {
+      "_id": "69",
+      "chapter": "Chapter 69",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-69/506821"
+    },
+    {
+      "_id": "68",
+      "chapter": "Chapter 68",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-68/505913"
+    },
+    {
+      "_id": "67",
+      "chapter": "Chapter 67",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-67/504264"
+    },
+    {
+      "_id": "66",
+      "chapter": "Chapter 66",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-66/501325"
+    },
+    {
+      "_id": "65",
+      "chapter": "Chapter 65",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-65/501006"
+    },
+    {
+      "_id": "64",
+      "chapter": "Chapter 64",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-64/500689"
+    },
+    {
+      "_id": "63",
+      "chapter": "Chapter 63",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-63/500389"
+    },
+    {
+      "_id": "62",
+      "chapter": "Chapter 62",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-62/497109"
+    },
+    {
+      "_id": "61",
+      "chapter": "Chapter 61",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-61/496862"
+    },
+    {
+      "_id": "60",
+      "chapter": "Chapter 60",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-60/496632"
+    },
+    {
+      "_id": "59",
+      "chapter": "Chapter 59",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-59/495747"
+    },
+    {
+      "_id": "58",
+      "chapter": "Chapter 58",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-58/494645"
+    },
+    {
+      "_id": "57",
+      "chapter": "Chapter 57",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-57/494201"
+    },
+    {
+      "_id": "56",
+      "chapter": "Chapter 56",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-56/492606"
+    },
+    {
+      "_id": "55",
+      "chapter": "Chapter 55",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-55/492459"
+    },
+    {
+      "_id": "54",
+      "chapter": "Chapter 54",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-54/490717"
+    },
+    {
+      "_id": "53",
+      "chapter": "Chapter 53",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-53/489526"
+    },
+    {
+      "_id": "52",
+      "chapter": "Chapter 52",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-52/488312"
+    },
+    {
+      "_id": "51",
+      "chapter": "Chapter 51",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-51/487249"
+    },
+    {
+      "_id": "50",
+      "chapter": "Chapter 50",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-50/486418"
+    },
+    {
+      "_id": "49",
+      "chapter": "Chapter 49",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-49/486417"
+    },
+    {
+      "_id": "48",
+      "chapter": "Chapter 48",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-48/484044"
+    },
+    {
+      "_id": "47",
+      "chapter": "Chapter 47",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-47/483284"
+    },
+    {
+      "_id": "46",
+      "chapter": "Chapter 46",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-46/482765"
+    },
+    {
+      "_id": "45",
+      "chapter": "Chapter 45",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-45/482764"
+    },
+    {
+      "_id": "44",
+      "chapter": "Chapter 44",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-44/482751"
+    },
+    {
+      "_id": "43",
+      "chapter": "Chapter 43",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-43/482750"
+    },
+    {
+      "_id": "42",
+      "chapter": "Chapter 42",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-42/480797"
+    },
+    {
+      "_id": "41",
+      "chapter": "Chapter 41",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-41/480241"
+    },
+    {
+      "_id": "40",
+      "chapter": "Chapter 40",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-40/480240"
+    },
+    {
+      "_id": "39",
+      "chapter": "Chapter 39",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-39/479525"
+    },
+    {
+      "_id": "38",
+      "chapter": "Chapter 38",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-38/479524"
+    },
+    {
+      "_id": "37",
+      "chapter": "Chapter 37",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-37/479116"
+    },
+    {
+      "_id": "36",
+      "chapter": "Chapter 36",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-36/479115"
+    },
+    {
+      "_id": "35",
+      "chapter": "Chapter 35",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-35/479114"
+    },
+    {
+      "_id": "34",
+      "chapter": "Chapter 34",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-34/478610"
+    },
+    {
+      "_id": "33",
+      "chapter": "Chapter 33",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-33/477994"
+    },
+    {
+      "_id": "32",
+      "chapter": "Chapter 32",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-32/477993"
+    },
+    {
+      "_id": "31",
+      "chapter": "Chapter 31",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-31/477156"
+    },
+    {
+      "_id": "30",
+      "chapter": "Chapter 30",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-30/477155"
+    },
+    {
+      "_id": "29",
+      "chapter": "Chapter 29",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-29/476575"
+    },
+    {
+      "_id": "28",
+      "chapter": "Chapter 28",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-28/476574"
+    },
+    {
+      "_id": "27",
+      "chapter": "Chapter 27",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-27/476038"
+    },
+    {
+      "_id": "26",
+      "chapter": "Chapter 26",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-26/476037"
+    },
+    {
+      "_id": "25",
+      "chapter": "Chapter 25",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-25/476036"
+    },
+    {
+      "_id": "24",
+      "chapter": "Chapter 24",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-24/473463"
+    },
+    {
+      "_id": "23",
+      "chapter": "Chapter 23",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-23/473461"
+    },
+    {
+      "_id": "22",
+      "chapter": "Chapter 22",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-22/472181"
+    },
+    {
+      "_id": "21",
+      "chapter": "Chapter 21",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-21/471966"
+    },
+    {
+      "_id": "20",
+      "chapter": "Chapter 20",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-20/471965"
+    },
+    {
+      "_id": "19",
+      "chapter": "Chapter 19",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-19/471548"
+    },
+    {
+      "_id": "18",
+      "chapter": "Chapter 18",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-18/469236"
+    },
+    {
+      "_id": "17",
+      "chapter": "Chapter 17",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-17/468129"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-16/570680"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-16/468128"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-15/570679"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-15/468127"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-14/570678"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-14/468126"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-13/570677"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-13/468125"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-12/570244"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-12/468124"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-11/570243"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-11/468123"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-10/569607"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-10/468122"
     },
     {
-      "_id": "5 ,",
-      "chapter": "Chapter 5 ,6,7,8,9: Chị Đại Bạch Cốt Tinh",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-5/480363"
+      "_id": "9",
+      "chapter": "Chapter 9",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-9/468121"
     },
     {
-      "_id": "1 2",
-      "chapter": "Chapter 1 2-3-4: Ảo Tưởng Của Lôi Chấn Tử",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hoc-vien-phi-nhan/chap-1/480280"
+      "_id": "8",
+      "chapter": "Chapter 8",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-8/468120"
+    },
+    {
+      "_id": "7",
+      "chapter": "Chapter 7",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-7/468119"
+    },
+    {
+      "_id": "6",
+      "chapter": "Chapter 6",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-6/468118"
+    },
+    {
+      "_id": "5",
+      "chapter": "Chapter 5",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-5/468117"
+    },
+    {
+      "_id": "4",
+      "chapter": "Chapter 4",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-4/468116"
+    },
+    {
+      "_id": "3",
+      "chapter": "Chapter 3",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-3/468115"
+    },
+    {
+      "_id": "2",
+      "chapter": "Chapter 2",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-2/468114"
+    },
+    {
+      "_id": "1",
+      "chapter": "Chapter 1",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/hon-nhan-duc-vong-thieu-gia-nhe-mot-chut/chap-1/468113"
     },
     {
       "_id": "549",
@@ -374,27 +1019,168 @@
   ],
   "chaps": [
     {
-      "imageChap": "http://cdn6.truyentranh8.net/hdd2/u2/xiaoming09/25840/12-/0.jpg"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/001.jpg"
     },
     {
-      "imageChap": "http://cdn6.truyentranh8.net/hdd2/u2/xiaoming09/25840/12-/1.jpg"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/002.jpg"
     },
     {
       "imageChap": "http://s.truyenchon.com/data/sites/1/banner/300x250.gif"
     },
     {},
     {
-      "imageChap": "http://cdn6.truyentranh8.net/hdd2/u2/xiaoming09/25840/12-/2.jpg"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/003.jpg"
     },
     {
-      "imageChap": "http://cdn6.truyentranh8.net/hdd2/u2/xiaoming09/25840/12-/3.jpg"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/004.jpg"
     },
     {
-      "imageChap": "http://cdn6.truyentranh8.net/hdd2/u2/xiaoming09/25840/12-/4.jpg"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/005.jpg"
     },
     {
-      "nameChap": "Học Viện Phi Nhân - Chapter 12",
-      "dateChap": "[Cập nhật lúc: 22:39 17/05/2020]"
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/006.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/007.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/008.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/009.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/010.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/011.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/012.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/013.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/014.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/015.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/016.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/017.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/018.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/019.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/020.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/021.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/022.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/023.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/024.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/025.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/026.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/027.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/028.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/029.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/030.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/031.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/032.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/033.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/034.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/035.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/036.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/037.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/038.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/039.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/040.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/041.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/042.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/043.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/044.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/045.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/046.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/047.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/048.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/049.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/050.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/051.jpg"
+    },
+    {
+      "imageChap": "http://imageinstant.com/data/images/26140/557901/052.jpg"
+    },
+    {
+      "nameChap": "Chi Tôn Đồng Thuật Sư: Tuyệt Thế Đại Tiểu Thư - Chapter 69",
+      "dateChap": "[Cập nhật lúc: 11:54 15/04/2020]"
     }
   ],
   "homeXephang": [
@@ -689,750 +1475,200 @@
   ],
   "viewsXepHang": [
     {
-      "id": "8",
-      "nameView": "Ngạo Thị Thiên Địa",
-      "imgView": "http://st.truyenchon.com/data/comics/166/ngao-thi-thien-dia.jpg",
-      "dataView": "\n        [Cập nhật lúc: 21:54 09/05/2020]\n     ",
+      "id": "35",
+      "nameView": "Trùng Sinh Ma Tôn Lộng Quyền",
+      "imgView": "http://st.truyenchon.com/data/comics/42/trung-sinh-ma-ton-long-quyen.jpg",
+      "dataView": "\n        [Cập nhật lúc: 09:00 16/05/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Manhua - Mystery - Truyện Màu - Xuyên Không",
-      "noiDung": ""
-    },
-    {
-      "_id": "147",
-      "chapter": "Chapter 147",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-147/567681"
-    },
-    {
-      "_id": "146",
-      "chapter": "Chapter 146",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-146/566028"
-    },
-    {
-      "_id": "145",
-      "chapter": "Chapter 145",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-145/566027"
-    },
-    {
-      "_id": "144",
-      "chapter": "Chapter 144",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-144/566026"
-    },
-    {
-      "_id": "143",
-      "chapter": "Chapter 143",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-143/566025"
-    },
-    {
-      "_id": "142",
-      "chapter": "Chapter 142",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-142/566024"
-    },
-    {
-      "_id": "141",
-      "chapter": "Chapter 141",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-141/566023"
-    },
-    {
-      "_id": "140",
-      "chapter": "Chapter 140",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-140/566022"
-    },
-    {
-      "_id": "139",
-      "chapter": "Chapter 139",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-139/566021"
-    },
-    {
-      "_id": "138",
-      "chapter": "Chapter 138",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-138/566020"
-    },
-    {
-      "_id": "137",
-      "chapter": "Chapter 137",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-137/566019"
-    },
-    {
-      "_id": "136",
-      "chapter": "Chapter 136",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-136/566018"
-    },
-    {
-      "_id": "135",
-      "chapter": "Chapter 135",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-135/566017"
-    },
-    {
-      "_id": "134",
-      "chapter": "Chapter 134",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-134/566016"
-    },
-    {
-      "_id": "133",
-      "chapter": "Chapter 133",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-133/566015"
-    },
-    {
-      "_id": "132",
-      "chapter": "Chapter 132",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-132/566014"
-    },
-    {
-      "_id": "131",
-      "chapter": "Chapter 131",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-131/566013"
-    },
-    {
-      "_id": "130",
-      "chapter": "Chapter 130",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-130/566012"
-    },
-    {
-      "_id": "129",
-      "chapter": "Chapter 129",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-129/566011"
-    },
-    {
-      "_id": "128",
-      "chapter": "Chapter 128",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-128/566010"
-    },
-    {
-      "_id": "127",
-      "chapter": "Chapter 127",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-127/566009"
-    },
-    {
-      "_id": "126",
-      "chapter": "Chapter 126",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-126/566008"
-    },
-    {
-      "_id": "125",
-      "chapter": "Chapter 125",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-125/566007"
-    },
-    {
-      "_id": "124",
-      "chapter": "Chapter 124",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-124/566006"
-    },
-    {
-      "_id": "123",
-      "chapter": "Chapter 123",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-123/566005"
-    },
-    {
-      "_id": "122",
-      "chapter": "Chapter 122",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-122/566004"
-    },
-    {
-      "_id": "121",
-      "chapter": "Chapter 121",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-121/566003"
-    },
-    {
-      "_id": "120",
-      "chapter": "Chapter 120",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-120/566002"
-    },
-    {
-      "_id": "119",
-      "chapter": "Chapter 119",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-119/566001"
-    },
-    {
-      "_id": "118",
-      "chapter": "Chapter 118",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-118/566000"
-    },
-    {
-      "_id": "117",
-      "chapter": "Chapter 117",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-117/565999"
-    },
-    {
-      "_id": "116",
-      "chapter": "Chapter 116",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-116/565998"
-    },
-    {
-      "_id": "115",
-      "chapter": "Chapter 115",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-115/565997"
-    },
-    {
-      "_id": "114",
-      "chapter": "Chapter 114",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-114/565996"
-    },
-    {
-      "_id": "113",
-      "chapter": "Chapter 113",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-113/565995"
-    },
-    {
-      "_id": "112",
-      "chapter": "Chapter 112",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-112/565994"
-    },
-    {
-      "_id": "111",
-      "chapter": "Chapter 111",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-111/565993"
-    },
-    {
-      "_id": "110",
-      "chapter": "Chapter 110",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-110/565992"
-    },
-    {
-      "_id": "109",
-      "chapter": "Chapter 109",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-109/565991"
-    },
-    {
-      "_id": "108",
-      "chapter": "Chapter 108",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-108/565990"
-    },
-    {
-      "_id": "107",
-      "chapter": "Chapter 107",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-107/565989"
-    },
-    {
-      "_id": "106",
-      "chapter": "Chapter 106",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-106/565988"
-    },
-    {
-      "_id": "105",
-      "chapter": "Chapter 105",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-105/565987"
-    },
-    {
-      "_id": "104",
-      "chapter": "Chapter 104",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-104/565986"
-    },
-    {
-      "_id": "103",
-      "chapter": "Chapter 103",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-103/565985"
-    },
-    {
-      "_id": "102",
-      "chapter": "Chapter 102",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-102/565984"
-    },
-    {
-      "_id": "101",
-      "chapter": "Chapter 101",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-101/565983"
-    },
-    {
-      "_id": "100",
-      "chapter": "Chapter 100",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-100/565982"
-    },
-    {
-      "_id": "99",
-      "chapter": "Chapter 99",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-99/565981"
-    },
-    {
-      "_id": "98",
-      "chapter": "Chapter 98",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-98/565980"
-    },
-    {
-      "_id": "97",
-      "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-97/565979"
-    },
-    {
-      "_id": "96",
-      "chapter": "Chapter 96",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-96/565978"
-    },
-    {
-      "_id": "95",
-      "chapter": "Chapter 95",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-95/565977"
-    },
-    {
-      "_id": "94",
-      "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-94/565976"
-    },
-    {
-      "_id": "93",
-      "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-93/565975"
-    },
-    {
-      "_id": "92",
-      "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-92/565974"
-    },
-    {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-91/565973"
-    },
-    {
-      "_id": "90",
-      "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-90/565972"
-    },
-    {
-      "_id": "89",
-      "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-89/565971"
-    },
-    {
-      "_id": "88",
-      "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-88/565970"
-    },
-    {
-      "_id": "87",
-      "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-87/565969"
-    },
-    {
-      "_id": "86",
-      "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-86/565968"
-    },
-    {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-85/565967"
-    },
-    {
-      "_id": "84",
-      "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-84/565966"
-    },
-    {
-      "_id": "83",
-      "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-83/565965"
-    },
-    {
-      "_id": "82",
-      "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-82/565964"
-    },
-    {
-      "_id": "81",
-      "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-81/565963"
-    },
-    {
-      "_id": "80",
-      "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-80/565962"
-    },
-    {
-      "_id": "79",
-      "chapter": "Chapter 79",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-79/565961"
-    },
-    {
-      "_id": "78",
-      "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-78/565960"
-    },
-    {
-      "_id": "77",
-      "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-77/565959"
-    },
-    {
-      "_id": "76",
-      "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-76/565958"
-    },
-    {
-      "_id": "75",
-      "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-75/565957"
-    },
-    {
-      "_id": "74",
-      "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-74/565956"
-    },
-    {
-      "_id": "73",
-      "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-73/565955"
-    },
-    {
-      "_id": "72",
-      "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-72/565954"
-    },
-    {
-      "_id": "71",
-      "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-71/563609"
-    },
-    {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-70/561172"
-    },
-    {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-69/557809"
-    },
-    {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-68/557322"
-    },
-    {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-67/556859"
-    },
-    {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-66/556235"
-    },
-    {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-65/547191"
-    },
-    {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-64/542579"
-    },
-    {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-63/542129"
-    },
-    {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-62/539133"
-    },
-    {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-61/537225"
-    },
-    {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-60/536961"
-    },
-    {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-59/534760"
-    },
-    {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-58/534448"
-    },
-    {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-57/533085"
-    },
-    {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-56/532679"
-    },
-    {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-55/528859"
-    },
-    {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-54/525609"
-    },
-    {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-53/523827"
-    },
-    {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-52/523515"
-    },
-    {
-      "_id": "51",
-      "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-51/522065"
-    },
-    {
-      "_id": "50",
-      "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-50/520436"
-    },
-    {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-49/520124"
-    },
-    {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-48/519806"
-    },
-    {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-47/519233"
-    },
-    {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-46/518185"
-    },
-    {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-45/517304"
-    },
-    {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-44/515951"
-    },
-    {
-      "_id": "43",
-      "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-43/515439"
-    },
-    {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-42/515115"
-    },
-    {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-41/510828"
-    },
-    {
-      "_id": "40",
-      "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-40/510374"
-    },
-    {
-      "_id": "39",
-      "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-39/509814"
-    },
-    {
-      "_id": "38",
-      "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-38/509326"
+      "theLoai": "Action - Adventure - Comedy - Fantasy - Manhua - Truyện Màu",
+      "noiDung": "Một đời ma tôn Đế Thích Thiên, chết thảm vì bị thân tín phản bội, bị chính đạo ngũ tông bao vây mà chết.  Chính lúc toàn thiên hạ đều cho rằng thế gian sẽ không còn ma tôn nữa, Đế Thích Thiên lại trùng sinh li kì, dựa vào thân phận học đồ tu đạo Mạc Phàm để sinh sống. Đối mặt với tình cảnh pháp lực mất hoàn toàn, thể xác yếu ớt, hắn lựa chọn ngấm ngầm chịu đựng, lại nặn thần thông, cường thế vùng dậy. Nhưng dưới sự chèn ép của cái gọi là chính đạo ngũ tông, Đế Thích Thiên sắp bước trên con đường phục thù, huyết đao phản đồ, tiêu diệt ngũ tông, lại xuất hiện ma tôn lộng quyền!"
     },
     {
       "_id": "37",
       "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-37/503123"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-37/569640"
     },
     {
       "_id": "36",
       "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-36/502641"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-36/567549"
     },
     {
       "_id": "35",
       "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-35/502404"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-35/567548"
     },
     {
       "_id": "34",
       "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-34/502403"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-34/567547"
     },
     {
       "_id": "33",
       "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-33/502402"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-33/567546"
     },
     {
       "_id": "32",
       "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-32/502401"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-32/567545"
     },
     {
       "_id": "31",
       "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-31/502400"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-31/567544"
     },
     {
       "_id": "30",
       "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-30/502399"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-30/567543"
     },
     {
       "_id": "29",
       "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-29/502398"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-29/567542"
     },
     {
       "_id": "28",
       "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-28/502397"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-28/567541"
     },
     {
       "_id": "27",
       "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-27/502396"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-27/567540"
     },
     {
       "_id": "26",
       "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-26/502395"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-26/567539"
     },
     {
       "_id": "25",
       "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-25/502394"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-25/567538"
     },
     {
       "_id": "24",
       "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-24/502393"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-24/567537"
     },
     {
       "_id": "23",
       "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-23/502392"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-23/567536"
     },
     {
       "_id": "22",
       "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-22/502391"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-22/567535"
     },
     {
       "_id": "21",
       "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-21/502390"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-21/567534"
     },
     {
       "_id": "20",
       "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-20/502389"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-20/567533"
     },
     {
       "_id": "19",
       "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-19/502388"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-19/567532"
     },
     {
       "_id": "18",
       "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-18/502387"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-18/567531"
     },
     {
       "_id": "17",
       "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-17/502386"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-17/567530"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-16/502385"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-16/567529"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-15/502384"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-15/567528"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-14/502383"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-14/567527"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-13/502382"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-13/567526"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-12/502381"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-12/567525"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-11/502380"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-11/567524"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-10/502379"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-10/567523"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-9/502378"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-9/567522"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-8/502377"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-8/567521"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-7/502376"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-7/567520"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-6/502375"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-6/567519"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-5/502374"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-5/567518"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-4/497332"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-4/567517"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-3/496793"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-3/567516"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-2/484285"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-2/567515"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ngao-thi-thien-dia/chap-1/478756"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trung-sinh-ma-ton-long-quyen/chap-1/556929"
     },
     {
       "_id": "549",
