@@ -2,35 +2,37 @@ extends ../layOut/homeComeon
 
 block conten
 	.loader.loader-black.loader-1(id="fixeds")
-	.meau_mobi(id="showMeau")
-		i.fas.fa-ellipsis-v
+	
 	.show_meau(id="mobie_on")
 		i.fas.fa-times
 		ul
 			li 
-				a(href="/") Home
+				a(href="/") Trang Chủ
 			li 
-				a(href="/bangxephang") Bang xep hang
+				a(href="/bangxephang") Bảng xếp hạng
 			li 
 				a(href="/congai") Con gái thích
 			li 
-				a(href="") Goo
+				a(href="") Theo dõi
 	.wapper_home.not(id="fixed")
-	
+		.nav_bar_menu.fixed-top
+			.meau_mobi(id="showMeau")
+				i.fas.fa-ellipsis-v
+			.wapper_meau
+				.meau_nav
+					ul
+						li 
+							a(href="/") Trang Chủ
+						li 
+							a(href="/bangxephang") Bảng xếp hạng
+						li 
+							a(href="/congai") Con gái thích
+						li 
+							a(href="") Theo dõi
 		.herder_img
 			.wapper_baner
 				.img_baner
-		.wapper_meau
-			.meau_nav
-				ul
-					li 
-						a(href="/") Home
-					li 
-						a(href="/bangxephang") Bang xep hang
-					li 
-						a(href="/congai") Con gái thích
-					li 
-						a(href="") Goo
+		
 		.container-fluid(style="background:#f7f9fb; padding-top:48px;")
 			.row
 				.col-12

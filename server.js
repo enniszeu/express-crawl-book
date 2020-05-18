@@ -7,6 +7,10 @@ const cheerio = require("cheerio");
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const Post = require('./models/post.models');
+var session = require('express-session');
+
+
+app.use(session({ secret: 'keyboard cat', cookie: { maxAge: 60000 }}))
 
 const requestsHome = require('./requests/requestsHome');
 const requestsXephang = require('./requests/requestsXephang');
@@ -102,21 +106,38 @@ app.get('/', (req, res)=>{
 
 
 
+app.get('/addTemview', function(req, res){
+    // const items = db.get('posts').find({ id: parseInt(id) }).value()
+    // const url = items.linkHome
+    // req.session = "ghg"
+    console.log(req.session.temiew)
+
+})
+
 
 app.get('/post/:id', function(req, res){
     const id = req.params.id
     const items = db.get('posts').find({ id: parseInt(id) }).value()
     const url = items.linkHome
 
-
+    
 
     requestsPostView(url,id)
     var viewsItems = db.get('views').value()
+
+    req.session.temiew = [
+        {
+            url: url,
+            img: viewsItems[0].imgView,
+            like: '4550'
+        }
+    ]
     
     res.render('pageView/viewPage',{
     	viewsItems:viewsItems,
     	id:id,
-    	_id:items.id
+    	_id:items.id,
+        url:url
 	})
     
 })

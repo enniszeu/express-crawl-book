@@ -116,7 +116,7 @@ body{
     top: 14px;   
 } 
 .loader-1 { animation-name: loader1; top: 40%;
-    left: 31%;
+    left: 44%;
     position: absolute; }
 @keyframes loader1 {
     from { transform: scale(0); opacity: 1; }
