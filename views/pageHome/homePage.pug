@@ -144,7 +144,8 @@ block conten
 				return sessionStorage.getItem(name) || '';
 			}
 			showMeau();
-			setTimeout(reload, 500);
+			//- setTimeout(reload, 500);
+			reload();
 			$(".owl-carousel").owlCarousel({
 			  autoplay: false,
 			  autoplayTimeout: 5000,
