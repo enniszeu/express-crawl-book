@@ -74,15 +74,15 @@ app.post('/addBook', (req, res, next)=>{
     newUser.save()
         .then(() => res.json('User add'))
         .catch(err => res.status(400).json('Err: ' + err));
-    console.log(newUser)
-
 })
+
+
 
 app.get('/search/zon/:id', function(req, res){
 
     Post.findById(req.params.id)
         .then(posts => {
-            console.log(posts.linkHome)
+          
             requestsPostView(posts.linkHome,req.params.id)
 
             var viewsItems = db.get('views').value()
@@ -264,70 +264,6 @@ app.get('/congai', function(req, res){
     })
     
 })
-
-
-//saerch
-
-
-
-// app.get('/search', function(req, res){
-
-//  // for (let i = 1; i < 9; i++) {
-//  request(`http://truyenqq.com/top-thang/trang-3.html`, (err,
-//      res, html) =>{
-//      if(!err && res.statusCode == 200){
-//          const $ = cheerio.load(html)
-//          // db.get('homeConGai').remove().write()
-
-//          $('.list-stories li .story-item').each((i, el)=>{
-//              const imageHome = $(el)
-//                  .find('a img')
-//                  .attr('data-src')
-
-//              const nameHome = $(el)
-//                  .find('h3 a')
-//                  .text()
-
-//              const linkHome = $(el)
-//                  .find('a')
-//                  .attr('href')
-
-//              const status = "true"
-//              const newUser = new Post({imageHome,nameHome,linkHome,status})
-//              console.log(newUser)
-//              newUser.save()
-                
-//          })
-
-//      }
-//  })
-// // }
-
-//     // res.render('pageSearch/SearchPage')
-    
-// })
-
-// app.get('/reset', function(req, res){
-//  Post.find()
-//         .then(posts => {
-//          console.log(posts.status)
-
-//         })
-//         .catch(err => res.status(400).json('Err :' + err))
-//  // res.json('reset oke')
-// })
-
-// app.get('/addTemview', function(req, res){
-//     // const items = db.get('posts').find({ id: parseInt(id) }).value()
-//     // const url = items.linkHome
-//     // req.session = "ghg"
-//     console.log(req.session.temiew)
-
-// })
-
-
-
-
 
 app.listen(port, function(){
     console.log("hey,babe tuan" + port)
