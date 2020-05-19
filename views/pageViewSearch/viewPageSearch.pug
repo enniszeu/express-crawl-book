@@ -102,7 +102,7 @@ block conten
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
 			setTimeout(function(){ fixed.classList.remove('not') }, 1000);
-			setTimeout(function(){ fixed.classList.add('nots') }, 2500);
+			setTimeout(function(){ fixed.classList.add('nots') }, 1000);
 			setTimeout(function(){ fixeds.classList.add('not') }, 1000);
 			function showMeaus(){
 				console.log("hh")
@@ -134,6 +134,6 @@ block conten
 			function getStorage(name){
 				return sessionStorage.getItem(name) || '';
 			}
-			setTimeout(reload, 500);
+			setTimeout(reload, 100);
 
 
