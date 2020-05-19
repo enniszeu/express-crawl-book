@@ -2,7 +2,7 @@ const request = require("request");
 const cheerio = require("cheerio");
 const db = require('.././db');
 
-requestsHome=()=>{
+requestsHome=(req, res,next)=>{
 	request('http://www.nettruyen.com/', (err,
 		res, html) =>{
 		if(!err && res.statusCode == 200){
@@ -44,6 +44,7 @@ requestsHome=()=>{
 
 		}
 	})
+	next();
 }
 
 

@@ -53,8 +53,6 @@ app.get('/search', (req, res)=>{
         res.render('pageSearch/SearchPage', {posts : matching})
     })
     .catch(err => res.status(400).json("Err :" + err));
-
-
 })
 
 app.get('/addBook', (req, res)=>{
@@ -78,28 +76,28 @@ app.post('/addBook', (req, res, next)=>{
 
 
 
-app.get('/search/zon/:id', function(req, res){
+app.get('/search/zon/:id', (req, res, next)=> {
 
     Post.findById(req.params.id)
         .then(posts => {
-          
             requestsPostView(posts.linkHome,req.params.id)
-
-            var viewsItems = db.get('views').value()
-
-            res.render('pageViewSearch/viewPageSearch',{
-                viewsItems:viewsItems,
-                id:req.params.id,
-                url:posts.linkHome
-            })
+            next()
         })
         .catch(err => res.status(400).json('Err :' + err))
+}, (req, res, next)=> {
+    var viewsItems = db.get('views').value()
+
+    res.render('pageViewSearch/viewPageSearch',{
+        viewsItems:viewsItems,
+        id:viewsItems[0].id
+    })
 })
 
 
-app.get('/', (req, res)=>{
 
-	requestsHome;
+app.get('/',requestsHome, (req, res, next)=>{
+
+	// requestsHome;
 	requestsXephang;
 	requestsConGai;
     
@@ -117,31 +115,22 @@ app.get('/', (req, res)=>{
 
 
 
-app.get('/post/:id', function(req, res){
+app.get('/post/:id', function(req, res, next){
     const id = req.params.id
     const items = db.get('posts').find({ id: parseInt(id) }).value()
     const url = items.linkHome
 
-    
-
     requestsPostView(url,id)
+    next()
+    
+}, (req, res, next)=> {
+
     var viewsItems = db.get('views').value()
 
-    // req.session.temiew = [
-    //     {
-    //         url: url,
-    //         img: viewsItems[0].imgView,
-    //         like: '4550'
-    //     }
-    // ]
-    
     res.render('pageView/viewPage',{
-    	viewsItems:viewsItems,
-    	id:id,
-    	_id:items.id,
-        url:url
-	})
-    
+        viewsItems:viewsItems,
+        id: viewsItems[0].id
+    })
 })
 
 

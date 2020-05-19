@@ -2,14 +2,126 @@
   "posts": [
     {
       "id": 1,
+      "imageHome": "http://st.truyenchon.com/data/comics/227/em-gai-dung-lam-phien-toi.jpg",
+      "nameHome": "Em Gái Đừng Làm Phiền Tôi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/em-gai-dung-lam-phien-toi-28131",
+      "chapHome": "Chapter 25",
+      "chapTime": "1 phút trướ"
+    },
+    {
+      "id": 2,
+      "imageHome": "http://st.truyenchon.com/data/comics/7/crimson-karma.jpg",
+      "nameHome": "Crimson Karma",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/crimson-karma-29191",
+      "chapHome": "Chapter 4",
+      "chapTime": "6 phút trướ"
+    },
+    {
+      "id": 3,
+      "imageHome": "http://st.truyenchon.com/data/comics/82/nu-hoang-gia-dao.jpg",
+      "nameHome": "Nữ Hoàng Giá Đáo",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nu-hoang-gia-dao-20562",
+      "chapHome": "Chapter 46",
+      "chapTime": "30 phút trư"
+    },
+    {
+      "id": 4,
+      "imageHome": "http://st.truyenchon.com/data/comics/202/coi-nguon-anh-sang.jpg",
+      "nameHome": "Cội nguồn ánh sáng",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/coi-nguon-anh-sang-17866",
+      "chapHome": "Chapter 25",
+      "chapTime": "41 phút trư"
+    },
+    {
+      "id": 5,
+      "imageHome": "http://st.truyenchon.com/data/comics/124/vi-hon-the-tong-tai-tuyet-sac-cua-toi.jpg",
+      "nameHome": "Vị Hôn Thê Tổng Tài Tuyệt Sắc Của Tôi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/vi-hon-the-tong-tai-tuyet-sac-cua-toi-18300",
+      "chapHome": "Chapter 120",
+      "chapTime": "59 phút trư"
+    },
+    {
+      "id": 6,
+      "imageHome": "http://st.truyenchon.com/data/comics/120/nguoi-nguyen-thuy-manh-nhat.jpg",
+      "nameHome": "Người Nguyên Thủy Mạnh Nhất",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguoi-nguyen-thuy-manh-nhat-26744",
+      "chapHome": "Chapter 26",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 7,
+      "imageHome": "http://st.truyenchon.com/data/comics/58/cung-chieu-dao-phi.jpg",
+      "nameHome": "Cưng Chiều Đào Phi",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cung-chieu-dao-phi-16698",
+      "chapHome": "Chapter 97",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 8,
+      "imageHome": "http://st.truyenchon.com/data/comics/176/mat-the-thuong-lang.jpg",
+      "nameHome": "Mạt Thế Thương Lang",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/mat-the-thuong-lang-28080",
+      "chapHome": "Chapter 21",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 9,
+      "imageHome": "http://st.truyenchon.com/data/comics/56/thiet-lap-nhan-vat-daddy-cua-toi-bi-sup-441.jpg",
+      "nameHome": "Thiết Lập Nhân Vật Daddy của Tôi Bị Sụp Đổ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/thiet-lap-nhan-vat-daddy-cua-toi-bi-sup-do-30008",
+      "chapHome": "Chapter 0",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 10,
+      "imageHome": "http://st.truyenchon.com/data/comics/112/y-hau-le-thien.jpg",
+      "nameHome": "Y Hậu Lệ Thiên",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/y-hau-le-thien-28528",
+      "chapHome": "Chapter 22",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 11,
+      "imageHome": "http://st.truyenchon.com/data/comics/44/koko-wa-ore-ni-makasete-saki-ni-ike-to-i-6414.png",
+      "nameHome": "Koko Wa Ore Ni Makasete Saki Ni Ike To Itte Kara 10 Nen Ga Tattara Densetsu Ni Natteita",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita-24620",
+      "chapHome": "Chapter 7.2",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 12,
+      "imageHome": "http://st.truyenchon.com/data/comics/141/moriking.jpg",
+      "nameHome": "Moriking",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/moriking-28813",
+      "chapHome": "Chapter 4",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 13,
+      "imageHome": "http://st.truyenchon.com/data/comics/21/isekai-de-slow-life-wo.jpeg",
+      "nameHome": "Isekai de Slow Life wo",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/isekai-de-slow-life-wo-26901",
+      "chapHome": "Chapter 9",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 14,
+      "imageHome": "http://st.truyenchon.com/data/comics/149/don-phuong-375.jpg",
+      "nameHome": "Đơn Phương 37,5",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/don-phuong-375-21909",
+      "chapHome": "Chapter 17",
+      "chapTime": "1 giờ trước"
+    },
+    {
+      "id": 15,
       "imageHome": "http://st.truyenchon.com/data/comics/48/dagashi-kashi.jpg",
       "nameHome": "Dagashi Kashi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/dagashi-kashi-9264",
       "chapHome": "Chapter 71",
-      "chapTime": "7 phút trướ"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 2,
+      "id": 16,
       "imageHome": "http://st.truyenchon.com/data/comics/190/kiem-do.jpg",
       "nameHome": "Kiếm Đồ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/kiem-do-26046",
@@ -17,499 +129,317 @@
       "chapTime": "7 ngày trướ"
     },
     {
-      "id": 3,
+      "id": 17,
       "imageHome": "http://st.truyenchon.com/data/comics/157/orient.jpg",
       "nameHome": "Orient",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/orient-18589",
       "chapHome": "Chapter 87",
-      "chapTime": "9 phút trướ"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 4,
+      "id": 18,
       "imageHome": "http://st.truyenchon.com/data/comics/30/tong-tai-daddy-duoi-toi-noi-roi.jpg",
       "nameHome": "Tổng Tài Daddy Đuổi Tới Nơi Rồi",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/tong-tai-daddy-duoi-toi-noi-roi-29726",
       "chapHome": "Chapter 21",
-      "chapTime": "17 phút trư"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 5,
+      "id": 19,
       "imageHome": "http://st.truyenchon.com/data/comics/87/het-nhu-han-quang-gap-nang-gat.jpg",
       "nameHome": "Hệt Như Hàn Quang Gặp Nắng Gắt",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/het-nhu-han-quang-gap-nang-gat-28247",
       "chapHome": "Chapter 64",
-      "chapTime": "21 phút trư"
+      "chapTime": "2 giờ trước"
     },
     {
-      "id": 6,
+      "id": 20,
       "imageHome": "http://st.truyenchon.com/data/comics/92/vua-trom-mo.jpg",
       "nameHome": "Vua Trộm mộ",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/vua-trom-mo-23900",
       "chapHome": "Chapter 110",
-      "chapTime": "4 giờ trước"
+      "chapTime": "6 giờ trước"
     },
     {
-      "id": 7,
+      "id": 21,
       "imageHome": "http://st.truyenchon.com/data/comics/61/vuong-gia-khong-nen-a.jpg",
       "nameHome": "Vương Gia ! Không nên a !",
       "linkHome": "http://www.nettruyen.com/truyen-tranh/vuong-gia-khong-nen-a-14653",
       "chapHome": "Chapter 281",
-      "chapTime": "34 phút trư"
-    },
-    {
-      "id": 8,
-      "imageHome": "http://st.truyenchon.com/data/comics/151/dua-mami-ve-nha.jpg",
-      "nameHome": "Đưa mami về nhà",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha-26263",
-      "chapHome": "Chapter 109",
-      "chapTime": "52 phút trư"
-    },
-    {
-      "id": 9,
-      "imageHome": "http://st.truyenchon.com/data/comics/165/danberu-na-kiro-moteru.jpg",
-      "nameHome": "Danberu na kiro moteru",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/danberu-na-kiro-moteru-14501",
-      "chapHome": "Chapter 29",
-      "chapTime": "58 phút trư"
-    },
-    {
-      "id": 10,
-      "imageHome": "http://st.truyenchon.com/data/comics/126/the-gamer.jpg",
-      "nameHome": "Thế Giới Game Thủ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/the-gioi-game-thu-4478",
-      "chapHome": "Chapter 327",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 11,
-      "imageHome": "http://st.truyenchon.com/data/comics/41/tho-san-quy.jpg",
-      "nameHome": "Thợ Săn Quỷ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tho-san-quy-20265",
-      "chapHome": "Chapter 68",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 12,
-      "imageHome": "http://st.truyenchon.com/data/comics/168/xuyen-khong-tro-thanh-mami-phan-dien.jpg",
-      "nameHome": "Xuyên không trở thành mami phản diện",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/xuyen-khong-tro-thanh-mami-phan-dien-29608",
-      "chapHome": "Chapter 19",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 13,
-      "imageHome": "http://st.truyenchon.com/data/comics/11/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg",
-      "nameHome": "Chọc tức vợ yêu mua một tặng một",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot-25355",
-      "chapHome": "Chapter 105",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 14,
-      "imageHome": "http://st.truyenchon.com/data/comics/94/nghich-lan.jpg",
-      "nameHome": "Nghịch Lân",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nghich-lan-26206",
-      "chapHome": "Chapter 63",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 15,
-      "imageHome": "http://st.truyenchon.com/data/comics/242/girls-und-panzer-ribbon-no-musha.jpg",
-      "nameHome": "Girls und Panzer: Ribbon no Musha",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/girls-und-panzer-ribbon-no-musha-27634",
-      "chapHome": "Chapter 25",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 16,
-      "imageHome": "http://st.truyenchon.com/data/comics/24/yeu-toi-deu-chet-ca-di.jpg",
-      "nameHome": "Yêu Tôi Đều Chết Cả Đi!",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-toi-deu-chet-ca-di-23064",
-      "chapHome": "Chapter 95",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 17,
-      "imageHome": "http://st.truyenchon.com/data/comics/124/vi-hon-the-tong-tai-tuyet-sac-cua-toi.jpg",
-      "nameHome": "Vị Hôn Thê Tổng Tài Tuyệt Sắc Của Tôi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/vi-hon-the-tong-tai-tuyet-sac-cua-toi-18300",
-      "chapHome": "Chapter 114",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 18,
-      "imageHome": "http://st.truyenchon.com/data/comics/162/nhat-pham-cao-thu.jpg",
-      "nameHome": "Nhất Phẩm Cao Thủ",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-pham-cao-thu-19618",
-      "chapHome": "Chapter 28",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 19,
-      "imageHome": "http://st.truyenchon.com/data/comics/188/dai-quan-gia-la-ma-hoang.jpg",
-      "nameHome": "Đại Quản Gia Là Ma Hoàng",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-quan-gia-la-ma-hoang-21948",
-      "chapHome": "Chapter 42",
-      "chapTime": "1 giờ trước"
-    },
-    {
-      "id": 20,
-      "imageHome": "http://st.truyenchon.com/data/comics/250/tuyet-pham-y-thanh.jpg",
-      "nameHome": "Tuyệt Phẩm Y Thánh",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tuyet-pham-y-thanh-26618",
-      "chapHome": "Chapter 26",
-      "chapTime": "2 giờ trước"
-    },
-    {
-      "id": 21,
-      "imageHome": "http://st.truyenchon.com/data/comics/235/cuu-trung-tu.jpg",
-      "nameHome": "Cửu Trùng Tử",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/cuu-trung-tu-16107",
-      "chapHome": "Chapter 45",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 22,
-      "imageHome": "http://st.truyenchon.com/data/comics/229/chien-dinh.jpg",
-      "nameHome": "Chiến Đỉnh",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/chien-dinh-21989",
-      "chapHome": "Chapter 75",
+      "imageHome": "http://st.truyenchon.com/data/comics/151/dua-mami-ve-nha.jpg",
+      "nameHome": "Đưa mami về nhà",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha-26263",
+      "chapHome": "Chapter 109",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 23,
-      "imageHome": "http://st.truyenchon.com/data/comics/210/chi-ton-trong-sinh.jpg",
-      "nameHome": "Chí Tôn Trọng Sinh",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/chi-ton-trong-sinh-27858",
-      "chapHome": "Chapter 37",
+      "imageHome": "http://st.truyenchon.com/data/comics/165/danberu-na-kiro-moteru.jpg",
+      "nameHome": "Danberu na kiro moteru",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/danberu-na-kiro-moteru-14501",
+      "chapHome": "Chapter 29",
       "chapTime": "2 giờ trước"
     },
     {
       "id": 24,
-      "imageHome": "http://st.truyenchon.com/data/comics/225/phong-kham-kinh-di.jpg",
-      "nameHome": "Phòng Khám Kinh Dị",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/phong-kham-kinh-di-26593",
-      "chapHome": "Chapter 45",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/126/the-gamer.jpg",
+      "nameHome": "Thế Giới Game Thủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/the-gioi-game-thu-4478",
+      "chapHome": "Chapter 327",
+      "chapTime": "3 giờ trước"
     },
     {
       "id": 25,
-      "imageHome": "http://st.truyenchon.com/data/comics/226/cuc-pham-yeu-nghiet.jpg",
-      "nameHome": "Cực Phẩm Yêu Nghiệt",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/cuc-pham-yeu-nghiet-27874",
-      "chapHome": "Chapter 64",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/41/tho-san-quy.jpg",
+      "nameHome": "Thợ Săn Quỷ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tho-san-quy-20265",
+      "chapHome": "Chapter 68",
+      "chapTime": "3 giờ trước"
     },
     {
       "id": 26,
-      "imageHome": "http://st.truyenchon.com/data/comics/133/soredemo-ayumu-wa-yosetekuru.jpeg",
-      "nameHome": "Soredemo Ayumu wa Yosetekuru",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/soredemo-ayumu-wa-yosetekuru-21381",
-      "chapHome": "Chapter 55",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/168/xuyen-khong-tro-thanh-mami-phan-dien.jpg",
+      "nameHome": "Xuyên không trở thành mami phản diện",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/xuyen-khong-tro-thanh-mami-phan-dien-29608",
+      "chapHome": "Chapter 19",
+      "chapTime": "3 giờ trước"
     },
     {
       "id": 27,
-      "imageHome": "http://st.truyenchon.com/data/comics/152/kinh-hoa-thuong.jpg",
-      "nameHome": "Kính Hoa Thương",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kinh-hoa-thuong-25752",
-      "chapHome": "Chapter 19",
-      "chapTime": "2 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/11/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg",
+      "nameHome": "Chọc tức vợ yêu mua một tặng một",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot-25355",
+      "chapHome": "Chapter 105",
+      "chapTime": "3 giờ trước"
     },
     {
       "id": 28,
-      "imageHome": "http://st.truyenchon.com/data/comics/115/nguu-thu-cung-ung-thuong.jpg",
-      "nameHome": "Ngưu Thư Cung Ứng Thương",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nguu-thu-cung-ung-thuong-23155",
-      "chapHome": "Chapter 158",
+      "imageHome": "http://st.truyenchon.com/data/comics/94/nghich-lan.jpg",
+      "nameHome": "Nghịch Lân",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nghich-lan-26206",
+      "chapHome": "Chapter 63",
       "chapTime": "3 giờ trước"
     },
     {
       "id": 29,
-      "imageHome": "http://st.truyenchon.com/data/comics/227/lanh-cung-phe-hau-muon-nghich-thien.jpg",
-      "nameHome": "Lãnh Cung Phế Hậu Muốn Nghịch Thiên",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/lanh-cung-phe-hau-muon-nghich-thien-21475",
-      "chapHome": "Chapter 157",
+      "imageHome": "http://st.truyenchon.com/data/comics/242/girls-und-panzer-ribbon-no-musha.jpg",
+      "nameHome": "Girls und Panzer: Ribbon no Musha",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/girls-und-panzer-ribbon-no-musha-27634",
+      "chapHome": "Chapter 25",
       "chapTime": "3 giờ trước"
     },
     {
       "id": 30,
-      "imageHome": "http://st.truyenchon.com/data/comics/90/reincarnated-as-a-dragons-egg-lets-aim-t-6022.jpg",
-      "nameHome": "Reincarnated as a Dragon's Egg - Let's Aim to be the Strongest,",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/reincarnated-as-a-dragons-egg-lets-aim-to-be-the-strongest-22362",
-      "chapHome": "Chapter 13",
+      "imageHome": "http://st.truyenchon.com/data/comics/24/yeu-toi-deu-chet-ca-di.jpg",
+      "nameHome": "Yêu Tôi Đều Chết Cả Đi!",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/yeu-toi-deu-chet-ca-di-23064",
+      "chapHome": "Chapter 95",
       "chapTime": "3 giờ trước"
     },
     {
       "id": 31,
-      "imageHome": "http://st.truyenchon.com/data/comics/78/nhat-ky-bao-thu-cua-thien-kim-hai-mat.jpg",
-      "nameHome": "Nhật Ký Báo Thù Của Thiên Kim Hai Mặt",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-ky-bao-thu-cua-thien-kim-hai-mat-24142",
-      "chapHome": "Chapter 53",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/162/nhat-pham-cao-thu.jpg",
+      "nameHome": "Nhất Phẩm Cao Thủ",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/nhat-pham-cao-thu-19618",
+      "chapHome": "Chapter 28",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 32,
-      "imageHome": "http://st.truyenchon.com/data/comics/28/kieu-sung-y-phi.jpg",
-      "nameHome": "Kiêu Sủng Y Phi",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/kieu-sung-y-phi-19484",
-      "chapHome": "Chapter 152",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/188/dai-quan-gia-la-ma-hoang.jpg",
+      "nameHome": "Đại Quản Gia Là Ma Hoàng",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-quan-gia-la-ma-hoang-21948",
+      "chapHome": "Chapter 42",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 33,
-      "imageHome": "http://st.truyenchon.com/data/comics/200/my-home-hero.jpg",
-      "nameHome": "My Home Hero",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/my-home-hero-23240",
-      "chapHome": "Chapter 21",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/250/tuyet-pham-y-thanh.jpg",
+      "nameHome": "Tuyệt Phẩm Y Thánh",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/tuyet-pham-y-thanh-26618",
+      "chapHome": "Chapter 26",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 34,
-      "imageHome": "http://st.truyenchon.com/data/comics/180/the-childrens-teacher-mr-kwon.jpg",
-      "nameHome": "The Children's Teacher, Mr. Kwon",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/the-childrens-teacher-mr-kwon-180",
-      "chapHome": "Chapter 39",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/235/cuu-trung-tu.jpg",
+      "nameHome": "Cửu Trùng Tử",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/cuu-trung-tu-16107",
+      "chapHome": "Chapter 45",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 35,
-      "imageHome": "http://st.truyenchon.com/data/comics/109/tuyet-dinh-khi-thieu.jpg",
-      "nameHome": "Tuyệt Đỉnh Khí Thiếu",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/tuyet-dinh-khi-thieu-29805",
-      "chapHome": "Chapter 10",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/229/chien-dinh.jpg",
+      "nameHome": "Chiến Đỉnh",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/chien-dinh-21989",
+      "chapHome": "Chapter 75",
+      "chapTime": "4 giờ trước"
     },
     {
       "id": 36,
-      "imageHome": "http://st.truyenchon.com/data/comics/180/dai-chua-te.jpg",
-      "nameHome": "Đại chúa tể",
-      "linkHome": "http://www.nettruyen.com/truyen-tranh/dai-chua-te-4276",
-      "chapHome": "Chapter 163",
-      "chapTime": "3 giờ trước"
+      "imageHome": "http://st.truyenchon.com/data/comics/210/chi-ton-trong-sinh.jpg",
+      "nameHome": "Chí Tôn Trọng Sinh",
+      "linkHome": "http://www.nettruyen.com/truyen-tranh/chi-ton-trong-sinh-27858",
+      "chapHome": "Chapter 37",
+      "chapTime": "4 giờ trước"
     }
   ],
   "views": [
     {
-      "id": "5ec2d6f5614dbb00178f3ecf",
-      "nameView": "Độc Phi Thần Y Quá Kiêu Ngạo",
-      "imgView": "http://st.truyenchon.com/data/comics/33/doc-phi-than-y-qua-kieu-ngao.jpg",
-      "dataView": "\n        [Cập nhật lúc: 08:32 18/06/2019]\n     ",
+      "id": "5ec2d73f614dbb00178f3ed0",
+      "nameView": "Ta Nấu - Chàng Giết",
+      "imgView": "http://st.truyenchon.com/data/comics/48/ta-nau-chang-giet.jpg",
+      "dataView": "\n        [Cập nhật lúc: 15:42 26/04/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Chuyển Sinh - Cổ Đại - Manhua - Romance - Truyện Màu",
-      "noiDung": "khi thần y vô song tuyệt thế trọng sinh làm sài nữ đại lục kỳ ảo, vì thay “nàng” trả thù, đã mở ra một mặt của hệ thống, cô ấy vừa thu thập các tinh linh để trợ giúp cho mình, vừa luyện đan để nâng cấp quái thú, cũng chinh phục luôn người đàn ông quyền lực nhất đại lục kỳ ảo, từ đó thế sự nhân sinh đổi sang một trang mới, tiếu ngạo thương khung!"
+      "theLoai": "Cổ Đại - Manhua - Romance - Truyện Màu",
+      "noiDung": ""
     },
     {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-42/478834"
+      "_id": "28 ",
+      "chapter": "Chapter 28 ♡29",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-28/561816"
     },
     {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-41/478830"
+      "_id": "27 ",
+      "chapter": "Chapter 27 ♡27",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-27/561545"
     },
     {
-      "_id": "40 ",
-      "chapter": "Chapter 40 ( bão 4))",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-40/478539"
-    },
-    {
-      "_id": "39 ",
-      "chapter": "Chapter 39 ( BÃO 3)",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-39/478521"
-    },
-    {
-      "_id": "38 ",
-      "chapter": "Chapter 38 ( bão 2)",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-38/478421"
-    },
-    {
-      "_id": "37 ",
-      "chapter": "Chapter 37 ( bão 1)",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-37/478408"
-    },
-    {
-      "_id": "36 ",
-      "chapter": "Chapter 36 ( bão giật cấp 4)",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-36/478259"
-    },
-    {
-      "_id": "35 ",
-      "chapter": "Chapter 35 ( bão giật cấp 2)",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-35/478260"
-    },
-    {
-      "_id": "34",
-      "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-34/478192"
-    },
-    {
-      "_id": "33",
-      "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-33/478162"
-    },
-    {
-      "_id": "32",
-      "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-32/478126"
-    },
-    {
-      "_id": "31",
-      "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-31/478127"
-    },
-    {
-      "_id": "30",
-      "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-30/478128"
-    },
-    {
-      "_id": "29",
-      "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-29/478129"
-    },
-    {
-      "_id": "28",
-      "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-28/478130"
-    },
-    {
-      "_id": "27",
-      "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-27/478131"
-    },
-    {
-      "_id": "26",
-      "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-26/478132"
+      "_id": "26 ",
+      "chapter": "Chapter 26 ♡",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-26/561248"
     },
     {
       "_id": "25",
       "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-25/478133"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-25/561249"
     },
     {
       "_id": "24",
       "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-24/478134"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-24/561250"
     },
     {
       "_id": "23",
       "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-23/478135"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-23/536150"
     },
     {
       "_id": "22",
       "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-22/478136"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-22/536004"
     },
     {
       "_id": "21",
       "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-21/478137"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-21/536005"
     },
     {
       "_id": "20",
       "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-20/478138"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-20/535556"
     },
     {
-      "_id": "19.",
-      "chapter": "Chapter 19.1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-19.1/478139"
+      "_id": "19",
+      "chapter": "Chapter 19",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-19/497230"
     },
     {
       "_id": "18",
       "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-18/477940"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-18/495546"
     },
     {
       "_id": "17",
       "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-17/477925"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-17/494145"
     },
     {
       "_id": "16",
       "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-16/477858"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-16/493194"
     },
     {
       "_id": "15",
       "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-15/477852"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-15/492104"
     },
     {
       "_id": "14",
       "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-14/477853"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-14/491702"
     },
     {
       "_id": "13",
       "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-13/477835"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-13/491354"
     },
     {
       "_id": "12",
       "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-12/477836"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-12/488819"
     },
     {
       "_id": "11",
       "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-11/477837"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-11/487615"
     },
     {
       "_id": "10",
       "chapter": "Chapter 10",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-10/477825"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-10/486566"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-9/477807"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-9/485583"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-8/477808"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-8/485155"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-7/477809"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-7/484912"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-6/477810"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-6/484693"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-5/477425"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-5/484692"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-4/477426"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-4/484691"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-3/477401"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-3/484690"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-2/477403"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-2/484689"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/doc-phi-than-y-qua-kieu-ngao/chap-1/471891"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/ta-nau-chang-giet/chap-1/484688"
     },
     {
       "_id": "550",
@@ -932,565 +862,1075 @@
   ],
   "viewsXepHang": [
     {
-      "id": "28",
-      "nameView": "Chọc tức vợ yêu mua một tặng một",
-      "imgView": "http://st.truyenchon.com/data/comics/11/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg",
-      "dataView": "\n        [Cập nhật lúc: 12:32 19/05/2020]\n     ",
+      "id": "31",
+      "nameView": "A Returner's Magic Should Be Special",
+      "imgView": "http://st.truyenchon.com/data/comics/86/a-returners-magic-should-be-special.jpg",
+      "dataView": "\n        [Cập nhật lúc: 16:11 17/05/2020]\n     ",
       "tenKhac": "",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Comedy - Manhua - Ngôn Tình - Romance - Shoujo - Truyện Màu",
-      "noiDung": "Bạn trai bị cướp, cha mẹ xem thường sỉ nhục, tống cô ra nước ngoài du học không quản không hỏi tới! Tất cả mọi người đều cho rằng cô vị vứt bỏ chỉ có thể tự sinh tự diệt…. mới lạ! 5 năm sau Ninh Tịch hoa lệ quay về, cùng với tổng tài bá đạo Lục Đình Kiêu viết một đoạn nhân duyên hoan hỷ, vợ chồng liên thủ giẫm tất cả kẻ thù dưới chân! Cùng xem con đường ảnh hậu truyền kì của cựu lính đánh thuê Ninh Tịch! Cải biên từ tiểu thuyết [Cho em muôn trượng hào quang]"
+      "theLoai": "Action - Chuyển Sinh - Fantasy - Manhwa - Truyện Màu",
+      "noiDung": "Đại khái là thanh niên nghèo vượt khó, tuy không được đào tạo bài bản nhưng lại có khả năng gánh team. có điều chết vì quả thưởng bonus. Main nhà ta được hồi sinh và cho một cơ hội thay đổi. Liệu main có khả năng lập Harem và trở thành quí sờ tộc để được sức mạnh thay đổi tương lai của mình :))) mà đọc cái tiêu đề thì khỏi đoán ha :))) LOLLL"
     },
     {
-      "_id": "105",
-      "chapter": "Chapter 105",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-105/570800"
+      "_id": "202",
+      "chapter": "Chapter 202",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-202/570166"
     },
     {
-      "_id": "104",
-      "chapter": "Chapter 104",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-104/570218"
+      "_id": "201",
+      "chapter": "Chapter 201",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-201/569954"
     },
     {
-      "_id": "103",
-      "chapter": "Chapter 103",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-103/569919"
+      "_id": "200",
+      "chapter": "Chapter 200",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-200/564163"
     },
     {
-      "_id": "102",
-      "chapter": "Chapter 102",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-102/568481"
+      "_id": "199",
+      "chapter": "Chapter 199",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-199/564162"
     },
     {
-      "_id": "101",
-      "chapter": "Chapter 101",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-101/567479"
+      "_id": "198",
+      "chapter": "Chapter 198",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-198/564161"
     },
     {
-      "_id": "100",
-      "chapter": "Chapter 100",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-100/565132"
+      "_id": "197",
+      "chapter": "Chapter 197",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-197/564160"
     },
     {
-      "_id": "99",
-      "chapter": "Chapter 99",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-99/564890"
+      "_id": "196",
+      "chapter": "Chapter 196",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-196/563939"
     },
     {
-      "_id": "98",
-      "chapter": "Chapter 98",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-98/564620"
+      "_id": "195",
+      "chapter": "Chapter 195",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-195/563388"
     },
     {
-      "_id": "97",
-      "chapter": "Chapter 97",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-97/564216"
+      "_id": "194",
+      "chapter": "Chapter 194",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-194/563089"
     },
     {
-      "_id": "96",
-      "chapter": "Chapter 96",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-96/563473"
+      "_id": "193",
+      "chapter": "Chapter 193",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-193/562905"
     },
     {
-      "_id": "95",
-      "chapter": "Chapter 95",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-95/562681"
+      "_id": "192",
+      "chapter": "Chapter 192",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-192/555494"
     },
     {
-      "_id": "94",
-      "chapter": "Chapter 94",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-94/562147"
+      "_id": "191",
+      "chapter": "Chapter 191",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-191/555493"
     },
     {
-      "_id": "93",
-      "chapter": "Chapter 93",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-93/561572"
+      "_id": "190",
+      "chapter": "Chapter 190",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-190/555492"
     },
     {
-      "_id": "92",
-      "chapter": "Chapter 92",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-92/560854"
+      "_id": "189",
+      "chapter": "Chapter 189",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-189/555491"
     },
     {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-91/560171"
+      "_id": "188",
+      "chapter": "Chapter 188",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-188/555490"
     },
     {
-      "_id": "90",
-      "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-90/559091"
+      "_id": "187",
+      "chapter": "Chapter 187",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-187/555489"
     },
     {
-      "_id": "89",
-      "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-89/558362"
+      "_id": "186",
+      "chapter": "Chapter 186",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-186/555488"
     },
     {
-      "_id": "88",
-      "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-88/557328"
+      "_id": "185",
+      "chapter": "Chapter 185",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-185/555487"
     },
     {
-      "_id": "87",
-      "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-87/556861"
+      "_id": "184",
+      "chapter": "Chapter 184",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-184/547072"
     },
     {
-      "_id": "86",
-      "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-86/556238"
+      "_id": "183",
+      "chapter": "Chapter 183",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-183/547071"
     },
     {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-85/555985"
+      "_id": "182",
+      "chapter": "Chapter 182",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-182/547070"
     },
     {
-      "_id": "84",
-      "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-84/555026"
+      "_id": "181",
+      "chapter": "Chapter 181",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-181/547069"
     },
     {
-      "_id": "83",
-      "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-83/553902"
+      "_id": "180",
+      "chapter": "Chapter 180",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-180/547068"
     },
     {
-      "_id": "82",
-      "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-82/553452"
+      "_id": "179",
+      "chapter": "Chapter 179",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-179/547067"
     },
     {
-      "_id": "81",
-      "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-81/553086"
+      "_id": "178",
+      "chapter": "Chapter 178",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-178/540565"
     },
     {
-      "_id": "80",
-      "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-80/552577"
+      "_id": "177",
+      "chapter": "Chapter 177",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-177/540564"
     },
     {
-      "_id": "79",
-      "chapter": "Chapter 79",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-79/552071"
+      "_id": "176",
+      "chapter": "Chapter 176",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-176/540563"
     },
     {
-      "_id": "78",
-      "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-78/551068"
+      "_id": "175",
+      "chapter": "Chapter 175",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-175/540562"
     },
     {
-      "_id": "77",
-      "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-77/550403"
+      "_id": "174",
+      "chapter": "Chapter 174",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-174/540561"
     },
     {
-      "_id": "76",
-      "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-76/549463"
+      "_id": "173",
+      "chapter": "Chapter 173",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-173/540560"
     },
     {
-      "_id": "75",
-      "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-75/548019"
+      "_id": "172",
+      "chapter": "Chapter 172",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-172/539836"
     },
     {
-      "_id": "74",
-      "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-74/545779"
+      "_id": "171",
+      "chapter": "Chapter 171",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-171/539835"
     },
     {
-      "_id": "73",
-      "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-73/545587"
+      "_id": "170",
+      "chapter": "Chapter 170",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-170/539834"
     },
     {
-      "_id": "72",
-      "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-72/544191"
+      "_id": "169",
+      "chapter": "Chapter 169",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-169/539833"
     },
     {
-      "_id": "71",
-      "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-71/543731"
+      "_id": "168",
+      "chapter": "Chapter 168",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-168/539832"
     },
     {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-70/542090"
+      "_id": "167",
+      "chapter": "Chapter 167",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-167/539831"
     },
     {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-69/541789"
+      "_id": "166",
+      "chapter": "Chapter 166",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-166/535008"
     },
     {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-68/541593"
+      "_id": "165",
+      "chapter": "Chapter 165",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-165/535007"
     },
     {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-67/541279"
+      "_id": "164",
+      "chapter": "Chapter 164",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-164/533332"
     },
     {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-66/540768"
+      "_id": "163",
+      "chapter": "Chapter 163",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-163/533331"
     },
     {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-65/540287"
+      "_id": "162",
+      "chapter": "Chapter 162",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-162/533330"
     },
     {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-64/540038"
+      "_id": "161",
+      "chapter": "Chapter 161",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-161/533329"
     },
     {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-63/539728"
+      "_id": "160",
+      "chapter": "Chapter 160",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-160/526402"
     },
     {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-62/538555"
+      "_id": "159",
+      "chapter": "Chapter 159",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-159/526401"
     },
     {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-61/538333"
+      "_id": "158",
+      "chapter": "Chapter 158",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-158/526400"
     },
     {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-60/538069"
+      "_id": "157",
+      "chapter": "Chapter 157",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-157/526399"
     },
     {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-59/535720"
+      "_id": "156",
+      "chapter": "Chapter 156",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-156/525978"
     },
     {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-58/534986"
+      "_id": "155",
+      "chapter": "Chapter 155",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-155/525977"
     },
     {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-57/534395"
+      "_id": "154",
+      "chapter": "Chapter 154",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-154/525976"
     },
     {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-56/533760"
+      "_id": "153",
+      "chapter": "Chapter 153",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-153/525975"
     },
     {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-55/533247"
+      "_id": "152",
+      "chapter": "Chapter 152",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-152/525686"
     },
     {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-54/532799"
+      "_id": "151",
+      "chapter": "Chapter 151",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-151/525685"
     },
     {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-53/532289"
+      "_id": "150",
+      "chapter": "Chapter 150",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-150/525684"
     },
     {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-52/531593"
+      "_id": "149",
+      "chapter": "Chapter 149",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-149/525683"
     },
     {
-      "_id": "51",
-      "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-51/531131"
+      "_id": "148",
+      "chapter": "Chapter 148",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-148/520317"
     },
     {
-      "_id": "50",
-      "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-50/530534"
+      "_id": "147",
+      "chapter": "Chapter 147",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-147/520316"
     },
     {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-49/529956"
+      "_id": "146",
+      "chapter": "Chapter 146",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-146/520315"
     },
     {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-48/529214"
+      "_id": "145",
+      "chapter": "Chapter 145",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-145/520314"
     },
     {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-47/528662"
+      "_id": "144",
+      "chapter": "Chapter 144",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-144/520313"
     },
     {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-46/528069"
+      "_id": "143",
+      "chapter": "Chapter 143",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-143/520312"
     },
     {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-45/527728"
+      "_id": "142",
+      "chapter": "Chapter 142",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-142/520311"
     },
     {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-44/527145"
+      "_id": "141",
+      "chapter": "Chapter 141",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-141/520310"
     },
     {
-      "_id": "43",
-      "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-43/526798"
+      "_id": "140",
+      "chapter": "Chapter 140",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-140/520309"
     },
     {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-42/526325"
+      "_id": "139",
+      "chapter": "Chapter 139",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-139/520308"
     },
     {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-41/525612"
+      "_id": "138",
+      "chapter": "Chapter 138",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-138/484195"
     },
     {
-      "_id": "40",
-      "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-40/525075"
+      "_id": "137",
+      "chapter": "Chapter 137",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-137/484194"
     },
     {
-      "_id": "39",
-      "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-39/524888"
+      "_id": "136",
+      "chapter": "Chapter 136",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-136/484193"
     },
     {
-      "_id": "38",
-      "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-38/523698"
+      "_id": "135",
+      "chapter": "Chapter 135",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-135/484192"
     },
     {
-      "_id": "37",
-      "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-37/523062"
+      "_id": "134",
+      "chapter": "Chapter 134",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-134/484191"
     },
     {
-      "_id": "36",
-      "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-36/522839"
+      "_id": "133",
+      "chapter": "Chapter 133",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-133/484190"
     },
     {
-      "_id": "35",
-      "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-35/522502"
+      "_id": "132",
+      "chapter": "Chapter 132",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-132/484164"
     },
     {
-      "_id": "34",
-      "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-34/522133"
+      "_id": "131",
+      "chapter": "Chapter 131",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-131/484156"
     },
     {
-      "_id": "33",
-      "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-33/522120"
+      "_id": "130",
+      "chapter": "Chapter 130",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-130/477287"
     },
     {
-      "_id": "32",
-      "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-32/521550"
+      "_id": "129",
+      "chapter": "Chapter 129",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-129/477286"
     },
     {
-      "_id": "31",
-      "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-31/520389"
+      "_id": "128",
+      "chapter": "Chapter 128",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-128/474480"
     },
     {
-      "_id": "30",
-      "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-30/519252"
+      "_id": "127",
+      "chapter": "Chapter 127",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-127/474479"
     },
     {
-      "_id": "29",
-      "chapter": "Chapter 29",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-29/519063"
+      "_id": "126",
+      "chapter": "Chapter 126",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-126/474478"
     },
     {
-      "_id": "28",
-      "chapter": "Chapter 28",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-28/517811"
+      "_id": "125",
+      "chapter": "Chapter 125",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-125/474477"
     },
     {
-      "_id": "27",
-      "chapter": "Chapter 27",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-27/516764"
+      "_id": "124",
+      "chapter": "Chapter 124",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-124/473564"
     },
     {
-      "_id": "26",
-      "chapter": "Chapter 26",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-26/516392"
+      "_id": "123",
+      "chapter": "Chapter 123",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-123/473563"
     },
     {
-      "_id": "25",
-      "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-25/514999"
+      "_id": "122",
+      "chapter": "Chapter 122",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-122/466609"
     },
     {
-      "_id": "24",
-      "chapter": "Chapter 24",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-24/514571"
+      "_id": "121",
+      "chapter": "Chapter 121",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-121/466655"
     },
     {
-      "_id": "23",
-      "chapter": "Chapter 23",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-23/513250"
+      "_id": "120",
+      "chapter": "Chapter 120",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-120/466654"
     },
     {
-      "_id": "22",
-      "chapter": "Chapter 22",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-22/512829"
+      "_id": "119",
+      "chapter": "Chapter 119",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-119/466653"
     },
     {
-      "_id": "21",
-      "chapter": "Chapter 21",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-21/511969"
+      "_id": "118",
+      "chapter": "Chapter 118",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-118/465592"
     },
     {
-      "_id": "20",
-      "chapter": "Chapter 20",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-20/511887"
+      "_id": "117",
+      "chapter": "Chapter 117",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-117/465591"
     },
     {
-      "_id": "19",
-      "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-19/510934"
+      "_id": "116",
+      "chapter": "Chapter 116",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-116/460915"
     },
     {
-      "_id": "18",
-      "chapter": "Chapter 18",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-18/510762"
+      "_id": "115",
+      "chapter": "Chapter 115",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-115/460914"
     },
     {
-      "_id": "17",
-      "chapter": "Chapter 17",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-17/510429"
+      "_id": "114",
+      "chapter": "Chapter 114",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-114/460913"
     },
     {
-      "_id": "16",
-      "chapter": "Chapter 16",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-16/509933"
+      "_id": "113",
+      "chapter": "Chapter 113",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-113/460912"
     },
     {
-      "_id": "15",
-      "chapter": "Chapter 15",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-15/509739"
+      "_id": "112",
+      "chapter": "Chapter 112",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-112/457757"
     },
     {
-      "_id": "14",
-      "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-14/509331"
+      "_id": "111",
+      "chapter": "Chapter 111",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-111/457872"
     },
     {
-      "_id": "13",
-      "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-13/509086"
-    },
-    {
-      "_id": "12",
-      "chapter": "Chapter 12",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-12/508790"
-    },
-    {
-      "_id": "11",
-      "chapter": "Chapter 11",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-11/508537"
-    },
-    {
-      "_id": "10 ",
-      "chapter": "Chapter 10 Ngoại truyện",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-10/508282"
-    },
-    {
-      "_id": "9",
-      "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-9/508128"
-    },
-    {
-      "_id": "8",
-      "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-8/507936"
-    },
-    {
-      "_id": "7",
-      "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-7/507583"
-    },
-    {
-      "_id": "6",
-      "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-6/507002"
-    },
-    {
-      "_id": "5",
-      "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-5/506795"
-    },
-    {
-      "_id": "4",
-      "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-4/506618"
-    },
-    {
-      "_id": "3",
-      "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-3/506439"
-    },
-    {
-      "_id": "2",
-      "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-2/506171"
-    },
-    {
-      "_id": "1",
-      "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/choc-tuc-vo-yeu-mua-mot-tang-mot/chap-1/505857"
-    },
-    {
-      "_id": "550",
-      "chapter": "Chapter 550",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/vo-luyen-dinh-phong/chap-550/570730"
-    },
-    {
-      "_id": "387",
-      "chapter": "Chapter 387",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien/chap-387/570002"
+      "_id": "110",
+      "chapter": "Chapter 110",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-110/457871"
     },
     {
       "_id": "109",
       "chapter": "Chapter 109",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/dua-mami-ve-nha/chap-109/570805"
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-109/457870"
+    },
+    {
+      "_id": "108",
+      "chapter": "Chapter 108",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-108/453277"
+    },
+    {
+      "_id": "107",
+      "chapter": "Chapter 107",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-107/453276"
+    },
+    {
+      "_id": "106",
+      "chapter": "Chapter 106",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-106/453275"
+    },
+    {
+      "_id": "105",
+      "chapter": "Chapter 105",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-105/453274"
+    },
+    {
+      "_id": "104",
+      "chapter": "Chapter 104",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-104/450758"
+    },
+    {
+      "_id": "103",
+      "chapter": "Chapter 103",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-103/450949"
+    },
+    {
+      "_id": "102",
+      "chapter": "Chapter 102",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-102/448191"
+    },
+    {
+      "_id": "101",
+      "chapter": "Chapter 101",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-101/448063"
+    },
+    {
+      "_id": "100",
+      "chapter": "Chapter 100",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-100/447976"
+    },
+    {
+      "_id": "99",
+      "chapter": "Chapter 99",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-99/448041"
+    },
+    {
+      "_id": "98",
+      "chapter": "Chapter 98",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-98/443413"
+    },
+    {
+      "_id": "97",
+      "chapter": "Chapter 97",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-97/443412"
+    },
+    {
+      "_id": "96",
+      "chapter": "Chapter 96",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-96/443411"
+    },
+    {
+      "_id": "95",
+      "chapter": "Chapter 95",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-95/443410"
+    },
+    {
+      "_id": "94",
+      "chapter": "Chapter 94",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-94/443408"
+    },
+    {
+      "_id": "93 ",
+      "chapter": "Chapter 93 Raw",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-93/443407"
+    },
+    {
+      "_id": "92",
+      "chapter": "Chapter 92",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-92/443406"
+    },
+    {
+      "_id": "91",
+      "chapter": "Chapter 91",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-91/443405"
+    },
+    {
+      "_id": "90",
+      "chapter": "Chapter 90",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-90/443404"
+    },
+    {
+      "_id": "89",
+      "chapter": "Chapter 89",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-89/443403"
+    },
+    {
+      "_id": "88",
+      "chapter": "Chapter 88",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-88/443402"
+    },
+    {
+      "_id": "87",
+      "chapter": "Chapter 87",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-87/443401"
+    },
+    {
+      "_id": "86",
+      "chapter": "Chapter 86",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-86/439341"
+    },
+    {
+      "_id": "85",
+      "chapter": "Chapter 85",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-85/439362"
+    },
+    {
+      "_id": "84",
+      "chapter": "Chapter 84",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-84/439361"
+    },
+    {
+      "_id": "83",
+      "chapter": "Chapter 83",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-83/439360"
+    },
+    {
+      "_id": "82",
+      "chapter": "Chapter 82",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-82/439359"
+    },
+    {
+      "_id": "81",
+      "chapter": "Chapter 81",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-81/439358"
+    },
+    {
+      "_id": "80",
+      "chapter": "Chapter 80",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-80/439357"
+    },
+    {
+      "_id": "79",
+      "chapter": "Chapter 79",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-79/439356"
+    },
+    {
+      "_id": "78",
+      "chapter": "Chapter 78",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-78/436300"
+    },
+    {
+      "_id": "77",
+      "chapter": "Chapter 77",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-77/436299"
+    },
+    {
+      "_id": "76",
+      "chapter": "Chapter 76",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-76/436298"
+    },
+    {
+      "_id": "75",
+      "chapter": "Chapter 75",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-75/436297"
+    },
+    {
+      "_id": "74",
+      "chapter": "Chapter 74",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-74/436296"
+    },
+    {
+      "_id": "73",
+      "chapter": "Chapter 73",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-73/436295"
+    },
+    {
+      "_id": "72",
+      "chapter": "Chapter 72",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-72/436294"
+    },
+    {
+      "_id": "71",
+      "chapter": "Chapter 71",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-71/436293"
+    },
+    {
+      "_id": "70",
+      "chapter": "Chapter 70",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-70/436292"
+    },
+    {
+      "_id": "69",
+      "chapter": "Chapter 69",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-69/436291"
+    },
+    {
+      "_id": "68",
+      "chapter": "Chapter 68",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-68/435274"
+    },
+    {
+      "_id": "67",
+      "chapter": "Chapter 67",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-67/435273"
+    },
+    {
+      "_id": "66",
+      "chapter": "Chapter 66",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-66/435272"
+    },
+    {
+      "_id": "65",
+      "chapter": "Chapter 65",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-65/435271"
+    },
+    {
+      "_id": "64",
+      "chapter": "Chapter 64",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-64/435270"
+    },
+    {
+      "_id": "63",
+      "chapter": "Chapter 63",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-63/435269"
+    },
+    {
+      "_id": "62",
+      "chapter": "Chapter 62",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-62/435268"
+    },
+    {
+      "_id": "61",
+      "chapter": "Chapter 61",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-61/435267"
+    },
+    {
+      "_id": "60",
+      "chapter": "Chapter 60",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-60/435266"
+    },
+    {
+      "_id": "59",
+      "chapter": "Chapter 59",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-59/435265"
+    },
+    {
+      "_id": "58",
+      "chapter": "Chapter 58",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-58/435113"
+    },
+    {
+      "_id": "57",
+      "chapter": "Chapter 57",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-57/435112"
+    },
+    {
+      "_id": "56",
+      "chapter": "Chapter 56",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-56/435111"
+    },
+    {
+      "_id": "55",
+      "chapter": "Chapter 55",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-55/435110"
+    },
+    {
+      "_id": "54",
+      "chapter": "Chapter 54",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-54/435109"
+    },
+    {
+      "_id": "53",
+      "chapter": "Chapter 53",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-53/435108"
+    },
+    {
+      "_id": "52",
+      "chapter": "Chapter 52",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-52/435107"
+    },
+    {
+      "_id": "51",
+      "chapter": "Chapter 51",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-51/435106"
+    },
+    {
+      "_id": "50",
+      "chapter": "Chapter 50",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-50/435105"
+    },
+    {
+      "_id": "49",
+      "chapter": "Chapter 49",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-49/435104"
+    },
+    {
+      "_id": "48",
+      "chapter": "Chapter 48",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-48/434755"
+    },
+    {
+      "_id": "47",
+      "chapter": "Chapter 47",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-47/434754"
+    },
+    {
+      "_id": "46",
+      "chapter": "Chapter 46",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-46/434516"
+    },
+    {
+      "_id": "45",
+      "chapter": "Chapter 45",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-45/434515"
+    },
+    {
+      "_id": "44",
+      "chapter": "Chapter 44",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-44/434514"
+    },
+    {
+      "_id": "43",
+      "chapter": "Chapter 43",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-43/434506"
+    },
+    {
+      "_id": "42",
+      "chapter": "Chapter 42",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-42/434505"
+    },
+    {
+      "_id": "41",
+      "chapter": "Chapter 41",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-41/434504"
+    },
+    {
+      "_id": "40",
+      "chapter": "Chapter 40",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-40/434503"
+    },
+    {
+      "_id": "39",
+      "chapter": "Chapter 39",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-39/434502"
+    },
+    {
+      "_id": "38",
+      "chapter": "Chapter 38",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-38/434501"
+    },
+    {
+      "_id": "37",
+      "chapter": "Chapter 37",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-37/434500"
+    },
+    {
+      "_id": "36",
+      "chapter": "Chapter 36",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-36/434499"
+    },
+    {
+      "_id": "35",
+      "chapter": "Chapter 35",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-35/434492"
+    },
+    {
+      "_id": "34",
+      "chapter": "Chapter 34",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-34/434491"
+    },
+    {
+      "_id": "33",
+      "chapter": "Chapter 33",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-33/434490"
+    },
+    {
+      "_id": "32",
+      "chapter": "Chapter 32",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-32/434489"
+    },
+    {
+      "_id": "31",
+      "chapter": "Chapter 31",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-31/434488"
+    },
+    {
+      "_id": "30",
+      "chapter": "Chapter 30",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-30/434219"
+    },
+    {
+      "_id": "29",
+      "chapter": "Chapter 29",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-29/434218"
+    },
+    {
+      "_id": "28",
+      "chapter": "Chapter 28",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-28/434217"
+    },
+    {
+      "_id": "27",
+      "chapter": "Chapter 27",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-27/434216"
+    },
+    {
+      "_id": "26",
+      "chapter": "Chapter 26",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-26/433709"
+    },
+    {
+      "_id": "25",
+      "chapter": "Chapter 25",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-25/433708"
+    },
+    {
+      "_id": "24",
+      "chapter": "Chapter 24",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-24/433707"
+    },
+    {
+      "_id": "23",
+      "chapter": "Chapter 23",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-23/433706"
+    },
+    {
+      "_id": "22",
+      "chapter": "Chapter 22",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-22/433705"
+    },
+    {
+      "_id": "21",
+      "chapter": "Chapter 21",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-21/433704"
+    },
+    {
+      "_id": "20",
+      "chapter": "Chapter 20",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-20/433703"
+    },
+    {
+      "_id": "19",
+      "chapter": "Chapter 19",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-19/433702"
+    },
+    {
+      "_id": "18",
+      "chapter": "Chapter 18",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-18/433701"
+    },
+    {
+      "_id": "17",
+      "chapter": "Chapter 17",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-17/433700"
+    },
+    {
+      "_id": "16",
+      "chapter": "Chapter 16",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-16/433699"
+    },
+    {
+      "_id": "15",
+      "chapter": "Chapter 15",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-15/433698"
+    },
+    {
+      "_id": "14",
+      "chapter": "Chapter 14",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-14/433697"
+    },
+    {
+      "_id": "13",
+      "chapter": "Chapter 13",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-13/433696"
+    },
+    {
+      "_id": "12",
+      "chapter": "Chapter 12",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-12/433695"
+    },
+    {
+      "_id": "11",
+      "chapter": "Chapter 11",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-11/433694"
+    },
+    {
+      "_id": "10",
+      "chapter": "Chapter 10",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-10/433693"
+    },
+    {
+      "_id": "9",
+      "chapter": "Chapter 9",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-9/433692"
+    },
+    {
+      "_id": "8",
+      "chapter": "Chapter 8",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-8/427949"
+    },
+    {
+      "_id": "7",
+      "chapter": "Chapter 7",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-7/427417"
+    },
+    {
+      "_id": "6",
+      "chapter": "Chapter 6",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-6/426997"
+    },
+    {
+      "_id": "5 -",
+      "chapter": "Chapter 5 - trên đường đua!!",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-5/426959"
+    },
+    {
+      "_id": "4",
+      "chapter": "Chapter 4",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-4/433691"
+    },
+    {
+      "_id": "3",
+      "chapter": "Chapter 3",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-3/426511"
+    },
+    {
+      "_id": "2",
+      "chapter": "Chapter 2",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-2/425988"
+    },
+    {
+      "_id": "1",
+      "chapter": "Chapter 1",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/a-returners-magic-should-be-special/chap-1/425756"
+    },
+    {
+      "_id": "550",
+      "chapter": "Chapter 550",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/vo-luyen-dinh-phong/chap-550/570730"
+    },
+    {
+      "_id": "387",
+      "chapter": "Chapter 387",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/trong-sinh-do-thi-tu-tien/chap-387/570002"
+    },
+    {
+      "_id": "109",
+      "chapter": "Chapter 109",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/dua-mami-ve-nha/chap-109/570805"
     },
     {
       "_id": "566",
       "chapter": "Chapter 566",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/bach-luyen-thanh-than/chap-566/569726"
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/bach-luyen-thanh-than/chap-566/569726"
     },
     {
       "_id": "238",
       "chapter": "Chapter 238",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/co-vo-hop-dong-bo-tron-cua-tong-giam-doc/chap-238/569578"
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/co-vo-hop-dong-bo-tron-cua-tong-giam-doc/chap-238/569578"
+    },
+    {
+      "_id": "205",
+      "chapter": "Chapter 205",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/thanh-guom-diet-quy/chap-205/568987"
+    },
+    {
+      "_id": "521",
+      "chapter": "Chapter 521",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/thong-linh-phi/chap-521/570692"
+    },
+    {
+      "_id": "312",
+      "chapter": "Chapter 312",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/do-thi-cuc-pham-y-tien/chap-312/567484"
+    },
+    {
+      "_id": "511",
+      "chapter": "Chapter 511",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/toan-chuc-phap-su/chap-511/569357"
+    },
+    {
+      "_id": "64",
+      "chapter": "Chapter 64",
+      "chapterHref": "http://nhattruyen.com/truyen-tranh/het-nhu-han-quang-gap-nang-gat/chap-64/570807"
     }
   ],
   "chapsXephang": [
