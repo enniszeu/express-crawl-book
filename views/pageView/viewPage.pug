@@ -14,7 +14,7 @@ block conten
 				a(href="/congai") Con gái thích
 			li 
 				a(href="/addTemview") Theo dõi
-	.wapper_home.not(id="fixed" style="opacity: 0; transition: 0.5s;")
+	.wapper_home.not(id="fixed")
 		.nav_bar_menu.fixed-top
 			.meau_mobi(id="showMeau")
 				i.fas.fa-ellipsis-v
@@ -102,7 +102,6 @@ block conten
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
 			setTimeout(function(){ fixed.classList.remove('not') }, 1000);
-			setTimeout(function(){ fixed.classList.add('nots') }, 2500);
 			setTimeout(function(){ fixeds.classList.add('not') }, 1000);
 			function showMeaus(){
 				console.log("hh")
@@ -118,26 +117,27 @@ block conten
 		//- 	var value = document.getElementById("value").value
 		//- 	console.log(id)
 		//- }
-		function reload(){
-			if(
-				getStorage('loaded') == '' 
-				|| getStorage('loaded') == '0'
-			){
-				setStorage('loaded', '1');
-				window.location.reload();
-				return true;
-			}else{
-				setStorage('loaded', '0');
-				return true;
-			}
-		}
-		function setStorage(name, value){
-			return sessionStorage.setItem(name, value);
-		}
-		function getStorage(name){
-			return sessionStorage.getItem(name) || '';
-		}
+	
+		//- function reload(){
+		//- 	if(
+		//- 		getStorage('loaded') == '' 
+		//- 		|| getStorage('loaded') == '0'
+		//- 	){
+		//- 		setStorage('loaded', '1');
+		//- 		window.location.reload();
+		//- 		return true;
+		//- 	}else{
+		//- 		setStorage('loaded', '0');
+		//- 		return true;
+		//- 	}
+		//- }
+		//- function setStorage(name, value){
+		//- 	return sessionStorage.setItem(name, value);
+		//- }
+		//- function getStorage(name){
+		//- 	return sessionStorage.getItem(name) || '';
+		//- }
 		showMeau();
-		setTimeout(reload, 500);
+		//- setTimeout(reload, 500);
 
 

@@ -17,7 +17,7 @@ block conten
 				a(href="") Help
 			li 
 				a(href="") Goo
-	.wapper_home.not(id="fixed" style="opacity: 0; transition: 0.5s;")
+	.wapper_home.not(id="fixed")
 	
 		.herder_img(id="ab")
 			.wapper_baner
@@ -75,7 +75,6 @@ block conten
 			show.addEventListener("click", showMeaus)
 			meauOn.addEventListener("click", closeMeau)
 			setTimeout(function(){ fixed.classList.remove('not') }, 1500);
-			setTimeout(function(){ fixed.classList.add('nots') }, 2000);
 			setTimeout(function(){ fixeds.classList.add('not') }, 1500);
 			function showMeaus(){
 				console.log("hh")
@@ -86,28 +85,8 @@ block conten
 				meauOn.style.left = "-310px"
 				fixed.classList.remove('of')
 			}
-		}
-		function reload(){
-			if(
-				getStorage('loaded') == '' 
-				|| getStorage('loaded') == '0'
-			){
-				setStorage('loaded', '1');
-				window.location.reload();
-				return true;
-			}else{
-				setStorage('loaded', '0');
-				return true;
-			}
-		}
-		function setStorage(name, value){
-			return sessionStorage.setItem(name, value);
-		}
-		function getStorage(name){
-			return sessionStorage.getItem(name) || '';
-		}
+		}		
 		showMeau();
-		setTimeout(reload, 1000);
 		var scroll1 = window.pageYOffset;
 		window.onscroll = function(){
 		var scroll2 = window.pageYOffset;

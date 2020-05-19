@@ -56,10 +56,11 @@ app.get('/search', (req, res)=>{
 })
 
 app.get('/addBook', (req, res)=>{
-    
     res.render("addBook/addBook")
 
 })
+
+
 
 app.post('/addBook', (req, res, next)=>{
     
@@ -95,18 +96,15 @@ app.get('/search/zon/:id', (req, res, next)=> {
 
 
 
-app.get('/',requestsHome, (req, res, next)=>{
+app.get('/',requestsHome,requestsXephang,requestsConGai, (req, res, next)=>{
 
-	// requestsHome;
-	requestsXephang;
-	requestsConGai;
-    
-    res.render('pageHome/homePage',{
-    	db:db.get('posts').value(),
-    	homeXephang:db.get('homeXephang').value(),
-    	homeConGai:db.get('homeConGai').value()
-    })
-
+    setTimeout(function(){ 
+        res.render('pageHome/homePage',{
+            db:db.get('posts').value(),
+            homeXephang:db.get('homeXephang').value(),
+            homeConGai:db.get('homeConGai').value()
+        })
+    }, 2000);
 })
 
 
@@ -124,50 +122,60 @@ app.get('/post/:id', function(req, res, next){
     next()
     
 }, (req, res, next)=> {
-
+    
     var viewsItems = db.get('views').value()
 
-    res.render('pageView/viewPage',{
-        viewsItems:viewsItems,
-        id: viewsItems[0].id
-    })
+    setTimeout(function(){ 
+        res.render('pageView/viewPage',{
+            viewsItems:viewsItems,
+            id: viewsItems[0].id
+        })
+    }, 2000);
+
+
 })
 
 
 
-app.get('/post/xephang/:id', function(req, res){
+app.get('/post/xephang/:id', function(req, res, next){
     const id = req.params.id
     const items = db.get('homeXephang').find({ id: parseInt(id) }).value()
     const url = items.linkHome
-    const viewsXepHang = db.get('viewsXepHang').value()
-
 
     requestPostViewXep(url,id)
+    next()
+}, (req, res, next)=> {
     
-    res.render('pageViewXepHang/ViewXepHangPage',{
-    	viewsXepHang:viewsXepHang,
-    	id:id,
-    	_id:items.id
-    })
-    
+    const viewsXepHang = db.get('viewsXepHang').value()
+
+    setTimeout(function(){ 
+        res.render('pageViewXepHang/ViewXepHangPage',{
+            viewsXepHang:viewsXepHang,
+            id:viewsXepHang[0].id
+        })
+    }, 2000);
+
 })
 
-app.get('/post/congai/:id', function(req, res){
+app.get('/post/congai/:id', function(req, res, next){
     
     const id = req.params.id
     const items = db.get('homeConGai').find({ id: parseInt(id) }).value()
     const url = items.linkHome
-    const viewsConGai = db.get('viewsConGai').value()
-
 
     requestViewConGai(url,id)
-
-    res.render('pageViewConGai/ViewConGaiPage',{
-    	viewsConGai:viewsConGai,
-    	id:id,
-    	_id:items.id
-    })
+    next()
+}, (req, res, next)=> {
     
+    const viewsConGai = db.get('viewsConGai').value()
+
+    setTimeout(function(){ 
+        res.render('pageViewConGai/ViewConGaiPage',{
+            viewsConGai:viewsConGai,
+            id:viewsConGai[0].id
+        })
+    }, 2000);
+
 })
 
 
@@ -178,14 +186,17 @@ app.get('/post/chapcongai/:id', function(req, res){
     const items = db.get('viewsConGai').find({ _id: _id }).value()
     const url = items.chapterHref
 
-    
-    var chapsConGai = db.get('chapsConGai').value()
     requestChapConGai(url, _id);
 
-    res.render('pageViewChapConGai/ViewChapConGaiPage',{
-    	chapsConGai:chapsConGai,
-    	_id : _id
-    })
+    var chapsConGai = db.get('chapsConGai').value()
+
+    
+    setTimeout(function(){ 
+        res.render('pageViewChapConGai/ViewChapConGaiPage',{
+            chapsConGai:chapsConGai,
+            _id : _id
+        })
+    }, 2000);  
     
 })
 
@@ -197,14 +208,16 @@ app.get('/post/chapxephang/:id', function(req, res){
     const items = db.get('viewsXepHang').find({ _id: _id }).value()
     const url = items.chapterHref
 
-    var chapsXephangItems = db.get('chapsXephang').value()
-
     requestsChapXepHang(url, _id);
     
-    res.render('pageViewChapXephang/ViewChapXephangPage',{
-    	chapsXephangItems:chapsXephangItems,
-    	_id : _id
-    })
+    var chapsXephangItems = db.get('chapsXephang').value()
+    
+    setTimeout(function(){ 
+        res.render('pageViewChapXephang/ViewChapXephangPage',{
+            chapsXephangItems:chapsXephangItems,
+            _id : _id
+        })
+    }, 2000);   
     
 })
 
@@ -215,42 +228,44 @@ app.get('/post/chap/:id', function(req, res){
     const items = db.get('views').find({ _id: _id }).value()
     const url = items.chapterHref
 
-    var chapsItems = db.get('chaps').value()
-
     resquestsChapPost(url, _id)
-    
 
-    res.render('pageViewChap/viewPageChap',{
-    	chapsItems:chapsItems,
-    	_id : _id
-    })
+    var chapsItems = db.get('chaps').value()
     
+    setTimeout(function(){ 
+        res.render('pageViewChap/viewPageChap',{
+            chapsItems:chapsItems,
+            _id : _id
+        }) 
+    }, 2000);   
 })
 
-app.get('/post', function(req, res){
-	requestsHome();
+app.get('/post',requestsHome, function(req, res){
 
-    res.render('pagePost/PostPage',{
-    	db:db.get('posts').value()
-    })
-    
+    setTimeout(function(){ 
+        res.render('pagePost/PostPage',{
+            db:db.get('posts').value()
+        })
+    }, 2000);
 })
 
-app.get('/bangxephang', function(req, res){
-	requestsXephang();
 
-    res.render('pageXepHang/XepHangPage',{
-    	homeXephang:db.get('homeXephang').value()
-    })
-    
+app.get('/bangxephang',requestsXephang, function(req, res, next){
+    setTimeout(function(){
+        res.render('pageXepHang/XepHangPage',{
+            homeXephang:db.get('homeXephang').value()
+        })
+    }, 2000);
 })
 
-app.get('/congai', function(req, res){
-	requestsConGai();
 
-    res.render('pageConGai/ConGaiPage',{
-    	homeConGai:db.get('homeConGai').value()
-    })
+app.get('/congai',requestsConGai, function(req, res, next){
+
+    setTimeout(function(){
+        res.render('pageConGai/ConGaiPage',{
+            homeConGai:db.get('homeConGai').value()
+        })
+    }, 2000);
     
 })
 

@@ -2,7 +2,7 @@ const request = require("request");
 const cheerio = require("cheerio");
 const db = require('.././db');
 
-requestsXephang=()=>{
+requestsXephang=(req, res, next)=>{
 	request('http://www.nettruyen.com/tim-truyen?status=-1&sort=12', (err,
 		res, html) =>{
 		if(!err && res.statusCode == 200){
@@ -45,6 +45,7 @@ requestsXephang=()=>{
 
 		}
 	})
+	next()
 }
 
 

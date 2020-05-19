@@ -2,7 +2,7 @@ const request = require("request");
 const cheerio = require("cheerio");
 const db = require('.././db');
 
-requestsConGai=()=>{
+requestsConGai=(req, res, next)=>{
 	request('http://www.nettruyen.com/truyen-con-gai', (err,
 		res, html) =>{
 		if(!err && res.statusCode == 200){
@@ -45,6 +45,7 @@ requestsConGai=()=>{
 
 		}
 	})
+	next()
 }
 
 
