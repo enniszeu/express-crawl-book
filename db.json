@@ -291,470 +291,1170 @@
   ],
   "views": [
     {
-      "id": "5ec2d5da614dbb00178f3eca",
-      "nameView": "Quy Luật Tình Yêu Ở Mạt Thế",
-      "imgView": "http://st.truyenchon.com/data/comics/103/quy-luat-tinh-yeu-o-mat-the.jpg",
-      "dataView": "\n        [Cập nhật lúc: 17:25 28/11/2019]\n     ",
-      "tenKhac": "",
+      "id": "5ec2d4c0614dbb00178f3ec5",
+      "nameView": "Cưng Chiều Vợ Yêu",
+      "imgView": "http://st.truyenchon.com/data/comics/198/cung-chieu-vo-yeu.jpg",
+      "dataView": "\n        [Cập nhật lúc: 11:21 17/05/2020]\n     ",
+      "tenKhac": "Thiên giá sủng thê: Tổng tài phu nhân đừng hòng trốn",
       "tacGia": "Đang cập nhật",
       "tinhTrang": "Đang tiến hành",
-      "theLoai": "Comedy - Manhua - Ngôn Tình - Romance - Shoujo - Truyện Màu",
-      "noiDung": "Nếu ai thích đọc thể loại: mạt thế, dị năng, trọng sinh, tùy thân không gian thì hãy nhảy hố đi nào. Ở mạt thế, cô gái mồ côi Mục Diệc Nhiên ôm nỗi hận mà chết, nào ngờ cô được trọng sinh, quay về 3 ngày trước mạt thế. Đời này tay đánh ả điếm, chân đạp nam cặn bã, nhận được không gian tích trữ vật tư, nhưng lại bất cẩn chọc phải quân thiếu..."
+      "theLoai": "Comedy - Manhua - Romance - Shoujo - Smut",
+      "noiDung": "Phòng lửa, phòng trộm, phòng bạn thân. Vậy mà Lịch Tiêm Lạc lại gặp phải chuyện máu chó này. Lấy chồng ngoài ý muốn, chồng lại là một cực phẩm sủng thê cuồng, tổng tài phu nhân tiến giai công lược, dạy em phục thù bạn trai cũ, vả mặt bạn thân"
     },
     {
-      "_id": "91",
-      "chapter": "Chapter 91",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-91/523660"
+      "_id": "233",
+      "chapter": "Chapter 233",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-233/570028"
     },
     {
-      "_id": "90",
-      "chapter": "Chapter 90",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-90/523658"
+      "_id": "232",
+      "chapter": "Chapter 232",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-232/570027"
     },
     {
-      "_id": "89",
-      "chapter": "Chapter 89",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-89/523655"
+      "_id": "231",
+      "chapter": "Chapter 231",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-231/566843"
     },
     {
-      "_id": "88",
-      "chapter": "Chapter 88",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-88/522087"
+      "_id": "230",
+      "chapter": "Chapter 230",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-230/565443"
     },
     {
-      "_id": "87",
-      "chapter": "Chapter 87",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-87/521617"
+      "_id": "229",
+      "chapter": "Chapter 229",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-229/563603"
     },
     {
-      "_id": "86",
-      "chapter": "Chapter 86",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-86/520856"
+      "_id": "228",
+      "chapter": "Chapter 228",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-228/563353"
     },
     {
-      "_id": "85",
-      "chapter": "Chapter 85",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-85/520855"
+      "_id": "227",
+      "chapter": "Chapter 227",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-227/563036"
     },
     {
-      "_id": "84",
-      "chapter": "Chapter 84",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-84/520606"
+      "_id": "226",
+      "chapter": "Chapter 226",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-226/561674"
     },
     {
-      "_id": "83",
-      "chapter": "Chapter 83",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-83/520400"
+      "_id": "225",
+      "chapter": "Chapter 225",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-225/561576"
     },
     {
-      "_id": "82",
-      "chapter": "Chapter 82",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-82/520398"
+      "_id": "224",
+      "chapter": "Chapter 224",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-224/559684"
     },
     {
-      "_id": "81",
-      "chapter": "Chapter 81",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-81/520397"
+      "_id": "223",
+      "chapter": "Chapter 223",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-223/559193"
     },
     {
-      "_id": "80",
-      "chapter": "Chapter 80",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-80/520376"
+      "_id": "222",
+      "chapter": "Chapter 222",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-222/557215"
     },
     {
-      "_id": "79",
-      "chapter": "Chapter 79",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-79/520375"
+      "_id": "221",
+      "chapter": "Chapter 221",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-221/557025"
     },
     {
-      "_id": "78",
-      "chapter": "Chapter 78",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-78/520374"
+      "_id": "220",
+      "chapter": "Chapter 220",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-220/555237"
     },
     {
-      "_id": "77",
-      "chapter": "Chapter 77",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-77/520373"
+      "_id": "219",
+      "chapter": "Chapter 219",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-219/555236"
     },
     {
-      "_id": "76",
-      "chapter": "Chapter 76",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-76/520046"
+      "_id": "218",
+      "chapter": "Chapter 218",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-218/554551"
     },
     {
-      "_id": "75",
-      "chapter": "Chapter 75",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-75/520045"
+      "_id": "217",
+      "chapter": "Chapter 217",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-217/553310"
     },
     {
-      "_id": "74",
-      "chapter": "Chapter 74",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-74/520039"
+      "_id": "216",
+      "chapter": "Chapter 216",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-216/553014"
     },
     {
-      "_id": "73",
-      "chapter": "Chapter 73",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-73/520040"
+      "_id": "215",
+      "chapter": "Chapter 215",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-215/551203"
     },
     {
-      "_id": "72",
-      "chapter": "Chapter 72",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-72/520035"
+      "_id": "214",
+      "chapter": "Chapter 214",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-214/551202"
     },
     {
-      "_id": "71",
-      "chapter": "Chapter 71",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-71/520036"
+      "_id": "213",
+      "chapter": "Chapter 213",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-213/549361"
     },
     {
-      "_id": "70",
-      "chapter": "Chapter 70",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-70/519972"
+      "_id": "212",
+      "chapter": "Chapter 212",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-212/548970"
     },
     {
-      "_id": "69",
-      "chapter": "Chapter 69",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-69/519971"
+      "_id": "211",
+      "chapter": "Chapter 211",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-211/546835"
     },
     {
-      "_id": "68",
-      "chapter": "Chapter 68",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-68/519255"
+      "_id": "210",
+      "chapter": "Chapter 210",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-210/546612"
     },
     {
-      "_id": "67",
-      "chapter": "Chapter 67",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-67/519254"
+      "_id": "209",
+      "chapter": "Chapter 209",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-209/546195"
     },
     {
-      "_id": "66",
-      "chapter": "Chapter 66",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-66/519242"
+      "_id": "208",
+      "chapter": "Chapter 208",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-208/545003"
     },
     {
-      "_id": "65",
-      "chapter": "Chapter 65",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-65/519241"
+      "_id": "207",
+      "chapter": "Chapter 207",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-207/544768"
     },
     {
-      "_id": "64",
-      "chapter": "Chapter 64",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-64/519237"
+      "_id": "206",
+      "chapter": "Chapter 206",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-206/543299"
     },
     {
-      "_id": "63",
-      "chapter": "Chapter 63",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-63/519236"
+      "_id": "205",
+      "chapter": "Chapter 205",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-205/543111"
     },
     {
-      "_id": "62",
-      "chapter": "Chapter 62",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-62/519096"
+      "_id": "204",
+      "chapter": "Chapter 204",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-204/541422"
     },
     {
-      "_id": "61",
-      "chapter": "Chapter 61",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-61/519095"
+      "_id": "203",
+      "chapter": "Chapter 203",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-203/541174"
     },
     {
-      "_id": "60",
-      "chapter": "Chapter 60",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-60/519079"
+      "_id": "202",
+      "chapter": "Chapter 202",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-202/539407"
     },
     {
-      "_id": "59",
-      "chapter": "Chapter 59",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-59/519078"
+      "_id": "201",
+      "chapter": "Chapter 201",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-201/539235"
     },
     {
-      "_id": "58",
-      "chapter": "Chapter 58",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-58/515494"
+      "_id": "200",
+      "chapter": "Chapter 200",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-200/538038"
     },
     {
-      "_id": "57",
-      "chapter": "Chapter 57",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-57/515493"
+      "_id": "199",
+      "chapter": "Chapter 199",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-199/538037"
     },
     {
-      "_id": "56",
-      "chapter": "Chapter 56",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-56/515451"
+      "_id": "198",
+      "chapter": "Chapter 198",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-198/537280"
     },
     {
-      "_id": "55",
-      "chapter": "Chapter 55",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-55/515450"
+      "_id": "197",
+      "chapter": "Chapter 197",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-197/537167"
     },
     {
-      "_id": "54",
-      "chapter": "Chapter 54",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-54/519970"
+      "_id": "196",
+      "chapter": "Chapter 196",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-196/537160"
     },
     {
-      "_id": "53",
-      "chapter": "Chapter 53",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-53/519969"
+      "_id": "195",
+      "chapter": "Chapter 195",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-195/537053"
     },
     {
-      "_id": "52",
-      "chapter": "Chapter 52",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-52/512227"
+      "_id": "194",
+      "chapter": "Chapter 194",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-194/537052"
+    },
+    {
+      "_id": "193",
+      "chapter": "Chapter 193",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-193/535404"
+    },
+    {
+      "_id": "192",
+      "chapter": "Chapter 192",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-192/535211"
+    },
+    {
+      "_id": "191",
+      "chapter": "Chapter 191",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-191/534094"
+    },
+    {
+      "_id": "190",
+      "chapter": "Chapter 190",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-190/533857"
+    },
+    {
+      "_id": "189",
+      "chapter": "Chapter 189",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-189/532527"
+    },
+    {
+      "_id": "188",
+      "chapter": "Chapter 188",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-188/532154"
+    },
+    {
+      "_id": "187",
+      "chapter": "Chapter 187",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-187/530795"
+    },
+    {
+      "_id": "186",
+      "chapter": "Chapter 186",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-186/530607"
+    },
+    {
+      "_id": "185",
+      "chapter": "Chapter 185",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-185/529105"
+    },
+    {
+      "_id": "184",
+      "chapter": "Chapter 184",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-184/528788"
+    },
+    {
+      "_id": "183",
+      "chapter": "Chapter 183",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-183/527615"
+    },
+    {
+      "_id": "182",
+      "chapter": "Chapter 182",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-182/527424"
+    },
+    {
+      "_id": "181",
+      "chapter": "Chapter 181",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-181/527423"
+    },
+    {
+      "_id": "180",
+      "chapter": "Chapter 180",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-180/525892"
+    },
+    {
+      "_id": "179",
+      "chapter": "Chapter 179",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-179/525739"
+    },
+    {
+      "_id": "178",
+      "chapter": "Chapter 178",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-178/525738"
+    },
+    {
+      "_id": "177",
+      "chapter": "Chapter 177",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-177/525737"
+    },
+    {
+      "_id": "176",
+      "chapter": "Chapter 176",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-176/525736"
+    },
+    {
+      "_id": "175",
+      "chapter": "Chapter 175",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-175/522497"
+    },
+    {
+      "_id": "174",
+      "chapter": "Chapter 174",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-174/520943"
+    },
+    {
+      "_id": "173",
+      "chapter": "Chapter 173",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-173/520683"
+    },
+    {
+      "_id": "172",
+      "chapter": "Chapter 172",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-172/519362"
+    },
+    {
+      "_id": "171",
+      "chapter": "Chapter 171",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-171/519145"
+    },
+    {
+      "_id": "170",
+      "chapter": "Chapter 170",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-170/519115"
+    },
+    {
+      "_id": "169",
+      "chapter": "Chapter 169",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-169/517734"
+    },
+    {
+      "_id": "168",
+      "chapter": "Chapter 168",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-168/517469"
+    },
+    {
+      "_id": "167",
+      "chapter": "Chapter 167",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-167/516327"
+    },
+    {
+      "_id": "166",
+      "chapter": "Chapter 166",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-166/516070"
+    },
+    {
+      "_id": "165",
+      "chapter": "Chapter 165",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-165/514712"
+    },
+    {
+      "_id": "164",
+      "chapter": "Chapter 164",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-164/514493"
+    },
+    {
+      "_id": "163",
+      "chapter": "Chapter 163",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-163/512830"
+    },
+    {
+      "_id": "162",
+      "chapter": "Chapter 162",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-162/512610"
+    },
+    {
+      "_id": "161",
+      "chapter": "Chapter 161",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-161/512523"
+    },
+    {
+      "_id": "160",
+      "chapter": "Chapter 160",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-160/510960"
+    },
+    {
+      "_id": "159",
+      "chapter": "Chapter 159",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-159/510672"
+    },
+    {
+      "_id": "158",
+      "chapter": "Chapter 158",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-158/509068"
+    },
+    {
+      "_id": "157",
+      "chapter": "Chapter 157",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-157/508869"
+    },
+    {
+      "_id": "156",
+      "chapter": "Chapter 156",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-156/507431"
+    },
+    {
+      "_id": "155",
+      "chapter": "Chapter 155",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-155/507300"
+    },
+    {
+      "_id": "154",
+      "chapter": "Chapter 154",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-154/505916"
+    },
+    {
+      "_id": "153",
+      "chapter": "Chapter 153",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-153/505483"
+    },
+    {
+      "_id": "152",
+      "chapter": "Chapter 152",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-152/503908"
+    },
+    {
+      "_id": "151",
+      "chapter": "Chapter 151",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-151/503319"
+    },
+    {
+      "_id": "150",
+      "chapter": "Chapter 150",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-150/501523"
+    },
+    {
+      "_id": "149",
+      "chapter": "Chapter 149",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-149/501322"
+    },
+    {
+      "_id": "148",
+      "chapter": "Chapter 148",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-148/499350"
+    },
+    {
+      "_id": "147",
+      "chapter": "Chapter 147",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-147/498013"
+    },
+    {
+      "_id": "146",
+      "chapter": "Chapter 146",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-146/496351"
+    },
+    {
+      "_id": "145",
+      "chapter": "Chapter 145",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-145/496350"
+    },
+    {
+      "_id": "144",
+      "chapter": "Chapter 144",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-144/494371"
+    },
+    {
+      "_id": "143",
+      "chapter": "Chapter 143",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-143/494202"
+    },
+    {
+      "_id": "142",
+      "chapter": "Chapter 142",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-142/492201"
+    },
+    {
+      "_id": "141",
+      "chapter": "Chapter 141",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-141/492174"
+    },
+    {
+      "_id": "140",
+      "chapter": "Chapter 140",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-140/490239"
+    },
+    {
+      "_id": "139",
+      "chapter": "Chapter 139",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-139/489723"
+    },
+    {
+      "_id": "138",
+      "chapter": "Chapter 138",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-138/488169"
+    },
+    {
+      "_id": "137",
+      "chapter": "Chapter 137",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-137/487528"
+    },
+    {
+      "_id": "136",
+      "chapter": "Chapter 136",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-136/485776"
+    },
+    {
+      "_id": "135",
+      "chapter": "Chapter 135",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-135/485775"
+    },
+    {
+      "_id": "134",
+      "chapter": "Chapter 134",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-134/484063"
+    },
+    {
+      "_id": "133",
+      "chapter": "Chapter 133",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-133/483609"
+    },
+    {
+      "_id": "132",
+      "chapter": "Chapter 132",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-132/482753"
+    },
+    {
+      "_id": "131",
+      "chapter": "Chapter 131",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-131/481820"
+    },
+    {
+      "_id": "130",
+      "chapter": "Chapter 130",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-130/481819"
+    },
+    {
+      "_id": "129",
+      "chapter": "Chapter 129",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-129/481818"
+    },
+    {
+      "_id": "128",
+      "chapter": "Chapter 128",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-128/481817"
+    },
+    {
+      "_id": "127",
+      "chapter": "Chapter 127",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-127/481816"
+    },
+    {
+      "_id": "126",
+      "chapter": "Chapter 126",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-126/481815"
+    },
+    {
+      "_id": "125",
+      "chapter": "Chapter 125",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-125/481814"
+    },
+    {
+      "_id": "124",
+      "chapter": "Chapter 124",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-124/481813"
+    },
+    {
+      "_id": "123",
+      "chapter": "Chapter 123",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-123/481812"
+    },
+    {
+      "_id": "122",
+      "chapter": "Chapter 122",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-122/481811"
+    },
+    {
+      "_id": "121",
+      "chapter": "Chapter 121",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-121/481810"
+    },
+    {
+      "_id": "120",
+      "chapter": "Chapter 120",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-120/481809"
+    },
+    {
+      "_id": "119",
+      "chapter": "Chapter 119",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-119/481808"
+    },
+    {
+      "_id": "118",
+      "chapter": "Chapter 118",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-118/481807"
+    },
+    {
+      "_id": "117",
+      "chapter": "Chapter 117",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-117/481806"
+    },
+    {
+      "_id": "116",
+      "chapter": "Chapter 116",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-116/481805"
+    },
+    {
+      "_id": "115",
+      "chapter": "Chapter 115",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-115/481804"
+    },
+    {
+      "_id": "114",
+      "chapter": "Chapter 114",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-114/481803"
+    },
+    {
+      "_id": "113",
+      "chapter": "Chapter 113",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-113/481802"
+    },
+    {
+      "_id": "112",
+      "chapter": "Chapter 112",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-112/481801"
+    },
+    {
+      "_id": "111",
+      "chapter": "Chapter 111",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-111/481800"
+    },
+    {
+      "_id": "110",
+      "chapter": "Chapter 110",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-110/481798"
+    },
+    {
+      "_id": "109",
+      "chapter": "Chapter 109",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-109/481797"
+    },
+    {
+      "_id": "108",
+      "chapter": "Chapter 108",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-108/481796"
+    },
+    {
+      "_id": "107",
+      "chapter": "Chapter 107",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-107/481795"
+    },
+    {
+      "_id": "106",
+      "chapter": "Chapter 106",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-106/481794"
+    },
+    {
+      "_id": "105",
+      "chapter": "Chapter 105",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-105/481793"
+    },
+    {
+      "_id": "104",
+      "chapter": "Chapter 104",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-104/481792"
+    },
+    {
+      "_id": "103",
+      "chapter": "Chapter 103",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-103/481791"
+    },
+    {
+      "_id": "102",
+      "chapter": "Chapter 102",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-102/481790"
+    },
+    {
+      "_id": "101",
+      "chapter": "Chapter 101",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-101/481789"
+    },
+    {
+      "_id": "100",
+      "chapter": "Chapter 100",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-100/481788"
+    },
+    {
+      "_id": "99",
+      "chapter": "Chapter 99",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-99/481787"
+    },
+    {
+      "_id": "98",
+      "chapter": "Chapter 98",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-98/481786"
+    },
+    {
+      "_id": "97",
+      "chapter": "Chapter 97",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-97/481785"
+    },
+    {
+      "_id": "96 ",
+      "chapter": "Chapter 96 Dọn ra ngoài",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-96/510121"
+    },
+    {
+      "_id": "95 ",
+      "chapter": "Chapter 95 Sự giúp đỡ của Tổng Thống",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-95/510122"
+    },
+    {
+      "_id": "94 ",
+      "chapter": "Chapter 94 Đánh nhau",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-94/510123"
+    },
+    {
+      "_id": "93 ",
+      "chapter": "Chapter 93 Giết người trong chớp mắt",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-93/510124"
+    },
+    {
+      "_id": "92 ",
+      "chapter": "Chapter 92 Tiệc từ thiện",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-92/510125"
+    },
+    {
+      "_id": "91 ",
+      "chapter": "Chapter 91 Oan gia ngõ hẹp",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-91/510126"
+    },
+    {
+      "_id": "90 ",
+      "chapter": "Chapter 90 Uống rượu giải sầu",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-90/510127"
+    },
+    {
+      "_id": "89 ",
+      "chapter": "Chapter 89 Xem như không khí",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-89/510128"
+    },
+    {
+      "_id": "88 ",
+      "chapter": "Chapter 88 Không còn đứa bé nữa",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-88/510129"
+    },
+    {
+      "_id": "87 ",
+      "chapter": "Chapter 87 Âm mưu độc ác",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-87/510130"
+    },
+    {
+      "_id": "86 ",
+      "chapter": "Chapter 86 Đừng quá đáng",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-86/510131"
+    },
+    {
+      "_id": "85 ",
+      "chapter": "Chapter 85 Đổi ý",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-85/510132"
+    },
+    {
+      "_id": "84 ",
+      "chapter": "Chapter 84 Năm lần",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-84/510133"
+    },
+    {
+      "_id": "83 ",
+      "chapter": "Chapter 83 Bị bỏ thuốc",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-83/510134"
+    },
+    {
+      "_id": "82 ",
+      "chapter": "Chapter 82 Lại gặp rồi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-82/510135"
+    },
+    {
+      "_id": "81 ",
+      "chapter": "Chapter 81 Trốn đi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-81/510136"
+    },
+    {
+      "_id": "79 ",
+      "chapter": "Chapter 79 Giết chết cô",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-79/510137"
+    },
+    {
+      "_id": "78 ",
+      "chapter": "Chapter 78 Cút đi cho tôi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-78/510138"
+    },
+    {
+      "_id": "77 ",
+      "chapter": "Chapter 77 Bùng nổ",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-77/510139"
+    },
+    {
+      "_id": "76 ",
+      "chapter": "Chapter 76 Lộ bí mật",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-76/510140"
+    },
+    {
+      "_id": "75 ",
+      "chapter": "Chapter 75 Vì sao không tin em",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-75/510141"
+    },
+    {
+      "_id": "74 ",
+      "chapter": "Chapter 74 Bỏ qua nhau",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-74/510142"
+    },
+    {
+      "_id": "73 ",
+      "chapter": "Chapter 73 Chuyện cũ về mèo",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-73/510143"
+    },
+    {
+      "_id": "72 ",
+      "chapter": "Chapter 72 Hôn nhân không tình yêu",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-72/510144"
+    },
+    {
+      "_id": "71 ",
+      "chapter": "Chapter 71 Diễn xuất hạng A",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-71/510145"
+    },
+    {
+      "_id": "70 ",
+      "chapter": "Chapter 70 Nuôi heo",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-70/510146"
+    },
+    {
+      "_id": "69 ",
+      "chapter": "Chapter 69 Phát phúc lợi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-69/510147"
+    },
+    {
+      "_id": "68 ",
+      "chapter": "Chapter 68 Mình ngầu thật đấy",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-68/510148"
+    },
+    {
+      "_id": "67 ",
+      "chapter": "Chapter 67 Dạy dỗ nhân viên",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-67/510149"
+    },
+    {
+      "_id": "66 ",
+      "chapter": "Chapter 66 Tôi có ông xã là được",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-66/510150"
+    },
+    {
+      "_id": "65 ",
+      "chapter": "Chapter 65 Một đống cẩu lương",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-65/510151"
+    },
+    {
+      "_id": "64 ",
+      "chapter": "Chapter 64 Mệnh lệnh của mẹ",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-64/510152"
+    },
+    {
+      "_id": "63 ",
+      "chapter": "Chapter 63 Tự mình thuê khách sạn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-63/510153"
+    },
+    {
+      "_id": "62 ",
+      "chapter": "Chapter 62 Cúp máy",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-62/510154"
+    },
+    {
+      "_id": "61 ",
+      "chapter": "Chapter 61 Không muốn gặp lại anh nữa",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-61/510155"
+    },
+    {
+      "_id": "60 ",
+      "chapter": "Chapter 60 Vị hôn thê ban đầu",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-60/510156"
+    },
+    {
+      "_id": "59 ",
+      "chapter": "Chapter 59 Thiên hậu quốc tế",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-59/510157"
+    },
+    {
+      "_id": "58 ",
+      "chapter": "Chapter 58 Ngạc nhiên",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-58/510158"
+    },
+    {
+      "_id": "57 ",
+      "chapter": "Chapter 57 Mặt lưỡi cày",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-57/510159"
+    },
+    {
+      "_id": "56 ",
+      "chapter": "Chapter 56 Đàm thuyết pháp",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-56/510160"
+    },
+    {
+      "_id": "55 ",
+      "chapter": "Chapter 55 Cạm bẫy hoa tỉ muội",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-55/510161"
+    },
+    {
+      "_id": "54 ",
+      "chapter": "Chapter 54 Quá mệt mỏi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-54/510162"
+    },
+    {
+      "_id": "52 ",
+      "chapter": "Chapter 52 Vãn Vãn gặp nạn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-52/510163"
     },
     {
       "_id": "51",
       "chapter": "Chapter 51",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-51/512226"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-51/504230"
     },
     {
       "_id": "50",
       "chapter": "Chapter 50",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-50/510644"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-50/504149"
     },
     {
-      "_id": "49",
-      "chapter": "Chapter 49",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-49/510643"
+      "_id": "49 ",
+      "chapter": "Chapter 49 Tình địch lên sàn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-49/465988"
     },
     {
-      "_id": "48",
-      "chapter": "Chapter 48",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-48/510642"
+      "_id": "48 ",
+      "chapter": "Chapter 48 Cút ra ngoài",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-48/465989"
     },
     {
-      "_id": "47",
-      "chapter": "Chapter 47",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-47/510639"
+      "_id": "47 ",
+      "chapter": "Chapter 47 Hồ ly tinh",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-47/465990"
     },
     {
-      "_id": "46",
-      "chapter": "Chapter 46",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-46/510638"
+      "_id": "46 ",
+      "chapter": "Chapter 46 Mẹ chồng đến rồi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-46/465991"
     },
     {
-      "_id": "45",
-      "chapter": "Chapter 45",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-45/509966"
+      "_id": "45 ",
+      "chapter": "Chapter 45 Công ty điện ảnh",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-45/465992"
     },
     {
-      "_id": "44",
-      "chapter": "Chapter 44",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-44/509948"
+      "_id": "44 ",
+      "chapter": "Chapter 44 Vẫn còn thời gian",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-44/465993"
     },
     {
-      "_id": "43",
-      "chapter": "Chapter 43",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-43/509454"
+      "_id": "43 ",
+      "chapter": "Chapter 43 Cô vợ chu đáo",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-43/465994"
     },
     {
-      "_id": "42",
-      "chapter": "Chapter 42",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-42/509453"
+      "_id": "42 ",
+      "chapter": "Chapter 42 Khóe miệng em dính cơm kìa",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-42/465995"
     },
     {
-      "_id": "41",
-      "chapter": "Chapter 41",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-41/509445"
+      "_id": "41 ",
+      "chapter": "Chapter 41 An bài",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-41/465996"
     },
     {
-      "_id": "40",
-      "chapter": "Chapter 40",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-40/508752"
+      "_id": "40 ",
+      "chapter": "Chapter 40 Để em chịu ấm ức rồi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-40/465997"
     },
     {
-      "_id": "39",
-      "chapter": "Chapter 39",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-39/508751"
+      "_id": "39 ",
+      "chapter": "Chapter 39 Ông xã đến rồi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-39/465998"
     },
     {
-      "_id": "38",
-      "chapter": "Chapter 38",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-38/508750"
+      "_id": "38 ",
+      "chapter": "Chapter 38 Ông già?",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-38/465999"
     },
     {
-      "_id": "37",
-      "chapter": "Chapter 37",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-37/508749"
+      "_id": "37 ",
+      "chapter": "Chapter 37 Viện binh",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-37/466000"
     },
     {
-      "_id": "36",
-      "chapter": "Chapter 36",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-36/508728"
+      "_id": "36 ",
+      "chapter": "Chapter 36 Đến để bới móc",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-36/466001"
     },
     {
-      "_id": "35",
-      "chapter": "Chapter 35",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-35/508727"
+      "_id": "35 ",
+      "chapter": "Chapter 35 Lại gặp kẻ thù",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-35/466002"
     },
     {
-      "_id": "34",
-      "chapter": "Chapter 34",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-34/508532"
+      "_id": "34 ",
+      "chapter": "Chapter 34 Thị uy",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-34/466003"
     },
     {
-      "_id": "33",
-      "chapter": "Chapter 33",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-33/508531"
+      "_id": "33 ",
+      "chapter": "Chapter 33 Tình địch",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-33/466004"
     },
     {
-      "_id": "32",
-      "chapter": "Chapter 32",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-32/505877"
+      "_id": "32 ",
+      "chapter": "Chapter 32 Có hứng thú với cô ấy",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-32/466005"
     },
     {
-      "_id": "31",
-      "chapter": "Chapter 31",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-31/505876"
+      "_id": "31 ",
+      "chapter": "Chapter 31 Soái cá siêu đẹp trai",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-31/466006"
     },
     {
-      "_id": "30",
-      "chapter": "Chapter 30",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-30/505871"
+      "_id": "30 ",
+      "chapter": "Chapter 30 Cô ấy là ai?",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-30/466007"
     },
     {
       "_id": "29 ",
-      "chapter": "Chapter 29 Anh hùng cứu mỹ nhân",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-29/502599"
+      "chapter": "Chapter 29 Xin lỗi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-29/466008"
     },
     {
       "_id": "28 ",
-      "chapter": "Chapter 28 Muốn \"làm\" cô",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-28/502335"
+      "chapter": "Chapter 28 Đến đấu một ván đi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-28/466009"
     },
     {
       "_id": "27 ",
-      "chapter": "Chapter 27 Thấu thị, nhìn xuyên thấu x3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-27/502075"
+      "chapter": "Chapter 27 Đua xe",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-27/466010"
     },
     {
       "_id": "26 ",
-      "chapter": "Chapter 26 Sờ sờ ngực",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-26/501763"
+      "chapter": "Chapter 26 Tìm đường chết",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-26/466011"
     },
     {
-      "_id": "25",
-      "chapter": "Chapter 25",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-25/501753"
+      "_id": "25 ",
+      "chapter": "Chapter 25 Phát hiện trong điện thoại",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-25/466012"
     },
     {
       "_id": "24 ",
-      "chapter": "Chapter 24 Cởi áo kiểm tra",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-24/501732"
+      "chapter": "Chapter 24 Lên xe ngay cho anh",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-24/466013"
     },
     {
       "_id": "23 ",
-      "chapter": "Chapter 23 Tra nam lại đến",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-23/501576"
+      "chapter": "Chapter 23 Hôm nay tôi xử đẹp cô",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-23/466014"
     },
     {
       "_id": "22 ",
-      "chapter": "Chapter 22 Đẩy ngã",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-22/501350"
+      "chapter": "Chapter 22 Vây kích",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-22/466015"
     },
     {
       "_id": "21 ",
-      "chapter": "Chapter 21 Mưa máu ngày tận thế",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-21/500946"
+      "chapter": "Chapter 21 Bắt quả tang tại trận",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-21/466016"
     },
     {
       "_id": "20 ",
-      "chapter": "Chapter 20 Gặp lại Quân thiếu",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-20/500673"
+      "chapter": "Chapter 20 Giáo huấn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-20/466017"
     },
     {
-      "_id": "19",
-      "chapter": "Chapter 19",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-19/500305"
+      "_id": "19 ",
+      "chapter": "Chapter 19 mập mờ đánh lận con đen",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-19/466018"
     },
     {
       "_id": "18 ",
-      "chapter": "Chapter 18 SM trói",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-18/500265"
+      "chapter": "Chapter 18 Hồi ức xinh đẹp",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-18/466019"
     },
     {
       "_id": "17 ",
-      "chapter": "Chapter 17 Đọ sức trên giường",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-17/500266"
+      "chapter": "Chapter 17 Chồng ơi, cảm ơn anh",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-17/466020"
     },
     {
       "_id": "16 ",
-      "chapter": "Chapter 16 Ban đêm đột nhập phòng con gái",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-16/500267"
+      "chapter": "Chapter 16 Một chiêu hiếm có, kiếm ăn khắp nơi",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-16/466021"
     },
     {
       "_id": "15 ",
-      "chapter": "Chapter 15 Chơi trò mèo đuổi chuột",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-15/500064"
+      "chapter": "Chapter 15 Nhịn được phải nhịn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-15/466022"
     },
     {
-      "_id": "14",
-      "chapter": "Chapter 14",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-14/499922"
+      "_id": "14 ",
+      "chapter": "Chapter 14 Lấy việc công báo thù riêng",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-14/466023"
     },
     {
-      "_id": "13",
-      "chapter": "Chapter 13",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-13/499736"
+      "_id": "13 ",
+      "chapter": "Chapter 13 Kẻ thù không đội trời chung",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-13/466024"
     },
     {
       "_id": "12 ",
-      "chapter": "Chapter 12 Bức tranh \"Quảng Hàn Song Nguyệt\"",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-12/499333"
+      "chapter": "Chapter 12 Phỏng vấn",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-12/466025"
     },
     {
-      "_id": "11 ",
-      "chapter": "Chapter 11 Khối di sản hàng tỷ",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-11/497983"
+      "_id": "11",
+      "chapter": "Chapter 11",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-11/407702"
     },
     {
-      "_id": "10 ",
-      "chapter": "Chapter 10 Một cước đá vào đũng quần",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-10/497695"
+      "_id": "10",
+      "chapter": "Chapter 10",
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-10/398794"
     },
     {
       "_id": "9",
       "chapter": "Chapter 9",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-9/497423"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-9/397163"
     },
     {
       "_id": "8",
       "chapter": "Chapter 8",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-8/497422"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-8/396342"
     },
     {
       "_id": "7",
       "chapter": "Chapter 7",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-7/497421"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-7/394598"
     },
     {
       "_id": "6",
       "chapter": "Chapter 6",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-6/497420"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-6/394045"
     },
     {
       "_id": "5",
       "chapter": "Chapter 5",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-5/497419"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-5/393435"
     },
     {
       "_id": "4",
       "chapter": "Chapter 4",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-4/497418"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-4/392424"
     },
     {
       "_id": "3",
       "chapter": "Chapter 3",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-3/497417"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-3/391934"
     },
     {
       "_id": "2",
       "chapter": "Chapter 2",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-2/497416"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-2/391592"
     },
     {
       "_id": "1",
       "chapter": "Chapter 1",
-      "chapterHref": "http://www.nettruyen.com/truyen-tranh/quy-luat-tinh-yeu-o-mat-the/chap-1/497415"
+      "chapterHref": "http://www.nettruyen.com/truyen-tranh/cung-chieu-vo-yeu/chap-1/391384"
     },
     {
       "_id": "550",
